@@ -1,0 +1,1172 @@
+[
+    {
+        "type": "heading",
+        "text": "Follow Sampo and experience \"the adult side of things\""
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "What surprises you most is that your old friend Sampo (okay, maybe friend is a strong word) happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things (in a legal way).Well, you're here now so, it couldn't hurt to try... Right?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Well... Mr. Sampo...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter3_2_firefly_226.ogg/revision/latest?cb=20240728223321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Anything bothering you, Miss Firefly?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter3_2_sampo_117.ogg/revision/latest?cb=20240728223416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Don't worry! This isn't going to involve anything illegal!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter3_2_sampo_118.ogg/revision/latest?cb=20240728223418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate pinball machine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "It takes a long time to reach the other side on foot. How about we just bounce over there using the pinball machine!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_2_sampo_119.ogg/revision/latest?cb=20240728223421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Pinball machine? ( He / She ) 's not fully acclimated to the Dreamscape yet. This could get dangerous...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter3_2_firefly_227_m.ogg/revision/latest?cb=20240728223325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Dangerous? Miss Firefly, we're in a beautiful dreamland crafted by The Family. How could it be dangerous? This is the perfect place to have some thrills!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_2_sampo_120.ogg/revision/latest?cb=20240728223423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ Come on, ( Trailblazer )! Show her what you're made of!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_2_sampo_121_m.ogg/revision/latest?cb=20240728223427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_6.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to \"Peppy Pepeshi's Salon\""
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.According to him, your destination for this journey is a salon named \"Peppy Pepeshi's Salon\" — The name must have been intentional."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate pinball machine)\n(OpenBubble Pinball (I) Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Is this... the lower level of the Commercial District?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter3_2_firefly_228.ogg/revision/latest?cb=20240728223328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Bingo. Our destination is right there — Peppy Pepeshi's Salon!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter3_2_sampo_122.ogg/revision/latest?cb=20240728223429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "This is no ordinary salon. The only guests allowed to enter are the Pepeshi people — or those with VIP cards.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_2_sampo_123.ogg/revision/latest?cb=20240728223431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "But then again, nothing is too difficult for Sampo.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter3_2_sampo_124.ogg/revision/latest?cb=20240728223433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_10.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Pepeshi Bodyguard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Here we are again, pal!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_2_sampo_125.ogg/revision/latest?cb=20240728223435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "Eh? Oh... it's you. You here to relax?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_2_pipixiA_101.ogg/revision/latest?cb=20240728223646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Right. I have two friends here who want to come with me. Any seats left inside?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter3_2_sampo_126.ogg/revision/latest?cb=20240728223437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "How many of you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_2_pipixiA_102.ogg/revision/latest?cb=20240728223648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Three.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_2_sampo_127.ogg/revision/latest?cb=20240728223439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "Show me your VIP card.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Vo_chapter3_2_pipixiA_103.ogg/revision/latest?cb=20240728223650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "No problem! Here it is!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter3_2_sampo_128.ogg/revision/latest?cb=20240728223441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "I'm talking about your friends. I've already seen yours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_2_pipixiA_104.ogg/revision/latest?cb=20240728223651",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Um, well, how can my friends have VIP cards when they've only just arrived, haha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_2_sampo_129.ogg/revision/latest?cb=20240728223442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Can you make an exception and let them in? I'll provide my VIP card as guarantee that they won't cause any trouble, okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter3_2_sampo_130.ogg/revision/latest?cb=20240728223445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "No, I can't break the rules. Please go home if you don't have the card.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_2_pipixiA_105.ogg/revision/latest?cb=20240728223653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Seems like we can't go in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter3_2_firefly_229.ogg/revision/latest?cb=20240728223329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_22.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What should we do?"
+    },
+    {
+        "type": "note",
+        "text": "Forget it."
+    },
+    {
+        "type": "note",
+        "text": "What the heck is this?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Just stay cool! Let me think of something... Got it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter3_2_sampo_131.ogg/revision/latest?cb=20240728223448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Okay, so, we aren't going in anymore. But could you help me pick up something I left inside?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter3_2_sampo_132.ogg/revision/latest?cb=20240728223450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "\"The Moment of Betrayal,\" \"The Cloud of Doubt,\" and \"Everlasting Hatred.\" Just mention the \"Clown's items\" to Miss Thunderbolt — she'll understand what I mean.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter3_2_sampo_133.ogg/revision/latest?cb=20240728223452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_25.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What are you talking about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Just a few... intense emotions. As far as how we'll use them, you just wait and see!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter3_2_sampo_134.ogg/revision/latest?cb=20240728223454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Clown?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Tsk, just be patient! I'll explain everything when the time comes!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter3_2_sampo_135.ogg/revision/latest?cb=20240728223456",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "Sure thing, I'll deliver your message to her. Please wait here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_2_pipixiA_106.ogg/revision/latest?cb=20240728223642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pepeshi Bodyguard",
+        "line": "Here's the items you asked for. Miss Thunderbolt said these alone wouldn't be enough. She wanted you to have these Broken Dreams — she said do with them as you see fit.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_2_pipixiA_107.ogg/revision/latest?cb=20240728223644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pepeshi_Bodyguard_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Miss Thunderbolt is such a thoughtful person! Thank you so much.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter3_2_sampo_136.ogg/revision/latest?cb=20240728223458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Now, we're only short of one item, which we might be able to find in an arcade machine... Coincidentally, there's one at the salon entrance. Let's get moving. I want to show you something fun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter3_2_sampo_137.ogg/revision/latest?cb=20240728223501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainEmotion Prototype: The Moment of Betrayal,Emotion Prototype: The Cloud of Doubt,Emotion Prototype: Everlasting Hatred,  andEmotion Prototype: Broken Dreams)"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the suspicious television"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.You're turned away at the door of Peppy Pepeshi's Salon, but the quick-witted Sampo immediately thinks of a back-up plan. However, before this mystery can be unveiled, he entrusted you to collect some materials... from an arcade machine."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Is that... a TV?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter3_2_firefly_230.ogg/revision/latest?cb=20240728223331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach TV)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Why was this TV... dumped on the side of the road?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter3_2_firefly_231.ogg/revision/latest?cb=20240728223333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Haha, I'm afraid you're mistaken, Miss Firefly! This is an arcade! This fine machine has a sense of aesthetics worthy of the Dreamscape — it's nothing like the techy junk you see around Punklorde.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter3_2_sampo_138.ogg/revision/latest?cb=20240728223503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ (Trailblazer), how about you try touching it and see what happens?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_2_sampo_139_m.ogg/revision/latest?cb=20240728223507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_35.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Couldn't hurt, I guess...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Well... I might be totally off base here, but I think there's something fishy with this TV.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter3_2_firefly_232.ogg/revision/latest?cb=20240728223337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "But it's fine if you want to give it a shot... I trust your judgment.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter3_2_firefly_233.ogg/revision/latest?cb=20240728223339",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why don't you try it yourself?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "I want to let you enjoy this firsthand experience, hee-hee.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter3_2_sampo_140.ogg/revision/latest?cb=20240728223510",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_38.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Of course, it's just a suggestion. If you aren't up for it, I'll do it myself...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter3_2_sampo_141.ogg/revision/latest?cb=20240728223512",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this a trap?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Well... I do think there's something fishy with this TV.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_2_firefly_234.ogg/revision/latest?cb=20240728223341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_40.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "This belongs to The Family. How can there be anything wrong with it? If you aren't up for it, I'll just do it myself...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_2_sampo_142.ogg/revision/latest?cb=20240728223514",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "The two almost synchronously turn their gaze towards you. Or perhaps more precisely, it was three of them — including the guy with a trembling oversized nose and sunglasses on the screen."
+    },
+    {
+        "type": "note",
+        "text": "You know it's time to make a choice. So, do you want to take a chance and touch this television, to see what *intriguing* events might unfold?"
+    },
+    {
+        "type": "choice",
+        "text": "Touch it!",
+        "children": [
+            {
+                "type": "note",
+                "text": "You take a deep breath, close your eyes, muster your courage, and reach out to the suspicious screen in front of you"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Touch it!!",
+        "children": [
+            {
+                "type": "note",
+                "text": "You take a deep breath, close your eyes, muster your courage, and with a resolve akin to facing death, you reach out to the suspicious screen before you..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Touch it!!!",
+        "children": [
+            {
+                "type": "note",
+                "text": "You take a deep breath, close your eyes, muster great courage, and with a resolve as weighty as three exclamation marks, you reach out to the suspicious screen before you..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Seems like I'm left with no other options.",
+        "children": [
+            {
+                "type": "note",
+                "text": "You reach out to the suspicious screen in front of you..."
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Touch the suspicious television"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate TV)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...Oh, my!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter3_2_sampo_143.ogg/revision/latest?cb=20240728223516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Wait, what...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_firefly_235.ogg/revision/latest?cb=20240728223344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Why did you turn into this... thing!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter3_2_firefly_236.ogg/revision/latest?cb=20240728223346",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I have no idea. What happened?",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"I don't know... What's happening?\" — You desperately want to say these, but somehow, you've transformed into a certain... cartoon character."
+            },
+            {
+                "type": "note",
+                "text": "Your name is Hanu , a candid and taciturn figure — a calm, reliable, cool leader of the werewolves from Penacony's famous, long-form cartoon, Clockie ."
+            },
+            {
+                "type": "note",
+                "text": "You silently protect the peace of Dreamville. According to your character traits, you can only make a cool grunting noise as a response right now."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think I've been sucked into the TV...",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"Looks like I got sucked into the TV\" — You desperately want to say this, but somehow, you've transformed into a certain... cartoon character."
+            },
+            {
+                "type": "note",
+                "text": "Your name is Hanu, a candid and taciturn figure — a messenger of justice and leader of the werewolves versed in conventional and unconventional arms from Penacony's famous, long-form cartoon, Clockie."
+            },
+            {
+                "type": "note",
+                "text": "You silently protect the peace of Dreamville. According to your character traits, you can only make a cool grunting noise as a response right now."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Gosh, you guys are tall!",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"Goodness me, you guys are so tall\" — You desperately want to say this, but somehow, you've transformed into a certain... cartoon character."
+            },
+            {
+                "type": "note",
+                "text": "Your name is Hanu, a candid and taciturn figure — a lover of your hat and leader of the werewolves from Penacony's famous, long-form cartoon, Clockie. You're also the mascot of the Bloodhound Family."
+            },
+            {
+                "type": "note",
+                "text": "You silently protect the peace of Dreamville. According to your character traits, you can only make a cool grunting noise as a response right now."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let out a really cool sounding *hmph*",
+        "children": [
+            {
+                "type": "note",
+                "text": "You make an extremely cool grunt. Man, really, it was so cool."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You look so... cool.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter3_2_firefly_237.ogg/revision/latest?cb=20240728223350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You've got swag now, pal!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter3_2_sampo_144.ogg/revision/latest?cb=20240728223518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ So, how did (Trailblazer) turn into that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter3_2_firefly_238_m.ogg/revision/latest?cb=20240728223354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ You don't get it, do you? Well, ( he / she ) was sucked into the TV just now and swapped bodies with Hanu. Hold on, let me take a closer look...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_2_sampo_145_m.ogg/revision/latest?cb=20240728223523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...Look! The title of this game is Hanu's Adventure . According to the plot synopsis, you have been shrunken down by one of Stone 's devices. You will embark on an epic adventure to rescue Dreamville with your miniature body...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter3_2_sampo_146.ogg/revision/latest?cb=20240728223525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Now, if you want to return to your normal size, you have to do everything that Hanu has done in the cartoon series — or you can just touch this TV.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter3_2_sampo_147.ogg/revision/latest?cb=20240728223527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_50.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Fine. What do I need to do?",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"Alright, then what should I do?\" You already completely understand the situations, and decide to ask your old friend about what actions you should take next, but your character design doesn't permit you to do such a thing."
+            },
+            {
+                "type": "note",
+                "text": "You can only make a cool grunting noise as a response right now."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How do you know that?",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"How do you know?\" You really want to ask your old friend how they're so confident, but your character design doesn't permit you to do such a thing."
+            },
+            {
+                "type": "note",
+                "text": "You can only make a cool grunting noise as a response right now."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm not going to take you at your word again.",
+        "children": [
+            {
+                "type": "note",
+                "text": "\"I will never believe you again.\" You really want to reply to your old friend in rage, but with your current state, the best you can do is jumping up to strike his knees."
+            },
+            {
+                "type": "note",
+                "text": "Additionally, your character design will not permit such an action from you. Right now, you can only emit a cool *grunt* as a response."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let out a really cool sounding *hmph*",
+        "children": [
+            {
+                "type": "note",
+                "text": "You make a cool grunting noise. Have you thought about why you'd ever change back if you can keep being this cool?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Oh, here it says, \"Enter the door to start your adventure.\" You have to climb inside from there to start your challenge, pal.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter3_2_sampo_148.ogg/revision/latest?cb=20240728223529",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_51.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "...We'll cheer you on, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter3_2_firefly_239_m.ogg/revision/latest?cb=20240728223357",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Haha, of course we will. Good luck, (Trailblazer)!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter3_2_sampo_149_m.ogg/revision/latest?cb=20240728223534",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Enter the doorway and begin your adventure"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants you to learn all about what the adult world is.After you touched the mysterious machine, you realize that you've been transformed into a taciturn cartoon character. According to the game's setting, you now must enter the doorway and begin a great adventure."
+    },
+    {
+        "type": "condition",
+        "text": "(OpenHanu's Adventure Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach stairs as Hanu, optional)"
+    },
+    {
+        "type": "note",
+        "text": "After being shrunk by Boss Stone, climbing the staircase becomes as challenging as a mountain hike. Let's try another route."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly as Hanu, optional)"
+    },
+    {
+        "type": "note",
+        "text": "You release a series of cool grunts, but they failed to draw the attention of the twosome from the television to you."
+    },
+    {
+        "type": "note",
+        "text": "Looks like you have to turn back into how you were."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Oh, (Trailblazer)! You're back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter3_2_firefly_240_m.ogg/revision/latest?cb=20240728223401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You didn't finish the game, did you? Well, I'm going to have to ask you to finish that game — I need those game rewards so I can let you two experience something fun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_sampo_150.ogg/revision/latest?cb=20240728223536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_55.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Boss Stone's treasure"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.As you touch the mysterious machine, you realize that you've been transformed into a taciturn cartoon character. According to the game story, you will now defeat Boss Stone and confiscate his illegal items."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate TV)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Hahaha, I've finally caught you, you little Hanu!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter3_2_stone_101.ogg/revision/latest?cb=20240728223619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Look how small you've become! You won't be able to escape this time!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_2_stone_102.ogg/revision/latest?cb=20240728223621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_57.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach balloon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Hahaha! Your way is blocked! How pitiful!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter3_2_stone_104.ogg/revision/latest?cb=20240728223624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "There's a huge secret that I would never tell you — if you swap bodies again through the TV, you'll be able to destroy the obstacle and break through! Hahaha!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_2_stone_105.ogg/revision/latest?cb=20240728223626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate balloon, optional)"
+    },
+    {
+        "type": "note",
+        "text": "The balloons placed by Boss Stone have hindered Hanu's way. Those who are not shrunken can probably destroy the balloons."
+    },
+    {
+        "type": "condition",
+        "text": "(After destroying the balloon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Argh! I hate my mouth for revealing my secret!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter3_2_stone_106.ogg/revision/latest?cb=20240728223628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach rocket)\n(OpenHanu's Adventure Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(Open Precious Treasure)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Oh, rats! Hands off my treasures! You've no idea how hard I worked to swindle those off other people!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter3_2_stone_103.ogg/revision/latest?cb=20240728223622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boss Stone",
+        "line": "Fine, I'll admit it — you've rescued Dreamville once again. But you just wait... I'll be back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter3_2_stone_112.ogg/revision/latest?cb=20240728223640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boss_Stone_62.ogg"
+    },
+    {
+        "type": "note",
+        "text": "After going all around, you find yourself at the entrance to Boss Stone's maze..."
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainEmotion Prototype: Momentary Freedom)"
+    },
+    {
+        "type": "heading",
+        "text": "Touch the television and return to normal"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.As you touch the mysterious machine, you realize that you've been transformed into a taciturn cartoon character and successfully defeat Boss Stone. Now you must touch the television once more to return to normal."
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Sampo and Firefly"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.You successfully collected the mysterious materials that Sampo needed. It is time to experience this thing that he calls: \"true entertainment."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Sampo and Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You're back, (Trailblazer)! Are you alright?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter3_2_firefly_241_m.ogg/revision/latest?cb=20240728223405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_63.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm alright.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm glad to hear that!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter3_2_firefly_242.ogg/revision/latest?cb=20240728223407",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It was quite fun.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I see... Anyway, I'm glad you're safe!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_2_firefly_243.ogg/revision/latest?cb=20240728223409",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_65.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Do you have anything to say, Sampo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Look at that, you did great! This is the proverbial moment of freedom! You've earned it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter3_2_sampo_151.ogg/revision/latest?cb=20240728223539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Now that we've got everything we need, we just need to go into a dream. Just follow me — you're about to experience the real fun!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter3_2_sampo_152.ogg/revision/latest?cb=20240728223541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_67.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Return to the \"Dreamscape Sales Store\""
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "What surprises you most is that your old friend Sampo happens to be in Penacony, too. Firefly doesn't seem to trust him very much, but the ever-friendly and enthusiastic dark-blue gentleman wants to teach you all about the \"adult side\" of things.Though he has not said where you are headed, you are confident that this route leads to the \"Dreamscape Sales Store.\""
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This road... Are we heading back to the Oti Mall ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter3_2_firefly_244.ogg/revision/latest?cb=20240728223411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "That's right, Miss Firefly. That's where the good stuff is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter3_2_sampo_153.ogg/revision/latest?cb=20240728223543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dr. Edward)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Welcome to Dreamscape Sales Store! Dr. Edward at your service!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter3_2_edward_143.ogg/revision/latest?cb=20240728223558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Trailblazer of the Astral Express , here we are again! Haha, I see you've brought two friends with you! They seem like fun people!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter3_2_edward_144.ogg/revision/latest?cb=20240728223600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Hello, Edward. I'd like my friends to try something... fun, if you know what I mean.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter3_2_sampo_154.ogg/revision/latest?cb=20240728223545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Be my guest! Dr. Edward welcomes anyone who's ready for some excitement! How about we use your Dreamscape, sir?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter3_2_edward_145.ogg/revision/latest?cb=20240728223603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "A superb idea, sir — let's do it. The one from last night would be perfect.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter3_2_sampo_155.ogg/revision/latest?cb=20240728223548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Um... What's going on?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter3_2_firefly_245.ogg/revision/latest?cb=20240728223413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "This is a service we offer to our long-time customers. You can submit dreams you've recently had to me. With the relevant emotion prototypes, I'll be able to turn them into customized dream bubbles that can be experienced repeatedly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter3_2_edward_146.ogg/revision/latest?cb=20240728223605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_76.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Any dreams we want?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Exactly! Looks like you've got the picture. You've probably woken up from a dream one time, and wished you could just go back to dreaming it, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter3_2_sampo_156.ogg/revision/latest?cb=20240728223550",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_77.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What's so fun about this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Well, whether a dream bubble is fun or not depends on what kind of dreams you've had. We all had dreams that we wished we could have continued after waking up, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_2_sampo_157.ogg/revision/latest?cb=20240728223552",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_78.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "A dream I wished I could have continued after waking up...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter3_2_firefly_246.ogg/revision/latest?cb=20240728223415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Miss Firefly, I admire your eagerness, but please be patient. Allow me to use my dream as a demonstration.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter3_2_sampo_158.ogg/revision/latest?cb=20240728223554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "I trust you have prepared all the necessary materials. Please hand them over to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter3_2_edward_147.ogg/revision/latest?cb=20240728223607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(SubmitEmotion Prototype: The Moment of Betrayal,Emotion Prototype: The Cloud of Doubt,Emotion Prototype: Everlasting Hatred,Emotion Prototype: Broken Dreams,  andEmotion Prototype: Momentary Freedom)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Your donation is appreciated! The retrieval is complete. Now, I will calibrate the memoria and generate the dream bubble...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter3_2_edward_148.ogg/revision/latest?cb=20240728223609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "It's ready! Please close your eyes and rest your forehead against the dream bubble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter3_2_edward_149.ogg/revision/latest?cb=20240728223611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Jump on in, (Trailblazer). I wish you a pleasant time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter3_2_sampo_159_m.ogg/revision/latest?cb=20240728223556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_84.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin sub-missionLullaby of the North Wind)"
+    },
+    {
+        "type": "section_header",
+        "text": "Lullaby of the North Wind"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Sampo has led you back to the Dreamscape Sales Store and confessed to Dr. Edward the service reserved for regular customers (why didn't he say this earlier?), then ordered a customized dream bubble for you to experience.Though you have no idea what he is up to, your instincts fear that what you're about to experience is going to be... beyond your imagination."
+    },
+    {
+        "type": "condition",
+        "text": "(After pausing the challenge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Are you ready to experience a wonderful dream? Please close your eyes and rest your forehead on the dream bubble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter3_2_edward_150.ogg/revision/latest?cb=20240728223614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_85.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'm ready."
+    },
+    {
+        "type": "choice",
+        "text": "Maybe later.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "No problem! Dr. Edward is happy to help you when you're ready!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_2_edward_151.ogg/revision/latest?cb=20240728223616",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_86.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Search for Firefly"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Sampo's previously relaxed and joyous attitude suddenly drops to a serious and stern tone as he warns you that there is something abnormal about Firefly's origin. After spouting a series of confusing but upsetting metaphors, he turns on his heel and leaves. At this moment, you realize that Firefly, who had been following you like a shadow, is suddenly nowhere to be seen.First things first, you must find Firefly, ensure her safety, and get an explanation."
+    },
+    {
+        "type": "condition",
+        "text": "(After completing sub-missionLullaby of the North Wind)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What did Sampo mean? Is Firefly hiding something?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter3_2_player_131_m.ogg/revision/latest?cb=20240728223658",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...I must find her and demand an explanation from her. She shouldn't be too far off...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter3_2_player_132_m.ogg/revision/latest?cb=20240728223706",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_88.ogg"
+    }
+]

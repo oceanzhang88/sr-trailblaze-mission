@@ -1,0 +1,1273 @@
+[
+    {
+        "type": "heading",
+        "text": "Go to the Dreamscape Sales store"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Though the way you entered the dream was less than desirable,SundayandRobinmade sure you received the utmost care... Fine. That was what they should have done anyway.Having refreshed your spirits, you andMarch 7threceived a message recommending you head to the Dreamscape Sales Store... Perhaps you can consider this the first stop on your wondrous dream journey."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (The Dreamscape Sales Store... Should I visit it?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter3_2_player_101_m.ogg/revision/latest?cb=20240729001716",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (This place is bustling. There are so many people living in the dreamscape...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_player_102_m.ogg/revision/latest?cb=20240729001721",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon walking past the billboard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Wait, did that billboard just move!?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter3_2_player_103_m.ogg/revision/latest?cb=20240729001725",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (According to the map, that is the Dreamscape Sales Store... Is that... a giant eyeball?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_2_player_104_m.ogg/revision/latest?cb=20240729001730",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_3.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Dr. Edward)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Trailblazers from the Astral Express — Welcome to Dreamscape Sales Store!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter3_2_edward_101.ogg/revision/latest?cb=20240729001335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_4.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Who's talking to me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "It's me, the Dreamscape Sales Store. I also go by the name of Dr. Edward, and I'm happy to be at your service!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter3_2_edward_102.ogg/revision/latest?cb=20240729001337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How do you know who I am?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "▶ It's the magic of psychoanalysis, ( sir / madam ) . Dr. Edward is happy to assist you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_2_edward_103_m.ogg/revision/latest?cb=20240729001341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Here's where you get to experience all sorts of fascinating dreamscapes — from the top-notch productions of Clock Studios to private donations, we have it all!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter3_2_edward_104.ogg/revision/latest?cb=20240729001343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "If I'm not mistaken, this is your first visit to Penacony, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter3_2_edward_105.ogg/revision/latest?cb=20240729001345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_8.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yes."
+    },
+    {
+        "type": "choice",
+        "text": "No.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "It is!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_2_edward_106.ogg/revision/latest?cb=20240729001347",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Please be rest assured that Dr. Edward will provide the best service you can find in helping you purchase your first Dreamscape and indulge in an exclusive and marvelous dreamland journey...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter3_2_edward_107.ogg/revision/latest?cb=20240729001349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "...And that's the end of my analysis! I'm sure you'll be a fan of this dream bubble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter3_2_edward_108.ogg/revision/latest?cb=20240729001351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "It's a contribution from an anonymous donor and is said to contain the memory of the fallen Aeon , Akivili ! I can assure you that this dream bubble is perfect for you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter3_2_edward_109.ogg/revision/latest?cb=20240729001353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_12.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How do you know what I want?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "▶ It's the magic of psychoanalysis, ( sir / madam ) !",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter3_2_edward_110_m.ogg/revision/latest?cb=20240729001357",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this the memory of Akivili?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "Dr. Edward does not make any guarantees regarding the authenticity of dream bubble content. Dreams are just dreams, so enjoy them!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter3_2_edward_111.ogg/revision/latest?cb=20240729001400",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_14.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How many credits do I have to pay?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "None! Dr. Edward promises to let every new customer enjoy their first dream bubble for free.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_2_edward_112.ogg/revision/latest?cb=20240729001402",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Well, let's begin. Please close your eyes and rest your forehead against the dream bubble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter3_2_edward_113.ogg/revision/latest?cb=20240729001404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_16.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Touch the dream bubble."
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Sleepless Night 1.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...Trailblazer from the Astral Express, do you plead guilty?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter3_2_pompom_101.ogg/revision/latest?cb=20240729001828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_17.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How come Pom-Pom is here!?"
+    },
+    {
+        "type": "note",
+        "text": "Am I Akivili now?"
+    },
+    {
+        "type": "note",
+        "text": "What's going on?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(I won't make any explanatory or leading comments on the content of this dream bubble. In the dream bubble, you'll be living through another person's past memories — you will experience what the original owner of the memory once experienced.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter3_2_edward_114.ogg/revision/latest?cb=20240729001406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(If any details are missing from the dream bubble, your subconscious will make up for it by substituting the missing content with something similar.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter3_2_edward_115.ogg/revision/latest?cb=20240729001409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "The sins you've committed are beyond pardon, but I respect every individual's right to carry out volunteer work...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_2_pompom_102.ogg/revision/latest?cb=20240729001831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...Give this place a thorough cleaning!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter3_2_pompom_103.ogg/revision/latest?cb=20240729001833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "...I'm listening.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Why isn't there any sound now?"
+    },
+    {
+        "type": "note",
+        "text": "Who's speaking?"
+    },
+    {
+        "type": "note",
+        "text": "Do I have to do the voiceover for Akivili myself?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(My apologies. When I received this dream bubble, some of the audio tracks were missing... Perhaps, even the memoria is unable to transmit the voice of Akivili.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_2_edward_116.ogg/revision/latest?cb=20240729001411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(However, I can make some adjustments to the dream bubble to improve your experience, meaning you can choose anyone's voice for Akivili's. As long as it's a voice you're familiar with, I'll be able to replicate it in your subconscious!)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter3_2_edward_117.ogg/revision/latest?cb=20240729001413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_23.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Anyone's voice will do?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Well, it must be someone you're close to, unless you're willing to accept a very unpleasant listening experience.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter3_2_edward_118.ogg/revision/latest?cb=20240729001415",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_24.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Does it have to be the voice of someone I'm close to?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Yes, unless you're willing to accept a very unpleasant listening experience.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter3_2_edward_119.ogg/revision/latest?cb=20240729001417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's quite a convenient feature.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "▶ (The subconscious has vast potential, ( sir / madam ) !)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter3_2_edward_120_m.ogg/revision/latest?cb=20240729001421",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(Well, please make a decision! I'll do my best to fulfill your needs.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_2_edward_121.ogg/revision/latest?cb=20240729001424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_27.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "March 7th.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Splendid! I'm rendering it as we speak...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_edward_122.ogg/revision/latest?cb=20240729001425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Dan Heng.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Splendid! I'm rendering it as we speak...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_edward_122.ogg/revision/latest?cb=20240729001425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Pom-Pom.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Splendid! I'm rendering it as we speak...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_edward_122.ogg/revision/latest?cb=20240729001425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let me see who else...",
+        "children": [
+            {
+                "type": "choice",
+                "text": "Himeko.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dr. Edward",
+                        "line": "(Splendid! I'm rendering it as we speak...)",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_edward_122.ogg/revision/latest?cb=20240729001425",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dr._Edward_31.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Welt.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dr. Edward",
+                        "line": "(Splendid! I'm rendering it as we speak...)",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_edward_122.ogg/revision/latest?cb=20240729001425",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dr._Edward_32.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Myself, of course!",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dr. Edward",
+                        "line": "(What an odd request... but no matter! Dr. Edward will make it happen!)",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_2_edward_127.ogg/revision/latest?cb=20240729001435",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dr._Edward_33.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Myself in a different gender, of course!",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dr. Edward",
+                        "line": "(Your voice in a different gender? That's slightly challenging... but no matter! Dr. Edward will make it happen!)",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter3_2_edward_128.ogg/revision/latest?cb=20240729001437",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dr._Edward_34.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "Give me another minute..."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "(...The replication is complete! Now, you can enjoy an enhanced Dreamscape experience.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter3_2_edward_129.ogg/revision/latest?cb=20240729001439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Do you, as well as the other passengers, take responsibility for the following malicious conduct?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter3_2_pompom_104.ogg/revision/latest?cb=20240729001835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "You rode snowmobiles into the Taikiyan Stadium and disrupted the match, causing the match to be suspended. Because of you, Twenty Trailblazers were forced to repair the severely damaged exterior of the stadium for three months without pay...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter3_2_pompom_105.ogg/revision/latest?cb=20240729001837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_37.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Sleepless Night 2.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "▶ ...Do you plead guilty to this ( accusation accusation Text for March 7th / charge charge Text for other voices )?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_2_pompom_106.ogg/revision/latest?cb=20240729001839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ ...Yes, I plead guilty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter3_2_mar7th_101.ogg/revision/latest?cb=20240729001701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "You sneaked into the Hyai'i Zoo and splurged half an Amber Era 's crew budget on 250 Nosewalker cubs. You kept them in the restroom, where they were left to breed and multiply uncontrollably, causing other carriages to be filled with sewage...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter3_2_pompom_108.ogg/revision/latest?cb=20240729001843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_40.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Sleepless Night 3.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "▶ ...Do you plead guilty to this ( accusation accusation Text for March 7th / charge charge Text for other voices )?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter3_2_pompom_109.ogg/revision/latest?cb=20240729001845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ ...Yes, I plead guilty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter3_2_mar7th_102.ogg/revision/latest?cb=20240729001703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "You barged into the kitchen of the dining carriage, claiming that the whole area needed disinfection. This resulted in the loss of 42 Crispy Crumbly Pom-Pom Pies. And because you also took the last serving of the Express Special in the fridge, I was left starving...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter3_2_pompom_111.ogg/revision/latest?cb=20240729001849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_43.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Sleepless Night 4.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...Do you plead guilty to this charge?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_2_pompom_112.ogg/revision/latest?cb=20240729001851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ The first one is clearly a result of your own doing... But I do admit to consuming the last serving of the Express Special.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_2_mar7th_103.ogg/revision/latest?cb=20240729001705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Ahem. Don't get carried away just yet. This is only the beginning of your list of culinary offenses!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter3_2_pompom_114.ogg/revision/latest?cb=20240729001856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "There are cases of entire entries disappearing from the Express data bank, the plants in the Parlor Car being watered with SoulGlad , disrupting the conductor's rest with noise, and a break-in to the conductor's exclusive snack vault.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter3_2_pompom_115.ogg/revision/latest?cb=20240729001858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_47.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What do all these have to do with Akivili?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Let me reiterate that I won't make any explanatory or leading comments on the content of this dream bubble.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter3_2_edward_130.ogg/revision/latest?cb=20240729001441",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_48.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This trailblazing expedition of yours is indeed an \"Elating\" one...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(Perhaps it is, but I won't make any explanatory or leading comments on the content of this dream bubble.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter3_2_edward_131.ogg/revision/latest?cb=20240729001443",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_49.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did SoulGlad really exist in that era?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "(My apologies. By order of the Alfalfa Family , delicious, thirst-quenching SoulGlad is the only brand of beverage permitted to appear in recorded dreamscapes.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter3_2_edward_132.ogg/revision/latest?cb=20240729001446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "And that's not even half the list! There are a total of 46 cases of malicious conduct! Do you admit to being the culprit in every case?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter3_2_pompom_116.ogg/revision/latest?cb=20240729001900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ Sorry... I am indeed the worst Nameless in the universe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_2_mar7th_104.ogg/revision/latest?cb=20240729001708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Sleepless Night 5.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...No, you are not.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter3_2_pompom_118.ogg/revision/latest?cb=20240729001904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ Could there be anyone worse than me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter3_2_mar7th_105.ogg/revision/latest?cb=20240729001710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Of course there is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter3_2_pompom_120.ogg/revision/latest?cb=20240729001907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Akivili?",
+        "line": "▶ ▶ ▶ ▶ ▶ ▶ Who?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter3_2_mar7th_106.ogg/revision/latest?cb=20240729001712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Akivili_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "That guy who blew up the train into two pieces. [ Note 1 ]",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_2_pompom_122.ogg/revision/latest?cb=20240729001911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "...That's all for the content of this dream bubble. How was your experience?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_2_edward_133.ogg/revision/latest?cb=20240729001448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_58.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It's quite fascinating..."
+    },
+    {
+        "type": "note",
+        "text": "What do all these have to do with Akivili?"
+    },
+    {
+        "type": "note",
+        "text": "That's it?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Haha, this dream bubble aligns with what you desire in your subconscious! If you're interested in experiencing the dream bubble again, you can purchase it with credits...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter3_2_edward_134.ogg/revision/latest?cb=20240729001450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_59.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I almost expected something like this..."
+    },
+    {
+        "type": "note",
+        "text": "So that \"first dream bubble for free\" was just a sales pitch, huh?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "This dream bubble is indeed pricey. Still, please give it some consideration!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter3_2_edward_136.ogg/revision/latest?cb=20240729001454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Well, are you going to buy it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter3_2_edward_139.ogg/revision/latest?cb=20240729001500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_61.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'll buy it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "Thank you. Hope to see you next time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter3_2_edward_140.ogg/revision/latest?cb=20240729001502",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_62.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No way. It's too expensive.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Edward",
+                "line": "What a shame. Please come again!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_2_edward_141.ogg/revision/latest?cb=20240729001506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Edward_63.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Edward",
+        "line": "Oh, right! As this is your first time using the dream bubble, here's a sticker for you! You can use it to decorate your Dreamscape Pass and commemorate your unique trip to Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter3_2_edward_142.ogg/revision/latest?cb=20240729001509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Edward_64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDreamscape Sales Store (Dreamscape Pass Sticker))"
+    },
+    {
+        "type": "heading",
+        "text": "Explore as you please"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Under the guidance of Dr. Edward, you were able to experience the most famous audiovisual feast Penacony had to offer — a dream bubble — A virtual-reality device created for the dream world that was more realistic than a purely technological product. You played the role of someone you suspected to be an Aeon named Akivili (or someone), who ended up in a dispute with Pom-Pom, finally earning the title of \"Second-most terrible Nameless in the World.\"It seems that there are many enjoyable experiences like these awaiting you in Penacony. Perhaps you should explore around for yourself."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I was hoping I would find some clues about the Nameless up here... Well, can't expect it to be that easy...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter3_2_player_117_m.ogg/revision/latest?cb=20240729001822",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "She went that way. Get her!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter3_2_rachA_101.ogg/revision/latest?cb=20240729001913",
+        "is_unavailable": false,
+        "audio_filename": "audio__66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What's going on? What's all the commotion about?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_2_player_118_m.ogg/revision/latest?cb=20240729001826",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_67.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the source of the disturbance"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As you wander around the Oti Mall, you hear a disturbance coming from the direction of the station.Go and check it out. The Nameless love getting involved in other people's business... No, more like you love helping people, after all!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't even think about running away, you stowaway!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter3_2_rachA_102.ogg/revision/latest?cb=20240729001915",
+        "is_unavailable": false,
+        "audio_filename": "audio__68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "S—Sorry for bothering you! Please, I need your help...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter3_2_firefly_101.ogg/revision/latest?cb=20240729001527",
+        "is_unavailable": false,
+        "audio_filename": "audio__69.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How can I help?"
+    },
+    {
+        "type": "note",
+        "text": "What happened? Who are you?"
+    },
+    {
+        "type": "note",
+        "text": "I'll do my best to protect a pretty young lady!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hey, look! She has an accomplice!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_2_rachA_103.ogg/revision/latest?cb=20240729001917",
+        "is_unavailable": false,
+        "audio_filename": "audio__70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Good work! Now we can nab them both in one go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter3_2_rachB_101.ogg/revision/latest?cb=20240729001925",
+        "is_unavailable": false,
+        "audio_filename": "audio__71.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat the enemy"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As you head to investigate the source of the disturbance, you discover a silver-haired young girl being chased and surrounded.Can you turn a blind eye, or not? You decide to take up your bat and head into battle. You will teach these thugs a thing or two about how to behave."
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle)"
+    },
+    {
+        "type": "note",
+        "text": "Dreamjolt Troupe's Bubble Hound ×2 Dreamjolt Troupe's Mr. Domescreen ×1"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That's enough, boys.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_2_gallagher_101.ogg/revision/latest?cb=20240729001622",
+        "is_unavailable": false,
+        "audio_filename": "audio__72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "S—Sir?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter3_2_rachA_104.ogg/revision/latest?cb=20240729001919",
+        "is_unavailable": false,
+        "audio_filename": "audio__73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What's gotten into you all? Open your eyes and take a good look. Is this lady the stowaway we're looking for?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter3_2_gallagher_102.ogg/revision/latest?cb=20240729001624",
+        "is_unavailable": false,
+        "audio_filename": "audio__74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Eh? Who... Who's this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter3_2_rachB_102.ogg/revision/latest?cb=20240729001927",
+        "is_unavailable": false,
+        "audio_filename": "audio__75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't you know him? Look at his brown hair and gray vest. He's the officer sent here by The Family to maintain order at the Charmony Festival .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter3_2_rachA_105.ogg/revision/latest?cb=20240729001921",
+        "is_unavailable": false,
+        "audio_filename": "audio__76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I—I see... Sir, the thing is, we're trying to apprehend a stowaway, and that young lady there looks very suspicious. We're sure she's the one!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter3_2_rachB_103.ogg/revision/latest?cb=20240729001929",
+        "is_unavailable": false,
+        "audio_filename": "audio__77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That's nonsense. Take another look, will you? The witness report says that the suspect is a lad with silver hair, and you guys are going after a girl with silver hair. Does that even make sense? She's our guest!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter3_2_gallagher_103.ogg/revision/latest?cb=20240729001626",
+        "is_unavailable": false,
+        "audio_filename": "audio__78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well, just get out of my way and I'll take care of this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter3_2_gallagher_104.ogg/revision/latest?cb=20240729001628",
+        "is_unavailable": false,
+        "audio_filename": "audio__79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Yes, sir!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter3_2_rachA_106.ogg/revision/latest?cb=20240729001923",
+        "is_unavailable": false,
+        "audio_filename": "audio__80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Sorry for all the trouble you went through back there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_2_gallagher_105.ogg/revision/latest?cb=20240729001630",
+        "is_unavailable": false,
+        "audio_filename": "audio__81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "I'm Gallagher from the Bloodhound Family , and those idiots are some young Bloodhounds I've been training.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter3_2_gallagher_106.ogg/revision/latest?cb=20240729001632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Because of their youth and inexperience, they mistook an honored guest of Penacony for a criminal... This is indeed a regrettable mistake. I'd like to offer my sincerest apology to you on behalf of the Bloodhound Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter3_2_gallagher_107.ogg/revision/latest?cb=20240729001634",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_83.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What about the stowaway?"
+    },
+    {
+        "type": "note",
+        "text": "Who's the silver-haired guy?"
+    },
+    {
+        "type": "note",
+        "text": "Who are the Bloodhound Family?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "The Bloodhound Family are the guards of the Dreamscape. We're in charge of the security here, and our duties include arresting people who try to enter our world illegally.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter3_2_gallagher_108.ogg/revision/latest?cb=20240729001636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "We got a tip that some criminals were planning to take advantage of the festivities around the Charmony Festival to sneak into Penacony. Now that the festival is just around the corner, there are likely many shady characters lurking around...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter3_2_gallagher_109.ogg/revision/latest?cb=20240729001638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter3_2_firefly_102.ogg/revision/latest?cb=20240729001530",
+        "is_unavailable": false,
+        "audio_filename": "audio__86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Don't worry. I believe this is just a misunderstanding. How could such a lovely girl like you be a stowaway?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter3_2_gallagher_110.ogg/revision/latest?cb=20240729001640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...Thanks. Without your kind help, I wouldn't know what to do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter3_2_firefly_103.ogg/revision/latest?cb=20240729001532",
+        "is_unavailable": false,
+        "audio_filename": "audio__88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Just part of the job.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter3_2_gallagher_111.ogg/revision/latest?cb=20240729001644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "I need to get going. If you need help, you can reach out to me through the young Bloodhounds in this area. I wish you an enjoyable experience in this land of dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter3_2_gallagher_112.ogg/revision/latest?cb=20240729001646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I owe you a big one! If it hadn't been for you, I might have been... taken away by them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter3_2_firefly_104.ogg/revision/latest?cb=20240729001534",
+        "is_unavailable": false,
+        "audio_filename": "audio__91.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm happy to help.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Thank you so much!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_2_firefly_105.ogg/revision/latest?cb=20240729001536",
+                "is_unavailable": false,
+                "audio_filename": "audio__92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Well, my help doesn't come free...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "I... I understand. It's only right to return the favors I receive!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_2_firefly_106.ogg/revision/latest?cb=20240729001538",
+                "is_unavailable": false,
+                "audio_filename": "audio__93.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Galactic Baseballer, at your service!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "You're funny.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter3_2_firefly_107.ogg/revision/latest?cb=20240729001540",
+                "is_unavailable": false,
+                "audio_filename": "audio__94.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "By the way, I've just noticed... You're a Nameless, right? Is this your first time here on Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_2_firefly_108.ogg/revision/latest?cb=20240729001542",
+        "is_unavailable": false,
+        "audio_filename": "audio__95.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How do you know?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "You have the Astral Express badge on you. I saw it on the big screen once!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter3_2_firefly_109.ogg/revision/latest?cb=20240729001544",
+                "is_unavailable": false,
+                "audio_filename": "audio__96.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "I also know that you guys often travel around different places in the cosmos. Did The Family invite you here? I—I'd be happy to show you around!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter3_2_firefly_110.ogg/revision/latest?cb=20240729001546",
+                "is_unavailable": false,
+                "audio_filename": "audio__97.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are the Nameless really that famous?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "You bet! The Interastral Peace Broadcast recently did a whole segment about your glorious achievements!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_2_firefly_111.ogg/revision/latest?cb=20240729001548",
+                "is_unavailable": false,
+                "audio_filename": "audio__98.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "I also know that you guys often travel around different places in the cosmos. Did The Family invite you here? I—I'd be happy to show you around!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter3_2_firefly_112.ogg/revision/latest?cb=20240729001550",
+                "is_unavailable": false,
+                "audio_filename": "audio__99.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm not doing autographs today...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "That's not what I meant. Though I do admire the Nameless...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter3_2_firefly_113.ogg/revision/latest?cb=20240729001552",
+                "is_unavailable": false,
+                "audio_filename": "audio__100.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "The Family invited you here, right? I—I'd be happy to show you around!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_2_firefly_114.ogg/revision/latest?cb=20240729001554",
+                "is_unavailable": false,
+                "audio_filename": "audio__101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Although the Bloodhounds mistook me for a stowaway, I'm actually a local. My name is Firefly , and I'm from the Iris Family . I work as a stage performer, although right now I'm just an extra...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter3_2_firefly_115.ogg/revision/latest?cb=20240729001557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "When there are no acting gigs, I work as a guide near Glaux Avenue. If you don't mind, I can show you all the exciting things around here! Maybe if I do my job as a guide, people will stop suspecting me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_2_firefly_116.ogg/revision/latest?cb=20240729001559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_103.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's awesome! I happen to need a tour guide.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Glad to hear that. After all, you just did me a huge favor!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter3_2_firefly_117.ogg/revision/latest?cb=20240729001601",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_104.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't you have work today?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm not booked for any performances, and most visitors to Penacony don't need tour guides anyway... They're all big shots who have their own entourage with them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter3_2_firefly_118.ogg/revision/latest?cb=20240729001605",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_105.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Well, you have a job now.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "Thanks. Let's go!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter3_2_firefly_119.ogg/revision/latest?cb=20240729001610",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_106.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Looks like life on the Planet of Festivities can be pretty tough...",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "No, it's not like that! Penacony is where people realize their dreams. There's always a festive atmosphere here! It's just that things can get a little crazy with the Charmony Festival drawing near...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter3_2_firefly_120.ogg/revision/latest?cb=20240729001612",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_107.ogg"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "I'm counting on you for a good tour then.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Firefly",
+                                "line": "Glad to hear that. After all, you just did me a huge favor!",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_2_firefly_121.ogg/revision/latest?cb=20240729001614",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Firefly_108.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Are you a Family member?",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Firefly",
+                                "line": "Me? No, I'm not one of them — not yet. I merely work for them...",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter3_2_firefly_122.ogg/revision/latest?cb=20240729001616",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Firefly_109.ogg"
+                            },
+                            {
+                                "type": "note",
+                                "text": "You notice her lowering her lashes and looking around, paying close attention to the crowd, as if something is hiding in it. But she quickly collects herself and returns her eyes to you."
+                            },
+                            {
+                                "type": "dialogue",
+                                "speaker": "Firefly",
+                                "line": "...We can talk about that another time! Right now, I wanna give you a tour of the town... Here we go!",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_2_firefly_123.ogg/revision/latest?cb=20240729001620",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Firefly_110.ogg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

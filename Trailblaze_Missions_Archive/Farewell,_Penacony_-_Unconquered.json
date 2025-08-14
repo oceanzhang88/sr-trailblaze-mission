@@ -1,0 +1,535 @@
+[
+    {
+        "type": "heading",
+        "text": "Continue the story at a specific location in The Reverie hotel"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You wake up in the dreampool and find yourself back in the real Reverie Hotel. According to March 7th, you really have woken up this time fromEna's Dream — theStellaronwas sealed while you were out, and all the major lineages, except for theOak Family, are dealing with the aftermath. She also said thatThe Familyhas invited theCrewto The Family'sRadiant Feldsparas witnesses for an important meeting.High-end cruise ships, luxury banquets... Now THIS is what a celebration banquet ought to look like. What else are you waiting for? Get ready to set off."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wake up... Wake up...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_26_mar7th_101.ogg/revision/latest?cb=20240701003402",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ ...Hey, (Trailblazer)! Wake up! The sun's frying your butt!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Vo_chapter3_26_mar7th_102_m.ogg/revision/latest?cb=20240701003406",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you okay? Can you hear me? I didn't hear a peep from your room, and it really freaked me out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_26_mar7th_103.ogg/revision/latest?cb=20240701003409",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_2.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Am I dreaming?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You're not dreaming. We're in The Reverie Hotel, in the real world. The Order 's dream is over.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Vo_chapter3_26_mar7th_104.ogg/revision/latest?cb=20240701003411",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Woah, this conversation is such déjà vu...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "What are you talking about? Are you still half-asleep or something...? The Order's dream is over.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_26_mar7th_105.ogg/revision/latest?cb=20240701003413",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Stop making a big fuss.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, I was seriously worried when you didn't respond. Thank goodness. The Order's dream is over.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_26_mar7th_106.ogg/revision/latest?cb=20240701003415",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Even though it's been a day, I still break into a sweat when I think about it. Our Trailblazing expedition almost ended in Penacony ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_26_mar7th_107.ogg/revision/latest?cb=20240701003417",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm so jealous that you got a good night's sleep. I was traumatized and too scared to even close my eyes. I thought if I fell asleep, I'd never wake up again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_26_mar7th_108.ogg/revision/latest?cb=20240701003422",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What happened to the Stellaron?"
+    },
+    {
+        "type": "choice",
+        "text": "Where are the others?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "They've already left, leaving this kindhearted girl to wake you up. You owe her big time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Vo_chapter3_26_mar7th_109.ogg/revision/latest?cb=20240701003424",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You'll have dark circles under your eyes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "A natural beauty like me never has dark circles!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_26_mar7th_110.ogg/revision/latest?cb=20240701003426",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Stellaron was sealed while you were sleeping. The ordinary people in Penacony have no idea what happened. They just feel like something is missing from their memories.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_26_mar7th_111.ogg/revision/latest?cb=20240701003428",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Family's official statement was like, \"The Charmony Festival was attacked by an unidentified Stellaron and came to a halt.\" After all, they can't just reveal the truth about the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_26_mar7th_112.ogg/revision/latest?cb=20240701003430",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Now, all the major lineages, except for the Oak Family, are dealing with the aftermath. The Family has invited the Crew to the Radiant Feldspar as witnesses for an important meeting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Vo_chapter3_26_mar7th_113.ogg/revision/latest?cb=20240701003432",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Everyone's waiting for you, so hurry up and pack. We're leaving as soon as you're ready!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_26_mar7th_114.ogg/revision/latest?cb=20240701003434",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk to March 7th and get ready to set off"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Phew, after all this craziness, nothing is better than staying safe in reality...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_26_mar7th_115.ogg/revision/latest?cb=20240701003436",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What is the \"Radiant Feldspar\"?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "It's a massive airship, and it's awesome! I heard it's never shown to the public. Only VIP guests of The Family get to board it and enjoy the breathtaking views of Penacony.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Vo_chapter3_26_mar7th_116.ogg/revision/latest?cb=20240701003438",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "The Iris Family sent us a bunch of souvenirs, fruit baskets, plus this fancy button model. After you're back on your feet, you can enjoy them all... We're pretty much celebrities on the Planet of Festivities now, aren't we?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_26_mar7th_117.ogg/revision/latest?cb=20240701003440",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Tell me more about the current state of Penacony...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "The Stellaron was sealed while you were sleeping. The ordinary people in Penacony have no idea what happened. They just feel like something is missing from their memories.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_26_mar7th_118.ogg/revision/latest?cb=20240701003442",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "The Family's official statement was like, \"The Charmony Festival was attacked by an unidentified Stellaron and came to a halt.\" After all, they can't just reveal the truth about the Order.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_26_mar7th_119.ogg/revision/latest?cb=20240701003444",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_18.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Now, all the major lineages, except for the Oak Family, are dealing with the aftermath. The Family has invited the Crew to the Radiant Feldspar as witnesses for an important meeting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_26_mar7th_120.ogg/revision/latest?cb=20240701003446",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_19.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened to you in Ena's dream?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Why the sudden interest in that? Well, I was dragged into the sweet dream. I felt a cold tentacle diving into my memories, but something else was there, so the tentacle suddenly disappeared.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_26_mar7th_121.ogg/revision/latest?cb=20240701003449",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_20.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "And then, I dreamed about stuffing my face with delicious food and going on a shopping spree... Sunday didn't seriously believe that was the life I wanted, right? Breaking free from that cheesy illusion... was just a piece of cake.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Vo_chapter3_26_mar7th_122.ogg/revision/latest?cb=20240701003452",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let's go meet up with others.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, let's go! We've got some time before we board the ship, so let's catch up with everyone at Dreamjolt Hostelry .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_26_mar7th_123.ogg/revision/latest?cb=20240701003453",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've got something else to do.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Oh, okay. Hurry up then. We'll leave when you're ready.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_26_mar7th_124.ogg/revision/latest?cb=20240701003455",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_23.ogg"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Talk to March 7th again)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Well, can we go now? Or is there something else you want to talk about?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_26_mar7th_125.ogg/revision/latest?cb=20240701003457",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_24.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous option selection)"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "How extravagant, just like Epsilon . How was it? Did it live up to your Dreamscape expectations?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_26_silverwolf_101.ogg/revision/latest?cb=20240701003459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You already asked that when we first got here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_26_firefly_102.ogg/revision/latest?cb=20240701003332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Yeah, and you said \"no\" back then. But after all this madness, I'd say you've grown fond of it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_26_silverwolf_102.ogg/revision/latest?cb=20240701003501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Just a heads-up, you're still on the Bloodhound Family's wanted list. So, keep a low profile.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_26_silverwolf_103.ogg/revision/latest?cb=20240701003503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "And this time, it's Firefly in the picture, not Sam. That's gotta be a whole new experience for you, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_26_silverwolf_104.ogg/revision/latest?cb=20240701003505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Indeed. In Kafka 's words... that's also a \"missing part\" of my life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_26_firefly_103.ogg/revision/latest?cb=20240701003334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Still, it'd be quite inconvenient if I can't move freely. Could you help me out, Silver Wolf?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_26_firefly_104.ogg/revision/latest?cb=20240701003336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "I knew you'd say that. Don't worry. I've hacked all the systems and left no trace.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_26_silverwolf_105.ogg/revision/latest?cb=20240701003507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Don't do anything that may draw attention, and don't talk with guards, they might recognize you. Keep these two points in mind, and you can go wherever you want unbothered.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_26_silverwolf_106.ogg/revision/latest?cb=20240701003508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Thank you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_26_firefly_105.ogg/revision/latest?cb=20240701003338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "No problem. Miss Samuel. Haha, I love this fake name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/Vo_chapter3_26_silverwolf_107.ogg/revision/latest?cb=20240701003510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Now that we're done here in Penacony, what will you do in your free time? I heard the Genius Society is here. How about we go stir up some excitement?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_26_silverwolf_108.ogg/revision/latest?cb=20240701003512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Well, you know, my \"script\" isn't over yet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_26_firefly_106.ogg/revision/latest?cb=20240701003340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "...I didn't bring you back to hear an answer like that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_26_silverwolf_109.ogg/revision/latest?cb=20240701003514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Don't worry. The script says that I'll experience three \"deaths\" but also receive an \"unforgettable reward\" on the Planet of Festivities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_26_firefly_107.ogg/revision/latest?cb=20240701003342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "How will I know if I don't try? All possibilities exist until the outcome actually happens, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Vo_chapter3_26_firefly_108.ogg/revision/latest?cb=20240701003348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "You may not realize it, but you have a bad habit: Whenever you seem to be asking a question, you've already made up your mind, and no words will dissuade you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_26_silverwolf_110.ogg/revision/latest?cb=20240701003516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Anyway, Kafka asked me to pass on this message: \"If you see anything fabulous in Penacony, get one for me too. Just swipe my card, you know the PIN.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_26_silverwolf_111.ogg/revision/latest?cb=20240701003518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "She didn't specify anything, but I guess she means a dress, coat, sunglasses, or something else... You know better about fashion than I do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_26_silverwolf_112.ogg/revision/latest?cb=20240701003520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Sure, I'll keep an eye out. There's tons of options at Oti Mall. Do you think she'll like trinkets like... hair accessories or brooches?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_26_firefly_109.ogg/revision/latest?cb=20240701003350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Those sound more like something for young girls. Maybe you should keep them for yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_26_silverwolf_113.ogg/revision/latest?cb=20240701003522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Oh, by the way, Blade didn't explicitly say it, but I think he was trying to say something like... \"Temptation will show up again in Penacony.\" He's always so subtle with his words.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_26_silverwolf_114.ogg/revision/latest?cb=20240701003524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Got it. He was just worried about me. Relax, Silver Wolf. You know me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_26_firefly_110.ogg/revision/latest?cb=20240701003352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I won't do anything crazy. I just want to wander around and see more of the world for myself. I want to buy some Oak Cake Rolls . I've had a cake roll every day since I arrived in Penacony, from the first day to the last.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_26_firefly_111.ogg/revision/latest?cb=20240701003354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But today, I'll buy two and give you one. And if you don't like them, I'll enjoy double the pleasure. Or I can bring one to Kafka, as she never refuses. Or maybe I'll give it to... Blade. He'll appreciate it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_26_firefly_112.ogg/revision/latest?cb=20240701003356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That's not written in the script, right? But as you see...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_26_firefly_113.ogg/revision/latest?cb=20240701003358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I've added new footnotes to my destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_26_firefly_114.ogg/revision/latest?cb=20240701003400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching toTopaz's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Meanwhile, Topaz boards a certain luxurious airship in Penacony, awaiting the beginning of an important meeting..."
+    }
+]

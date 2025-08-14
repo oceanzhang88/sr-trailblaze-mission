@@ -1,0 +1,667 @@
+[
+    {
+        "type": "heading",
+        "text": "Discuss Sunday's request"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Although it is not a request to formally join theExpress Crew, a former opponent's request to travel alongside you is still worthy of due consideration. That being said... You would really enjoy having a junior you can bully— you mean give guidance to."
+    },
+    {
+        "type": "note",
+        "text": "Some time later..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So, this is why I brought him here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter3_47_welt_101.ogg/revision/latest?cb=20241206234940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Mr. Sunday wants to join us on the Express . Of course, I can't make that decision alone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter3_47_welt_102.ogg/revision/latest?cb=20241206234941",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But if you didn't support this idea, you wouldn't have brought him back.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Welt, I trust your judgment. If someone is willing to join us on our journey, the Express will be open to them.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ But this time is a bit different. Before making any decision, ( Trailblazer ), I want to hear what you think.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "In this battle, you were the one who directly confronted him. Your opinion holds the most weight.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I want to hear everyone's opinion.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "But in this battle, you were the one who directly confronted him. Your opinion holds the most weight.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't have anything to say.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Oh, really? But your face tells me otherwise. Come on, spill it. Your opinion holds the most weight.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I learn the most valuable lessons from my past opponents. Please say whatever's on your mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_47_sunday_101.ogg/revision/latest?cb=20241206234942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "You are a noble person.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ You're a noble person. I can't deny that you always have compassion in your heart, even though we may view things differently.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You always want to be in control.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ You're a perfectionist, always trying to control everything — even when it comes to yourself. Although, we're going to be traveling further into the unknown once we leave Penacony . I guess a change of pace could do everyone some good.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You've disappointed many people.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ You know what I'm going to say. Tons of people trusted you, but you let them all down — even your closest family. Don't you forget that.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(All choices lead to the following options)"
+    },
+    {
+        "type": "choice",
+        "text": "I agree with what you stand for.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ I believe there is a way — a better way — to achieve your ideal. Seven rest days may be just a metaphor... But I look forward to the day when it comes true.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Have some hope in humanity.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Maybe you're too pessimistic about humanity, but the Trailblaze isn't like that. We had to learn to have faith before embarking on this path. You must do the same.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You have an unrealistic ideal.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Ideals are good to have, but nothing good comes from getting carried away in fantasies. I can never agree with how you dragged everyone into that world of yours just to fulfill an illusory dream.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(All choices lead to the following options)"
+    },
+    {
+        "type": "choice",
+        "text": "We can be friends.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Nothing is for certain, anyway. An enemy yesterday may be a friend today.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're a worthy adversary.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Anyhow, you've been an unforgettable adversary to me, even though I haven't been trailblazing for long...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't agree with Mr. Yang...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ In any case, I'm gonna have to disagree with Mr. Yang...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(All choices lead to the following options)"
+    },
+    {
+        "type": "choice",
+        "text": "He can join the Astral Express Crew.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Welcome aboard the Astral Express.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I second that.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Well, you did get nerfed after turning into a good guy... So, I guess I'm okay, too!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter3_47_mar7th_101.ogg/revision/latest?cb=20241206234943",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_3.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Thank you all for your forgiveness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter3_47_sunday_102.ogg/revision/latest?cb=20241206234944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_4.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Perhaps I'll find the answer I'm looking for on this journey. And when that day comes, it'll be farewell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter3_47_sunday_103.ogg/revision/latest?cb=20241206234944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_5.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Until then, rest assured that I will do my best to fulfill my duty as your companion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter3_47_sunday_104.ogg/revision/latest?cb=20241206234945",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Finally, I'm no longer the newbie.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ Come on, you're taking over as newbie.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "He's just traveling with us, not an actual member of the Express crew yet! Your newbie status is untouchable.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter3_47_mar7th_102.ogg/revision/latest?cb=20241206234946",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_7.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I'm fine with that.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Thank you all for your forgiveness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_47_sunday_105.ogg/revision/latest?cb=20241206234947",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_8.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Perhaps I'll find the answer I'm looking for on this journey. And when that day comes, it'll be farewell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_47_sunday_106.ogg/revision/latest?cb=20241206234948",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_9.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Until then, rest assured that I will do my best to fulfill my duty as your companion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter3_47_sunday_107.ogg/revision/latest?cb=20241206234949",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_10.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Maybe we should hear everyone else's opinion.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ I have nothing more to add. I'll let you all decide, then.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I'm fine with that.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Well, you did get nerfed after turning into a good guy... So, I guess I'm okay, too!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_47_mar7th_103.ogg/revision/latest?cb=20241206234950",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Thank you all for your forgiveness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter3_47_sunday_108.ogg/revision/latest?cb=20241206234951",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_12.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Perhaps I'll find the answer I'm looking for on this journey. And when that day comes, it'll be farewell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter3_47_sunday_109.ogg/revision/latest?cb=20241206234951",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Until then, I will do my best to fulfill my duty as a passenger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter3_47_sunday_110.ogg/revision/latest?cb=20241206234952",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_14.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'll have my eye on you at all times.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ You should know that I'll be watching your every move.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I'll help you with that.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I guess it shouldn't be a problem. After all, he did get nerfed after turning into a good guy.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter3_47_mar7th_104.ogg/revision/latest?cb=20241206234953",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Thank you all for your forgiveness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter3_47_sunday_111.ogg/revision/latest?cb=20241206234954",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_16.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Perhaps I'll find the answer I'm looking for on this journey. And when that day comes, it'll be farewell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter3_47_sunday_112.ogg/revision/latest?cb=20241206234955",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Until then, I will do my best to fulfill my duty as a passenger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_47_sunday_113.ogg/revision/latest?cb=20241206234956",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_18.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I won't accept this, no matter what is said.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ I won't pretend I'm okay with it. You can be our passenger, but you're not joining us.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter3_47_sunday_114.ogg/revision/latest?cb=20241206234957",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Of course, you have every reason to feel that way. In that case, I won't inconvenience you all any more than necessary. I'll find a stop to disembark at once the Express departs Asdana .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter3_47_sunday_115.ogg/revision/latest?cb=20241206234957",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_20.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Until then, rest assured that I will behave as expected of a passenger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter3_47_sunday_116.ogg/revision/latest?cb=20241206234958",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Uh... I guess that'll have to do, then.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter3_47_mar7th_105.ogg/revision/latest?cb=20241206234959",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_22.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I'll keep a close eye on him in the meantime.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Looks like we've come to a decision.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Remember to keep the conductor in the loop, too.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Now that our business on Penacony is settled, it's about time we get back on track and prepare for our next warp jump?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter3_47_welt_103.ogg/revision/latest?cb=20241206235000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Yeah, but let me try contacting Madam Herta again before we set off. She helped us look into Amphoreus , even though nothing new came up... I should at least let her know we're leaving.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "\"Try\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter3_47_welt_104.ogg/revision/latest?cb=20241206235001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I tried contacting the space station several times, but I never got any response. Maybe there's a problem with the Interastral Network.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It shouldn't be anything to worry about. What could happen on the geniuses' home turf? Even the Antimatter Legion wouldn't stand a chance...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "For all we know, Madam Herta could be making a move again.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No, we're still not quite there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_47_herta_101.ogg/revision/latest?cb=20241206235002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Alright, it's time to leave the space station.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Indeed, this is only a minor ripple that no one will ever notice...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "So, you must also understand, for a genius...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "The importance of asking questions outweighs the importance of the answers themselves.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "So-called magic has its own set of principles.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "There are no mysteries in this universe that cannot be solved.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "So...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "The Herta",
+                "line": "All-seeing presence —",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "The Herta",
+                "line": "I ask you this—",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "The Herta",
+                "line": "What is divinity?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Mission complete)\n(Visitor Verification)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Fuguehas become a visitor to the Express. You might come across Fugue when you return to the Express)"
+            }
+        ]
+    }
+]

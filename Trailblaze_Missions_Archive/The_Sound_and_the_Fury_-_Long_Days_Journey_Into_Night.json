@@ -1,0 +1,710 @@
+[
+    {
+        "type": "heading",
+        "text": "View the message from the crew"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "A new journey is about to begin. View the message from the Crew and check to see if everyone is prepared."
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Parlor Car to join the navigation meeting"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "A new journey is about to begin. Pom-Pom has stated in the group chat that they want to stress \"three things\" during this navigation meeting. Given that the conductor rarely leaves people in suspense, perhaps you can mull over what they are thinking and play the role of the stern conductor's straight man for the navigation meeting.Find a suitable place in the Parlor Car to wait for everyone to arrive."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon teleporting to the Parlor Car)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Time to head to the next stop. Let's meet up with everyone in the Parlor Car...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_0_player_101_m.ogg/revision/latest?cb=20240729015317",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_0.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Crew)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Pom-Pom's not here yet?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter3_0_mar7th_101.ogg/revision/latest?cb=20240729015231",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Pom-Pom knows how to keep people on the edge of their seats.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter3_0_himeko_101.ogg/revision/latest?cb=20240729015154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "*ahem* Apologies for the delay, dear passengers. Something important came up, so I, the conductor, had to spend some time preparing!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter3_0_pompom_101.ogg/revision/latest?cb=20240729015323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_3.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So... what came up?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah! What was so important?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter3_0_mar7th_102.ogg/revision/latest?cb=20240729015233",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's rare for the conductor to make an announcement.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah! What was so important?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_0_mar7th_103.ogg/revision/latest?cb=20240729015235",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are we switching routes again?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Huh? But I only just finished packing my bags!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter3_0_mar7th_104.ogg/revision/latest?cb=20240729015237",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "I thought everyone knew! Our next destination is the Planet of Festivities, Penacony .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_0_pompom_102.ogg/revision/latest?cb=20240729015326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "I know everyone's eager to disembark and get to that famous stellar hotel , but before we set off, I should remind everyone of three things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_0_pompom_103.ogg/revision/latest?cb=20240729015331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "First: Penacony is located in Asdana , a star system brimming with memoria , which has historically been one of the Macro Voids that leaked out from the Memory Zone. Even after eons, the memoria concentration up ahead is above normal levels.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_0_pompom_104.ogg/revision/latest?cb=20240729015333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Usually, this wouldn't be a huge problem... but everyone's different, so if you exhibit any signs of dizziness, hallucination, distorted memories or any other symptoms, you should take them seriously!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter3_0_pompom_105.ogg/revision/latest?cb=20240729015335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Second: Penacony is a colony belonging to the Harmony Family — it also marks the first time this Family has extended a public invitation to other factions. Please remember that the Express has been invited as a guest, and that we must adhere to any and all regulations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_0_pompom_106.ogg/revision/latest?cb=20240729015337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Got it! When in Rome, as they say! Don't worry, Conductor, we definitely won't embarrass the Nameless .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter3_0_mar7th_105.ogg/revision/latest?cb=20240729015240",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Rome? Anyway... Third and final: Rather than being a request... Pom-Pom has a favor to ask of everyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter3_0_pompom_107.ogg/revision/latest?cb=20240729015340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "If you could, I hope that while you're all on vacation, you could spare some time to help inquire about a few of the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_0_pompom_108.ogg/revision/latest?cb=20240729015342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_14.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What Nameless?"
+    },
+    {
+        "type": "note",
+        "text": "Are we getting new crew mates?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Allow me to explain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_0_himeko_102.ogg/revision/latest?cb=20240729015156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Just like most of the worlds that the Express calls at, Penacony is one of the stops along the silver tracks . Several millennia ago, it was an IPC frontier prison, and it was the Trailblaze that connected it to thousands of stars.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter3_0_himeko_103.ogg/revision/latest?cb=20240729015158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "During that time, the Astral Express once visited Penacony. As with all meetings, they inevitably lead to goodbyes. As the Express's logs indicate, it seems some passengers decided to call Penacony their permanent home.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter3_0_himeko_104.ogg/revision/latest?cb=20240729015200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_17.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is this a rare happening?"
+    },
+    {
+        "type": "note",
+        "text": "Who could be this important?"
+    },
+    {
+        "type": "note",
+        "text": "It's been so long. Will we still be able to find them?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Don't worry, just think of it as returning to your hometown. Following the Express's departure, the Stellarons cut off contact to myriad worlds, and Penacony's ownership switched hands several times.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter3_0_himeko_105.ogg/revision/latest?cb=20240729015203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Why did these Nameless choose to stay here? How did the course of their subsequent lives unfold, and what legacies did they leave behind? Retracing our predecessors' footsteps, that is in itself an adventure, wouldn't you agree?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_0_himeko_106.ogg/revision/latest?cb=20240729015206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Even if they left the stars behind them, their Trailblaze would not be over. That's also what the conductor thinks, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter3_0_himeko_107.ogg/revision/latest?cb=20240729015208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "According to the passenger list, the three people who got off were Tiernan , Legwork , and Razalina — the Express's guard, mechanic, and surveyor, respectively. No supplementary details are available.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter3_0_himeko_108.ogg/revision/latest?cb=20240729015210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Just names and occupations? And they don't even sound like their real names either... This will be like looking for a needle in a haystack!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter3_0_mar7th_106.ogg/revision/latest?cb=20240729015242",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We'll just leave it to the stars of fate. Considering the Nameless' diversity... Perhaps we might even stumble upon their descendants, or, against the slimmest of chances, the very individuals themselves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter3_0_himeko_109.ogg/revision/latest?cb=20240729015213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We'll conclude today's navigation meeting on this point. There's a bit of time left before we jump. In the meantime, might be a good idea to double-check your bags.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter3_0_himeko_110.ogg/revision/latest?cb=20240729015215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "I'll broadcast an announcement before we jump!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter3_0_pompom_109.ogg/revision/latest?cb=20240729015344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_25.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with the Crew (0/4)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The navigation meeting has come to an end and the \"three things\" that Pom-Pom mentioned do not include the Astral Express being able to transform into a giant robot. Though you have to admit this is disappointing, a journey to track a trace of the old Nameless and Penacony itself are enticing enough topics.Before the warp begins, why not discuss your individual plans with everyone? Of course, you could also check in on the newest Interastral Peace Broadcast and see if the Crew can really make the headlines every day."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(There's still some time before the jump... I should talk to everyone.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the Interastral Peace Broadcast, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "note",
+        "text": "(Music)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Welcome to the Interastral Peace Broadcast. Good evening everyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_ambient_news3_anchorwoman_101.ogg/revision/latest?cb=20240729014515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Good evening.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_ambient_news3_anchorman_101.ogg/revision/latest?cb=20240729014444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Welcome to a new episode of Interastral Peace Broadcast. We are here to bring you the latest news from across the galaxy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_ambient_news3_anchorwoman_102.ogg/revision/latest?cb=20240729014517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "The IPC and the Xianzhou Alliance have renewed their trade agreement, bringing great economic benefits to both parties.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_ambient_news3_anchorman_102.ogg/revision/latest?cb=20240729014446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The head of the Armed Archaeologists of the Intelligentsia Guild, Allen Jones , personally oversaw the excavation of the ancient tomb of Emperor Rubert I . The ruins rank as a Category Omega site on the Potential Disaster Index.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_ambient_news3_anchorwoman_103.ogg/revision/latest?cb=20240729014520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Renowned songstress, Robin , has received an invitation to perform at Penacony's Charmony Festival .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_ambient_news3_anchorman_103.ogg/revision/latest?cb=20240729014449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The Garden of Recollection has gathered memoria fragments from the lost world of Moonshield — the precious memories of this world will not be forgotten.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_ambient_news3_anchorwoman_104.ogg/revision/latest?cb=20240729014522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Let's take a closer look at the details.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_ambient_news3_anchorman_104.ogg/revision/latest?cb=20240729014451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Regarding the IPC and the Xianzhou Alliance: The Xianzhou Luofu has opted to renew the trade agreement.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_ambient_news3_anchorman_105.ogg/revision/latest?cb=20240729014453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The agreement will help to open up markets and promote cooperation between the two sides in agriculture, industry, medicine, and culture, laying a solid foundation for a free, open, and prosperous business environment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_ambient_news3_anchorwoman_105.ogg/revision/latest?cb=20240729014525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "At the signing of the agreement, friendly talks were held between Madam Yukong , Sky-Faring Helm Master of the Luofu, and a representative of the IPC's Marketing Development Department . The two sides reached a consensus on various issues, including the impact of interstellar security on the free market.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_ambient_news3_anchorman_106.ogg/revision/latest?cb=20240729014455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The IPC also expressed their heartfelt concern for the Luofu regarding the recent invasion by the Antimatter Legion and sent their condolences to the victims.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_ambient_news3_anchorwoman_106.ogg/revision/latest?cb=20240729014527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "The IPC strongly condemns the barbaric atrocities committed by the Antimatter Legion and conveys the Amber Lord's wish for Preservation to all worlds ravaged by that wretched force.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_ambient_news3_anchorman_107.ogg/revision/latest?cb=20240729014458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Emperor Rubert I left many horrific relics across the universe, and one of them, the Mechanical Emperor Tomb, has captivated the interests of countless people since its discovery.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_ambient_news3_anchorwoman_107.ogg/revision/latest?cb=20240729014530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "The excavation of the tomb is headed by the head of the Armed Archaeologists of the Intelligentsia Guild, Allen Drake One-Armed Jones, with assistance from Genius Society member, Screwllum. It is hoped that the excavation of this metallic relic, which holds a Category Omega ranking on the Potential Disaster Index, will finally shed a light on its mysterious nature.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_ambient_news3_anchorman_108.ogg/revision/latest?cb=20240729014500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "According to records of the Emperor's deeds left behind by the Inorganic Legion, the original purpose of the site was to \"house the inventions inspired by the imagination of Rubert I.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_ambient_news3_anchorwoman_108.ogg/revision/latest?cb=20240729014532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "A spokesperson for the Intelligentsia Guild said, \"We have no way of knowing what amazing discoveries Jones will uncover, but we are hopeful that his findings will further our understanding of the Emperor and help save the universe from the horrors that he will bring with him when he returns.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_ambient_news3_anchorman_109.ogg/revision/latest?cb=20240729014502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The Interastral Peace Broadcast will be covering this story throughout the excavation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_ambient_news3_anchorwoman_109.ogg/revision/latest?cb=20240729014534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Penacony, the Planet of Festivities, announced that it will invite renowned singer, Robin, to perform at the Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_ambient_news3_anchorwoman_110.ogg/revision/latest?cb=20240729014536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Once every Amber-Era, countless followers of the Harmony will attend this long-held tradition of the Planet of Festivities, and together pray for a brighter and better future for the universe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_ambient_news3_anchorman_110.ogg/revision/latest?cb=20240729014504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Robin is a superstar whose voice is known throughout the cosmos. She has been the recipient of many top awards.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_ambient_news3_anchorwoman_111.ogg/revision/latest?cb=20240729014538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "It is believed that during the celebrations, Robin will sing a hymn for the Aeon of the Harmony in the name of The Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_ambient_news3_anchorwoman_112.ogg/revision/latest?cb=20240729014540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "The IPC will broadcast the entire event, sending the sounds of music and good wishes to worlds far and wide.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_ambient_news3_anchorman_111.ogg/revision/latest?cb=20240729014506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "As we all know, the Garden of Recollection has always been committed to the restoration of lost civilizations, igniting the spark of revival across the cosmos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_ambient_news3_anchorman_112.ogg/revision/latest?cb=20240729014509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "According to reliable sources, thanks to the efforts of the Memokeepers, all memoria fragments of the deadworld of Moonshield have been salvaged.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_ambient_news3_anchorwoman_113.ogg/revision/latest?cb=20240729014542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Moonshield was destroyed during an invasion by the Antimatter Legion, but with the combined efforts of the IPC and the Garden of Remembrance, the collection of information about the fallen world was recently declared a success. The Memokeepers plan for it to be reborn in the pristine land of the Remembrance .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_ambient_news3_anchorman_113.ogg/revision/latest?cb=20240729014511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "The Destruction can destroy any material thing, but it can never take away our hope. The IPC will provide whatever support and protection within its means for the long-term development of all civilizations across the universe — including those that have perished.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_ambient_news3_anchorwoman_114.ogg/revision/latest?cb=20240729014545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "And this is the end of our broadcast. Please tune in for our next episode. Thank you for listening.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_ambient_news3_anchorman_114.ogg/revision/latest?cb=20240729014513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Thank you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_ambient_news3_anchorwoman_115.ogg/revision/latest?cb=20240729014546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_54.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Music)"
+    },
+    {
+        "type": "heading",
+        "text": "Sit on the sofa and prepare for the warp jump"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "It seems that everyone has been looking forward to a trip to the Dream Amusement Park for a long time — Everyone except Dan Heng — He prefers quiet places, and you have already witnessed his allergy to amusement parks.The Express's announcement system stated that the warp jump is about to begin. It's time for you to get back to your designated waiting position."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(It's about time... I should find a seat.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Rest on the sofa)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Ahem, hi, hello~ Attention all passengers.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "The Express is about to make the jump — The Express is about to make the jump — Please be seated and hold on!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "The train is about to make the jump!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "5",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "4",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "3",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "2",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "1",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(BeginThe Knocking at Ungodly Hours)"
+    },
+    {
+        "type": "section_header",
+        "text": "The Knocking at Ungodly Hours"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "This warp jump is quite unusual. In the blink of an eye, you transition from the comfortable couch of theParlor Carto an unfamiliar location. A stranger awakens you, claiming that both of you coincidentally share the same dream, and offers to guide you to an exit.Follow her guidance and leave this area."
+    },
+    {
+        "type": "heading",
+        "text": "Meet with March 7th"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The woman in the dream seems to be trying to tell you something, though you don't know what it is. The next thing you know, she swings a blade at you, and the strange dreamscape disappears in an instant.When you open your eyes, you realize that the train has already arrived in Penacony. It looks like March 7th is waiting for you. Alight from the train with her."
+    },
+    {
+        "type": "condition",
+        "text": "(After completing sub-missionThe Knocking at Ungodly Hours)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is March 7th still packing her luggage...?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_0_player_108_m.ogg/revision/latest?cb=20240729015321",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_55.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), you're up? How's your prep going? Welt and Himeko beat us to the punch, but I stuck around for you. Let's get going.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_0_mar7th_116_m.ogg/revision/latest?cb=20240729015307",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mm... Shall we go meet up with them now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter3_0_mar7th_117.ogg/revision/latest?cb=20240729015309",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_57.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm ready to go.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Penacony, the Planet of Festivities, the universe's biggest and fanciest amusement park awaits!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_0_mar7th_118.ogg/revision/latest?cb=20240729015311",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Hold on a moment.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You left something behind? Hurry up and go get it, I'll wait here for you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter3_0_mar7th_119.ogg/revision/latest?cb=20240729015313",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_59.ogg"
+            }
+        ]
+    }
+]

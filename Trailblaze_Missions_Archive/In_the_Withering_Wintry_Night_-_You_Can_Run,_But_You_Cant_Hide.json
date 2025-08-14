@@ -1,0 +1,728 @@
+[
+    {
+        "type": "heading",
+        "text": "Find a way to leave the Fragmentum and shake off the pursuers"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You rush into the Fragmentum to avoid getting caught. How come things went downhill so quickly?March 7thhas no clue — she's written as an innocent and sweet teenage girl after all.Despite the initial shock, you quickly agree on the course of action: find the way out of the Fragmentum first. Everything else can wait."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking through the alley)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So what happened back there? Why did the supreme guardian send people to arrest us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter1_1_mar7th_279.ogg/revision/latest?cb=20241030175229",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Imagine launching a surprise attack when your enemy is fast asleep. The cheek!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_1_mar7th_280.ogg/revision/latest?cb=20241030175230",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "That woman had a troubling aura... our instincts were correct.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_1_danheng_239.ogg/revision/latest?cb=20241030175231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player approaches the gate down the left fork)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait! There are Silvermane Guards here. Careful not to alert them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_1_mar7th_281.ogg/revision/latest?cb=20241030175232",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "They must have entered from another direction to cut us off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_1_danheng_240.ogg/revision/latest?cb=20241030175233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We should avoid an open conflict. Let's find another path.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter1_1_danheng_241.ogg/revision/latest?cb=20241030175233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the controller down the right fork)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Doesn't seem like there's any way to open this gate... Ooh, check this mechanism out. Look familiar?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_1_mar7th_282.ogg/revision/latest?cb=20241030175234",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Yes, we saw one in Serval 's workshop .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter1_1_danheng_242.ogg/revision/latest?cb=20241030175235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We need to solve it before we run out of time. The Guards are right on our heels.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_1_danheng_243.ogg/revision/latest?cb=20241030175236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon solving theMagflow Linkpuzzle and opening the gate)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You rush into the Fragmentum to avoid getting caught. How come things went downhill so quickly? March 7th has no clue — she's written as an innocent and sweet teenage girl after all.Despite the initial shock, you quickly agree on the course of action: find the way out of the Fragmentum first. Everything else can wait.You successfully open the metal door. All that's left is to carefully find a way out while avoiding being caught by the Silvermane Guards."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the second gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I don't see a switch for the gate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_1_mar7th_284.ogg/revision/latest?cb=20241030175237",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah! Over there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter1_1_mar7th_285.ogg/revision/latest?cb=20241030175238",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There's a monster in the area. We'll need to deal with it first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_1_danheng_244.ogg/revision/latest?cb=20241030175239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_11.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Eliminate the monster and activate the switch"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You rush into the Fragmentum to avoid getting caught. How come things went downhill so quickly? March 7th has no clue — she's written as an innocent and sweet teenage girl after all.Despite the initial shock, you quickly agree on the course of action: find the way out of the Fragmentum first. Everything else can wait.Being blocked by a second gate while trying to escape is so cliche... However, there are monsters wandering around the gate switch this time.Defeat the monsters and clear the stage!"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockConsumables, interactive tutorial)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Open your Inventory to view the Consumables you have."
+            },
+            {
+                "type": "note",
+                "text": "Select Consumables"
+            },
+            {
+                "type": "note",
+                "text": "Use the right Consumables with their different effects to help your exploration."
+            },
+            {
+                "type": "note",
+                "text": "Wrathful Gauntlets can offer an ATK boost for all characters"
+            },
+            {
+                "type": "note",
+                "text": "Use Wrathful Gauntlets to enhance your entire team."
+            },
+            {
+                "type": "note",
+                "text": "Tap to use"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainWrathful Gauntlets×1,Solid Water×10,Basic Ingredients×10,  andComfort Food×10)"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Tap to view details of the current Status Effect ."
+            },
+            {
+                "type": "note",
+                "text": "After using a Consumable, the effects of the item will be shown at the Item Buff area"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Battle againstFlamespawn×2,Incineration Shadewalker×2)"
+    },
+    {
+        "type": "heading",
+        "text": "Find a way to leave the Fragmentum and shake off the pursuers"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You rush into the Fragmentum to avoid getting caught. How come things went downhill so quickly? March 7th has no clue — she's written as an innocent and sweet teenage girl after all.Despite the initial shock, you quickly agree on the course of action: find the way out of the Fragmentum first. Everything else can wait.You are the bane of all gates... The two you've opened would agree.The Fragmentum exit is right in front of you. Safety is within reach... for the time being."
+    },
+    {
+        "type": "condition",
+        "text": "(After walking past the gate, a cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Look out!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "She really caught up with us...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Even had time to set up an ambush...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Hmph, you dare underestimate me?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Even though it has suffered Fragmentum corrosion, this is still part of Belobog . It was our home. The Guards know this place like the back of their hand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_1_bronya_211.ogg/revision/latest?cb=20241030175240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Enough cat and mouse — drop your weapons and come with me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_1_bronya_212.ogg/revision/latest?cb=20241030175241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ugh, you're such a nuisance! Just what crime are we supposed to have committed again? It better be worth you following us all the way out here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_1_mar7th_286.ogg/revision/latest?cb=20241030175242",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "My orders are to arrest you. It is for the adjudication panel to present you with the nature and penalty of your alleged crimes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_1_bronya_213.ogg/revision/latest?cb=20241030175243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You saw us yesterday, do you remember? Madam Cocolia received us as honored guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_1_danheng_245.ogg/revision/latest?cb=20241030175244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "How can such a drastic change have occurred in the course of one night?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_1_danheng_246.ogg/revision/latest?cb=20241030175245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...The Madam Guardian investigated your backgrounds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter1_1_bronya_214.ogg/revision/latest?cb=20241030175245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "She summoned me last night to tell me that you had deceived her. Your identities and purpose here are counterfeit. You seek to overthrow the rule of the Architects .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_1_bronya_215.ogg/revision/latest?cb=20241030175246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah! What a two-faced hag!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter1_1_mar7th_287.ogg/revision/latest?cb=20241030175247",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Publicly insulting the supreme guardian only elevates the seriousness of your crimes. Throw down your arms and surrender!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_1_bronya_216.ogg/revision/latest?cb=20241030175248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We're wasting our words, March. At least one thing is clear: We mustn't be caught.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_1_danheng_247.ogg/revision/latest?cb=20241030175249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well, if there's no escape, then maybe it's time we gave them a taste of Astral Express medicine!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter1_1_mar7th_288.ogg/revision/latest?cb=20241030175250",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstSilvermane Soldier×2,Silvermane Gunner×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating the first wave of soldiers, a cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ah...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(A soldier leaps at March 7th from behind)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Duck!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ahhhh!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(The soldier is repelled by Dan Heng and is flung towards Bronya)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Silvermane Soldier",
+                "line": "Lady Bronya...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Hm...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I'll handle these evildoers...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Myself!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends, enter battle againstBronya×1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Battle ends when Bronya is reduced to 1% HP)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This girl's pretty strong... Hey Dan Heng, maybe now's a good time to show off your secret strength!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter1_1_mar7th_290.ogg/revision/latest?cb=20241030175251",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...You first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_1_danheng_248.ogg/revision/latest?cb=20241030175252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ugh, you're no fun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_1_mar7th_291.ogg/revision/latest?cb=20241030175253",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Intruders, give it up! You will be guaranteed a fair trial.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_1_bronya_220.ogg/revision/latest?cb=20241030175254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Ooh! Sorry, I didn't mean to ruin the intensity of the moment~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_1_sampo_201.ogg/revision/latest?cb=20241030175254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Several smoke grenades are tossed at the group)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "*gasp* What is this?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...I can't breathe...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "I have one thing to say:",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Sampo never lets friends who've helped him come to harm.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "I say what I mean... and I mean what I say.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Cocolia",
+        "line": "...They will suffer, sacrifice, and die because of my order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_CG2_cocolia_201.ogg/revision/latest?cb=20241030175255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Cocolia_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "It is not death which greets them... They will be swept into the infancy of a new world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter1_CG2_stellaron_201.ogg/revision/latest?cb=20241030175256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Cocolia",
+        "line": "What about the Underworlders ? They will lose the protection of the Architects. They will see me... as a tyrant.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter1_CG2_cocolia_202.ogg/revision/latest?cb=20241030175257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Cocolia_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "You have witnessed... the world we have promised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_CG2_stellaron_202.ogg/revision/latest?cb=20241030175258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "A temporary misunderstanding... for an eternity of prosperity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter1_CG2_stellaron_203.ogg/revision/latest?cb=20241030175259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "We will honor... your decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter1_CG2_stellaron_204.ogg/revision/latest?cb=20241030175300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Cocolia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_CG2_cocolia_203.ogg/revision/latest?cb=20241030175301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Cocolia_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Cocolia",
+        "line": "I understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_CG2_cocolia_204.ogg/revision/latest?cb=20241030175302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Cocolia_36.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After waking up)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "*sigh* ...Come on, those toys of yours aren't that dangerous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_2_natasha_201.ogg/revision/latest?cb=20241030175303",
+        "is_unavailable": false,
+        "audio_filename": "audio__37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ Uh, then why hasn't ( he / she ) woken up yet?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter1_2_sampo_201_m.ogg/revision/latest?cb=20241030175304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "▶ Because ( he's / she's ) sound asleep — didn't you hear ( him / her ) sleep talking? ...Poor child, sounded like a bad nightmare.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_2_natasha_202_m.ogg/revision/latest?cb=20241030175306",
+        "is_unavailable": false,
+        "audio_filename": "audio__39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Tell me the truth Sampo — what are you gonna do about the Overworld girl?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_2_natasha_204.ogg/revision/latest?cb=20241030175307",
+        "is_unavailable": false,
+        "audio_filename": "audio__40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "What am I gonna do about her? Why, wait for the opportunity and send her back together with the rest of them of course, I... Hey come on, what's with the—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_2_sampo_203.ogg/revision/latest?cb=20241030175308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You're a bad liar, Sampo Koski.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_2_natasha_205.ogg/revision/latest?cb=20241030175309",
+        "is_unavailable": false,
+        "audio_filename": "audio__42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Wha— ...I didn't mean to bring her along! The smoke was too dense, I was in a daze! Before I knew it, I'd somehow dragged her down here too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter1_2_sampo_204.ogg/revision/latest?cb=20241030175310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What are you up to, Sampo? Why do you insist on getting caught up in Overworld affairs that have nothing to do with you? If it's a whole lot more attention from Wildfire you want, you're going about it the right way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_2_natasha_206.ogg/revision/latest?cb=20241030175311",
+        "is_unavailable": false,
+        "audio_filename": "audio__44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Hey now! Sampo Koski's primary concern is taking care of his friends. These guys scratched my back. How could I live with myself if I didn't scratch theirs?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter1_2_sampo_205.ogg/revision/latest?cb=20241030175312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "And another thing! Where does Wildfire get off... assuming that these fine folks won't come in useful to them, huh? I mean, you never know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_2_sampo_206.ogg/revision/latest?cb=20241030175313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Which is why you've set them loose in the underground?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter1_2_natasha_207.ogg/revision/latest?cb=20241030175314",
+        "is_unavailable": false,
+        "audio_filename": "audio__47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Come on, accidents happen! I'll have them rounded up in no time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_2_sampo_207.ogg/revision/latest?cb=20241030175315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "*sigh* That girl... get her back as soon as possible, then don't let her out of your sight. The underground has been sealed off for over ten years now — the children won't even remember what overgrounders look like. If a girl in a Silvermane Guard uniform suddenly shows up...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter1_2_natasha_208.ogg/revision/latest?cb=20241030175316",
+        "is_unavailable": false,
+        "audio_filename": "audio__49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...what would Wildfire do with her? What would they do with you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_2_natasha_209.ogg/revision/latest?cb=20241030175317",
+        "is_unavailable": false,
+        "audio_filename": "audio__50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Alright, I get it! I'm setting off right now. I'll have to trouble you to look after them while I'm gone, ma'am.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_2_sampo_208.ogg/revision/latest?cb=20241030175318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...Hey sleepyhead, looks like you're awake.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_2_natasha_210.ogg/revision/latest?cb=20241030175319",
+        "is_unavailable": false,
+        "audio_filename": "audio__52.ogg"
+    }
+]

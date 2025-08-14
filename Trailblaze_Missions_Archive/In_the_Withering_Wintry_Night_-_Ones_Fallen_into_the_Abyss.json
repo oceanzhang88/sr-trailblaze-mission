@@ -1,0 +1,3260 @@
+[
+    {
+        "type": "heading",
+        "text": "Go to the entrance of the Great Mine and find Seele"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Just asBronya's being surrounded by the enemies,Seele, the backbone ofWildfirearrives just in time to save her but immediately turns to confront her after.In the end, Seele finally reveals her reason for being there:Oleg, leader of Wildfire is asking for an audience with the noble girl from the surface.Naturally, you can't pass up on this opportunity to get in touch with Wildfire. Follow Seele's instructions and head to theGreat Mine."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Seele)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hey, you came. That was fast.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_3_seele_201.ogg/revision/latest?cb=20241204031928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_0.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What is Wildfire doing in the mine?"
+    },
+    {
+        "type": "note",
+        "text": "What trouble has Wildfire gotten into?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Didn't I tell you? *sigh* Long story short —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_3_seele_202.ogg/revision/latest?cb=20241204031929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The underground used to have many mines. However, in recent years, some sort of corrosion called the \" Fragmentum \" started to spread. It's ruined a lot of mines.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_3_seele_203.ogg/revision/latest?cb=20241204031930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The one we're heading into is relatively unaffected. A bunch of vagrants made it their home after their old turf was consumed by the Fragmentum. Actually, most of them are pretty honest folks...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_3_seele_204.ogg/revision/latest?cb=20241204031931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "But with such a large group, it's inevitable that troublemakers will find their way in. They've been stealing from the miners and picking fights. And that's not the worst of it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_seele_205.ogg/revision/latest?cb=20241204031932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Things are much more serious this time... For two days now, huge clashes have been breaking out between the miners and the vagrants. It isn't pretty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_3_seele_206.ogg/revision/latest?cb=20241204031932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Mines are our lifelines in the Underworld . We have to keep providing Geomarrow to the Overworld in exchange for supplies.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_3_seele_207.ogg/revision/latest?cb=20241204031933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "In order to quell the situation, Chief Oleg brought Wildfire into the mine and left me in charge of security for the towns. But the situation in the mine is critical — I have to back him up.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_3_seele_208.ogg/revision/latest?cb=20241204031934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I don't think I understood, can you go over it again?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "The underground used to have many mines. However, in recent years, some sort of corrosion called the \"Fragmentum\" started to spread. It's ruined a lot of mines.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_3_seele_203.ogg/revision/latest?cb=20241204031930",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_8.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "The one we're heading into is relatively unaffected. A bunch of vagrants made it their home after their old turf was consumed by the Fragmentum. Actually, most of them are pretty honest folks...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_3_seele_204.ogg/revision/latest?cb=20241204031931",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_9.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "But with such a large group, it's inevitable that troublemakers will find their way in. They've been stealing from the miners and picking fights. And that's not the worst of it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_seele_205.ogg/revision/latest?cb=20241204031932",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Things are much more serious this time... For two days now, huge clashes have been breaking out between the miners and the vagrants. It isn't pretty.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_3_seele_206.ogg/revision/latest?cb=20241204031932",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Mines are our lifelines in the Underworld. We have to keep providing Geomarrow to the Overworld in exchange for supplies.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_3_seele_207.ogg/revision/latest?cb=20241204031933",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_12.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "In order to quell the situation, Chief Oleg brought Wildfire into the mine and left me in charge of security for the towns. But the situation in the mine is critical — I have to back him up.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_3_seele_208.ogg/revision/latest?cb=20241204031934",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Understood, let's go."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Oh, as for you... the Chief will decide your fate when we see him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter1_3_seele_215.ogg/revision/latest?cb=20241204031935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Good, I've been wanting to come face to face with the leader of the Underworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_3_bronya_201.ogg/revision/latest?cb=20241204031714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph, you're about to come face to face with reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter1_3_seele_216.ogg/revision/latest?cb=20241204031936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_16.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Enter the Great Mine"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Just as Bronya's being surrounded by the enemies, Seele, the backbone of Wildfire arrives just in time to save her but immediately turns to confront her after.In the end, Seele finally reveals her reason for being there: Oleg, leader of Wildfire is asking for an audience with the noble girl from the surface.Naturally, you can't pass up on this opportunity to get in touch with Wildfire. All you have to do is to find Seele in the mines... But where is she?"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon entering the Great Mine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? Isn't that the doctor lady?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_3_mar7th_201.ogg/revision/latest?cb=20241204031752",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "What's Natasha doing here...? Things must be worse than I thought.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter1_3_seele_217.ogg/revision/latest?cb=20241204031937",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_18.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to head deeper into the mine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hey, where are you going!? Don't think you can just run off — come back here and finish talking things through with Natasha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_3_seele_226.ogg/revision/latest?cb=20241204031945",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_19.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the commotion"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After arriving at the mines, you realize that things have been turned upside-down here: The miners of this mine have gotten into a violent confrontation with the vagrants.The miners that succeeded in fleeing the scene were petrified and the ones that didn't might be in dire straits. The miners' families are all crowded around the mine entrance...You notice that Chief Oleg probably isn't here. It seems like you'll have to assist Wildfire in settling the unrest before being able to meet him."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Natasha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Nat! I didn't think you'd be here. Where's Oleg?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_3_seele_218.ogg/revision/latest?cb=20241204031938",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Hey Seele, and... Sampo 's guests. So, it looks like you've already met.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter1_3_natasha_201.ogg/revision/latest?cb=20241204031828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "I haven't seen Oleg. The miners said they saw him take a group further in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_3_natasha_202.ogg/revision/latest?cb=20241204031829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_22.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "These people...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Miners and their family members. They want an explanation from the instigators.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter1_3_natasha_203.ogg/revision/latest?cb=20241204031829",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_23.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "This area up ahead is a vagrant dwelling, but they've sealed off the entrance. I guess they're afraid that angry miners might try to take revenge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter1_3_natasha_204.ogg/revision/latest?cb=20241204031831",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_24.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "*sigh* I heard that many were injured in the clashes, so I hurried over here to see if I could help.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_3_natasha_205.ogg/revision/latest?cb=20241204031831",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What are you doing here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "I heard that the miners had been having violent clashes with local thugs, with significant numbers of wounded. I hurried over to see if I could help.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_3_natasha_206.ogg/revision/latest?cb=20241204031832",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_26.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "You see these people? They're all miners and their family members. They want an explanation from the instigators.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_3_natasha_207.ogg/revision/latest?cb=20241204031833",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_27.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "This area up ahead is a vagrant dwelling, but they've sealed off the entrance. I guess they're afraid that angry miners might try to take revenge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_3_natasha_208.ogg/revision/latest?cb=20241204031834",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm not feeling too good...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Oh? You look fine to me. Sorry, I need to prioritize the wounded. There have been violent clashes between the miners and local thugs in the last few days — many people are injured.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_3_natasha_209.ogg/revision/latest?cb=20241204031835",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_29.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "You see these people? They're all miners and their family members. They want an explanation from the instigators.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_3_natasha_210.ogg/revision/latest?cb=20241204031836",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_30.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "This area up ahead is a vagrant dwelling, but they've sealed off the entrance. I guess they're afraid that angry miners might try to take revenge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter1_3_natasha_211.ogg/revision/latest?cb=20241204031837",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_31.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "How could the situation here become such a mess?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_3_seele_219.ogg/revision/latest?cb=20241204031939",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "I heard that First Mining Team found a Geomarrow vein with incredible deposits... The initial estimate put it at the largest discovery in the last thirty years.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_3_natasha_212.ogg/revision/latest?cb=20241204031838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Are you serious? That's big news. How come I never heard about it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_3_seele_220.ogg/revision/latest?cb=20241204031940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Well, they weren't in a hurry to make it known. Most of the mines have been contaminated by the Fragmentum — many people are out of work. They were afraid of being overwhelmed if they let the word out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_3_natasha_213.ogg/revision/latest?cb=20241204031839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "But the vagrants here have keen eyes — they couldn't keep it hidden from them. Some local gangs wanted to profit from the situation, so they blackmailed the mining team for hush money... and that was the final straw.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter1_3_natasha_214.ogg/revision/latest?cb=20241204031840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_36.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's the price of guarding a secret.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "*sigh* ...I can understand your thinking. It's just that the underground is in difficult straits...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_3_natasha_215.ogg/revision/latest?cb=20241204031841",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The vein should belong to those who discovered it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "As it happens, that's exactly the law we have down here. But the vagrants have their own custom: See it, share it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter1_3_natasha_216.ogg/revision/latest?cb=20241204031842",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_38.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "And that's how the clash started. Now both sides are dealing with heavy losses.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_3_natasha_217.ogg/revision/latest?cb=20241204031843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "So, are you guys here to help resolve the conflict?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_3_natasha_218.ogg/revision/latest?cb=20241204031844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "They're here because they need a favor from Chief Oleg. I'm escorting them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_3_seele_221.ogg/revision/latest?cb=20241204031940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "And seeing as you need that helping hand, it wouldn't be too much to ask you to lend one here first, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_3_seele_222.ogg/revision/latest?cb=20241204031941",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Of course we wanna help... we care about other people too y'know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_3_mar7th_202.ogg/revision/latest?cb=20241204031753",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_43.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We came here willing to help out.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Oh... that's quite nice of you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_3_seele_223.ogg/revision/latest?cb=20241204031942",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Sounds like a fair trade off.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Hmph, of course it is. Nobody gives without expecting something in return.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_3_seele_224.ogg/revision/latest?cb=20241204031943",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Not interested, sorry.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Suit yourself. I'm not forcing you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_seele_225.ogg/revision/latest?cb=20241204031944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_46.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Haha, I believe we're dealing with kind-hearted people here, Seele.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter1_3_natasha_219.ogg/revision/latest?cb=20241204031845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "As you've all seen, the situation down here is... strained. If you can, we really would appreciate you helping the people.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_3_natasha_220.ogg/revision/latest?cb=20241204031846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_48.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainNotice Under Bridge,Musketeer's Wild Wheat Felt Hat×1(2✦),  andMusketeer's Coarse Leather Gloves×1(2✦))"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Characters — Relics"
+    },
+    {
+        "type": "note",
+        "text": "Provides the wearer with bonus stats. Gains bonus buffs if the wearer has a complete set equipped."
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open the <span class=\"text-highlight\">Character</span> menu to view your Relics.</dd>\n<dd>Enter the <span class=\"text-highlight\">Relic</span> screen</dd>\n<dd>Enter the <span class=\"text-highlight\">Relic</span> equipping menu</dd>\n<dd>Select <span class=\"text-highlight\">Relic</span></dd>\n<dd><span class=\"text-highlight\">Relics</span> can offer stat bonuses to characters.</dd>\n<dd>Equip <span class=\"text-highlight\">Relic</span></dd>\n<dd>Switch to the <span class=\"text-highlight\">Hands</span> tab.</dd>\n<dd>Select a <span class=\"text-highlight\">Relic</span> for the <span class=\"text-highlight\">hands</span></dd>\n<dd>Collect <span class=\"text-highlight\">Relic</span> sets to activate powerful set effects</dd>\n<dd>Equip <span class=\"text-highlight\">Relic</span></dd>\n<dd>(<span class=\"text-tooltip hover-tooltip\" title=\"on mobile\">Tap</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Tap</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on mobile</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on controller\">Press</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Press</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on controller</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on keyboard\">Click</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Click</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on keyboard</span></span>) here to view this character's <span class=\"text-highlight\">Relic Recommendation</span></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(OpensRelic Recommendation Tutorial)"
+    },
+    {
+        "type": "note",
+        "text": "You can view the recommended Set , Main Stat , and Subsidiary Stats for the current character. The Set and Main Stat data are based on statistics from recently active players. You can view the recommended Set , Main Stat , and Subsidiary Stats for the current character. The Set and Main Stat data are based on statistics from recently active players. When the Relic's Main Stat or Subsidiary Stats is the recommended stat for the character currently being viewed, they would be highlighted in the Stats interface. When the Relic's Main Stat or Subsidiary Stats is the recommended stat for the character currently being viewed, they would be highlighted in the Stats interface."
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockRelics: Cavern Relics Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(Receive message from theAstral Expressgroup message)"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family (Trailblazer) Found some strange items... (Trailblazer) Found some strange items... Dan Heng Relics. March 7th Relics Himeko Relics Welt These are Relics. Thanks. (Trailblazer) Thanks. So what's a relic!? (Trailblazer) So what's a relic!? Welt A construct made from a data stream. Many believe they're linked to Stellarons and the Fragmentum phenomenon. What we refer to as relics are objects corroded by the Fragmentum whose data is saved and then reconstructed. Thanks. (Trailblazer) Thanks. So what's a relic!? (Trailblazer) So what's a relic!? Welt ...You could consult Herta . She's an expert in relic research."
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to people nearby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bullheaded Vagrant",
+        "line": "Don't come any closer! The road's blocked — stay where you are!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter1_3_vagrantB_201.ogg/revision/latest?cb=20241204032044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bullheaded_Vagrant_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anxious Miner",
+        "line": "...Whoa, easy! Why are you hiding in there? Don't you know what happened in the mine?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_3_minerE_201.ogg/revision/latest?cb=20241204031825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anxious_Miner_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bullheaded Vagrant",
+        "line": "What's that got to do with us? Do you think we're the same as those thugs?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter1_3_vagrantB_202.ogg/revision/latest?cb=20241204032045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bullheaded_Vagrant_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anxious Miner",
+        "line": "Is anyone with you injured? We have a doctor. She can care for your wounded!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_3_minerE_202.ogg/revision/latest?cb=20241204031826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anxious_Miner_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bullheaded Vagrant",
+        "line": "Yeah right, and you can guarantee that no one there with you is out for blood? I don't believe it. Stay where you are!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_3_vagrantB_203.ogg/revision/latest?cb=20241204032046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bullheaded_Vagrant_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anxious Miner",
+        "line": "*sigh* These guys...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_3_minerE_203.ogg/revision/latest?cb=20241204031827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anxious_Miner_54.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to people nearby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Complaining Miner",
+        "line": "I told Antonia from the beginning: We never should have let those vagrants mine with us. I wouldn't be in this mess if it weren't for those thugs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_3_minerA_201.ogg/revision/latest?cb=20241204031818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Complaining_Miner_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Upright Miner",
+        "line": "Enough already. Nobody has it easy — this is a time to help each other out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_3_minerB_201.ogg/revision/latest?cb=20241204031820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Upright_Miner_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Upright Miner",
+        "line": "I remember one of your uncles had to flee Rivet Town , which makes him a vagrant too, right? Would you drive him away?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter1_3_minerB_202.ogg/revision/latest?cb=20241204031820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Upright_Miner_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Complaining Miner",
+        "line": "...He's family. The other vagrants aren't my problem.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_3_minerA_202.ogg/revision/latest?cb=20241204031819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Complaining_Miner_58.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to people nearby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Worried Wife",
+        "line": "Have any of you seen my husband? He's a good-looking guy — tall and thin...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter1_3_dependentsA_201.ogg/revision/latest?cb=20241204031744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Worried_Wife_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wildfire Member Caring for the Injured",
+        "line": "You again? Quit joking around! No need to add to the confusion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter1_3_wildfiremumberA_201.ogg/revision/latest?cb=20241204032056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Wildfire_Member_Caring_for_the_Injured_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Worried Wife",
+        "line": "*sigh* You think I'm joking? I saw you taking down the names of the miners — that's why I came over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_3_dependentsA_202.ogg/revision/latest?cb=20241204031745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Worried_Wife_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wildfire Member Caring for the Injured",
+        "line": "Oh... You can put the name down here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_3_wildfiremumberA_202.ogg/revision/latest?cb=20241204032057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Wildfire_Member_Caring_for_the_Injured_62.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to people nearby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Concerned Miner",
+        "line": "Peak ... he's done for. He was asleep in there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_3_minerC_201.ogg/revision/latest?cb=20241204031821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Concerned_Miner_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Exhausted Miner",
+        "line": "Easy, Dr. Natasha told you to rest. What if your wound opens up again? Besides, Elaine will get him out, she's a reliable girl.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter1_3_minerD_201.ogg/revision/latest?cb=20241204031823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Exhausted_Miner_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Concerned Miner",
+        "line": "Elaine was in there too!? Quick, we have to—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter1_3_minerC_202.ogg/revision/latest?cb=20241204031822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Concerned_Miner_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Exhausted Miner",
+        "line": "Calm down and stop worrying. Wildfire's already gone in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_3_minerD_202.ogg/revision/latest?cb=20241204031824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Exhausted_Miner_66.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go deep into the mines and help the miners along the way"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "On the way deeper into the mines, you can hear the constant screams in the distance. It is obvious that things have gotten pretty serious, you must help the fleeing miners along the way.However, for some reason, you seem to be able to hear the sound of someone snoring...Could it be that you're having hallucinations from the fatigue of travel?"
+    },
+    {
+        "type": "condition",
+        "text": "(While ascending the ramp)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The giant ore vein — the one they discovered... That must be where the clashes are centered?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter1_3_seele_227.ogg/revision/latest?cb=20241204031946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Come on, let's get to higher ground and take a look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter1_3_seele_228.ogg/revision/latest?cb=20241204031947",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While approaching the bridge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That person up ahead... is he asleep?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_3_mar7th_205.ogg/revision/latest?cb=20241204031754",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Let's head up and take a look, he might need help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_3_seele_231.ogg/revision/latest?cb=20241204031948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to head deeper into the mine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey! There are still wounded here that need our help!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter1_3_mar7th_211.ogg/revision/latest?cb=20241204031800",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Peak)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_3_peak_201.ogg/revision/latest?cb=20241204031920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Falling asleep in a place like this... impressive!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_3_mar7th_206.ogg/revision/latest?cb=20241204031755",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, wakey-wakey! You'll get mushrooms growing on your head~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter1_3_mar7th_207.ogg/revision/latest?cb=20241204031756",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Hm...? Wha...? Mushroom bread...? I can't see it on the menu... Miss Seele?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_3_peak_202.ogg/revision/latest?cb=20241204031921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Have you got a death wish or something? How can you sleep here? Get back to safety and take shelter!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter1_3_seele_232.ogg/revision/latest?cb=20241204031948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Take shelter... *gasp* I remember now! These guys came out of nowhere and got into a fight with the mining team...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_peak_203.ogg/revision/latest?cb=20241204031921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "At the time I was exhausted — I'd hardly run a few feet when one of them caught me. If it weren't for Wildfire, they'd have stolen the clothes off my back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_3_peak_204.ogg/revision/latest?cb=20241204031922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_78.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "And then? Where did Wildfire go?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Peak",
+                "line": "Further in, I guess. Those thugs took control of the vein ages ago — and they're fully armed. We poor, defenseless, good folks were no match for them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_3_peak_205.ogg/revision/latest?cb=20241204031923",
+                "is_unavailable": false,
+                "audio_filename": "audio_Peak_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Peak",
+                "line": "It's only thanks to Wildfire that the Great Mine hasn't fallen into their hands completely.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter1_3_peak_206.ogg/revision/latest?cb=20241204031924",
+                "is_unavailable": false,
+                "audio_filename": "audio_Peak_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "...They'd take your clothes? These ones?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Peak",
+                "line": "You don't know these guys — no moral compass — they'd rob you blind in a flash! It's only thanks to Wildfire that the Great Mine hasn't fallen under their control completely.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_3_peak_207.ogg/revision/latest?cb=20241204031925",
+                "is_unavailable": false,
+                "audio_filename": "audio_Peak_81.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Peak",
+                "line": "Uh... speaking of which... where is Wildfire? Did they head further in? Is there a fight happening?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_3_peak_208.ogg/revision/latest?cb=20241204031926",
+                "is_unavailable": false,
+                "audio_filename": "audio_Peak_82.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...It seems like Chief Oleg must be up ahead. Hurry up and get back to safety — look for Nat. And try not to get into another scrap along the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_3_seele_233.ogg/revision/latest?cb=20241204031949",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Okay! Thank you for, um... getting me on my feet! If I get back soon enough, I'll have time for a nap...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_3_peak_209.ogg/revision/latest?cb=20241204031927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_84.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "On the way deeper into the mines, you can hear the constant screams in the distance. It is obvious that things have gotten pretty serious, you must help the fleeing miners along the way.You seem to hear a painful moan nearby... Search for it in the vicinity."
+    },
+    {
+        "type": "condition",
+        "text": "(After talking to Peak)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I recognize that woman — that's Elaine from First Mining Team! Quick, let's get up there and see if she's wounded.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter1_3_seele_234.ogg/revision/latest?cb=20241204031950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_85.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Elaine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Elaine! Are you okay? Are you hurt?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter1_3_seele_235.ogg/revision/latest?cb=20241204031951",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "Seele! Thank goodness. I—I'm fine, just a couple of sprains.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter1_3_elaine_201.ogg/revision/latest?cb=20241204031746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "You've got good timing — those vagrants were asking me about the robots, but I don't know anything...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_3_elaine_202.ogg/revision/latest?cb=20241204031747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_88.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Robots?"
+    },
+    {
+        "type": "note",
+        "text": "Doesn't ring a bell..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "Oh! Don't you know? The inner section of the Great Mine has been seized by a band of robots! Neither the mining team nor the vagrants can get anywhere near.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_3_elaine_203.ogg/revision/latest?cb=20241204031748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "New challengers enter! About time, human-only conflicts are so boring.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter1_3_mar7th_208.ogg/revision/latest?cb=20241204031757",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Does anyone know where the robots come from?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_3_danheng_201.ogg/revision/latest?cb=20241204031739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "At first, we thought that a collective fault had occurred in the excavation machines, but then we found out that those machines didn't even belong to the mining team.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_3_elaine_204.ogg/revision/latest?cb=20241204031749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "They came out of nowhere and pushed the vagrants and us back. Then they blocked off the only tunnels into the inner section.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter1_3_elaine_205.ogg/revision/latest?cb=20241204031750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_93.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Maybe someone's playing tricks?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "Hehe, there's no way anyone in the mining team is behind this... Operating a single unit is tiring enough, but a whole group? Hehe, Impossible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_3_elaine_206.ogg/revision/latest?cb=20241204031751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Then there's only one possibility... Boss Svarog .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter1_3_seele_236.ogg/revision/latest?cb=20241204031952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Svarog? That name sounds familiar...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_3_mar7th_209.ogg/revision/latest?cb=20241204031758",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You remember the robots we defeated in the boxing gym?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_3_danheng_202.ogg/revision/latest?cb=20241204031739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh! Boss Svarog's robots! What's his deal?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_3_mar7th_210.ogg/revision/latest?cb=20241204031759",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Let's just say he's not to be trifled with. Let's go and find some other people. Elaine, can you make it back to safety?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_3_seele_237.ogg/revision/latest?cb=20241204031953",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elaine",
+        "line": "No problem. Seele, and the rest of you — be careful...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_3_elaine_207.ogg/revision/latest?cb=20241204031752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Elaine_100.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After talking to Elaine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Robots aligned against humans? I've never heard of such a thing. Machines should obey humans unconditionally...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_3_bronya_203.ogg/revision/latest?cb=20241204031714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "That's not the only thing you won't have heard of down here, princess.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_3_seele_238.ogg/revision/latest?cb=20241204031954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_102.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue deeper into the mines"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "On the way deeper into the mines, you can hear the constant screams in the distance. It is obvious that things have gotten pretty serious, you must help the fleeing miners along the way.You run into a group of marauding vagrants taking advantage of the chaos... It's time to teach them a lesson!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the two vagrants)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dense Vagrant",
+        "line": "Is this elevator b—broken? Why isn't it r—responding?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_3_vagrantC_201.ogg/revision/latest?cb=20241204032047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dense_Vagrant_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Restless Vagrant",
+        "line": "Why are you worried about this piece of junk? Do you really wanna go down there and be a live target for the robots?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter1_3_vagrantD_201.ogg/revision/latest?cb=20241204032050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Restless_Vagrant_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dense Vagrant",
+        "line": "But, i—if we evacuate, then haven't we lost out?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_3_vagrantC_202.ogg/revision/latest?cb=20241204032048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dense_Vagrant_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Restless Vagrant",
+        "line": "You idiot — we'll just steal off the miners! Look, I saw with my own eyes — they managed to bag some Geomarrow. This is a perfect opportunity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_3_vagrantD_202.ogg/revision/latest?cb=20241204032051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Restless_Vagrant_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dense Vagrant",
+        "line": "Oh, g—good idea!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_3_vagrantC_203.ogg/revision/latest?cb=20241204032049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dense_Vagrant_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Shameless. Still after the miners, are you? Time to teach you a lesson.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_3_seele_239.ogg/revision/latest?cb=20241204031955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_108.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstVagrant×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph, fleeing at the first sign of danger... that's all they're good for.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_Ag1_seele_110.ogg/revision/latest?cb=20241204032141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? What's this... Did those guys leave it behind...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_Ag1_mar7th_116.ogg/revision/latest?cb=20241204032129",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wh—Whoa!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_Ag1_mar7th_117.ogg/revision/latest?cb=20241204032130",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What the heck!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_Ag1_mar7th_118.ogg/revision/latest?cb=20241204032131",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Beep, beep, beep... Searching for potential user...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter1_Ag1_huof_113.ogg/revision/latest?cb=20241204032112",
+        "is_unavailable": false,
+        "audio_filename": "audio__113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Beep, beep, beep... Voiceprint detected. Looking up corresponding identity information... Oh my, it's an alien.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_Ag1_huof_114.ogg/revision/latest?cb=20241204032113",
+        "is_unavailable": false,
+        "audio_filename": "audio__114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, it talks! And it knows that we aren't from this planet?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_Ag1_mar7th_119.ogg/revision/latest?cb=20241204032132",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It doesn't seem to be technology from here. Look — it even has an Interastral Peace Corporation logo on it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter1_Ag1_danheng_102.ogg/revision/latest?cb=20241204032059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Perhaps it's an antiquity left behind by some past interstellar traveler.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_Ag1_danheng_103.ogg/revision/latest?cb=20241204032100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Beep, beep, beep... Your mom's an antiquity!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_Ag1_huof_115.ogg/revision/latest?cb=20241204032114",
+        "is_unavailable": false,
+        "audio_filename": "audio__118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Beep, beep, beep... Whatever, whatever. So you aliens know about the Interastral Peace Corporation? That's great.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter1_Ag1_huof_116.ogg/revision/latest?cb=20241204032115",
+        "is_unavailable": false,
+        "audio_filename": "audio__119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Self introduction: I am Richard, the Home-Use Object Finder. Model information: Version 0.63, Professional model, Annual Deluxe package. Nickname: \"Findie.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_Ag1_huof_117.ogg/revision/latest?cb=20241204032116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A Home-Use Object Finder? Who knew the IPC made these kinds of products...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter1_Ag1_mar7th_120.ogg/revision/latest?cb=20241204032133",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... My brainwave scanner module is damaged. Please send me to an Interastral Peace Appliances retail store near you for free repair within the warranty period of 232 years 84 days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter1_Ag1_huof_118.ogg/revision/latest?cb=20241204032117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Alien, please take me to an Interastral Peace Appliances retail store to conduct repairs—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_Ag1_huof_119.ogg/revision/latest?cb=20241204032118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What!? This fella's already broken... What should we do, take it with us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_Ag1_mar7th_121.ogg/revision/latest?cb=20241204032134",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_124.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's take it. Maybe it could be of some use.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Findie",
+                "line": "Beep, beep, beep... Yes, yes, yes. When you need to find something you can't see, just call upon Findie. That's me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_Ag1_huof_120.ogg/revision/latest?cb=20241204032119",
+                "is_unavailable": false,
+                "audio_filename": "audio_Findie_125.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "My inventory is already maxed out...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ugh, you need to log out once in a while.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_Ag1_mar7th_122.ogg/revision/latest?cb=20241204032135",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_126.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Let's take it with us. It doesn't take up much room. And if it really is broken, there are trashcans everywhere.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_Ag1_danheng_104.ogg/revision/latest?cb=20241204032101",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_127.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Findie",
+                "line": "Beep, beep, beep... Not a trashcan! Yes, yes, yes. When you need to find something you can't see, just call upon Findie. That's me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter1_Ag1_huof_121.ogg/revision/latest?cb=20241204032120",
+                "is_unavailable": false,
+                "audio_filename": "audio_Findie_128.ogg"
+            }
+        ]
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "On the way deeper into the mines, you can hear the constant screams in the distance. It is obvious that things have gotten pretty serious, you must help the fleeing miners along the way.You hear people arguing from deeper inside the mines. Maybe the local miners have run into trouble... Be careful and guarantee the safety of the miners!"
+    },
+    {
+        "type": "condition",
+        "text": "(While approaching the space anchor near the marked area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, what's that commotion? It sounds like there's a big argument happening...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_3_mar7th_213.ogg/revision/latest?cb=20241204031801",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let's get closer and take a look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter1_3_mar7th_214.ogg/revision/latest?cb=20241204031802",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_130.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the crowd)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "...Cowards and bullies. I don't remember you guys acting this tough around Svarog's minions. Did your parents never teach you what a backbone was?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_3_antonia_201.ogg/revision/latest?cb=20241204031655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Vagrant",
+        "line": "Pff! We ain't stupid! Why would we risk our lives against the robots? And get off the high road — you can't just find a huge chunk of Geomarrow and hog it all to yourselves!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter1_3_vagrantE_201.ogg/revision/latest?cb=20241204032052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Vagrant_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "This mine is our territory — the mining team is laboring here day in and day out. You guys don't even pretend like you're here to lend a hand!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter1_3_antonia_202.ogg/revision/latest?cb=20241204031656",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "You're lazy. All you want is to profit off of our sweat and tears. And you don't even try hiding it! ...Disgraceful.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_3_antonia_203.ogg/revision/latest?cb=20241204031657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Vagrant",
+        "line": "Where does disgrace come into it when we can't even fill our stomachs, huh!? I know your game — you're just waiting for us to starve to death, so there's more food for your mining team.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_3_vagrantE_202.ogg/revision/latest?cb=20241204032052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Vagrant_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "...It's a waste of time trying to reason with you. While you've been kicking up this fuss, the whole vein's been seized by robots. Now we're all in the same boat.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter1_3_antonia_204.ogg/revision/latest?cb=20241204031658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Vagrant",
+        "line": "Hehe, right, right... we can't rely on the vein anymore... But don't forget which side brought loaded guns to the party.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_3_vagrantE_203.ogg/revision/latest?cb=20241204032053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Vagrant_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Whoa, easy, wh—what are you trying to pull off? I—I'm warning you, Wildfire are in the area...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_3_antonia_205.ogg/revision/latest?cb=20241204031659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Vagrant",
+        "line": "Haha, empty threat! Wildfire are stuck dealing with Svarog's minions — how are they gonna help you now? Unless you're planning on taking a bullet, hand over the supplies and equipment!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_3_vagrantE_204.ogg/revision/latest?cb=20241204032054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Vagrant_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "They're getting ready to attack! Those miners are unarmed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_3_bronya_204.ogg/revision/latest?cb=20241204031715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "You shameless scoundrels...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_3_seele_242.ogg/revision/latest?cb=20241204031956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_141.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's save them!"
+    },
+    {
+        "type": "choice",
+        "text": "Stay calm...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "You stay calm if you want. I'm taking action! I know those people!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter1_3_seele_243.ogg/revision/latest?cb=20241204031956",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_142.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Leave it to me.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "No need to play the hero, I'm going with you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_3_seele_244.ogg/revision/latest?cb=20241204031958",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_143.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I'm going too. We can't let these thugs get away with whatever they like!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_3_bronya_205.ogg/revision/latest?cb=20241204031716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_144.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstVagrant×1,Automaton Hound×2)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Thug",
+                "line": "Aha, and who do we have here? Do you know whose territory this is!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter1_3_vagrantE_205.ogg/revision/latest?cb=20241204032055",
+                "is_unavailable": false,
+                "audio_filename": "audio_Thug_145.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Shut it, this isn't your territory. I'm in a hurry — I'll take you all in one go!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_3_seele_245.ogg/revision/latest?cb=20241204031959",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_146.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Seele! Thank goodness you came. We were nearly...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_3_antonia_206.ogg/revision/latest?cb=20241204031700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Nothing but a few knuckleheads. I'm just glad you're okay. Antonia, have you seen Chief Oleg?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_3_seele_246.ogg/revision/latest?cb=20241204031959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Oleg? He took a group into the inner section. Said it was to clear off the invading robots.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_3_antonia_207.ogg/revision/latest?cb=20241204031700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "They've been gone for a while now. Hmph, if Wildfire was around, those thugs wouldn't have dared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_3_antonia_208.ogg/revision/latest?cb=20241204031701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Seems like the core of this problem is Svarog's robots...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_3_seele_247.ogg/revision/latest?cb=20241204032000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_151.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What do those robots want?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Your run-of-the-mill robots don't have a will of their own. Their aim is merely Svarog's aim.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_3_seele_248.ogg/revision/latest?cb=20241204032001",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_152.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "We need to talk about this \"boss...\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The boss... He appeared suddenly after the Guards were redeployed, and became a major player in the Underworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter1_3_seele_249.ogg/revision/latest?cb=20241204032002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Svarog claims to be a guardian of humanity — all the ownerless robots obey his commands. They've occupied the furnace core hub, and they're not letting anyone get close.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter1_3_seele_250.ogg/revision/latest?cb=20241204032003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Nobody knows why Svarog did any of this... He usually doesn't leave the Furnace Core and interfere unless some kind of disorder breaks out in the Underworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_3_seele_251.ogg/revision/latest?cb=20241204032004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...A \"guardian of humanity\" that can... command robots? I've never heard of anything like...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_bronya_206.ogg/revision/latest?cb=20241204031717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph, looks like your mighty Architects weren't as all-knowing as you thought.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_3_seele_252.ogg/revision/latest?cb=20241204032005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Can you two say anything without quarreling? This isn't the time! It sounds like there's danger waiting for us in the inner section, can we still get through?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_3_mar7th_215.ogg/revision/latest?cb=20241204031803",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_158.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I want to meet Svarog and his minions.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Right, there's unfinished business here — the chief is still down there. It's only a bunch of scrap metal. What are we afraid of?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_3_seele_253.ogg/revision/latest?cb=20241204032006",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_159.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We saved the miners, let's go back.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Easy for you to say. This isn't over — the chief and the others are still down there. It's only a bunch of scrap metal. What are we afraid of?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_3_seele_254.ogg/revision/latest?cb=20241204032007",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_160.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We haven't found Wildfire yet.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Yeah, you still need to talk with the chief. It's only a bunch of scrap metal. What are we afraid of?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_3_seele_255.ogg/revision/latest?cb=20241204032008",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_161.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ohh~ Is Seele starting to appreciate our strength? Hmm?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_3_mar7th_216.ogg/revision/latest?cb=20241204031804",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I'll be honest, you guys are hardworking. If everyone from Wildfire were as impressive as you on the battlefield, we wouldn't be so hard-pressed by Svarog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_3_seele_256.ogg/revision/latest?cb=20241204032008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Antonia, can you take the mining team back through the entrance to meet up with Natasha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_3_seele_257.ogg/revision/latest?cb=20241204032009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Sure thing, but be careful! There are a lot of robots up ahead!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_3_antonia_209.ogg/revision/latest?cb=20241204031702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_165.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The crisis in the mines is no more, and most of the Wildfire members have left the spot, escorting miners to safety along with them.However, Seele has not yet brought her captive, Bronya, to the chief, and you haven't had the chance to meet this important figure, a meeting with whom is the biggest motive behind this journey.Continue deeper into the mine!"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Antonia, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "What kind of days are we living through...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_3_antonia_210.ogg/revision/latest?cb=20241204031703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_166.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What else do you know about Svarog?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "Svarog? I don't know much. The underground is in turmoil, everyone's focused on their own issues. Who has time to get involved in someone else's affairs?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter1_3_antonia_211.ogg/revision/latest?cb=20241204031704",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_167.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "I heard the vagrants say Svarog was protecting their base near the Furnace Core. Tsk, and there I was thinking he was one of the good guys.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter1_3_antonia_212.ogg/revision/latest?cb=20241204031705",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_168.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did you bring those vagrants into the mine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "Huh? What are you trying to say — that it's my fault?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_3_antonia_213.ogg/revision/latest?cb=20241204031706",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_169.ogg"
+            },
+            {
+                "type": "note",
+                "text": "You misunderstand."
+            },
+            {
+                "type": "note",
+                "text": "No need to get excited."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "Forget it, I'm just tired, that's all.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter1_3_antonia_214.ogg/revision/latest?cb=20241204031707",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_170.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "Even if those vagrants have no home to return to, they still have their dignity. They won't accept charity forever.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter1_3_antonia_215.ogg/revision/latest?cb=20241204031708",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_171.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "They needed honest work to get them through this hardship. So, I let them join the mining team. Can anyone really say I did wrong?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_3_antonia_216.ogg/revision/latest?cb=20241204031709",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_172.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "You did right, but maybe that's how the problem started.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Antonia",
+                        "line": "The problem started with them leaving home and being dependent on charity... If you want something to blame, blame life in the Underworld.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter1_3_antonia_217.ogg/revision/latest?cb=20241204031710",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Antonia_173.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Maybe you could have handled it better.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Antonia",
+                        "line": "*sigh* When it boils down to it, they only chose to form a clique because the other miners never truly accepted them... I should've seen it.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_3_antonia_218.ogg/revision/latest?cb=20241204031711",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Antonia_174.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You seem to be familiar with Wildfire.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "They're a reliable group. Trust me, if we didn't have them, this area would be packed with monsters already. Just like Rivet Town.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter1_3_antonia_219.ogg/revision/latest?cb=20241204031712",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_175.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's all I have to ask.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "I'm about to take the mining team over to Dr. Natasha. Take care of yourselves.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_3_antonia_220.ogg/revision/latest?cb=20241204031713",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_176.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(While approaching the marked area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Is this the right way? It looks like there's a roadblock up ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_3_bronya_207.ogg/revision/latest?cb=20241204031718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...I'll be the judge of that. Come on, let's take a closer look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter1_3_seele_258.ogg/revision/latest?cb=20241204032010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_178.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the roadblock)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's completely blocked by the mine cart... What do we do? Can we blow it up?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_Ag1_mar7th_105.ogg/revision/latest?cb=20241204032121",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Easy! It belongs to the mining team. We can't just destroy it. We should try and fix it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_Ag1_seele_101.ogg/revision/latest?cb=20241204032135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Easier said than done... Do you know how?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_Ag1_mar7th_106.ogg/revision/latest?cb=20241204032121",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Yeah, of course, every Underworlder worth their salt knows how to fix a mine cart. Let me see...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_Ag1_seele_102.ogg/revision/latest?cb=20241204032136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...Hmm. Even the pin connecting the body to the chassis is broken, not to mention the rear wheelset bearing. This looks like the work of Svarog's minions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter1_Ag1_seele_103.ogg/revision/latest?cb=20241204032137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Come on, we passed a lot of discarded mine carts on the way over, let's see if there are any components we can recycle.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "We need to find spare parts we can use nearby. Argh, we're wasting time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter1_Ag1_seele_104.ogg/revision/latest?cb=20241204032138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_184.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Friends, do you need to find something? Findie can help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_Ag1_huof_101.ogg/revision/latest?cb=20241204032102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...How come you just jumped out on your own, little fella? Isn't your module thingy broken?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_Ag1_mar7th_107.ogg/revision/latest?cb=20241204032122",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... My brainwave scanner module is indeed broken. However, manual input for search is still operable.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_Ag1_huof_102.ogg/revision/latest?cb=20241204032102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Come on. Input the name of the object you are looking for. Findie can help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter1_Ag1_huof_103.ogg/revision/latest?cb=20241204032103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, well aren't you confident? Let me give it a try then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter1_Ag1_mar7th_108.ogg/revision/latest?cb=20241204032123",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Where's the input interface? Ah, found it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter1_Ag1_mar7th_109.ogg/revision/latest?cb=20241204032124",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mine Cart Pin... Mine Cart Wheelset... Confirm... Just like that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_Ag1_mar7th_110.ogg/revision/latest?cb=20241204032125",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Request is being processed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_Ag1_huof_104.ogg/revision/latest?cb=20241204032104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Match successful... Initiating search for lost item: Mine Cart Pin...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter1_Ag1_huof_105.ogg/revision/latest?cb=20241204032105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep! Item found. Please commence search according to the Home-Use Object Finder Safety Manual.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter1_Ag1_huof_106.ogg/revision/latest?cb=20241204032106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_194.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Search for mine cart parts with the help of the Home-Use Object Finder"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The crisis in the mines is no more, and most of the Wildfire members have left the spot, escorting miners to safety along with them.However, Seele has not yet brought her captive, Bronya, to the chief, and you haven't had the chance to meet this important figure, a meeting with whom is the biggest motive behind this journey.And yet, the way forward is cut off by a mine cart out of order.Luckily, you happen to have picked up a Findie, a product from the Interastral Peace Corporation with the purpose of searching for things. Someone must have left behind in the mines. Maybe it can lead you to the parts required to fix the mine cart..."
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Activate <span class=\"text-highlight\">Home-Use Object Finder</span> to reveal the direction of the hidden item</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockHome-Use Object Finder Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(While searching for mine cart parts)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep... As stated in the Terms of Service, my search result accuracy and reliability are not guaranteed. For more information, please call Interastral Peace Appliances."
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep... Based on your search history, I recommend the Humanoid Tactical Microwave. Press Skip to cancel personalized ads."
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep... Findie will create a calendar reminder for when you want to visit an Interastral Peace Appliances store."
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep... Interastral Peace Appliances, your most trustworthy companion."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon locating theMine Cart Pin)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep! Potential target object detected. The current search has concluded, entering sleep mode..."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Mine Cart Pin)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Let me see... Yeah, we can make do with this part. This little machine isn't half bad.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_Ag1_seele_105.ogg/revision/latest?cb=20241204032139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... What's that? Is that a hint of respect for Findie?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_Ag1_huof_107.ogg/revision/latest?cb=20241204032107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "How convenient! So next time Dan Heng gets lost, we can just use Findie to find him, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter1_Ag1_mar7th_111.ogg/revision/latest?cb=20241204032126",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Biological life form search is currently not supported. If you have any questions, please call Interastral Peace Appliances.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_Ag1_huof_108.ogg/revision/latest?cb=20241204032108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Well, it was a good idea. Let's look for the next part.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter1_Ag1_danheng_101.ogg/revision/latest?cb=20241204032058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Initiating search for lost item: Mine Cart Wheelset...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_Ag1_huof_109.ogg/revision/latest?cb=20241204032109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep! Item found. Please commence search according to the Home-Use Object Finder Safety Manual.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter1_Ag1_huof_110.ogg/revision/latest?cb=20241204032109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_201.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainMine Cart Pin×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon locating theMine Cart Wheelset)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Beep, beep, beep! Potential target object detected. The current search has concluded, entering sleep mode..."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Mine Cart Wheelset)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That's everything!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_Ag1_mar7th_112.ogg/revision/latest?cb=20241204032127",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You were a big help, Findie!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter1_Ag1_mar7th_113.ogg/revision/latest?cb=20241204032128",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... It was nothing. Interastral Peace Appliances, your most trustworthy companion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter1_Ag1_huof_111.ogg/revision/latest?cb=20241204032110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Findie",
+        "line": "Beep, beep, beep... Current search complete. *yawn* Entering sleep mode. Please recharge the Home-Use Object Finder.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_Ag1_huof_112.ogg/revision/latest?cb=20241204032111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Findie_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...We're pretty lucky, huh? Without Findie, it probably would've taken half the day to find these parts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_Ag1_mar7th_114.ogg/revision/latest?cb=20241204032129",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Well, not that long... But that little machine definitely made it a lot easier. Alright, let's go back and fix the mine cart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_Ag1_seele_106.ogg/revision/latest?cb=20241204032140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_207.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainMine Cart Wheelset×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After finding all the mine cart parts)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you gonna do it yourself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_3_mar7th_223.ogg/revision/latest?cb=20241204031805",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Why wouldn't I? You've gotta be self-reliant down here. Watch, you might learn something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter1_3_seele_271.ogg/revision/latest?cb=20241204032011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_209.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Repair the out of order mine cart"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The way forward is cut off by a mine cart out of order. With Seele's instructions, you decide to search for backup parts in the area to repair the mine cart and move it out of the way.\"It's gonna be hectic trying to look for the parts.\" You can't help but pictureMr. Yangdestroying the cart with his black hole."
+    },
+    {
+        "type": "condition",
+        "text": "(SubmitMine Cart Pin×1andMine Cart Wheelset×1)"
+    },
+    {
+        "type": "note",
+        "text": "You all fix the mine cart together..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Alright, mission accomplished!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_3_mar7th_224.ogg/revision/latest?cb=20241204031806",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph, quick work. Y'know, I didn't think you guys had worked a day in your lives, but you know how to get your hands dirty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter1_3_seele_272.ogg/revision/latest?cb=20241204032012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The cart is about to depart!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter1_3_mar7th_225.ogg/revision/latest?cb=20241204031807",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_212.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue deeper into the mines and find Oleg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You fix the out of order mine cart and move it out of the way, opening the path continuing downward.This is near the bottom of the mines and you notice Seele's cautious expression and sharp gaze...Her expression is normally scary enough already, so what is it that would make her show an even more serious look? You're not sure, but there is one thing that you are certain of...Danger is closing in and you should make yourself prepared."
+    },
+    {
+        "type": "condition",
+        "text": "(While pushing the mine cart)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The robots will have seized the road ahead by now. We should go carefully.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_3_seele_273.ogg/revision/latest?cb=20241204032013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_213.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon encountering the Automaton Direwolf)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whoa! Stop! Ah! Stop, stop, stop! There's a big evil hunk of metal right there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_3_mar7th_226.ogg/revision/latest?cb=20241204031808",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "That model... it's one of Svarog's lapdogs alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter1_3_seele_274.ogg/revision/latest?cb=20241204032014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Don't be afraid, I've dealt with those robots before. Let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_3_seele_275.ogg/revision/latest?cb=20241204032015",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_216.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstAutomaton Direwolf×1,Automaton Hound×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(While passing the ledge overlooking the ore vein)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Seeing it up close... this vein's even more spectacular.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_3_bronya_208.ogg/revision/latest?cb=20241204031719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I doubt the underground will ever see it fully excavated...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_3_seele_276.ogg/revision/latest?cb=20241204032016",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_3_bronya_209.ogg/revision/latest?cb=20241204031720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_219.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the marked area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "This vein... So this is what everyone is fighting over...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_3_clara_201.ogg/revision/latest?cb=20241204031732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "Mr. Svarog, it's such a massive vein. I've never seen so much Geomarrow before...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter1_3_clara_202.ogg/revision/latest?cb=20241204031733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Calculating... Based on the average rate of excavation, this vein is enough to supply Belobog with 231 days of energy, with a margin of error of 7 days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter1_3_svarog_201.ogg/revision/latest?cb=20241204032035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "I sense that your reason for summoning me is not the ore in question. State your true intention, Clara.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_3_svarog_202.ogg/revision/latest?cb=20241204032036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "...Right. I wanted Mr. Svarog to see that many miners and vagrants have gotten hurt because of the vein... Can you help them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_3_clara_203.ogg/revision/latest?cb=20241204031734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "I have already prevented the dispute and taken temporary control of the excavation zone. Evaluation result: In the event of no further variables, there will be no large-scale armed conflict within the next 30 days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter1_3_svarog_203.ogg/revision/latest?cb=20241204032037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "I know why you did it, Mr. Svarog! It's just... I don't think it'll be enough.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_3_clara_204.ogg/revision/latest?cb=20241204031735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "The mining team and Wildfire... they don't understand your actions... If only we could do more for them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_3_clara_205.ogg/revision/latest?cb=20241204031736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_227.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "My mission is the protection of the Underworld. The trust of the minority sample is redundant to my calculations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_3_svarog_204.ogg/revision/latest?cb=20241204032038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Human behavior will always deviate from rational calculation, Clara...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_3_svarog_205.ogg/revision/latest?cb=20241204032039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "As evidenced by their presence here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter1_3_svarog_206.ogg/revision/latest?cb=20241204032040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Svarog! We haven't settled our final score.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_3_seele_277.ogg/revision/latest?cb=20241204032017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_231.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Seele, subordinate to Wildfire... Your resistance is futile. The result of my calculation is unequivocal: Remaining in the Underworld is the optimal strategy for survival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_3_svarog_207.ogg/revision/latest?cb=20241204032041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "*sigh* This again... Calculation results, survival strategies... I haven't got time for your thesis. Withdraw your forces, or I'll lose my temper!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_3_seele_278.ogg/revision/latest?cb=20241204032018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Observe, Clara. Even under abject conditions, humans are unable to avoid division and conflict.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_3_svarog_208.ogg/revision/latest?cb=20241204032042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "But, Mr. Svarog...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_3_clara_206.ogg/revision/latest?cb=20241204031737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Human failure to accept the calculation result is a significant threat to the survival strategy of the Underworld. Calculation complete, result unequivocal: Armed suppression of Wildfire and their allies is the optimal course of action.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_3_svarog_209.ogg/revision/latest?cb=20241204032043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_236.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "This guy looks stronger than the other robots...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "And more fashionably dressed, too... Hey, is he about to leave? What about the girl in red?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter1_3_mar7th_227.ogg/revision/latest?cb=20241204031809",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_237.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "His robots don't seem too friendly...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ah! What about the girl in red? That robot is gonna take her away!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter1_3_mar7th_228.ogg/revision/latest?cb=20241204031809",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_238.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "We must leave, Clara. External variables have triggered a calculation reset. The Furnace Core hub requires protection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_3_svarog_210.ogg/revision/latest?cb=20241204032043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "...Please, Mills, don't hit them too hard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter1_3_clara_207.ogg/revision/latest?cb=20241204031738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "*sigh* I was getting bored of those minions — time for a real fight. Come at me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_3_seele_279.ogg/revision/latest?cb=20241204032019",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_241.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstAutomaton Grizzly×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whew... not bad. How many of these big guys is Svarog hiding?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_3_mar7th_229.ogg/revision/latest?cb=20241204031810",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_242.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "A lot... which is why Wildfire has never been able to take him down. Svarog's forces are too strong. We don't have enough firepower.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_3_seele_280.ogg/revision/latest?cb=20241204032020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_243.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That girl in red...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Clara? Don't worry about her. That girl is best pals with Svarog — she's always following behind him. He wouldn't harm her.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_3_seele_281.ogg/revision/latest?cb=20241204032021",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_244.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why did Svarog leave?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Like I told you. That guy barely leaves his nest — it's rare to see him away from the Furnace Core. Even when he does appear, he doesn't stick around for long. He leaves everything to his subordinates.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_3_seele_282.ogg/revision/latest?cb=20241204032022",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_245.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "It might also have been because Clara was here — the little girl in red. She's best pals with Svarog — always following behind him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_3_seele_283.ogg/revision/latest?cb=20241204032023",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_246.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I guess I'm just used to seeing them together now, even if I don't understand it. *sigh* Let's look for the chief.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_3_seele_284.ogg/revision/latest?cb=20241204032024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "No need to look far.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_3_oleg_201.ogg/revision/latest?cb=20241204031847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Nice work, Seele. We were attacked on both sides by robots — who knows where they came from. We thought we were in it for the long haul, hahaha!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter1_3_oleg_202.ogg/revision/latest?cb=20241204031848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Chief! Is everyone okay? Is anyone injured?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter1_3_seele_285.ogg/revision/latest?cb=20241204032025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_250.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "We're fine — we're used to it at this point. We sent those pesky robots and ragtag troops packing. The mine should be quiet for a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_3_oleg_203.ogg/revision/latest?cb=20241204031848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_251.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "And who are your friends here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_3_oleg_204.ogg/revision/latest?cb=20241204031849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Ahh, them! They're outsiders that Sampo brought down from who-knows-where. They need a favor from Wildfire, so I brought them with me. It'll be faster if they explain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_3_seele_286.ogg/revision/latest?cb=20241204032025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_253.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you the chief? You're a hard man to find.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Hahaha! That's quite the tone to take on our first meeting. I won't forget you in a hurry.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_3_oleg_205.ogg/revision/latest?cb=20241204031850",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_254.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Pleased to meet you. We're here to make friends with Wildfire.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Hah, it's been a while since I heard that anyone was pleased to meet anyone, haha. I won't forget you in a hurry. Wildfire welcomes you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_3_oleg_206.ogg/revision/latest?cb=20241204031851",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_255.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "So, you went to all this trouble to find Wildfire. What help is it you need?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter1_3_oleg_207.ogg/revision/latest?cb=20241204031852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_256.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Telling Oleg and Seele about what happened and your mission to look for the Stellaron..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Ha! I didn't know you'd put on a show for the Overworld too. Impressive.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_3_seele_287.ogg/revision/latest?cb=20241204032026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Ho-ho, well this is new. Wildfire can barely take care of the Underworld, and now outsiders are looking for assistance from us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_3_oleg_208.ogg/revision/latest?cb=20241204031853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_258.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "This \"Stellaron\" you speak of — I've never heard of it. But if it's a secret that even we locals don't know about, then one name does come to mind...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_3_oleg_209.ogg/revision/latest?cb=20241204031854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_259.ogg"
+    },
+    {
+        "type": "note",
+        "text": "...Do you mean Cocolia ?"
+    },
+    {
+        "type": "choice",
+        "text": "...Do you mean Sampo?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Really? Sampo? You might as well try the supreme guardian .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_3_mar7th_230.ogg/revision/latest?cb=20241204031811",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_260.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "The current supreme guardian is a liar who uses sweet words to deceive the Underworld. She's never cared about our survival—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_3_oleg_210.ogg/revision/latest?cb=20241204031855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_261.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Stop right there... I... won't allow you to insult the madam guardian.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter1_3_bronya_210.ogg/revision/latest?cb=20241204031721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_262.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Miss Overworld, my words may be painful to you, but every one of them is true. Go out into the towns and hear for yourself — see how the people here suffer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_3_oleg_211.ogg/revision/latest?cb=20241204031856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_263.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_3_bronya_211.ogg/revision/latest?cb=20241204031722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_264.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "I haven't gotten close to voicing the extent of the Underworld's grievances, young lady. But I will respect your request. I will leave it at that, for now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_3_oleg_212.ogg/revision/latest?cb=20241204031857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Let's get back to the main topic. The name that came to my mind, was Svarog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_3_oleg_213.ogg/revision/latest?cb=20241204031858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_266.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh...!? Isn't Svarog Wildfire's sworn enemy?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_3_mar7th_231.ogg/revision/latest?cb=20241204031813",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Why would a mere robot in the Underworld have knowledge of important secrets?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_3_danheng_205.ogg/revision/latest?cb=20241204031740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_268.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Sworn enemy? Not how I see it. The young master here is closer. Svarog is a cold and unfeeling machine. He recognizes only the dead reasoning of his calculations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_3_oleg_214.ogg/revision/latest?cb=20241204031859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_269.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Svarog is not against Wildfire... or perhaps I should say: Wildfire isn't even of concern to him. That ancient robot witnessed the war...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_3_oleg_215.ogg/revision/latest?cb=20241204031900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_270.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "If you're looking to pick up a thread... he may well be your best source.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_3_oleg_216.ogg/revision/latest?cb=20241204031901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_271.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is he really that old? He looks pretty new.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Don't judge a book by its cover. I myself have put a few centuries behind me. Would you be able to tell?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_3_mar7th_232.ogg/revision/latest?cb=20241204031813",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_272.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I'm familiar with over twenty long-life species — none of them look like you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_3_danheng_206.ogg/revision/latest?cb=20241204031741",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_273.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey! Would it kill you to play along?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_3_mar7th_233.ogg/revision/latest?cb=20241204031814",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_274.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You mean the war with the Antimatter Legion ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, I remember hearing this world was invaded by the Legion hundreds of years ago.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_3_mar7th_234.ogg/revision/latest?cb=20241204031815",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_275.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Robots don't forget. If Svarog hasn't heard of your Stellaron, then I'm afraid perhaps no one has.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_3_oleg_217.ogg/revision/latest?cb=20241204031902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_276.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "In which case, we need to think of a way to convince Svarog to communicate with us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_3_danheng_207.ogg/revision/latest?cb=20241204031742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_277.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Or get him to hand over his memory bank. We could go through it ourselves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_3_mar7th_235.ogg/revision/latest?cb=20241204031816",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_278.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What should we do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_3_danheng_208.ogg/revision/latest?cb=20241204031743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_279.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "We've tried repeatedly to negotiate with Svarog, but he rejects every effort. He believes that Wildfire is a threat. Still, if it were you guys...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter1_3_oleg_218.ogg/revision/latest?cb=20241204031903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_280.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Hmm... It's difficult to say.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_3_oleg_219.ogg/revision/latest?cb=20241204031903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_281.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "...We have time. Let's get into the detail tomorrow. It's late, and you must've been through a lot. Go back to the town and rest. I'll make arrangements.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_3_oleg_220.ogg/revision/latest?cb=20241204031904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_282.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Again? I'm starting to get nervous of \"arranged rest\" on this planet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter1_3_mar7th_236.ogg/revision/latest?cb=20241204031817",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_283.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "As for our Silvermane girl here... do you have time? I'd like to talk with you in private.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter1_3_oleg_221.ogg/revision/latest?cb=20241204031905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_284.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Mission Completed)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Bronya, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Wildfire, the vagrants, Svarog... The changes in here are greater than I ever imagined. *sigh* What exactly did the Underworld go through after the Silvermane Guards left?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_3_bronya_212.ogg/revision/latest?cb=20241204031723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_285.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...Sorry, did you have something you wanted to say to me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_3_bronya_213.ogg/revision/latest?cb=20241204031724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_286.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What do you think Oleg wants to talk about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I think I know what it will concern. Even if Oleg wasn't looking for me, I would've looked for him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_3_bronya_214.ogg/revision/latest?cb=20241204031725",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_287.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I'm certain that the residents of the underground will have a lot they need to vent about. And as a Silvermane Guard, I have a lot that I need to ascertain. Nothing more.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_3_bronya_215.ogg/revision/latest?cb=20241204031726",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_288.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What do you think of this Boss Svarog?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "According to Oleg, he's a robot that took part in the War of Defense over seven hundred years ago. He possesses a near-human intelligence, and rules over all the machinery in the underground...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter1_3_bronya_216.ogg/revision/latest?cb=20241204031727",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_289.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "During the war , the Architects created astonishing mechanical soldiers, but the fight was so terrible that most were damaged or destroyed. The technology was lost.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_3_bronya_217.ogg/revision/latest?cb=20241204031728",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_290.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "...If what Oleg says is true, then Svarog is an Architect creation leftover from the Old Era.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_3_bronya_218.ogg/revision/latest?cb=20241204031729",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_291.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You and Seele work well together.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "We do? I hadn't realized. I've received rigorous military training — coordinating with soldiers under any circumstances is easy for me...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter1_3_bronya_219.ogg/revision/latest?cb=20241204031729",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_292.ogg"
+            },
+            {
+                "type": "note",
+                "text": "You can say what you mean."
+            },
+            {
+                "type": "note",
+                "text": "So it's really only the training?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I admit, Seele is talented. We... do work well together. But that's all there is to it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_3_bronya_220.ogg/revision/latest?cb=20241204031730",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_293.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's all I have to ask.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Hey... Thanks for your concern. You should head back to the town, and... I'll do the same when Oleg and I are finished.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_3_bronya_221.ogg/revision/latest?cb=20241204031731",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_294.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Oleg, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "▶ Ah, young ( man / lady ) . This isn't the best place for a chat. Let's keep things brief.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_3_oleg_222_m.ogg/revision/latest?cb=20241204031907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_295.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What's so great about Svarog?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Svarog? He's an artificially intelligent being from the Old World. He was here when the underground was first constructed. That's about all I know.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter1_3_oleg_223.ogg/revision/latest?cb=20241204031908",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_296.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Now he guards the Furnace Core hub. Many vagrants have established bases in the vicinity, seeking Svarog's protection.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_3_oleg_224.ogg/revision/latest?cb=20241204031909",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_297.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened in the mine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "You got the gist from Natasha, right? The miners and vagrants came to blows over the vein, then Svarog's subordinates pushed everyone back.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_3_oleg_225.ogg/revision/latest?cb=20241204031910",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_298.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Just pushed them back?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Oleg",
+                        "line": "Well, perhaps their methods were lacking in finesse, but that's essentially what they did.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_3_oleg_226.ogg/revision/latest?cb=20241204031911",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Oleg_299.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "So Svarog wasn't after the vein?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Oleg",
+                        "line": "You saw for yourself — after he pushed everyone back, he disappeared. It was clear: He didn't have any interest in the vein itself.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_3_oleg_227.ogg/revision/latest?cb=20241204031912",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Oleg_300.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "If you want my take, he prevented another Underworld conflict, even if the execution was rough around the edges.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_3_oleg_228.ogg/revision/latest?cb=20241204031912",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_301.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "His behavior says something about his thinking: \"As long as everyone's been driven out, the conflict is over.\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_3_oleg_229.ogg/revision/latest?cb=20241204031913",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_302.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What do you want to say to Bronya?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Well, I heard that she's a Silvermane Guard that was sent to arrest you. I expected you to be less friendly around each other... Are you worried about her?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_3_oleg_230.ogg/revision/latest?cb=20241204031914",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_303.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "We're working together now.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Oleg",
+                        "line": "Oh, working together? Understood. Rest easy, I won't make things difficult for her.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter1_3_oleg_231.ogg/revision/latest?cb=20241204031915",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Oleg_304.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Don't threaten her.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Oleg",
+                        "line": "Hahahaha, you needn't worry! That Silvermane girl wouldn't be afraid of an old veteran anyway.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_3_oleg_232.ogg/revision/latest?cb=20241204031916",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Oleg_305.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Very much so.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Oleg",
+                        "line": "Really? I'm surprised. Still, you can rest easy, I won't make things difficult for her.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_3_oleg_233.ogg/revision/latest?cb=20241204031917",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Oleg_306.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "We haven't seen a Silvermane Guard down here for a long time now. I just wanna ask her a few questions, nothing more.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_3_oleg_234.ogg/revision/latest?cb=20241204031918",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_307.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've nothing to ask.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "It's getting late. You should go back to the town and get some rest.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter1_3_oleg_235.ogg/revision/latest?cb=20241204031919",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_308.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Seele, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "You guys have some moves. If you need my help with anything, just shout.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_3_seele_288.ogg/revision/latest?cb=20241204032027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_309.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So you finally believe us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Hmph, it'll take more than that. But you're not as bad as I took you for. You walk the talk.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_3_seele_289.ogg/revision/latest?cb=20241204032028",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_310.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We need your help.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Huh, couldn't even give it a minute, could you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_3_seele_290.ogg/revision/latest?cb=20241204032029",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_311.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "I've been on my feet all day. I don't have the energy for more headaches right now. Let me catch my breath and I'll come find you tomorrow.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_3_seele_291.ogg/revision/latest?cb=20241204032030",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_312.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Oh, I wanted to ask you — that Bronya girl... Is she really a Silvermane Guard?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_3_seele_292.ogg/revision/latest?cb=20241204032031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_313.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yes, she's their leader.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Oh? She heads up the force? Hm... Not bad.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_3_seele_293.ogg/revision/latest?cb=20241204032031",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_314.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You don't think she's got the talent?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "No, no, she's got skill alright, I can tell she's got training.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_3_seele_294.ogg/revision/latest?cb=20241204032032",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_315.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "It's just... I thought that Silvermane Guards were all cold and unfeeling — they left the Underworld to perish. But she... doesn't give me that impression.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter1_3_seele_295.ogg/revision/latest?cb=20241204032034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_316.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Anyway, I've got stuff to report to the chief. See you around.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter1_3_seele_296.ogg/revision/latest?cb=20241204032035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_317.ogg"
+    }
+]

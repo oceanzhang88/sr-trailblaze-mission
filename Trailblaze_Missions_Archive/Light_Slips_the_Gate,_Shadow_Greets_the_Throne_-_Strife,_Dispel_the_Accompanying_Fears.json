@@ -1,0 +1,2197 @@
+[
+    {
+        "type": "heading",
+        "text": "Story Recap"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ A mysterious celestial body entangled by Three Paths appears in the Memokeeper 's mirror — Amphoreus , The Eternal Land, the next stop for the Trailblaze ."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ But the landing is not a smooth one. After surviving the crash, the Trailblaze squad meets the local Chrysos Heir heroes. They learn from them that the Titans supporting the world are rotting away, and that the land of Amphoreus is covered in scars."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ In Okhema , the final holy city, the two members of the squad undergo great trials and gain the trust of Aglaea, leader of the Chrysos Heirs. Facing a threat from beyond the fog, everyone decides to band together to defeat the Strife Titan Nikador ."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ In order to destroy Nikador's true form, the group plans to infiltrate Castrum Kremnos of the past to discover the truth. At the end of the Abyss of Fate , the Trailblazer communes with the Time Titan Oronyx , and somehow receives a gaze from Fuli ."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ With the help of their new friend Mem , everyone pieces together Nikador's divinity and obtains the Titan's Coreflame in the final battle. At last, the young hero Phainon faces his own trial in the holy Vortex of Genesis..."
+    },
+    {
+        "type": "heading",
+        "text": "Await Phainon at the Vortex of Genesis"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "It's been a long while since Phainon entered the Vortex of Genesis for the Strife trial, leaving all Chrysos Heirs deeply concerned."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Aglaea, with all due respect...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_11_mydeimos_101.ogg/revision/latest?cb=20250310114032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "This trial is taking far too long.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_11_mydeimos_102.ogg/revision/latest?cb=20250310114033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_1.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Don't worry. Have faith in Phainon."
+    },
+    {
+        "type": "note",
+        "text": "Yeah, he's been gone for a while now..."
+    },
+    {
+        "type": "choice",
+        "text": "Bah, it feels like we've already waited for forty-two days.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...How did you even arrive at that number?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "What do you think of this, Trinnon ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_11_aglaea_102.ogg/revision/latest?cb=20250310113911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "It's not possible to tell for sure what goes on within the Vortex. All I can hear are fragments of speech and distant battle cries...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_11_trinnon_101.ogg/revision/latest?cb=20250310114148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Is it Phainon's voice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_11_aglaea_103.ogg/revision/latest?cb=20250310113912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "I'm not sure. It's difficult to make out clearly...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_11_trinnon_102.ogg/revision/latest?cb=20250310114149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_11_trinnon_103.ogg/revision/latest?cb=20250310114150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "...Ah! Wait, no!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_11_trinnon_104.ogg/revision/latest?cb=20250310114151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lady Trinnon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_11_castorice_102.ogg/revision/latest?cb=20250310113932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Snowy's voice... I can't hear him anymore...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_11_trinnon_105.ogg/revision/latest?cb=20250310114152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "There's a sun-like existence in the trial... It's burning him up...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_11_trinnon_106.ogg/revision/latest?cb=20250310114153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It has come to this, after all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_11_aglaea_104.ogg/revision/latest?cb=20250310113913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "What now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_11_mydeimos_103.ogg/revision/latest?cb=20250310114034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Get ready, Mydeimos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_11_aglaea_105.ogg/revision/latest?cb=20250310113914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_13.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What's going on?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Plan B. We pull him out when something goes wrong.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_11_mydeimos_104.ogg/revision/latest?cb=20250310114035",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_14.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We need to stop the trial now.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Mm. Time for plan B.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_11_mydeimos_105.ogg/revision/latest?cb=20250310114036",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are you going to leave Phainon to die?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Why would we? The Coreflame is important to us, but it's beyond absurd to even consider sacrificing him to the Titans.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_11_mydeimos_106.ogg/revision/latest?cb=20250310114037",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "As I promised you, Aglaea, I will intervene in the trial this time, to bring your Deliverer out to safety...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_11_mydeimos_107.ogg/revision/latest?cb=20250310114037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...But that's as far as I will go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_11_mydeimos_108.ogg/revision/latest?cb=20250310114038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Of course. I know this is not the time to demand any more from you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_11_aglaea_106.ogg/revision/latest?cb=20250310113915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Hmph, discerning. Alright then, to be as prepared as I can, I hope that the two outlander warriors can also join me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_11_mydeimos_109.ogg/revision/latest?cb=20250310114039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "That... might not be a good idea. The Coreflame trial is many times more complicated than a standard ritual. Even the slightest misjudgment, misstep, or hiccup could result in grave consequences...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_11_castorice_103.ogg/revision/latest?cb=20250310113933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Our two distinguished guests are not obliged to risk their lives for the Flame-Chase Journey. Let me join you instead, Lord Mydei.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_11_castorice_104.ogg/revision/latest?cb=20250310113934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_22.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It's fine. We've got this."
+    },
+    {
+        "type": "choice",
+        "text": "Exactly. No way am I getting involved.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "This is a rare opportunity, though... The Coreflame has something to do with the workings of Amphoreus. It's best for us to learn more.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can't we all go together?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "No, someone should stay outside in case we need help.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_11_mydeimos_110.ogg/revision/latest?cb=20250310114040",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_23.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Things have taken a critical turn, especially so with Phainon's life on the line. Of course, we Nameless will do what is necessary. How should we help?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Join me in the trial to look for Phainon. And when we do, Aglaea's golden threads will guide us back out...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_11_mydeimos_111.ogg/revision/latest?cb=20250310114041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...assuming we survive Nikador's wrath.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_11_mydeimos_112.ogg/revision/latest?cb=20250310114042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "If something bad were to happen, Castorice, your priority is to ensure the safety of these two. I can find a way out on my own.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_11_mydeimos_113.ogg/revision/latest?cb=20250310114043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...Yes, Lord Mydei.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_11_castorice_105.ogg/revision/latest?cb=20250310113935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Thank you both for your valor. Time to get to work, then. Let me have the honor of...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_11_mydeimos_114.ogg/revision/latest?cb=20250310114044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...taking the lead in this battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_11_mydeimos_115.ogg/revision/latest?cb=20250310114045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_29.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Aglaea and interfere with the trial"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "When crisis struck during Phainon's Coreflame trial as we waited anxiously, we made the snap decision to join Castorice and Mydei in rescuing Phainon from possible peril."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Please... stay safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_11_castorice_106.ogg/revision/latest?cb=20250310113936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trinnon, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "We can't get rid of... all the noise...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_11_trinnon_107.ogg/revision/latest?cb=20250310114154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's also make our way to the front of the spirit basin when you're ready.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "May that warrior be safe from harm. When you are ready, I will preside over the ritual on Trinnon's behalf.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_11_aglaea_107.ogg/revision/latest?cb=20250310113916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_32.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's go."
+    },
+    {
+        "type": "choice",
+        "text": "Give me a minute.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "No problem. We should only begin when everyone is fully prepared.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_11_aglaea_108.ogg/revision/latest?cb=20250310113916",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Interfere with the trial"
+    },
+    {
+        "type": "condition",
+        "text": "(EnterExploratory ExcursionTrial of Strife)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "▶ (Trailblazer) and Dan Heng, our reinforcements from beyond the sky, warriors of high esteem—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_11_aglaea_109_m.ogg/revision/latest?cb=20250310113918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Please close your eyes and hold your breath...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_11_aglaea_110.ogg/revision/latest?cb=20250310113919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "They once kept the fate of this world and many other challengers safe from the devastating rage of Strife...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_11_aglaea_111.ogg/revision/latest?cb=20250310113920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "They now seek to venture deep into the trial of divinity and prove their will to destroy our enemies, as foretold by the prophecy...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_11_aglaea_112.ogg/revision/latest?cb=20250310113921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "When the hammer of Strife strikes the anvil of the warrior, the heat and impact will leave behind scars, and between them, a demigod shall rise...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_11_aglaea_113.ogg/revision/latest?cb=20250310113922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Very well. Come forth, then...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_11_genaiwusi_101.ogg/revision/latest?cb=20250310113941",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"...Souls foreign to this realm and warriors in the making.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_11_genaiwusi_102.ogg/revision/latest?cb=20250310113942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Follow me into the mist and flames, and come face to face with the greatest fear in the depths of a warrior's heart.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_11_genaiwusi_103.ogg/revision/latest?cb=20250310113943",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"And with thy strength, banish the darkness and usher in sunlight — let all lost souls find courage on a long journey back home.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_11_genaiwusi_104.ogg/revision/latest?cb=20250310113944",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_42.ogg"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "What's the matter? Surprised?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_11_mydeimos_116.ogg/revision/latest?cb=20250310114046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Where there's Strife, there's carnage... It shouldn't come as a surprise to see such a sight in Nikador's trial.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter4_11_mydeimos_117.ogg/revision/latest?cb=20250310114047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_44.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You... did this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "I told you, this is only a mirror of the trial.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_11_mydeimos_118.ogg/revision/latest?cb=20250310114048",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's go look for Phainon."
+    },
+    {
+        "type": "note",
+        "text": "Why is it just you? Where's Dan Heng?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I don't see him around here... We should go first. Let's pray he stays safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_11_mydeimos_119.ogg/revision/latest?cb=20250310114049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_46.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Seek out Phainon and Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "(Trailblazer) and I became separated in this illusion. (Trailblazer) told me that(he/she)travelled with Mydei and had seen the man's deepest fear, which was the blood-soaked glory of the Kremnos..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_11_mydeimos_120.ogg/revision/latest?cb=20250310114050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "\"The greatest fear in the depths of a warrior's heart,\" huh? ...So, this is what he fears the most?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_11_mydeimos_121.ogg/revision/latest?cb=20250310114051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_48.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle chats)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Female C",
+        "line": "There's no place for you in Amphoreus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_11_gongminE_101.ogg/revision/latest?cb=20250310114008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Female_C_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Female B",
+        "line": "A disaster for Okhema...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter4_11_gongminD_101.ogg/revision/latest?cb=20250310114006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Female_B_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Female A",
+        "line": "So much for the king of those outlanders...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_11_gongminC_101.ogg/revision/latest?cb=20250310114006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Female_A_51.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow the escaping solider and investigate the commotion"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "You won't get away, Kremnoan vermin!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_11_gongminI_101.ogg/revision/latest?cb=20250310114011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Be on alert. The smell of rust is thick in the air.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter4_11_mydeimos_122.ogg/revision/latest?cb=20250310114052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_53.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle chats, unnamed & unvoiced NPCs)"
+    },
+    {
+        "type": "note",
+        "text": "Haha... the sweet taste of blood..."
+    },
+    {
+        "type": "note",
+        "text": "Offer yourself to Strife!"
+    },
+    {
+        "type": "note",
+        "text": "Strife is on my side!"
+    },
+    {
+        "type": "note",
+        "text": "Perish, you coward!"
+    },
+    {
+        "type": "note",
+        "text": "You... barbaric bloodseeker..."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "Tell me your name, brute! Your demise shall be a tale I boast about at the feast table!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_11_gongminI_102.ogg/revision/latest?cb=20250310114012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perdikkas",
+        "line": "My name is Perdikkas... And I am here to avenge my people.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_11_padikasi_101.ogg/revision/latest?cb=20250310114141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perdikkas_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Kremnoans... and Okhemans are at war?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_11_mydeimos_123.ogg/revision/latest?cb=20250310114053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "Hahaha! ...Perdikkas? Even the tragic cries of beasts at the slaughterhouse sound better than your name!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_11_gongminI_103.ogg/revision/latest?cb=20250310114013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perdikkas",
+        "line": "Say whatever you like, despicable Okheman...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter4_11_padikasi_102.ogg/revision/latest?cb=20250310114142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perdikkas_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perdikkas",
+        "line": "\"Valorous Death Before Glorious Return.\" May the Kremnoan spirit always watch over me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_11_padikasi_103.ogg/revision/latest?cb=20250310114142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perdikkas_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "Foolish brute! I see you're eager to die. Very well then, I shall grant you just that!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_11_gongminI_104.ogg/revision/latest?cb=20250310114014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_60.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Intervene and stop the soldier.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "You are...? Oh, so the alpha brute has found his way here?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_11_gongminI_105.ogg/revision/latest?cb=20250310114015",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_61.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "It's a pity, though... You're too late! You will never stop the holy city's army. Watch as I make this pathetic warrior of yours the first sacrifice!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_11_gongminI_106.ogg/revision/latest?cb=20250310114016",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Urk... Hngh...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_11_padikasi_104.ogg/revision/latest?cb=20250310114143",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Mydeimos ... My king...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_11_padikasi_105.ogg/revision/latest?cb=20250310114144",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_64.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Avenge... me...!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_11_padikasi_106.ogg/revision/latest?cb=20250310114145",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_65.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Is this...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_11_mydeimos_124.ogg/revision/latest?cb=20250310114054",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "You're next!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_11_gongminI_107.ogg/revision/latest?cb=20250310114016",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_67.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Watch on and wait for the trial.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_11_mydeimos_125.ogg/revision/latest?cb=20250310114054",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_68.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "Die, you swine!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_11_gongminI_108.ogg/revision/latest?cb=20250310114017",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_69.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Urk... Hngh...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_11_padikasi_107.ogg/revision/latest?cb=20250310114146",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_70.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Mydeimos ... My king...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_11_padikasi_108.ogg/revision/latest?cb=20250310114147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_71.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Perdikkas",
+                "line": "Why... why did you leave us to the mercy of these foreigners?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_11_padikasi_109.ogg/revision/latest?cb=20250310114147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Perdikkas_72.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Is this...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_11_mydeimos_126.ogg/revision/latest?cb=20250310114055",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_73.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "You are...? Oh, so the alpha brute has found his way here!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter4_11_gongminI_109.ogg/revision/latest?cb=20250310114018",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_74.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Frenzied Okheman Soldier",
+                "line": "You Kremnoans are all eager to die, huh? Then I shall grant you a swift death!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_11_gongminI_110.ogg/revision/latest?cb=20250310114019",
+                "is_unavailable": false,
+                "audio_filename": "audio_Frenzied_Okheman_Soldier_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "*sound of a body contorting and snapping*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_11_gongminI_111.ogg/revision/latest?cb=20250310114020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frenzied Okheman Soldier",
+        "line": "Face your death, cowardly king...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_11_gongminI_112.ogg/revision/latest?cb=20250310114021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Frenzied_Okheman_Soldier_77.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstFuriae Warrior×1,Furiae Philosopher×1,Furiae Troupe×1,Furiae Archer×1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "This insatiable bloodlust... is a product of Nikador 's wrath.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_11_mydeimos_127.ogg/revision/latest?cb=20250310114056",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_78.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...Absurd. I know this Okheman. Strife contorted an honorable warrior into this perverse and twisted being.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_11_mydeimos_128.ogg/revision/latest?cb=20250310114057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "And that horrible noise... I can hardly suppress my bloodlust when it sounds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_11_mydeimos_129.ogg/revision/latest?cb=20250310114058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "This battle cry must have gotten to Phainon. That's why he lost himself... Hmph, what a useless fool.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_11_mydeimos_130.ogg/revision/latest?cb=20250310114059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_11_mydeimos_131.ogg/revision/latest?cb=20250310114100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_82.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Who is he?"
+    },
+    {
+        "type": "note",
+        "text": "Why so solemn..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...It's nothing. Let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_11_mydeimos_132.ogg/revision/latest?cb=20250310114101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Urk...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter4_11_hatuonusi_101.ogg/revision/latest?cb=20250310114026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "That voice... is Chartonus?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_11_mydeimos_142.ogg/revision/latest?cb=20250310114102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_85.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Check Chartonus' current condition"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Not you too, Chartonus...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_11_mydeimos_143.ogg/revision/latest?cb=20250310114104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_86.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Try to communicate with the pair of warriors by the start of the Exploratory Excursion, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fanatical Kremnoan",
+        "line": "Come at me, coward! Nikador will grant me strength and fight alongside me to the death!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_11_gongminK_101.ogg/revision/latest?cb=20250310114024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fanatical_Kremnoan_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bloodthirsty Okheman",
+        "line": "Hmph, those are some big words for a pathetic rat like you... No different from your cowardly king!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_11_gongminL_101.ogg/revision/latest?cb=20250310114025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bloodthirsty_Okheman_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Try to communicate with the warrior standing over some bodies by the space anchor, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mesmerized Warrior",
+        "line": "Ha... Haha...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_11_gongminJ_101.ogg/revision/latest?cb=20250310114022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mesmerized_Warrior_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mesmerized Warrior",
+        "line": "Please accept my offering, Nikador ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_11_gongminJ_102.ogg/revision/latest?cb=20250310114023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mesmerized_Warrior_90.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This person is consumed by a frenzy of slaughter, oblivious to your presence."
+    },
+    {
+        "type": "condition",
+        "text": "(Try to communicate with the dying citizen, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dying Okheman",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter4_11_gongminM_101.ogg/revision/latest?cb=20250310114025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dying_Okheman_91.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A sharp bronze spear had torn through the tendons in her arm, leaving it hanging lifelessly, like a shattered wine jug abandoned by the roadside."
+    },
+    {
+        "type": "note",
+        "text": "As the soul ebbed away, darkness veiled her eyes."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Mydeimos, you are...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_11_hatuonusi_102.ogg/revision/latest?cb=20250310114027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Destroyed all, the wicked king... Here to take my life, finally?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_11_hatuonusi_103.ogg/revision/latest?cb=20250310114028",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_11_mydeimos_144.ogg/revision/latest?cb=20250310114104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I won't ask how this happened, nor will I hurt you like you said.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_11_mydeimos_145.ogg/revision/latest?cb=20250310114105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I just need you to tell me where Phainon is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_11_mydeimos_146.ogg/revision/latest?cb=20250310114106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "All of this, you know very well. Leave our city, cursed son of Gorgo !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_11_hatuonusi_104.ogg/revision/latest?cb=20250310114029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I have no intention of hurting you, Chartonus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_11_mydeimos_147.ogg/revision/latest?cb=20250310114107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Humiliate me, you shall not. Leave. Get out of Okhema!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_11_hatuonusi_105.ogg/revision/latest?cb=20250310114030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Get out! Symbol of your sovereignty, take it! Signet of Kremnos, bask in blood-soaked glory, your kind alone!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_11_hatuonusi_106.ogg/revision/latest?cb=20250310114030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "This is... Mother 's signet?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_11_mydeimos_148.ogg/revision/latest?cb=20250310114108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "It's here again. I knew it...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_11_mydeimos_149.ogg/revision/latest?cb=20250310114109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Hah! Finally gone mad, despicable vermin have. With your mad king, perish together, in that maelstrom of battle!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_11_hatuonusi_107.ogg/revision/latest?cb=20250310114031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Enough, be quiet! You are not at all Chartonus—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_11_mydeimos_150.ogg/revision/latest?cb=20250310114110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "—Look out!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_11_mydeimos_151.ogg/revision/latest?cb=20250310114111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_105.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A long, narrow shadow pierces through the phantom of Chartonus..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...Nice move.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_11_mydeimos_152.ogg/revision/latest?cb=20250310114112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng?",
+        "line": "You, too.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Are you... the real Dan Heng?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng?",
+                "line": "I could ask you the same—",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are we up against Dan Heng's apparition this time...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Wait. He seems calm and composed, unlike the rest.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_11_mydeimos_153.ogg/revision/latest?cb=20250310114112",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_107.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng?",
+                "line": "Sane enough to communicate, it seems. Hey, gray-haired warrior. Tell me—",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng?",
+        "line": "—What was the last thing you said to me before I parted the waters at the Scalegorge Waterscape ?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Parted the waters...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_11_mydeimos_154.ogg/revision/latest?cb=20250310114113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_108.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How would I even remember that?!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng?",
+                "line": "Hmm, that sounds like something the real you would say.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Ugh. Forget it. Just kill me, alright?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng?",
+                "line": "Hmm, that sounds like something the real you would say.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng?",
+                "line": "That's right. You have a great memory.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_11_mydeimos_155.ogg/revision/latest?cb=20250310114114",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_109.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It wasn't easy, but I finally found you two...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "So, you are Dan Heng. What did you go through before meeting us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_11_mydeimos_156.ogg/revision/latest?cb=20250310114115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Just some memories from my past. Nothing worth mentioning.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "You mean you saw your past too?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_11_mydeimos_157.ogg/revision/latest?cb=20250310114116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Hmph... The trial of Strife is a vicious one, alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_11_mydeimos_158.ogg/revision/latest?cb=20250310114117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What are you thinking?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "This might not be a single person's trial... but an arena for every challenger to engage their own delusions in a bloody battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_11_mydeimos_159.ogg/revision/latest?cb=20250310114118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I saw someone from my past a while ago... Someone Phainon has never met.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_11_mydeimos_160.ogg/revision/latest?cb=20250310114119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Hmm... That doesn't exactly sound like a bad thing. At least it means that we'll be able to find Phainon here.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "We can only hope this battlefield is nowhere as extensive as I imagine it to be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_11_mydeimos_161.ogg/revision/latest?cb=20250310114120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...Let's first follow the sounds of battle to their source.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_11_mydeimos_162.ogg/revision/latest?cb=20250310114120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_116.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find the battle cries and find the source of Strife"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We finally met up in the illusion of the trial after some fighting and followed the sound of battle to the source of Strife. Perhaps that would be Phainon's location."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "The battle cries... seem to be getting a lot louder.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_11_mydeimos_133.ogg/revision/latest?cb=20250310114102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I have a feeling...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Someone is manipulating this battlefield, someone who might not be Phainon.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Hmm... I agree.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_11_mydeimos_163.ogg/revision/latest?cb=20250310114121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_118.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle chats)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Male D",
+        "line": "This will be the end of you outlanders!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_11_gongminF_101.ogg/revision/latest?cb=20250310114008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Male_D_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Male E",
+        "line": "Go find your friends in hell!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_11_gongminG_101.ogg/revision/latest?cb=20250310114009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Male_E_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Adult Male F",
+        "line": "Cursed brutes...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_11_gongminH_101.ogg/revision/latest?cb=20250310114010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Adult_Male_F_121.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Heh. Just as I thought. This is where the battle cries were coming from...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_11_mydeimos_164.ogg/revision/latest?cb=20250310114122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...The true entrance to Nikador's trial.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_11_mydeimos_165.ogg/revision/latest?cb=20250310114123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What's wrong with you two?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "I've met that warrior before..."
+    },
+    {
+        "type": "note",
+        "text": "It's Gnaeus , an incarnation of Nikador..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I'm seeing him for the first time, but there's no doubt about it. What I'm sensing can only be Strife's bloodlust...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_11_mydeimos_166.ogg/revision/latest?cb=20250310114124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "The one manipulating this battlefield is... Nikador themself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter4_11_mydeimos_167.ogg/revision/latest?cb=20250310114125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Ah, Mydeimos... You are a keen warrior, indeed.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_11_genaiwusi_111.ogg/revision/latest?cb=20250310113945",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "You know me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter4_11_mydeimos_168.ogg/revision/latest?cb=20250310114126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"The blasphemous prince. Of course I know you.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_11_genaiwusi_112.ogg/revision/latest?cb=20250310113946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"And I happen to know that you're here for the soul of that white-haired warrior.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_11_genaiwusi_113.ogg/revision/latest?cb=20250310113947",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Great. Let's cut to the chase, then. Hand over that poor excuse for a swordmaster so we can be done with this farce.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_11_mydeimos_169.ogg/revision/latest?cb=20250310114127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"...No.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_11_genaiwusi_114.ogg/revision/latest?cb=20250310113948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"I applaud your courage and strength for coming this far. But you have chosen to besmirch the dignity of one who has fallen, and I cannot turn a blind eye to that.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_11_genaiwusi_115.ogg/revision/latest?cb=20250310113949",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_132.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This is gonna be one fierce battle we won't be able to get out of."
+    },
+    {
+        "type": "note",
+        "text": "Won't you go easy on us? We traveled together before, remember...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "One who has fallen...? Phainon failed the trial?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"He faced the greatest fear in the depths of his heart and fought with exceptional valor, though he eventually succumbed to the brutal onslaughts. I have since brought him to the rear battleground, and granted him glory worthy of his courage, tenacity, and sacrifice.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_11_genaiwusi_116.ogg/revision/latest?cb=20250310113950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"You wish to take him away? Sure. Pick up a spear and prove that your resolve can rival his...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_11_genaiwusi_117.ogg/revision/latest?cb=20250310113951",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Of course... cowards who hope to avoid bloodshed are better off disappearing from my sight this instant.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter4_11_genaiwusi_118.ogg/revision/latest?cb=20250310113952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Hmph. Your opinions are of no interest to me, mad king...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_11_mydeimos_170.ogg/revision/latest?cb=20250310114127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "If it's a fight you're looking for, then you will get one, Titan. I will put you to rest once more with my curse of immortality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_11_mydeimos_171.ogg/revision/latest?cb=20250310114128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Commendable! Your noble mother displayed the same spirit with a spear in her hands.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_11_genaiwusi_119.ogg/revision/latest?cb=20250310113953",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...Don't you dare speak of her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_11_mydeimos_172.ogg/revision/latest?cb=20250310114129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Why not? She challenged the former Kremnos king to a duel, even knowing that it was a deadly trap, all to protect your dignity. Are you suggesting her efforts were for naught?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_11_genaiwusi_120.ogg/revision/latest?cb=20250310113954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Her tragic death was caused by you, the incarnation of Strife. How dare you talk about her past?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_11_mydeimos_173.ogg/revision/latest?cb=20250310114130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Enough of this nonsense. You should be wielding your weapon as the god of Strife! Battle me and put a swift end to this!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_11_mydeimos_174.ogg/revision/latest?cb=20250310114131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Hah! Your hatred is as clear as day, Mydeimos. My words must have stung you deeply. But thanks to them, I have also come to realize...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_11_genaiwusi_121.ogg/revision/latest?cb=20250310113954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"This is why you killed your father for the throne, only to let your signet sink to the bottom of the Sea of Souls, refusing to let the glory of Kremnos live on...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_11_genaiwusi_122.ogg/revision/latest?cb=20250310113955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"This is why you slew the Strife Titan, only to reject the Coreflame, letting Strife continue instead...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_11_genaiwusi_123.ogg/revision/latest?cb=20250310113956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_11_mydeimos_175.ogg/revision/latest?cb=20250310114132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"O child abandoned by fate, show me what you are capable of. Show me if you have the power to put out the flames of your very own destiny .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_11_genaiwusi_124.ogg/revision/latest?cb=20250310113957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I will rip your chest apart, Titan... In the same way I ripped apart that former king.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_11_mydeimos_176.ogg/revision/latest?cb=20250310114133",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"Hahaha, I see you wish to repeat your mistake. Come at me, then. Ignite the flames of your fears and step onto the battlefield. Take this fierce battle to the boundaries of Strife and consume me, or lose yourself in the fight and watch your defeated corpse burn to ash!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_11_genaiwusi_125.ogg/revision/latest?cb=20250310113958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"But remember this, Mydeimos: The son of Gorgo will be crowned in blood—!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_11_genaiwusi_126.ogg/revision/latest?cb=20250310113959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "\"The very moment you rip my chest apart shall be the moment of your ascension. To you, the successor of Kremnos!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_11_genaiwusi_127.ogg/revision/latest?cb=20250310114000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_151.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle)"
+    },
+    {
+        "type": "choice",
+        "text": "(Second wave: Furiae Warrior ×1 , Furiae Archer ×2 , Furiae Praetor ×1 ) ▶ Divine Echo: \"In the name of fairness, I grant you the blood of Strife!\" (On Mydei's turn) ▶ Mydei: This raging power... I can hardly contain it... (Third wave: Furiae Philosopher ×1 , Furiae Praetor ×1 , Furiae Archer ×1 ) ▶ Divine Echo: \"In fear you shall abandon your mortal body, King of Kremnos!\" (On Mydei's turn) ▶ Mydei: How noisy...!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Divine Echo",
+                "line": "\"That white-haired warrior knew he was no match for me, yet he chose to fight till his very last breath...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_11_genaiwusi_128.ogg/revision/latest?cb=20250310114001",
+                "is_unavailable": false,
+                "audio_filename": "audio_Divine_Echo_152.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Divine Echo",
+                "line": "\"What about you, Mydeimos? Can your murderous intent match up to what fate has in store for you!?\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_11_genaiwusi_129.ogg/revision/latest?cb=20250310114002",
+                "is_unavailable": false,
+                "audio_filename": "audio_Divine_Echo_153.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(First wave:Furiae Warrior×2,Furiae Philosopher×1,Furiae Archer×1)"
+            },
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Divine Echo",
+                        "line": "\"Prove to me that you are worthy of this power!\"",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_11_genaiwusi_131.ogg/revision/latest?cb=20250310114004",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Divine_Echo_154.ogg"
+                    },
+                    {
+                        "type": "condition",
+                        "text": "(On Mydei's turn)"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Mydei",
+                        "line": "Mournful cries... Miserable wails...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_11_mydeimos_177.ogg/revision/latest?cb=20250310114134",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Mydei_155.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Mydei",
+                        "line": "Kings of Kremnos, this is the power you desired?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_11_mydeimos_178.ogg/revision/latest?cb=20250310114135",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Mydei_156.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "Watch out!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Found you...!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "note",
+        "text": "Some time later..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...I did my best.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_11_mydeimos_183.ogg/revision/latest?cb=20250310114137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Coreflame trial is indeed no place for the weak. Let's just hope that Phainon gets through this.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "There is no need to worry. His soul is in a stable condition. With ample rest for both body and mind, he'll be up and about in no time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_11_aglaea_114.ogg/revision/latest?cb=20250310113923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The greatest fear in the depths of his heart... Lord Phainon must have been forced to relive his past during the trial and revisit his homeland that had fallen to the black tide ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_11_castorice_107.ogg/revision/latest?cb=20250310113937",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...In all likelihood.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_11_mydeimos_184.ogg/revision/latest?cb=20250310114138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_160.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is the black tide really that scary?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Since coming to Amphoreus, we have heard many talking about this \"black tide.\" Could you tell us more about it?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's only normal to be unable to overcome your inner demons.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Since coming to Amphoreus, we have heard many talking about this \"black tide.\" Could you tell us more about it?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think Gnaeus mentioned it before...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "That is correct. He was willing to entrust the Coreflame to the Chrysos Heirs... because he was also pinning his hopes on us, to succeed him in shouldering the responsibility of resisting the black tide.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_11_castorice_108.ogg/revision/latest?cb=20250310113938",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_161.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Could you tell us more about this \"black tide\"?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It is one of the culprits that drives the people of Amphoreus to madness. It was during the Era Bellica that this... unspeakable thing first appeared, like a plague, alongside the Three Titans of Calamity .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_11_aglaea_115.ogg/revision/latest?cb=20250310113925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Nobody knows where it came from or how it came to be. What we do know, however, is that it is steadily encroaching upon what little remains of this tranquil land, much like a rising sea closing in on an island from all sides. It is for this very reason that it became known as the \"black tide.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_11_aglaea_116.ogg/revision/latest?cb=20250310113926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Those who succumb to it lose their reason and humanity, becoming vicious, mindless monsters. Mortals are not the only ones susceptible to its influence — even gods and Titans cannot escape from it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_11_aglaea_117.ogg/revision/latest?cb=20250310113927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "According to Gnaeus, Nikador , though one of the embodiments of Calamity, also bears the responsibility of fending off the black tide...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter4_11_castorice_109.ogg/revision/latest?cb=20250310113939",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Perhaps that is also why Lord Phainon threw himself into the trial of Strife so readily.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_11_castorice_110.ogg/revision/latest?cb=20250310113940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But now, we must look for alternative means of igniting the flames of Strife.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_11_aglaea_118.ogg/revision/latest?cb=20250310113928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "So, Aglaea, what should we do now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_11_mydeimos_185.ogg/revision/latest?cb=20250310114139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "You know very well the decision doesn't lie with me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_11_aglaea_119.ogg/revision/latest?cb=20250310113929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "As the successor to Kremnos, Mydei, you know better than anyone that if it were simply about emerging triumphant on the battlefield of Strife, you and your people could manage it with ease.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_11_aglaea_120.ogg/revision/latest?cb=20250310113930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But ultimately... the heavy burden of divinity can only be borne by one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_11_aglaea_121.ogg/revision/latest?cb=20250310113931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It is foolhardiness and indecision, not the unclaimed seat of divinity, that pushes this world into the deathly fog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_11_aglaea_122.ogg/revision/latest?cb=20250310113932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter4_11_mydeimos_186.ogg/revision/latest?cb=20250310114140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_173.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementSing, O Goddess, of His Rage)"
+    },
+    {
+        "type": "heading",
+        "text": "Return to your private bath chamber and discuss the present circumstances with Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After ensuring Phainon's safety, (Trailblazer) and I retreated to the bath chamber to rest. We also drew our own conclusions about the present situation in the world of Amphoreus"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The black tide...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the door, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Phainon was defeated in the Trial of Strife and had his consciousness corroded by the Titan. It will be some time until he recovers... Let the frustrated hero rest a while."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "An \"unspeakable\" thing of \"unknown origin\"... What comes to your mind when we put these keywords together?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "A Stellaron ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That's right. If you think about the various characteristics of Amphoreus — an isolated world of eternal night being eroded by an unknown power... we cannot discount this possibility.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "An Aeon ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That's right. If you think about the various characteristics of Amphoreus — an isolated world of eternal night being eroded by an unknown power... we cannot discount this possibility.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Uhh... a Leviathan ? A cosmic mega octopus?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...A hypothesis like that has never occurred to me, I must admit. But considering how the Leviathan hasn't been sighted in the universe for hundreds of Amber Eras , I think the possibility of it being the culprit is minuscule.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Let's think about the various characteristics of Amphoreus instead. An isolated world of eternal night being eroded by an unknown power...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This has been bothering me for a while now. Everything we have seen thus far suggests that Amphoreus wasn't always isolated from the rest of the universe. Be it the birth of the Titans or the encroaching black tide, none of these can be explained as a \"natural progression\" of a civilization.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There must be other reasons for its current state of isolation. It's just... if the Cancer of All Worlds is truly the culprit, then we should have observed certain phenomena — explicit or otherwise — by now, but that isn't the case.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "The Voice of the Stellaron?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That's what I was thinking too. From past experience, the Stellaron within you should be able to resonate with other Stellarons, but we haven't encountered anything like that here.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The Antimatter Legion ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That's what I was thinking too. From past experience, the Destruction has always been involved in some way when it comes to a world corrupted by a Stellaron.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The Stellaron Hunters ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That's what I was thinking too. From past experience, Stellaron Hunters are certain to appear on a world with a Stellaron.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There are several other unanswered questions, too. My gut feeling is that things here are not as simple as they seem...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Furthermore, what happened in Penacony also proved that the appearance of a world may not necessarily be due to the influence of just one Path.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "No sweat! The Trailblaze can tackle even ten Paths if it must!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "*sigh* It's good to be motivated at least.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It could be an all-star cast.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Heh... In another sense, it's Penacony all over again.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who knows, maybe Akivili 's behind it all.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...Not even the History Fictionologists would dare to spin a tale like that.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "For now, let's just take things as they come. The black tide could be a good starting point. Since Nikador has fallen, those who were suppressed by them will no doubt begin to counterattack now.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It seems our trailblazing expedition is growing in significance...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching to Mydei's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Mydei's people, the Kremnoans, seem to have other plans for the divine authority of Strife. Before overcoming the trial, he must first gain the trust of his people..."
+    }
+]

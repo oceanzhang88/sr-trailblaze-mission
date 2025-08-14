@@ -1,0 +1,1572 @@
+[
+    {
+        "type": "heading",
+        "text": "Go to the Silvermane Guard Restricted Zone with Serval"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After avoiding the watchful eyes of the Silvermane Guards, you finally arrive at the entrance to the Silvermane Guard Restricted Zone. One step further and you will be inside the most heavily guarded military zone in all ofBelobog.Will you be able to successfully make it through the gate of the restricted zone? How will you not startle the Silvermane Guards and make it to your destination once you've gotten past the door?To be totally honest, you have no idea. All you can do now is to place your hope in the lady genius next to you."
+    },
+    {
+        "type": "condition",
+        "text": "(After leavingNeverwinter Workshop)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Is Bronya really safe?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter1_7_seele_213.ogg/revision/latest?cb=20241204033737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "You care about her, huh. You must have become close friends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_7_serval_274.ogg/revision/latest?cb=20241204033745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Close is... a bit much. But I made her a promise...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_7_seele_214.ogg/revision/latest?cb=20241204033738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Relax, she's the strongest girl I've ever seen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_7_serval_275.ogg/revision/latest?cb=20241204033746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Mm... I can believe that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_7_seele_215.ogg/revision/latest?cb=20241204033739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_4.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Trick the guard and get into the restricted zone"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After avoiding the watchful eye of the Silvermane Guards, you finally arrive at the entrance to the Silvermane Guard Restricted Zone. The Silvermane Guards here are armed to the teeth and hostile. In comparison, the Silvermane Guards patrolling the city appear to be extremely lazy...However, you notice they seem significantly less hostile after seeing Serval.Perhaps this will allow you to turn the tide. Give it a try!"
+    },
+    {
+        "type": "condition",
+        "text": "(After enteringSilvermane Guard Restricted Zone)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "They've jacked up security alright... how the heck are we gonna sneak in? Serval, we need one of those brainwaves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_7_mar7th_221.ogg/revision/latest?cb=20241204033720",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Leave it to me. Stick close guys, and don't get spotted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter1_7_serval_276.ogg/revision/latest?cb=20241204033747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_6.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the guard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "This is a military base. Trespassers aren't allowed in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter1_7_soldierI_201.ogg/revision/latest?cb=20241204033848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "Wait, isn't that... Ah! Serval! Long time no see!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_7_soldierI_202.ogg/revision/latest?cb=20241204033849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Well, if it isn't Franz , long time no see! You're still watching the entrance?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_7_serval_277.ogg/revision/latest?cb=20241204033748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "Well you see, I... Bah, you haven't changed Serval. Still nailing us to the wall...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_7_soldierI_203.ogg/revision/latest?cb=20241204033849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "So... what brings you over here at this hour? And who are the guys behind you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_7_soldierI_204.ogg/revision/latest?cb=20241204033850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "My brother said the restricted zone energy lines were malfunctioning — told me it was urgent. He doesn't trust those contracted maintenance workers... so he got me in for free.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_7_serval_278.ogg/revision/latest?cb=20241204033749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "These guys are my assistants. We need to overhaul all the installations here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter1_7_serval_279.ogg/revision/latest?cb=20241204033750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "Uh... I didn't hear anything about the energy lines malfunctioning...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_7_soldierI_205.ogg/revision/latest?cb=20241204033851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Oh please, this is a Technology Division issue. Why would they tell you guys? Come on, let us in already. If the heating system goes down in the middle of the night, are you gonna be responsible for all the frozen corpses?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_7_serval_280.ogg/revision/latest?cb=20241204033751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "N—No, that's uh, not something I could handle...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter1_7_soldierI_206.ogg/revision/latest?cb=20241204033852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "Seeing as you're Captain Gepard 's sister, it should be fine...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_7_soldierI_207.ogg/revision/latest?cb=20241204033853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "Okay, here are some temporary passes... Oh, and remember to give them back to me when you leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_7_soldierI_208.ogg/revision/latest?cb=20241204033854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Thanks, Franz. I'll put in a good word for you with my brother and get him to promote you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_7_serval_281.ogg/revision/latest?cb=20241204033752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Franz",
+        "line": "No, no, Captain Gepard hates all that under-the-table stuff. I'd have a better chance if you don't mention me at all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_7_soldierI_209.ogg/revision/latest?cb=20241204033855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Franz_20.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Take a look at the restricted zone from up high"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After avoiding the watchful eye of the Silvermane Guards, you finally arrive at the entrance to the Silvermane Guard Restricted Zone. The Silvermane Guards here are armed to the teeth and hostile. In comparison, the Silvermane Guards patrolling the city appear to be extremely lazy...However, you notice they seem significantly less hostile after seeing Serval. With the help of aLandau, no obstacles stood in your way at the Silvermane Guard Restricted Zone.You're still not familiar with the area yet. Find a vantage point to observe the terrain."
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the Guard Captain, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard Captain",
+        "line": "I'm aware that there are those among you who see the reserve units as a vacation. Well let me set one thing straight: You are gravely mistaken!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_7_soldierR_201.ogg/revision/latest?cb=20241204033910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_Captain_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard Captain",
+        "line": "This is the restricted zone. The Fragmentum before you conceals monsters that watch your every move. Behind us, we have a band of conspirators that have infiltrated the city...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_7_soldierR_202.ogg/revision/latest?cb=20241204033911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_Captain_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard Captain",
+        "line": "The situation is critical... The lazy and undisciplined among you will lose your lives to the forces surrounding us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter1_7_soldierR_203.ogg/revision/latest?cb=20241204033912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_Captain_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard Captain",
+        "line": "As such, starting from today, we will be adding 200 bench presses and 30 extra minutes of one-arm planks to our daily drill! Is that clear?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_7_soldierR_204.ogg/revision/latest?cb=20241204033913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_Captain_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Yes, sir!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_7_soldiers_201.ogg/revision/latest?cb=20241204033913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Continue onward)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "See! That was easy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_7_serval_282.ogg/revision/latest?cb=20241204033753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You're Gepard's sister alright...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter1_7_mar7th_222.ogg/revision/latest?cb=20241204033721",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Hmph, I don't want people to see me that way... I'm doing this for you. Otherwise, I wouldn't be using my brother's name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_7_serval_283.ogg/revision/latest?cb=20241204033754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the lone Guard, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Hmm... Are those... temporary passes?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_7_soldierJ_201.ogg/revision/latest?cb=20241204033856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "I haven't seen one of those for a long time. Hmm... The restricted zone virtually never allows outsiders in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_7_soldierJ_202.ogg/revision/latest?cb=20241204033857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Continue onward)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Do you see that mechanical gear bridge? When you cross over to the other side, you arrive at hell on earth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_7_serval_284.ogg/revision/latest?cb=20241204033755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_31.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So what exactly is on the other side?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "An endless Fragmentum, a few exhausted Silvermane Guards... and the stench of death in the air.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_7_serval_285.ogg/revision/latest?cb=20241204033756",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_32.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "And what's this \"hell\" like exactly?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Hm... It's a place too cold to bear, covered in snow and ice. The guys doing the scientific research don't have time to worry about the surroundings.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_7_serval_286.ogg/revision/latest?cb=20241204033757",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_33.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "The restricted zone front line is on the other side of the gear bridge. It's an endless Fragmentum with a few exhausted Silvermane Guards... and the stench of death in the air.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter1_7_serval_287.ogg/revision/latest?cb=20241204033758",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The Architects follow Qlipoth . Do they believe in hell?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "They do. The Architects believe that hell can exist on any world — a plight that will inevitably come to be without intervention.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_7_serval_288.ogg/revision/latest?cb=20241204033759",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_35.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "In the future, a terrible catastrophe will arrive. If, under Qlipoth the Preservation 's guidance, we fail to construct a barrier, that catastrophe will sweep away the stars, plunging all worlds into hell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_7_serval_289.ogg/revision/latest?cb=20241204033800",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "That's the belief of the Architects... but for us, hell is an endless Fragmentum, a few exhausted Silvermane Guards... and the stench of death in the air.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_7_serval_290.ogg/revision/latest?cb=20241204033801",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "If we want to progress further north, we will need to cross that hell. Are you ready?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_7_serval_291.ogg/revision/latest?cb=20241204033802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_38.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We've come this far...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Exactly, we've got nowhere left to retreat.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_7_mar7th_223.ogg/revision/latest?cb=20241204033722",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Without hardships to overcome, there is no trailblazing.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Right on! I'm stealing that!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_7_mar7th_224.ogg/revision/latest?cb=20241204033723",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_40.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's never too late to retreat...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Look how far we've come! Don't chicken out on us now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter1_7_mar7th_225.ogg/revision/latest?cb=20241204033724",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Haha, let's go then. First, we need to think of a way to get to the other side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_7_serval_292.ogg/revision/latest?cb=20241204033803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I helped set the underlying mechanisms for this type of gear bridge. It's controlled via different terminals in combination. Let's go find them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter1_7_serval_293.ogg/revision/latest?cb=20241204033804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_43.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find and operate the gear bridge terminal"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The gear bridge is located in the center of the restricted zone. On the other side of the gear bridge is what Serval described as \"hell\"... And that is exactly where you need to go.But before that, you must use the gear bridge to connect the two sides.Serval tells you there is more than just one terminal. Go and look for them in the restricted zone!"
+    },
+    {
+        "type": "condition",
+        "text": "(After previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Is Gepard on front line duty a lot?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_7_mar7th_226.ogg/revision/latest?cb=20241204033725",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Yes, but what made you ask that all of a sudden?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_7_serval_294.ogg/revision/latest?cb=20241204033805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's so dangerous, don't you worry about him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_7_mar7th_227.ogg/revision/latest?cb=20241204033726",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "He's a Landau.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter1_7_serval_295.ogg/revision/latest?cb=20241204033806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the Guards, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "... Mechanical Fever released a new song. Did you hear it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter1_7_soldierN_201.ogg/revision/latest?cb=20241204033901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Sure did, Pela was on lead vocals this time, scared me half to death. It's a completely different style.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_7_soldierO_201.ogg/revision/latest?cb=20241204033903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Even Mechanical Fever is changing... *sigh* Rock 'n' roll's dead, there's no audience anymore.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter1_7_soldierN_202.ogg/revision/latest?cb=20241204033902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Don't be so pessimistic. They're just keeping things fresh. I thought Pela was pretty good.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_7_soldierO_202.ogg/revision/latest?cb=20241204033904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_51.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Argh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter1_7_serval_296.ogg/revision/latest?cb=20241204033807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Nope... this terminal is offline, we can't control it from here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_7_serval_297.ogg/revision/latest?cb=20241204033808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "So what's the plan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_7_seele_216.ogg/revision/latest?cb=20241204033740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Look for another — every platform linked to the gear bridge should have a similar terminal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_7_serval_298.ogg/revision/latest?cb=20241204033809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_55.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The gear bridge is located in the center of the restricted zone. On the other side of the gear bridge is what Serval described as \"hell\"... And that is exactly where you need to go.But before that, you must use the gear bridge to connect the two sides.Unfortunately, the first terminal you found seems to be offline. Try finding another terminal in the restricted zone!"
+    },
+    {
+        "type": "condition",
+        "text": "(After investigating the terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I never would've guessed that Gepard and you were brother and sister.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter1_7_mar7th_228.ogg/revision/latest?cb=20241204033727",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I can't say I blame you — we're nothing alike in personality or interests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter1_7_serval_299.ogg/revision/latest?cb=20241204033810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "In our family we have a strong military tradition going back generations — many a Landau has died in their prime. There's not a lot of \"brother and sister time.\" Everyone just does their best to get on with their life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter1_7_serval_300.ogg/revision/latest?cb=20241204033811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_58.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the second terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...Darn, can't activate it. It seems like someone's severed the energy supply to the terminals.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_7_serval_301.ogg/revision/latest?cb=20241204033812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_59.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So someone's deliberately trying to create trouble?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "I... huh. Y'know, the more I think about it, the more it seems deliberate.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_7_serval_302.ogg/revision/latest?cb=20241204033813",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are the Guards doing this intentionally?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "I was just thinking that, we can't rule it out.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_7_serval_303.ogg/revision/latest?cb=20241204033814",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_61.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did we do this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "What are you talking about...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_7_serval_304.ogg/revision/latest?cb=20241204033815",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "I think the Guards must have done this intentionally.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_7_serval_305.ogg/revision/latest?cb=20241204033816",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_63.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "With the front line on high alert, they must have rotated the bridge to make it impassable. Then they cut off the energy supply to the terminals to avoid accidental repositioning... or to prevent deserters from escaping.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_7_serval_306.ogg/revision/latest?cb=20241204033817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "That way, even if the front line were to collapse... the Fragmentum monsters wouldn't be able to make it to the other side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_7_serval_307.ogg/revision/latest?cb=20241204033818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_65.ogg"
+    },
+    {
+        "type": "note",
+        "text": "They cut off their only retreat..."
+    },
+    {
+        "type": "note",
+        "text": "That's terrible."
+    },
+    {
+        "type": "note",
+        "text": "Wise tactics."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_7_seele_217.ogg/revision/latest?cb=20241204033741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Bronya was right... The Silvermane Guards really are risking their lives to protect Belobog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_7_seele_218.ogg/revision/latest?cb=20241204033742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Just my conjecture, but I doubt it's far from the truth. My brother mentioned that they've had to use extreme measures to repel the Fragmentum monsters.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_7_serval_308.ogg/revision/latest?cb=20241204033819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Let's press on. We can't activate either of these terminals, so let's look for the energy supply installation itself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter1_7_serval_309.ogg/revision/latest?cb=20241204033820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_69.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find the energy hub of the gear bridge terminals"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The gear bridge is located in the center of the restricted zone. On the other side of the gear bridge is what Serval described as \"hell\"... And that is exactly where you need to go.But before that, you must use the gear bridge to connect the two sides.Unfortunately, all the terminals you were able to find don't seem to be working. Looks like you'll have to head to the energy hub that powers them to find out."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Guard near the second terminal, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Aren't you the maintenance people? What are you doing over here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter1_7_soldierL_201.ogg/revision/latest?cb=20241204033900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "You can't just go wherever you please in the restricted zone! Get to work!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter1_7_soldierL_202.ogg/revision/latest?cb=20241204033901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Attempt to leave the area to the west, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "You, hold it right there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_Ag1_soldierAA_101.ogg/revision/latest?cb=20241204033922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "This is a military base. Temporary workers aren't allowed in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_Ag1_soldierAA_102.ogg/revision/latest?cb=20241204033924",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_73.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the Guards near the Energy HubSpace Anchor, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Hmm-hmm... Did you hear Mallick is being reassigned? It seems like both the front line and the city are shorthanded right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_7_soldierP_201.ogg/revision/latest?cb=20241204033905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Seriously? No way. I thought Mallick had only just been promoted?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_7_soldierQ_201.ogg/revision/latest?cb=20241204033908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Mysterious. It feels like something big's about to go down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter1_7_soldierP_202.ogg/revision/latest?cb=20241204033906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "As long as it's away from the front line, I'd happily be reassigned... It's only been a year since I enlisted — I'm not ready to lose my life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_7_soldierQ_202.ogg/revision/latest?cb=20241204033909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Ahh, you make it sound terrible. Good luck \"preserving\" anything with those idlers in the reserve units. Our purpose as Silvermane Guards is to protect the citizens of Belobog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_7_soldierP_203.ogg/revision/latest?cb=20241204033907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_78.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Guard on the right side of the gate, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "Sorry, I'm on duty, no time to chat.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_7_soldierK_201.ogg/revision/latest?cb=20241204033858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guard",
+        "line": "If there's an issue, report to the security captain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_7_soldierK_202.ogg/revision/latest?cb=20241204033859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guard_80.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the gate in front of the energy hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "That's it! The thing shaped like a giant iron ball.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_7_serval_310.ogg/revision/latest?cb=20241204033821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "And it's behind a gate. What are the odds...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_7_mar7th_229.ogg/revision/latest?cb=20241204033728",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Its formal name is the \"mechanism energy hub.\" It's connected to all the energy lines — I would've thought it covers the entire restricted zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_7_serval_311.ogg/revision/latest?cb=20241204033822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mm... no wonder it's so heavily guarded.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_7_danheng_214.ogg/revision/latest?cb=20241204033652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "One unit for everything? That's a disaster waiting to happen — we learned the hard way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_7_seele_219.ogg/revision/latest?cb=20241204033743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "As long as we can gain access permissions to the hub, we can operate the gear bridge terminals.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_7_serval_312.ogg/revision/latest?cb=20241204033823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Won't this cause a commotion...?"
+    },
+    {
+        "type": "note",
+        "text": "Won't the Guards get suspicious?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "That's why I told them we were here for urgent maintenance! The front line equipment needs servicing just as much as the rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter1_7_serval_313.ogg/revision/latest?cb=20241204033823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So that's why you went for maintenance, way to go Serval! I thought you just came up with it on the spot.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_7_mar7th_230.ogg/revision/latest?cb=20241204033729",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Come on, let's see if that guard over there will let us past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_7_serval_314.ogg/revision/latest?cb=20241204033824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_89.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Convince the Silvermane Guard watching the energy hub and enter the energy hub"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Serval brings you to the energy hub, but there is a ferocious Silvermane Guard watching the place. You can tell his expression even without being able to see the face underneath his helmet.Will clever Serval manage to successfully use her old tricks and blend in again? You can't be sure."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Guard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Yo! Evening, soldier!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter1_7_serval_315.ogg/revision/latest?cb=20241204033825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "Are you the emergency engineers? I saw you guys hanging around. Did you find the problem?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_7_soldierT_201.ogg/revision/latest?cb=20241204033914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Not yet, everything looks normal so far. I think the problem is stemming from the energy hub.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_7_serval_316.ogg/revision/latest?cb=20241204033826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "If you let us in we can do a routine service inspection... I've worked on various iterations of this type of installation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_7_serval_317.ogg/revision/latest?cb=20241204033827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "Haha, no, no, no, no... No can do! No one gets near the energy hub without the security captain's encryption key.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_7_soldierT_202.ogg/revision/latest?cb=20241204033915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh, not even the supreme guardian ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_7_mar7th_231.ogg/revision/latest?cb=20241204033730",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "The supreme guardian...? Hey, no games, y'hear? No dice without the encryption key!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter1_7_soldierT_203.ogg/revision/latest?cb=20241204033916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Darn, this guy's not stupid...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter1_7_mar7th_232.ogg/revision/latest?cb=20241204033731",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "You need the encryption key, right? Which captain should I bother then?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_7_serval_318.ogg/revision/latest?cb=20241204033828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "...Captain Dunn's resting up ahead. Go and find him. If he grants you permission, I won't stand in your way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_7_soldierT_204.ogg/revision/latest?cb=20241204033917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Dunn... Dunn? Ha, why didn't you say so! No problem. We'll be back in a bit.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_7_serval_319.ogg/revision/latest?cb=20241204033829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_100.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Silvermane Captain Dunn"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Serval brings you to the energy hub, but there is a ferocious Silvermane Guard watching the place. You can tell his expression even without being able to see the face underneath his helmet.Clever Serval repeats her tricks but is unable to elicit the desired reaction from the soldier... With no other options left, let's try to find that Dunn person that the soldier mentioned.Serval seems to be an acquaintance of the captain — Maybe it will be far easier than the previous encounters?"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Serval, this Dunn, do you know him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_7_mar7th_233.ogg/revision/latest?cb=20241204033732",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "You bet I do. We go way back. He's easy to talk to. Watch me persuade him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_7_serval_320.ogg/revision/latest?cb=20241204033830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_102.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen by the outpost booth, optional)‍[verification needed]"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "I heard Gepard sent mechanics for an emergency repair?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_7_donne_201.ogg/revision/latest?cb=20241204033656",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "Yes, I confirmed it with Franz.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_7_soldierU_201.ogg/revision/latest?cb=20241204033918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "I've been keeping watch here all day, why didn't I hear about any equipment in need of emergency servicing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter1_7_donne_202.ogg/revision/latest?cb=20241204033657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "I heard from Franz that it's Captain Gepard's sister...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter1_7_soldierU_202.ogg/revision/latest?cb=20241204033919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "S—Serval!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter1_7_donne_203.ogg/revision/latest?cb=20241204033658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "...You gotta be kidding me, I haven't showered in two days... do I smell?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter1_7_donne_204.ogg/revision/latest?cb=20241204033659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "...N—No, sir!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_7_soldierU_203.ogg/revision/latest?cb=20241204033920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_109.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Dunn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Hey, Dunn! It's been a while. I didn't know you made security captain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter1_7_serval_321.ogg/revision/latest?cb=20241204033831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "S—Serval, it's been a long time... you're still so... Ahem. You look good.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_7_donne_205.ogg/revision/latest?cb=20241204033659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Allow me to introduce my assistants to you. They help me take care of business at the workshop.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_7_serval_322.ogg/revision/latest?cb=20241204033831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Everyone, this is Captain Dunn, an old friend of mine. He used to be an ace on the keys in the band.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_7_serval_323.ogg/revision/latest?cb=20241204033832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh? You play rock 'n' roll too? Cool!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter1_7_mar7th_234.ogg/revision/latest?cb=20241204033733",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Pleased to meet you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter1_7_danheng_215.ogg/revision/latest?cb=20241204033653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_115.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Great seeing you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dunn",
+                "line": "Oh, hello...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_7_donne_206.ogg/revision/latest?cb=20241204033700",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dunn_116.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "*sniff* What's that weird smell...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_7_mar7th_235.ogg/revision/latest?cb=20241204033734",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_117.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Something smells weird...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dunn",
+                "line": "Hmm? *cough* Zackery, how many days has it been since you showered?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_7_donne_207.ogg/revision/latest?cb=20241204033701",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dunn_118.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "Uh... I showered right before my shift—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_7_soldierU_204.ogg/revision/latest?cb=20241204033921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Hmm? What did you say?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter1_7_donne_208.ogg/revision/latest?cb=20241204033702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silvermane Guard",
+        "line": "...I—I haven't showered in two days, sir!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_7_soldierU_205.ogg/revision/latest?cb=20241204033922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silvermane_Guard_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Unacceptable, especially in front of visitors! Apologies for the embarrassment, all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_7_donne_209.ogg/revision/latest?cb=20241204033703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "It's not a big deal, Dunn. Y'know, if you get a chance, would you wanna get on stage with us again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter1_7_serval_324.ogg/revision/latest?cb=20241204033833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "My keyboard guy is pretty good, but I still miss our military days playing in the band...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_7_serval_325.ogg/revision/latest?cb=20241204033834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "That was a long time ago, Serval — I haven't touched a keyboard in ages. Besides, I'm stationed here all year round, I'm afraid I don't get many chances to return to the city.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_7_donne_210.ogg/revision/latest?cb=20241204033704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Though I don't stand on ceremony... How may I assist you? If everything's in order, you'd better head back to the city. It's not safe here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_7_donne_211.ogg/revision/latest?cb=20241204033705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I've checked the lines, there don't seem to be any major problems. All that's left is the energy hub.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_7_serval_326.ogg/revision/latest?cb=20241204033835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "The guard over there said that I needed an \"encryption key\" to open the gate. Can you help me out?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_7_serval_327.ogg/revision/latest?cb=20241204033836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_7_donne_212.ogg/revision/latest?cb=20241204033706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_129.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We'll be on our way after we run a check-up."
+    },
+    {
+        "type": "choice",
+        "text": "Don't be hesitant in front of your dream girl.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Could you be any less discreet!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_7_mar7th_236.ogg/revision/latest?cb=20241204033735",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_130.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter1_7_donne_213.ogg/revision/latest?cb=20241204033707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Anything wrong, Dunn?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_7_serval_328.ogg/revision/latest?cb=20241204033837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Sorry, Serval... but can you tell me what Captain Gepard told you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_7_donne_214.ogg/revision/latest?cb=20241204033708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Huh? Oh, uh... Let me think... \"Hey sis, the energy supply lines in the restricted zone have malfunctioned. Those useless engineers can't find the problem.\" Something like that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_7_serval_329.ogg/revision/latest?cb=20241204033838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "And may I ask... when did he contact you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_7_donne_215.ogg/revision/latest?cb=20241204033709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Uh... this morning? Yeah, that's right. He's on urban patrol duty today, right? That's why he popped round and asked the favor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_7_serval_330.ogg/revision/latest?cb=20241204033839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_7_donne_216.ogg/revision/latest?cb=20241204033710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Captain Gepard just returned to the front line. I could... reconfirm with him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_7_donne_217.ogg/revision/latest?cb=20241204033711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...Hah? Hold up, he's back? That can't be, he was still in the city a little while ago...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter1_7_serval_331.ogg/revision/latest?cb=20241204033840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "*sigh* You haven't changed Serval... You're still a lousy liar.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_7_donne_218.ogg/revision/latest?cb=20241204033712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "These people you've brought, they're... they're not workshop assistants, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_7_donne_219.ogg/revision/latest?cb=20241204033713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_7_serval_332.ogg/revision/latest?cb=20241204033841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Serval, it's not that I don't want to help you... but you should remember that I'm a Belobog Silvermane Guard!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter1_7_donne_220.ogg/revision/latest?cb=20241204033714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "How about this. You can leave and I won't tell anyone about this incident... But the outsiders must remain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter1_7_donne_221.ogg/revision/latest?cb=20241204033715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There goes the negotiation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter1_7_danheng_216.ogg/revision/latest?cb=20241204033654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_145.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Serval, you should go."
+    },
+    {
+        "type": "note",
+        "text": "Sorry for getting you involved in this."
+    },
+    {
+        "type": "note",
+        "text": "Looks like this is gonna end in a fight after all..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I brought you guys here, and I'm standing with you till the end!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_7_serval_333.ogg/revision/latest?cb=20241204033842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Dunn, this concerns the fate of Belobog — no — the fate of our whole world. Please don't stand in our way...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_7_serval_334.ogg/revision/latest?cb=20241204033842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Serval! We used to rehearse together every day. You must understand?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_7_donne_222.ogg/revision/latest?cb=20241204033716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "My rock 'n' roll soul is to uphold the dignity of a soldier!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_7_donne_223.ogg/revision/latest?cb=20241204033717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_149.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstSilvermane Officer Dunn×1,Silvermane Soldier×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating Silvermane Officer Dunn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dunn",
+        "line": "Serval... why...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter1_7_donne_226.ogg/revision/latest?cb=20241204033719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dunn_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I'm sorry Dunn... Time for a little nap.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_7_serval_336.ogg/revision/latest?cb=20241204033843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "He's just unconscious. Don't worry.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_7_danheng_217.ogg/revision/latest?cb=20241204033655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Stubborn fool... strong, though. Wildfire lacks people like him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter1_7_seele_220.ogg/revision/latest?cb=20241204033744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Got it, the encryption key! Quick, before we attract attention, let's—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter1_7_serval_337.ogg/revision/latest?cb=20241204033844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_154.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(An alarm sounds)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I think we attracted attention...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_7_mar7th_237.ogg/revision/latest?cb=20241204033736",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "That's the enemy attack alarm... Every Silvermane Guard in the reserve zone just became our enemy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_7_serval_338.ogg/revision/latest?cb=20241204033845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_156.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Come on, let's take them out!"
+    },
+    {
+        "type": "note",
+        "text": "If we work together we can break through their ranks!"
+    },
+    {
+        "type": "choice",
+        "text": "My life was short, but it was a life filled with—",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You're not dead yet. How can you give up that easily!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_7_mar7th_238.ogg/revision/latest?cb=20241204033737",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_157.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "We've made it up till now... I could lose an arm and a leg for all I care — I have to lay eyes on the Stellaron .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_7_serval_339.ogg/revision/latest?cb=20241204033846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Quick, back to the energy supply hub. Anyone that tries to stop us is gonna find out a thing or two.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_7_serval_340.ogg/revision/latest?cb=20241204033847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_159.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDevice Encryption Key×1)"
+    }
+]

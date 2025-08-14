@@ -1,0 +1,3548 @@
+[
+    {
+        "type": "heading",
+        "text": "Speak with your companions and sort the information you have"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Sundayinvites you to decide the victor on thePenacony Grand Theater's stage.How will you decide? Since this is a major decision, it would be good to talk to your companions first."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I can't believe that Aeon would cast a glance at Penacony at a time like this... Is it because of the resonance from the legacy of the Trailblaze? Or perhaps the bond between you is so strong that it even impresses an Aeon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Vo_chapter3_22_sunday_102.ogg/revision/latest?cb=20240702175359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Well, there might be another possibility. Perhaps THEY want to witness, on behalf of the fallen Aeons , who will hold the future of Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_22_himeko_143.ogg/revision/latest?cb=20240702174753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "If that's the case, on behalf of the Dreammaster of Penacony and the 107,336 members of the Oak Family, I'm extending a formal invitation to all of you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Vo_chapter3_22_sunday_103.ogg/revision/latest?cb=20240702175401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'm cordially inviting you all to the Penacony Grand Theater to participate in the upcoming Charmony Festival. And of course, you won't be in the audience, but on center stage.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_22_sunday_104.ogg/revision/latest?cb=20240702175403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Since the future of the Stellaron, Penacony, and even the entire Cosmos is at stake, let's draw a conclusion there, in all fairness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_22_sunday_105.ogg/revision/latest?cb=20240702175405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "If you truly believe in Akivili's path, then show me THEIR courage and determination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_22_sunday_106.ogg/revision/latest?cb=20240702175407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, Firefly, or Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Does that mean he wants to fight us during the Charmony Festival?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Vo_chapter3_22_mar7th_137.ogg/revision/latest?cb=20240702174938",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm afraid so.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_22_firefly_101.ogg/revision/latest?cb=20240702174438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This is weird! Aren't arch villains usually plotting some dirty conspiracy in the end? But he actually said something like \"in all fairness\"... Could it be that he's underestimating us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_22_mar7th_138.ogg/revision/latest?cb=20240702174940",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Well, in my opinion, Sunday is deeply committed to his own philosophy and genuinely wants to prove that the Order is right.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_22_himeko_144.ogg/revision/latest?cb=20240702174755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I sensed a strong conviction and a desire for dominance in him. Maybe he won't accept the outcome unless he wins fair and square.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_22_himeko_145.ogg/revision/latest?cb=20240702174757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's why he'll give it his all in the upcoming battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_22_himeko_146.ogg/revision/latest?cb=20240702174759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_11.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We won't back down either.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, you're right! We've even dealt with a Lord Ravager of the Destruction, so a follower of the Order won't be a big deal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_22_mar7th_139.ogg/revision/latest?cb=20240702174942",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "But he's such a gentleman. If evil, why so nice?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "A—Are you backing out now!? We've even dealt with a Lord Ravager of the Destruction , so a follower of the Order won't be a big deal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_22_mar7th_140.ogg/revision/latest?cb=20240702174944",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I flexed too hard with my swag. Guess I now have to pay my dues, huh...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You...! Every time an important moment arrives, you hesitate.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_22_mar7th_141.ogg/revision/latest?cb=20240702174946",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "We've even dealt with a Lord Ravager of the Destruction, so a follower of the Order won't be a big deal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_22_mar7th_142.ogg/revision/latest?cb=20240702174948",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Anyway, we can't leave the Stellaron unchecked. This is about trailblazing a bright future for Penacony and fulfilling Mikhail's and his predecessors' long-cherished wishes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_22_himeko_147.ogg/revision/latest?cb=20240702174801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Now that we've taken up the mantle, we can't afford to fail them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_22_himeko_148.ogg/revision/latest?cb=20240702174803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "However, the same applies to the Order. Their plan didn't materialize overnight, and they have the profound collective consciousness of the Planet of Festivities behind them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_22_firefly_102.ogg/revision/latest?cb=20240702174441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "A desire to dream, to slumber and escape reality... All those hidden emotions have given birth to the sweet dream of the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_22_firefly_103.ogg/revision/latest?cb=20240702174444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "They've harnessed the will of an entire planet to create an Aeon... This confrontation is far more complicated than a simple power struggle. To secure Penacony's future, fighting on the stage alone is not enough.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_22_firefly_104.ogg/revision/latest?cb=20240702174446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What do you mean? Are you not coming with us...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_22_mar7th_143.ogg/revision/latest?cb=20240702174950",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I believe Firefly is trying to say that she's heading off to another battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_22_himeko_149.ogg/revision/latest?cb=20240702174805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Mhmm.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Vo_chapter3_22_firefly_105.ogg/revision/latest?cb=20240702174448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Before I left, Destiny's Slave told me that this journey would bring unforgettable rewards. Even though the script he gave me only had a few lines, I couldn't ignore them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_22_firefly_106.ogg/revision/latest?cb=20240702174450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Because one of the lines said... I'll experience \"death\" three times in the land of the dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_22_firefly_107.ogg/revision/latest?cb=20240702174451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Three times!? This can't be serious, right...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_22_mar7th_144.ogg/revision/latest?cb=20240702174952",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The first time was a painful death when I was stabbed by the blade of \"Dormancy,\" which led to all subsequent events. The script will always come true, but in a way... that will only be revealed when that page is turned.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_22_firefly_108.ogg/revision/latest?cb=20240702174453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So now, I've understood the meaning of my second \"death,\" and I am prepared to face it. If all goes well, my efforts will provide crucial support for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_22_firefly_109.ogg/revision/latest?cb=20240702174456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Only by achieving victory in this battle can we secure a future for Penacony. And only then, my third and final death... won't come true in the most terrible form.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_22_firefly_110.ogg/revision/latest?cb=20240702174458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The most terrible form? Does that mean...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_22_mar7th_145.ogg/revision/latest?cb=20240702174954",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The true \"death\"... where everyone in Penacony loses themselves completely in the eternal sweet dream of the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_22_himeko_150.ogg/revision/latest?cb=20240702174807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "We must do everything we can to prevent that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_22_firefly_111.ogg/revision/latest?cb=20240702174459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Have you... made up your mind, Firefly?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Vo_chapter3_22_himeko_151.ogg/revision/latest?cb=20240702174809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Yes, otherwise I wouldn't be here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_22_firefly_112.ogg/revision/latest?cb=20240702174501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Thank you again for your assistance for the Astral Express. May we meet again in reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_22_himeko_152.ogg/revision/latest?cb=20240702174810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Yeah, farewell, everyone. May your Trailblazing expedition never end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_22_firefly_113.ogg/revision/latest?cb=20240702174503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_36.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I dreamed of a scorched earth.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Everyone, are you ready?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "A new shoot sprouted from the earth.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "It bloomed in the morning sun,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "and whispered to me...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Like fireflies to a flame... life begets death.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "May we meet again in reality.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Small Town Grotesque 1.mp4"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "After today, Jepella's name will disappear from cosmic history, and the Ever-Flame Mansion will take its place. In the not-too-distant future, you'll receive an invitation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_22_blade_101.ogg/revision/latest?cb=20240702174345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "That's your next stop.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_22_blade_102.ogg/revision/latest?cb=20240702174347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Land of the Dreams, Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_22_firefly_114.ogg/revision/latest?cb=20240702174505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I hope you find whatever you seek there, be it answers... or salvation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_22_blade_103.ogg/revision/latest?cb=20240702174349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_22_firefly_115.ogg/revision/latest?cb=20240702174507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You mean... my three \"deaths\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_22_firefly_116.ogg/revision/latest?cb=20240702174509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Silver Wolf told me about it. It's such a shame that it's not part of my script.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_22_blade_104.ogg/revision/latest?cb=20240702174353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "While I want to live, I'm never afraid of death. The opposite of death is eternal life, and that's... that's something I'll never desire.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_22_firefly_118.ogg/revision/latest?cb=20240702174513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "People die, and I am no exception. Death is like a script, a fate that cannot be defied. But that's exactly why...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Vo_chapter3_22_firefly_119.ogg/revision/latest?cb=20240702174515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "We have to choose where we want to rest forever.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_22_firefly_120.ogg/revision/latest?cb=20240702174517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Do you exist just to perish?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_22_blade_107.ogg/revision/latest?cb=20240702174356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Are you not the same, Blade? The end you desire is not one dictated by others.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_22_firefly_121.ogg/revision/latest?cb=20240702174519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If I were to die now, I would only be a weapon. I believe... I should die as a human.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_22_firefly_122.ogg/revision/latest?cb=20240702174523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Though its definition escapes me, isn't this the answer that ordinary people look for their whole lives? A name that can be carved onto their tombstone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_22_firefly_123.ogg/revision/latest?cb=20240702174525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The tombstone that belongs to me once bore the inscription \"Glamoth's Iron Cavalry,\" then it changed to \"Stellaron Hunter,\" but one day...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_22_firefly_124.ogg/revision/latest?cb=20240702174527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It will bear the name \"Firefly\" and the brilliance she showed at the end of her life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_22_firefly_125.ogg/revision/latest?cb=20240702174529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "In the meantime... somewhere at Dreamflux Reef ..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "That's quite unexpected, old man. Who would've thought your crazy plan would actually work? Do all you Nameless fools just act on a whim?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_22_gallagher_106.ogg/revision/latest?cb=20240702174543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "I can sense that this false sweet dream is coming to an end. The Nameless may be young, but they had the ability to achieve this goal... just like you did in your time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_22_gallagher_107.ogg/revision/latest?cb=20240702174544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "It's a shame you won't be able to see it firsthand. Heh, maybe I won't either... Once something fictional is seen through, it ceases to exist.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_22_gallagher_108.ogg/revision/latest?cb=20240702174547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Yeah, not just those Nameless, even Mr. Wings is just like you... Stubborn, won't listen or give up, no matter what... Well, fate is unpredictable, I guess. If we weren't bound by those cursed Paths, maybe we could've had some good talks.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_22_gallagher_109.ogg/revision/latest?cb=20240702174549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "But in the end, we managed to do it, and now we can find solace. Remember how those idiots cursed us? They said, \"Go to hell, you worthless traitors!\" Heh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_22_gallagher_110.ogg/revision/latest?cb=20240702174552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Well, I don't know if they really meant it, but if longing for freedom means going to hell...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_22_gallagher_111.ogg/revision/latest?cb=20240702174554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Then I'll be joining you soon, you old fool.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_22_gallagher_112.ogg/revision/latest?cb=20240702174556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Let's get together and have supper again in hell...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_22_gallagher_113.ogg/revision/latest?cb=20240702174557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Oh, I almost forgot. There's one more thing...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_22_gallagher_114.ogg/revision/latest?cb=20240702174600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "▶ Here's to you, a glass of \" Hello and Goodbye \"... (Trailblazer)...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_22_gallagher_115_m.ogg/revision/latest?cb=20240702174603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "To the imperfect... tomorrow.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_22_gallagher_116.ogg/revision/latest?cb=20240702174605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_63.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Everything that Rises Must Converge.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's warm here, isn't it? You're lucky to have found shelter from the rain, let alone fresh berries, in this desolate place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_23_tiernan_101.ogg/revision/latest?cb=20240702035932",
+        "is_unavailable": false,
+        "audio_filename": "audio__64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I was just following the scent of life. It's particularly strong in a place like this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_23_acheron_101.ogg/revision/latest?cb=20240702035145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "It's a shame these berries don't have much flavor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_23_acheron_102.ogg/revision/latest?cb=20240702035147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Seriously? In case you didn't know, this fruit is pretty juicy. The only downside is that when you chew it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_23_tiernan_102.ogg/revision/latest?cb=20240702035934",
+        "is_unavailable": false,
+        "audio_filename": "audio__67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...It becomes extremely spicy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_23_tiernan_103.ogg/revision/latest?cb=20240702035937",
+        "is_unavailable": false,
+        "audio_filename": "audio__68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_23_acheron_103.ogg/revision/latest?cb=20240702035149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Have you... lost your sense of taste?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_23_tiernan_104.ogg/revision/latest?cb=20240702035938",
+        "is_unavailable": false,
+        "audio_filename": "audio__70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I can still taste certain things... like a faint sweetness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_23_acheron_104.ogg/revision/latest?cb=20240702035151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Before coming here, I stopped by a place called Orkron. It had barren cliffs and nights lit by bonfires. Burgundy snow would fall from the sky, and when it landed on my tongue... it tasted like raspberries.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_23_acheron_105.ogg/revision/latest?cb=20240702035153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "The flavor wasn't exactly sweet, but it left a lasting impression. When I think back on my past, I realize that what's tying everything together... isn't the big events, but rather these small yet unforgettable moments.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_23_acheron_106.ogg/revision/latest?cb=20240702035156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Don't worry about it. Losing oneself is a reality that every Self-Annihilator must face. At least, I haven't completely lost my senses and memories yet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_23_acheron_107.ogg/revision/latest?cb=20240702035158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well, congratulations on adding another footnote to your journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_23_tiernan_105.ogg/revision/latest?cb=20240702035940",
+        "is_unavailable": false,
+        "audio_filename": "audio__75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "By the way, are you always alone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Vo_chapter3_23_tiernan_106.ogg/revision/latest?cb=20240702035942",
+        "is_unavailable": false,
+        "audio_filename": "audio__76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "No, I had a companion in Orkron. She's a short Nameless girl who aspired to explore IX... She always said she'd walk a path \"deeper and farther than Akivili's.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_23_acheron_108.ogg/revision/latest?cb=20240702035200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Quite an ambition for such a small girl... So, what happened?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_23_tiernan_107.ogg/revision/latest?cb=20240702035944",
+        "is_unavailable": false,
+        "audio_filename": "audio__78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "She... became stagnant water.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_23_acheron_109.ogg/revision/latest?cb=20240702035202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well... my condolences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_23_tiernan_108.ogg/revision/latest?cb=20240702035946",
+        "is_unavailable": false,
+        "audio_filename": "audio__80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Condolences? I don't need them. The girl left with a smile. She never regretted her choice and most definitely wanted me to say goodbye with a smile... So that's what I did.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_23_acheron_110.ogg/revision/latest?cb=20240702035205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That's proof that you're grieving for her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_23_tiernan_109.ogg/revision/latest?cb=20240702035948",
+        "is_unavailable": false,
+        "audio_filename": "audio__82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Or perhaps I'm just afraid?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_23_acheron_111.ogg/revision/latest?cb=20240702035207",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Afraid? I rarely sense that emotion from you. What do you fear?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_23_tiernan_110.ogg/revision/latest?cb=20240702035951",
+        "is_unavailable": false,
+        "audio_filename": "audio__84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I'm afraid I'll forget the thirty days I spent with her, just like all the other days in my life. Most of them have already washed away with the rain, disappearing into an unseen realm.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_23_acheron_112.ogg/revision/latest?cb=20240702035209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I fear that those vivid red memories will fade away too. There isn't much color left, and besides this faint, warm red, there's almost nothing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_23_acheron_113.ogg/revision/latest?cb=20240702035211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hard to imagine... a \"Ranger\" accustomed to bloodshed, destruction, and chaos finding warmth in the red color.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_23_tiernan_111.ogg/revision/latest?cb=20240702035953",
+        "is_unavailable": false,
+        "audio_filename": "audio__87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Because I have experienced this warmth many times. Long ago, I promised someone that I'd bring it to more people, and that for every remaining moment of my life, I'd strive for... a better ending for all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_23_acheron_114.ogg/revision/latest?cb=20240702035214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "As long as this red color still lingers, I have a chance to fulfill that promise. It represents a burning fire, a blooming flower, the berries in this cave... and life itself, fleeting yet still dazzling.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_23_acheron_115.ogg/revision/latest?cb=20240702035216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "In the end, it will lead me beyond the Horizon of Existence, and on the other side, I will... cut off Nihility.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_23_acheron_116.ogg/revision/latest?cb=20240702035218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The one blessed by the sleeping and shapeless is considering how to kill THEM? That's truly... pure Nihility.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_23_tiernan_112.ogg/revision/latest?cb=20240702035955",
+        "is_unavailable": false,
+        "audio_filename": "audio__91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "But you're right about one thing — After spending so much time near this stagnant water, only when I look at this vibrant red fire do I realize that I'm still alive.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_23_tiernan_113.ogg/revision/latest?cb=20240702035957",
+        "is_unavailable": false,
+        "audio_filename": "audio__92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "When will this rain... ever stop?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_23_acheron_117.ogg/revision/latest?cb=20240702035219",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Perhaps... when the sorrows of the departed have finally quieted down, the sky will clear up.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_23_tiernan_114.ogg/revision/latest?cb=20240702035959",
+        "is_unavailable": false,
+        "audio_filename": "audio__94.ogg"
+    },
+    {
+        "type": "note",
+        "text": "4 system hours until Charmony Festival - Astral Express"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Have you heard of a planet named Byari Skamandros, Dan Heng? It's one of the paradises under the influence of the Harmony, a sought-after wonderland for the inhabitants of the Dardanu Major and Minor systems.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_23_blackswan_101.ogg/revision/latest?cb=20240702035233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Half an Amber Era ago, The Family held an unprecedented festival there, and after that... everyone on the planet became part of The Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_23_blackswan_102.ogg/revision/latest?cb=20240702035235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Do you think the same thing will happen on Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_23_danheng_101.ogg/revision/latest?cb=20240702035300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Yes, or how else can we explain it? The Family deliberately used the Watchmaker's invitation to keep all the Pathstriders here but banished the Emanator of the Nihility...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/Vo_chapter3_23_blackswan_103.ogg/revision/latest?cb=20240702035237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Because of the Nihility, I'm rarely affected by the power of other Paths, but somehow I can unconsciously infiltrate them... Maybe that's the \"risk\" they're trying to avoid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_23_acheron_119.ogg/revision/latest?cb=20240702035221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I would disagree. Byari Skamandros is not part of the credit system or connected to the silver rail. It's nothing more than a remote civilization sheltered by the Harmony... But Penacony is different.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_23_danheng_102.ogg/revision/latest?cb=20240702035302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If The Family messes with Penacony, that would be like declaring war on almost half of the factions in the Cosmos. They have no reason to do that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_23_danheng_103.ogg/revision/latest?cb=20240702035304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "No, they don't... if they truly serve the Harmony, that is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_23_acheron_120.ogg/revision/latest?cb=20240702035223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What do you mean?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_23_danheng_104.ogg/revision/latest?cb=20240702035306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "The Path in Penacony is impure. The Harmony here has impurities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_23_acheron_121.ogg/revision/latest?cb=20240702035225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Do you remember the ancient Swarm Disaster? Tayzzyronth the Propagation brought endless havoc to the universe, and it eventually evolved into a fierce battle among all Aeons.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_23_blackswan_104.ogg/revision/latest?cb=20240702035239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Two Paths lost their Aeons in that war — the Propagation and the Order. Coincidentally, their downfall is related to a certain Aeon...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Vo_chapter3_23_blackswan_105.ogg/revision/latest?cb=20240702035241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...Xipe the Harmony. Legend has it that THEY participated in the crusade against the Imperator Insectorum and devoured Ena the Order for unknown reasons.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_23_acheron_122.ogg/revision/latest?cb=20240702035227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Holy forkeroni... So, you're saying that the two leaderless Paths are working behind the scenes?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_23_boothill_101.ogg/revision/latest?cb=20240702035243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "But I don't see any descendants of the Propagation in Penacony. Could it be that the remnants of Beyond the Sky Choir are hiding within The Family, trying to resurrect a fallen Aeon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_23_danheng_105.ogg/revision/latest?cb=20240702035308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I can't say for sure, but they're definitely planning something for the Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_23_acheron_123.ogg/revision/latest?cb=20240702035229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Holy Wubbaboo! This is getting way too complicated. Is this why you want us to leave Asdana right away? Are you giving up?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/Vo_chapter3_23_boothill_102.ogg/revision/latest?cb=20240702035245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "The Charmony Festival will start soon. There's one thing that... I need to confirm no matter what. A warp jump is the best way to do so.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_23_acheron_124.ogg/revision/latest?cb=20240702035231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Time is running out...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/Vo_chapter3_23_danheng_106.ogg/revision/latest?cb=20240702035310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I have another plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_23_danheng_107.ogg/revision/latest?cb=20240702035312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Hold on, are you thinking of using the Jade Abacus of Allying Oath?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_23_boothill_103.ogg/revision/latest?cb=20240702035247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Exactly. The assistance from the Luofu Cloud Knights... would be enough.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_23_danheng_108.ogg/revision/latest?cb=20240702035314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Think it over carefully. You can only use that once in your lifetime.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_23_boothill_104.ogg/revision/latest?cb=20240702035248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I have considered it thoroughly. My companions are... They're also once-in-a-lifetime treasures.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_23_danheng_109.ogg/revision/latest?cb=20240702035316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_118.ogg"
+    },
+    {
+        "type": "note",
+        "text": "3 system hours until Charmony Festival - Penacony Grand Theater"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Are you the only one here, my child?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_23_mengzhu_101.ogg/revision/latest?cb=20240702035616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "The Nameless is quite the diplomat. [ Note 1 ] Our secrets have spread like wildfire within The Family, and IPC starships are gathering towards Asdana...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_23_mengzhu_102.ogg/revision/latest?cb=20240702035618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "This is a crucial moment for us. So, where is the chosen one who harmonizes the varied sounds?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_23_mengzhu_103.ogg/revision/latest?cb=20240702035620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "What do you mean, Master?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_23_sunday_102.ogg/revision/latest?cb=20240702035703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'm right here in front of you, aren't I?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_23_sunday_103.ogg/revision/latest?cb=20240702035704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "You know, she was supposed to be the star of the Charmony Festival in our plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_23_mengzhu_104.ogg/revision/latest?cb=20240702035622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "But the plan has changed. As her brother, I know she doesn't want to sing for the Order, so I'll take her place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_23_sunday_104.ogg/revision/latest?cb=20240702035706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Heh, you've always been wise beyond your years. I'm sure you understand the consequences of your choice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_23_mengzhu_105.ogg/revision/latest?cb=20240702035624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "If you consider this a betrayal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_23_sunday_105.ogg/revision/latest?cb=20240702035708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Well, there can't be two suns in the sky. I'll step up and take down the other sun if necessary.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_23_sunday_106.ogg/revision/latest?cb=20240702035710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Do you believe in karma?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_23_mengzhu_106.ogg/revision/latest?cb=20240702035626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "If karma exists, then everyone has their own karma. You have yours, and I have mine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_23_sunday_107.ogg/revision/latest?cb=20240702035712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "And my karma has nothing to do with you, Mr. Gopher Wood.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_23_sunday_108.ogg/revision/latest?cb=20240702035714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_23_mengzhu_107.ogg/revision/latest?cb=20240702035628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Alright, since you're willing to sacrifice yourself for her, I'll grant your wish.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_23_mengzhu_108.ogg/revision/latest?cb=20240702035629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Well, the compromise came sooner than expected. Why?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_23_sunday_109.ogg/revision/latest?cb=20240702035716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "You and your sister were born as twins of the Order, and one of you is destined to follow this path to the end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_23_mengzhu_109.ogg/revision/latest?cb=20240702035631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Is this part of your plan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_23_sunday_110.ogg/revision/latest?cb=20240702035717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Of course. You're still as clever as you were when you were a child.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_23_mengzhu_110.ogg/revision/latest?cb=20240702035633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "The opening is near. Go, my child. Seize the power of the Harmony and reveal your karma.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_23_mengzhu_111.ogg/revision/latest?cb=20240702035635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I have one final question, Master.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Vo_chapter3_23_sunday_111.ogg/revision/latest?cb=20240702035719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Why did you choose to bring the Order to Penacony? Wouldn't it have been better to choose a desperate world instead of a city filled with hope and dreams? Why?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/Vo_chapter3_23_sunday_112.ogg/revision/latest?cb=20240702035721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "It's for justice, my child.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_23_mengzhu_112.ogg/revision/latest?cb=20240702035637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "If we lose justice in our hearts, we'll make the same mistake as the Harmony did.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_23_mengzhu_113.ogg/revision/latest?cb=20240702035639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "So, it's not you who manipulates the Dreamscape with the Stellaron, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Vo_chapter3_23_sunday_113.ogg/revision/latest?cb=20240702035723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "Well, that's where our conversation ends. Go ahead. The 107,336 souls of the Oak Family have dreamed of this moment too many times...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_23_mengzhu_114.ogg/revision/latest?cb=20240702035641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_23_sunday_114.ogg/revision/latest?cb=20240702035725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"I shall ascend to the heavens, becoming the scorching sun.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_23_sunday_115.ogg/revision/latest?cb=20240702035726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Bathed in my light, my people shall flourish, while all evil shall be eradicated.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_23_sunday_116.ogg/revision/latest?cb=20240702035728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_147.ogg"
+    },
+    {
+        "type": "note",
+        "text": "2 system hours until Charmony Festival - Same Location"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is the interior of the Penacony Grand Theater.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_23_himeko_101.ogg/revision/latest?cb=20240702035349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's quite exhilarating to be flushed into the air by SoulGlad, but... why is the venue still closed when the Charmony Festival is about to start?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_23_mar7th_101.ogg/revision/latest?cb=20240702035457",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And not only that, the entire theater is eerily quiet. No audience, no staff, no one around...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_23_himeko_102.ogg/revision/latest?cb=20240702035351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_150.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are we too late?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Even if we're late, a grand theater like this shouldn't be completely empty.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_23_himeko_103.ogg/revision/latest?cb=20240702035352",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_151.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Looks like the Charmony Festival was a flop at the box office!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, I wonder how many tickets... Hey, that's not what we should be concerned about!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_23_mar7th_102.ogg/revision/latest?cb=20240702035459",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_152.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Let's explore around. Be careful, everyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_23_himeko_104.ogg/revision/latest?cb=20240702035354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_153.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementWe Will Be Freemen as Our Fathers Were)\n(UnlockDreamscape PassPage 16:It Was the Best of Times)\n(ObtainWatchmaker's Hat)"
+    },
+    {
+        "type": "heading",
+        "text": "Search the Grand Theater"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You accepted Sunday's invitation to a duel and arrived safely at the Penacony Grand Theater, where the destiny of Penacony and the universe itself will be decided. However, you cannot see a single soul inside the vast theater. Only the sounds of your footsteps, breathing, and heartbeats echo through its long corridors.Just what is the Oak Family Head scheming? You must take absolute caution not to fall into this traitor's trap."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Gosh, the atmosphere here is so creepy and unsettling...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_23_mar7th_103.ogg/revision/latest?cb=20240702035501",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Even if there's no audience yet, there should be some staff around. Why is it so silent...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_23_mar7th_104.ogg/revision/latest?cb=20240702035502",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_155.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppets)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yikes! They scared the life out of me! Why are there so many... puppets at the ticket office?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_23_mar7th_105.ogg/revision/latest?cb=20240702035504",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_156.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "They won't suddenly start moving, will they?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Aaah! Stop it!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_23_mar7th_106.ogg/revision/latest?cb=20240702035506",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_157.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So many mannequins! Is this a fashion store or something?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Can't believe you're in the mood to crack jokes...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_23_mar7th_107.ogg/revision/latest?cb=20240702035508",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_158.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "M—March... b—behind you...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Wh—What...? Ah! You're so annoying! Stop scaring me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_23_mar7th_108.ogg/revision/latest?cb=20240702035510",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_159.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are these puppets part of the stage setup? Even so, it's so eerie that the entire front hall is empty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_23_himeko_105.ogg/revision/latest?cb=20240702035356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_160.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Follow the guide through the ascending corridor"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You find Sunday awaiting you all behind the stage curtains. Before the festival begins, he invites you all to watch three prologue stage plays, following a long-held Asdana tradition.\"History is a mirror. It reflects the true face of the universe. We can take this opportunity to gain a deeper understanding of the history of Penacony and the Aeon.\"\"From this, the contours of the future... will naturally present themselves.\""
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the puppets, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm seriously scared they might start moving... Let's just leave, please!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_23_mar7th_109.ogg/revision/latest?cb=20240702035512",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_161.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Something feels off... We're in the right place, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_23_mar7th_110.ogg/revision/latest?cb=20240702035514",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "There's no other Grand Theater in the Dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_23_himeko_106.ogg/revision/latest?cb=20240702035358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, Sunday is messing with us? He said we'd have a final showdown on the stage, but why is there no one here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Vo_chapter3_23_mar7th_111.ogg/revision/latest?cb=20240702035516",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"My apologies for the delay, March 7th.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_23_sunday_117.ogg/revision/latest?cb=20240702035730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You scared me! Wh—Where... are you now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_23_mar7th_112.ogg/revision/latest?cb=20240702035517",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"I'm waiting for you behind the curtain. Following the Asdana tradition, I invite you to enjoy a stage play in three acts before the Festival begins.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_23_sunday_118.ogg/revision/latest?cb=20240702035732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"History is a mirror reflecting the universe's true essence. Let's use this opportunity to delve into the rich history of Penacony and the Aeons.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_23_sunday_119.ogg/revision/latest?cb=20240702035734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Within it, naturally, the future takes shape.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_23_sunday_120.ogg/revision/latest?cb=20240702035736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Let us commence with the dawning of the world...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_23_sunday_121.ogg/revision/latest?cb=20240702035738",
+        "is_unavailable": false,
+        "audio_filename": "audio__170.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Watch Act I"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "...Halted Traveler: \"Greetings, travelers. I am another traveler who arrived here before you.\"Halted Traveler: \"This place has been a crowded and confined prison till very recently, but now I and the other prisoners want to make it into a paradise.\"Halted Traveler: \"Please keep walking forward, traveler. I have some things I would like to have your help with at the end of the journey.\"Halted Traveler: \"I hope you will like this... \"Land of Dreams,\" built atop the scorched barren earth.\"..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"After the Dusk Wars , darkness veiled the sky, and chaos consumed the earth.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_23_sunday_122.ogg/revision/latest?cb=20240702035740",
+        "is_unavailable": false,
+        "audio_filename": "audio__171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Ena the Order emerged, destined to restore all existence.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_23_sunday_123.ogg/revision/latest?cb=20240702035742",
+        "is_unavailable": false,
+        "audio_filename": "audio__172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"That marked the first day.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_23_sunday_124.ogg/revision/latest?cb=20240702035744",
+        "is_unavailable": false,
+        "audio_filename": "audio__173.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Hall of Chords)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"THEY gathered nebulae and forged them into picks, thus creating a grand lyre with black and white keys.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_23_sunday_125.ogg/revision/latest?cb=20240702035745",
+        "is_unavailable": false,
+        "audio_filename": "audio__174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Strike the white keys, and the sun rose. Strike the black keys, and the moon rose.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/Vo_chapter3_23_sunday_126.ogg/revision/latest?cb=20240702035747",
+        "is_unavailable": false,
+        "audio_filename": "audio__175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"And so, the cycle of day and night arose. That marked the second day.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Vo_chapter3_23_sunday_128.ogg/revision/latest?cb=20240702035749",
+        "is_unavailable": false,
+        "audio_filename": "audio__176.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Arcane Artwork)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The puppets are gathering around the frame. Are they expecting us to enter it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_23_mar7th_114.ogg/revision/latest?cb=20240702035521",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_177.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "note",
+        "text": "Stage Play Act I: Ode to Prisoner"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Where are we now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_23_mar7th_116.ogg/revision/latest?cb=20240702035525",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The atmosphere here... looks similar to Sunday's inner world. Perhaps this so-called \"stage play\" is created with his abilities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_23_himeko_107.ogg/revision/latest?cb=20240702035400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This act is named Ode to Prisoner . Given the atmosphere here... I believe it's about Penacony's past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_23_himeko_108.ogg/revision/latest?cb=20240702035402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I thought things were finally looking up as I managed to dodge prison during my recent trailblazing expeditions! But now it looks like I'll be back behind bars again...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/Vo_chapter3_23_mar7th_117.ogg/revision/latest?cb=20240702035527",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_181.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"I genuinely wish to avoid a violent clash with my esteemed guests from afar. Therefore, I've arranged three acts before the situation becomes irreparable.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Vo_chapter3_23_sunday_129.ogg/revision/latest?cb=20240702035751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Where shall we start our narrative? Well, let's start with the time when Penacony was still a frontier prison.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_23_sunday_130.ogg/revision/latest?cb=20240702035753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_183.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Move the Dream Module and approach the puppet)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ This place was once a place of confinement",
+        "children": [
+            {
+                "type": "note",
+                "text": "But we will turn it"
+            },
+            {
+                "type": "note",
+                "text": "Into a haven of freedom!"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"In 2147 AE, a prisoner named Hanunue ignited a struggle for liberty and emerged triumphant. IPC referred to it as the 'War of the Frontier', while the Asdanians dubbed it the 'War of Independence'.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Vo_chapter3_23_sunday_131.ogg/revision/latest?cb=20240702035755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_184.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Move the Dream Module and approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ We've shattered the cages!",
+        "children": [
+            {
+                "type": "note",
+                "text": "And expelled the guards!"
+            },
+            {
+                "type": "note",
+                "text": "But..."
+            },
+            {
+                "type": "note",
+                "text": "Where shall we go?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"It's true that Hanunue was a legendary hero, but it must be acknowledged that while he bestowed freedom upon the prisoners, he didn't grant them true liberation.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Vo_chapter3_23_sunday_132.ogg/revision/latest?cb=20240702035757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_185.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Thank you for staying here",
+        "children": [
+            {
+                "type": "note",
+                "text": "Honorable travelers"
+            },
+            {
+                "type": "note",
+                "text": "However, not even you could banish the guards"
+            },
+            {
+                "type": "note",
+                "text": "Though they are no longer in Asdana"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"The three Nameless stayed on the planet, endeavoring to spread the tenets of Trailblaze throughout the frontier prison. Alas, their efforts proved futile.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_23_sunday_133.ogg/revision/latest?cb=20240702035759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_186.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppet)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Let's build another prison",
+        "children": [
+            {
+                "type": "note",
+                "text": "Not within the physical world"
+            },
+            {
+                "type": "note",
+                "text": "But within their minds"
+            },
+            {
+                "type": "note",
+                "text": "As long as we keep them imprisoned"
+            },
+            {
+                "type": "note",
+                "text": "They will always have a sanctuary"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Once again, Asdana was engulfed in war, this time the enemies originating from within. The prisoners remained prisoners for the rest of their lives, fighting for freedom rather than living for it.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_23_sunday_134.ogg/revision/latest?cb=20240702035802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_187.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach \"Past's Voice\")"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Past's Voice\"",
+        "line": "\"I hope you like this land of freedom... on a scorched earth.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_23_fanren_104.ogg/revision/latest?cb=20240702035332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pasts_Voice_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"As you can see, their sentences have long ended, and the IPC guards have long been expelled. Yet, these prisoners remain enslaved, not by external forces, but by the confines of their own minds.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_23_sunday_135.ogg/revision/latest?cb=20240702035804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Freedom permeates every corner except fragile souls. It gives solace only to those who believe in its existence.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Vo_chapter3_23_sunday_136.ogg/revision/latest?cb=20240702035806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Past's Voice\"",
+        "line": "\"Prisoners! This is my order! Learn the essence of freedom and teach your fellow prisoners to fight for their lives!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_23_fanren_105.ogg/revision/latest?cb=20240702035334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pasts_Voice_191.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle against\"Past Confined and Caged\"×1,Memory Zone Meme \"Heartbreaker\"×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, why do we have to fight while enjoying the show?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_23_mar7th_118.ogg/revision/latest?cb=20240702035529",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"For I desire not only your enjoyment but also your... assistance in its completion.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_23_sunday_137.ogg/revision/latest?cb=20240702035808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_193.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Past's Voice\"",
+        "line": "\"No one can restrain you any more! You are free!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/Vo_chapter3_23_fanren_106.ogg/revision/latest?cb=20240702035336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pasts_Voice_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Thus concludes the first act. Amidst a raging war, the frontier prison headed toward becoming Land of the Exiles.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_23_sunday_138.ogg/revision/latest?cb=20240702035810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This must be how Penacony was constructed. With the aid of outsiders, the prisoners were finally liberated and established the Land of the Exiles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_23_himeko_109.ogg/revision/latest?cb=20240702035404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "However, it appears that Sunday aims to convey the spiritual plight of the prisoners more than the physical aspects of imprisonment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_23_himeko_110.ogg/revision/latest?cb=20240702035406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah, this show is a bit too literary for my taste, but the battle part is quite easy to understand... Anyway, we've arrived at the exit. Let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_23_mar7th_119.ogg/revision/latest?cb=20240702035531",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_198.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Finish Act I"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "I want to be with those who were cast outto walk barefoot over paths paved with shards of glassI want to be with those who are hatedto walk naked through valleys embedded with a thousand bladesI want to walk with the blasphemersbleeding as we tread over the corpses of the godsI want to raise up a battle cry for all the traitorsI want to be martyred for the hereticsAs long as the pure saints still burnI will never extinguish my flames of dishonor"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "These puppets... Where are they guiding us this time?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_23_mar7th_120.ogg/revision/latest?cb=20240702035533",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_199.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "section_header",
+        "text": "Follow the guide to watch Act II"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...Butler: \"Welcome to this great mansion, guests from afar.\"Butler: \"However, I regret to inform you that our master is not here at present. We three servants are the only people who can receive you currently.\"Accountant: \"The master has been gone for quite some time. Who is to take control of this great mansion?\"Advisor: \"Naturally that must be the master's most loyal and humble, yet noble servant.\"..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"THEY transmuted streams of stars into inked nibs, creating symbols to be pronounced and counted.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_23_sunday_139.ogg/revision/latest?cb=20240702035812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"THEY molded stardust into flowing rivers, assigning the righteous upstream and the unjust downstream.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/Vo_chapter3_23_sunday_140.ogg/revision/latest?cb=20240702035814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Thus, all things were marked, and the world learned to discern between good and evil.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_23_sunday_141.ogg/revision/latest?cb=20240702035816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"That marked the third and fourth days.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_23_sunday_142.ogg/revision/latest?cb=20240702035818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_203.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Arcane Artwork)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, another frame...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_23_mar7th_121.ogg/revision/latest?cb=20240702035534",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_204.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "note",
+        "text": "Stage Play Act II: Ode to Fool"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Ode to Fool ... This must be the second act.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Vo_chapter3_23_himeko_111.ogg/revision/latest?cb=20240702035408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The surroundings are different from before. The stage decorations... look a bit tidier now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_23_mar7th_122.ogg/revision/latest?cb=20240702035536",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_206.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Advance through Act II and cooperate to complete the performance"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...Merchant: \"Accountant! We are both loyal servants to our master. We should use our loyalty to encourage each other! How could you scheme against me!\"Accountant: \"Because the master crafted you from clay, and me from fire. I am more noble than you!\"Accountant: \"You have never served the old master and will never understand his true power. Our freedom is his to give and take as he pleases! How dare you cross arms with me?\"Artist: \"Because the master crafted you with fire, and me from radiance. I am more noble than you!\"Retainer: \"Because the master crafted you from fire and me with blood, I am more noble than you!\"Advisor: \"The master will return! The servant who serves THEM with the most loyalty, the most humility, and yet the most noble — he would be that devoted believer who never robbed or fought what was not his.\"New Master: \"As for me... I shall forge new bonds of Kinship and liberate you from the clutches of death.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Behold the ensuing tale, a struggle for power. Penacony witnessed the ascent of the seven major lineages — Tree , Grass , Flower , Bird , Beast , Fruit , and Insect .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_23_sunday_143.ogg/revision/latest?cb=20240702035820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Peace never truly graced land of the exiles. The history in this era is rich and intricate, so please allow me to present it in allegorical form.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_23_sunday_145.ogg/revision/latest?cb=20240702035824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_208.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Complete the Dream Jigsaw and approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Welcome to this mansion",
+        "children": [
+            {
+                "type": "note",
+                "text": "Dear outsiders"
+            },
+            {
+                "type": "note",
+                "text": "Its founder has been exiled by those beneath them"
+            },
+            {
+                "type": "note",
+                "text": "And now the seven servants believe"
+            },
+            {
+                "type": "note",
+                "text": "They can replace their former master"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Land of the exiles was in disarray, besieged by both internal and external perils. Though the seven major lineages appeared united on the surface, each harbored their own ambitions, leading to ceaseless conflict.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_23_sunday_145.ogg/revision/latest?cb=20240702035824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_209.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Complete the Dream Jigsaw and approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Accountant! We are the pillars of this mansion",
+        "children": [
+            {
+                "type": "note",
+                "text": "Bound by an oath of loyalty"
+            },
+            {
+                "type": "note",
+                "text": "And unity"
+            },
+            {
+                "type": "note",
+                "text": "Why are you plotting my downfall?"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "▶ Because Master shaped you from clay",
+        "children": [
+            {
+                "type": "note",
+                "text": "But forged me from fire"
+            },
+            {
+                "type": "note",
+                "text": "I'm superior to you!"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"The Blackplum Family was the first to fall. They withered away in the White Desert event orchestrated by the Alfalfa Family .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Vo_chapter3_23_sunday_146.ogg/revision/latest?cb=20240702035826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_210.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Press the button and approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ My child",
+        "children": [
+            {
+                "type": "note",
+                "text": "You did not serve the old master"
+            },
+            {
+                "type": "note",
+                "text": "And know not of his power"
+            },
+            {
+                "type": "note",
+                "text": "Just as he can strip us of our freedom"
+            },
+            {
+                "type": "note",
+                "text": "He can also grant it to us"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"The leader of the Alfalfa Family sought to defect to the IPC, trading freedom for survival. However, his eldest son slew him in the name of righteousness and ascended as the new family head.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_23_sunday_147.ogg/revision/latest?cb=20240702035828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_211.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Complete the Dream Jigsaw and approach the puppet to the left after climbing back up the first flight of stairs)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Those who dance with bees",
+        "children": [
+            {
+                "type": "note",
+                "text": "Are bound to fall victim to their stings"
+            },
+            {
+                "type": "note",
+                "text": "I have long foreseen my fate"
+            },
+            {
+                "type": "note",
+                "text": "And this moment is inevitable"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"The Lampmoth Family endeavored to extend the silver rail left by the Express, only to be eradicated by the remnants of the Swarm, leaving nothing in the unforgiving Cosmos.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_23_sunday_148.ogg/revision/latest?cb=20240702035830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_212.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppet at the top)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ As for me, I shall forge new bonds of Kinship",
+        "children": [
+            {
+                "type": "note",
+                "text": "And liberate you from the clutches of death"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Only when Gopher Wood led The Family to land of the exiles and earned recognition from all five major lineages did Penacony earn its new name, the Land of the Dreams.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Vo_chapter3_23_sunday_149.ogg/revision/latest?cb=20240702035832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_213.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach New Master)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"Dear outsider, I beseech your aid in purging this mansion of the poison spread by the lurking instigators.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_23_xinzhu_102.ogg/revision/latest?cb=20240702040008",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh... You want us to help you? What do you need?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_23_mar7th_123.ogg/revision/latest?cb=20240702035538",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"I wish they could regain their reason and cast away the shackles of hypocrisy.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Vo_chapter3_23_xinzhu_103.ogg/revision/latest?cb=20240702040010",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is the second act. Looks like it's about Penacony's journey to becoming the Land of the Dreams, during which The Family plays a crucial role.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_23_himeko_112.ogg/revision/latest?cb=20240702035409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But this New Master... seems like a bad guy to me, don't you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_23_mar7th_124.ogg/revision/latest?cb=20240702035540",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Perhaps this is the truth Sunday is trying to express, if you read between lines. The Harmony changed Penacony just as the guards once did.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_23_himeko_113.ogg/revision/latest?cb=20240702035411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Looks like we've got to help those guys kneeling down over there calm down a bit, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_23_mar7th_125.ogg/revision/latest?cb=20240702035542",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_220.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Help the puppets complete the play"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...New Master: \"Guests from afar, I would ask that you help this household break free from the harm caused by this hidden instigator.\"Butler: \"I wish for them to regain the calmness of rationality, to no longer be controlled by falsehood and instigated by fantasy.\"Butler: \"Forty nine days after he left this household, the master passed in an unforeseen accident.\"Butler: \"In the three hundred years since, his servants have fought and battled ceaselessly. That was until the day they saw a false vision of their long-since deceased master.\"Butler: \"I beg you, guests from afar... Use calmness to restore their rationality and restore this great mansion.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(Try to leave, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"Where are you headed, dear outsider?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_23_xinzhu_104.ogg/revision/latest?cb=20240702040012",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Guess we won't be able to leave until this act is complete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_23_himeko_114.ogg/revision/latest?cb=20240702035416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_222.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Tune any of the puppets to the wrong emotion, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This puppet isn't responding at all... Did something go wrong?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_23_mar7th_126.ogg/revision/latest?cb=20240702035544",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_223.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Artist)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Artist",
+        "line": "\"In the absence of my master I am free, but without their guidance, for whom shall I sing?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_23_yiren_101.ogg/revision/latest?cb=20240702040022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Artist_224.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"The decaying human heart finds rebirth only with the calmness ,\" proclaimed the new master."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Artist's emotion toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Artist",
+        "line": "\"I shall sing for my new master, just as THEIR noble voice once resonated throughout the Cosmos.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_23_yiren_102.ogg/revision/latest?cb=20240702040023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Artist_225.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Accountant)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Accountant",
+        "line": "\"Master! Hope you will return in due course! And I shall stand vigilant, awaiting the reward for my loyalty!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_23_kuaiji_103.ogg/revision/latest?cb=20240702035451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Accountant_226.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"Only reason can shield people from the lingering poison of the past,\" proclaimed the new master."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Accountant's emotion toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Accountant",
+        "line": "\"Master, now that you have gone, I shall wait no longer for my reward... I shall seize what is rightfully mine.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Vo_chapter3_23_kuaiji_104.ogg/revision/latest?cb=20240702035453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Accountant_227.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Retainer)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Retainer",
+        "line": "\"Once, I stood as the most loyal guard among all the servants! Now, with my master banished, it's my right to assume control of his dominion!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_23_shiwei_101.ogg/revision/latest?cb=20240702035647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Retainer_228.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"In the absence of calmness , there exists no path to liberation from the clutches of death,\" proclaimed the new master."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Retainer's emotion toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Retainer",
+        "line": "\"My former master has long departed, but why do I still fear the remnants of his creation?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_23_shiwei_102.ogg/revision/latest?cb=20240702035649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Retainer_229.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Advisor)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Advisor",
+        "line": "\"Master is no longer here. I thought I'd be free, but I'm not. Now without my master's command, I'll have to seek guidance from the blind.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_23_canmou_101.ogg/revision/latest?cb=20240702035250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Advisor_230.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"Only the calmed ones cane evade the insidious influence of the hidden instigator,\" proclaimed the new master."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Advisor's emotion toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Advisor",
+        "line": "\"Master is no longer here. I must seek a new master and serve them faithfully.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_23_canmou_102.ogg/revision/latest?cb=20240702035252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Advisor_231.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Butler)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Butler",
+        "line": "\"Either I shall be my own master, or I shall return to my former master! I shall not submit to a new master under any circumstances!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_23_guanjia_102.ogg/revision/latest?cb=20240702035340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Butler_232.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"I wish they could regain their reason and cast away the shackles of hypocrisy,\" proclaimed the new master."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Butler's emotion toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Butler",
+        "line": "\"Without a master, who can grant me true freedom?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_23_guanjia_103.ogg/revision/latest?cb=20240702035343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Butler_233.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After tuning all puppets toCalm)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"Thank you, dear outsiders! My servants have regained their sanity.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_23_xinzhu_105.ogg/revision/latest?cb=20240702040014",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"Heed me, one and all! Your former master shall not return! It is through righteousness and unwavering support for one another that we shall attain true perfection!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_23_xinzhu_106.ogg/revision/latest?cb=20240702040016",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "New Master",
+        "line": "\"Cast aside the veils of hypocrisy! And embrace one another!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_23_xinzhu_107.ogg/revision/latest?cb=20240702040018",
+        "is_unavailable": false,
+        "audio_filename": "audio_New_Master_236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Get ready. Looks like another fight is about to begin...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_23_himeko_115.ogg/revision/latest?cb=20240702035418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_237.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is this what they call \"immersive theater\"?"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstMemory Zone Meme \"Allseer\"×1,\"Present Inebriated in Revelry\"×1,Memory Zone Meme \"Heartbreaker\"×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Present's Voice\"",
+        "line": "Listen, snow blankets all of Asdana! The sky trembles, and the earth teeters on the brink of collapse. At the edge of the silver universe, the first buds sprout under the rising sun!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_23_guanjia_104.ogg/revision/latest?cb=20240702035345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Presents_Voice_238.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Alas, they remain but slaves till the very end, with the illusion of freedom.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_23_sunday_150.ogg/revision/latest?cb=20240702035834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Thus concludes the second act. Amidst an illusory harmony, Land of the Exiles charted its course toward becoming the Planet of Festivities.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_23_sunday_151.ogg/revision/latest?cb=20240702035836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is how Penacony fell under The Family's control. Since the arrival of the Harmony, the land of the exiles has undergone dramatic changes, not all of which have proven... beneficial.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Vo_chapter3_23_himeko_116.ogg/revision/latest?cb=20240702035420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This guy really loves dramatic scenes. Bet he comes from a whole lineage of stage performers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/Vo_chapter3_23_mar7th_131.ogg/revision/latest?cb=20240702035554",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_242.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Finish Act II"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Snow falls across all of AsdanaIt has buried the budding growth of ancient timesIt has buried the echoing roar of the great riverIt has buried the letters in the cellsIt has buried the sonorous whispers of the dying godsSnow falls across all of AsdanaThe sky is on the brink of collapse, the earth is burdened beyond salvationAt the end of the silver universeThe rising sun sprouts new budsThe buds summon the arrival of a new era, as the wind whispers its monologue through the branches and leavesThe master shall never returnThe master shall never return"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "section_header",
+        "text": "Continue to follow the guide and watch Act III"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...Butler: \"Welcome once again to this great mansion, guests from afar.\"Butler: \"Your timing could not be more perfect. We are about to hold a banquet to bid a solemn farewell to our former ruler.\"Tax Collector: \"Without a ruler, who would take responsibility for the people?Chancellor: \"If the people lack the vision to see the distant future, it is our duty to make choices for them and assume responsibility.\"..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"THEY used the planetary rings to establish the law, forging a code of conduct among the masses.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_23_sunday_152.ogg/revision/latest?cb=20240702035838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"A grand lyre with black and white keys served as an instrument, while symbols of articulation and numerical notation took the form of musical notes. The downward-flowing river became a melody, and the canon of law dictated the form.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_23_sunday_153.ogg/revision/latest?cb=20240702035840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Thus, all mortals found their unique place within this symphony. That marked the fifth and sixth days.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_23_sunday_154.ogg/revision/latest?cb=20240702035842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_245.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Arcane Artwork)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This guy is really into these puppets.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_23_mar7th_132.ogg/revision/latest?cb=20240702035555",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_246.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "note",
+        "text": "Stage Play Act III: Ode to Order"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, I get it now. The last scene is all about singing the praises of the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_23_mar7th_133.ogg/revision/latest?cb=20240702035557",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And the atmosphere here... is completely different from the previous two scenes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_23_himeko_117.ogg/revision/latest?cb=20240702035422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_248.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Advance through Act III and work together to complete the performance"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...General: \"Without a ruler, who would protect the weak and fight back against the tyrants?\"Chancellor: \"We must assist each other in protecting the weak, just as we must assist each other in opposing the tyrannical.\"Jester: \"Without a ruler, who will make the stars follow their paths, the tides rise and fall, and allow life to grow?\"Chancellor: \"These things did as they will long before their ruler appeared, just as they will continue to do with rulers gone.\"Minister: \"However, now that we have bid farewell to our ruler. Who shall take their place?\"Chancellor: \"We no longer require a ruler, for we were originally all rulers who stand above all things.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"This is the concluding act of this play. I have showcased the past and present of Penacony, hoping that my desire for change resonates within you.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_23_sunday_155.ogg/revision/latest?cb=20240702035844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"And now, I shall reveal its future to you.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_23_sunday_156.ogg/revision/latest?cb=20240702035846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_250.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Without a king",
+        "children": [
+            {
+                "type": "note",
+                "text": "Who shall bear responsibility for the people?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chancellor",
+        "line": "\"If the people lack foresight, we will make choices on their behalf and bear the responsibility.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_23_zaixiang_101.ogg/revision/latest?cb=20240702040025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chancellor_251.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Without a king",
+        "children": [
+            {
+                "type": "note",
+                "text": "Who shall protect the weak"
+            },
+            {
+                "type": "note",
+                "text": "And stand against the mighty?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chancellor",
+        "line": "\"We shall support one another, protecting the weak and standing against the mighty.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_23_zaixiang_102.ogg/revision/latest?cb=20240702040028",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chancellor_252.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Move the Dream Module and approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ Without a king",
+        "children": [
+            {
+                "type": "note",
+                "text": "Who shall govern the movement of stars"
+            },
+            {
+                "type": "note",
+                "text": "The ebb and flow of tides"
+            },
+            {
+                "type": "note",
+                "text": "And the growth of all things?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chancellor",
+        "line": "\"Before the arrival of a king, everything followed its natural course, and so it shall continue even after the king's departure.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_23_zaixiang_103.ogg/revision/latest?cb=20240702040029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chancellor_253.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the puppets)\n(Floating words)"
+    },
+    {
+        "type": "choice",
+        "text": "▶ But after the king's departure",
+        "children": [
+            {
+                "type": "note",
+                "text": "Who shall become the new king?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chancellor",
+        "line": "\"We no longer have need for a king, for we have become kings of all things.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_23_zaixiang_104.ogg/revision/latest?cb=20240702040032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chancellor_254.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach General)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey? Aren't we supposed to kick off a short story and have a fight here just like we did in the previous acts? Why aren't any of these puppets saying anything?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Vo_chapter3_23_mar7th_134.ogg/revision/latest?cb=20240702035559",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Perhaps we'll need to \"complete\" the story ourselves just like we did before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_23_himeko_118.ogg/revision/latest?cb=20240702035424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ So... (Trailblazer)? Do you think their mind needs tinkering or something?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_23_mar7th_135_m.ogg/revision/latest?cb=20240702035603",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_257.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Help the puppets complete the play"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...General: \"Without a ruler, who would protect the weak and fight back against the tyrants?\"Chancellor: \"We must assist each other in protecting the weak, just as we must assist each other in opposing the tyrannical.\"Jester: \"Without a ruler, who will make the stars follow their paths, the tides rise and fall, and allow life to grow?\"Chancellor: \"These things did as they will long before their ruler appeared, just as they will continue to do with rulers gone.\"Minister: \"However, now that we have bid farewell to our ruler. Who shall take their place?\"Chancellor: \"We no longer require a ruler, for we were originally all rulers who stand above all things.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(Try to leave, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Guess we won't be able to leave until this act is complete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_23_himeko_114.ogg/revision/latest?cb=20240702035416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_258.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to General)"
+    },
+    {
+        "type": "note",
+        "text": "Based on the experience from Act II, it seems you'll need to employ the clockwork once again to personally bring the performance to fruition."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "note",
+        "text": "Leave."
+    },
+    {
+        "type": "condition",
+        "text": "(Try to tune General fromSatisfied)"
+    },
+    {
+        "type": "note",
+        "text": "\"Farewell, former king.\""
+    },
+    {
+        "type": "note",
+        "text": "\"We no longer have need for a king, for we have become kings of all things.\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "How did it go?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_23_mar7th_136.ogg/revision/latest?cb=20240702035605",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_259.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I can't change the emotions..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You can't change them? What does that mean...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/Vo_chapter3_23_mar7th_137.ogg/revision/latest?cb=20240702035606",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_260.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"My apologies for my negligence. I forgot to inform you that the final part... was scripted long ago.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_23_sunday_157.ogg/revision/latest?cb=20240702035848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_261.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Future's Voice\"",
+        "line": "\"Let our previous king recount it to you. Now, it is time for the final rite.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_23_shuiwu_103.ogg/revision/latest?cb=20240702035655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Futures_Voice_262.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Prepare for battle. Looks like we'll have to fight again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_23_himeko_119.ogg/revision/latest?cb=20240702035426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_263.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstMemory Zone Meme \"Heartbreaker\"×1,\"Tomorrow in Harmonious Chords\"×1,Memory Zone Meme \"Insatiable Vanity\"×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sovereign\"",
+        "line": "\"Descending from the infinite spiral staircase, I traverse towards the future with measured steps. No need to remember me or seek my existence, for the contours of my mind shall intersect with other experiences.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_23_shuiwu_104.ogg/revision/latest?cb=20240702035657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sovereign_264.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sovereign\"",
+        "line": "\"In the hushed expanse of a nocturnal reverie, I leave faint traces behind. No need to remember me or to recall the essence of dreams.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_23_shuiwu_105.ogg/revision/latest?cb=20240702035659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sovereign_265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sovereign\"",
+        "line": "\"What is mine shall wane, while you shall transcend its delicate nature.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Vo_chapter3_23_shuiwu_106.ogg/revision/latest?cb=20240702035701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sovereign_266.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is the final scene — it's much more straightforward... He wants to expel the Harmony and establish an empire based on the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Vo_chapter3_23_himeko_120.ogg/revision/latest?cb=20240702035428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Let's go. Once this stage play concludes... it'll be time for the main event — the Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_23_himeko_121.ogg/revision/latest?cb=20240702035430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_268.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Finish Act III"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "I am a shadow outside the future, glimmering beyond the light of memoryNo need to remember me forever, allow me tranquility before I dieI shall become your body, orSpeak within your soulI fall from the infinite spiral staircase that stretches out, slowly falling towards the futureNo need to remember me forever, or attempt to catch meMy silhouette in your heartIs bound to crisscross with other experiencesI pass in the silent night, leaving traces impossible to seeNo need to remember me forever, or recall the soul of this dreamAll that is mine are found to fallAnd you will overcome its weakness"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Dreamscape)"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "note",
+        "text": "1 system hour until Charmony Festival"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"THEY imbued the world with meaning, perfecting all things in the heavens and on earth. Then, THEY rested from the labors of creation.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_23_sunday_158.ogg/revision/latest?cb=20240702035850",
+        "is_unavailable": false,
+        "audio_filename": "audio__269.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Yet, all beings cried out to Ena — 'Under the banner of the Order, you have defined all things in the Cosmos... but this made us realize that we are but puppets in your hands!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_23_sunday_159.ogg/revision/latest?cb=20240702035852",
+        "is_unavailable": false,
+        "audio_filename": "audio__270.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Thus, on that day, all beings united and cast the Aeon into the abyss of oblivion.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/Vo_chapter3_23_sunday_160.ogg/revision/latest?cb=20240702035854",
+        "is_unavailable": false,
+        "audio_filename": "audio__271.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This Grand Theater looks totally different... Is this the power of the Order?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_23_mar7th_138.ogg/revision/latest?cb=20240702035608",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_272.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Everyone, get ready. This could be a tough battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_23_himeko_122.ogg/revision/latest?cb=20240702035432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_273.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Take to the stage for the fated battle"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "...General: \"Without a ruler, who would protect the weak and fight back against the tyrants?\"Chancellor: \"We must assist each other in protecting the weak, just as we must assist each other in opposing the tyrannical.\"Jester: \"Without a ruler, who will make the stars follow their paths, the tides rise and fall, and allow life to grow?\"Chancellor: \"These things did as they will long before their ruler appeared, just as they will continue to do with rulers gone.\"Minister: \"However, now that we have bid farewell to our ruler. Who shall take their place?\"Chancellor: \"We no longer require a ruler, for we were originally all rulers who stand above all things.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"That marked the seventh day.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_23_sunday_161.ogg/revision/latest?cb=20240702035856",
+        "is_unavailable": false,
+        "audio_filename": "audio__274.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Cheers and chants reverberated in unison...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_23_sunday_162.ogg/revision/latest?cb=20240702035858",
+        "is_unavailable": false,
+        "audio_filename": "audio__275.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "The world is in Harmony!"
+    },
+    {
+        "type": "note",
+        "text": "The stars shine bright!"
+    },
+    {
+        "type": "note",
+        "text": "Praise the Great One!"
+    },
+    {
+        "type": "note",
+        "text": "The Order is dead!"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "2:1 THEY gave \"meaning to all in existence and all of heaven and earth were made perfect. Hence, THEY rested from THEIR work of creation.2:2 However, the masses cried out once more to Ena that the blood of the great Aeon must be spilt.2:3 You use \"the Order\" to define all of creation, yet you make us aware that we are naught more than your puppets.2:4 It was on that day that all of creation united as one, and cast the divine into the pit of destruction.2:5 This is how it came to pass. This was the seventh day.2:6 All of existence exclaimed out in joy and their voices of celebration shook the very earth. In that moment, the stars sang in great unison.\"The world is in harmony, the stars shine together, praise be to the Great One!\"\"The Order is dead! The Order is dead! The Order is dead!\""
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the stage)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look! There he is!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_23_mar7th_139.ogg/revision/latest?cb=20240702035610",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_276.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "That concludes everything related to the Order. What are your reflections on this, my dear guests?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_23_sunday_163.ogg/revision/latest?cb=20240702035900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_277.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Nevertheless, this is but a trivial blip in the annals of galactic history. What truly matters is the course this river shall take in the days to come...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_23_sunday_164.ogg/revision/latest?cb=20240702035902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_278.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "You've arrived at the perfect moment. The Charmony Festival is about to commence, and it would be a shame if you were absent for the Harmony's prologue.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/Vo_chapter3_23_sunday_165.ogg/revision/latest?cb=20240702035903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_279.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Allow me to extend my warmest welcome once more. Welcome to Penacony Theater, the very core of the sweet dream, the abode of the Stellaron, the grand stage of the Charmony Festival...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Vo_chapter3_23_sunday_166.ogg/revision/latest?cb=20240702035905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_280.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "And... the very place where the future of Penacony shall be determined through conflict.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_23_sunday_167.ogg/revision/latest?cb=20240702035907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_281.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "And the very place where your schemes get smashed to smithereens.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Your unwavering faith in the Trailblaze is truly impressive.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_23_sunday_168.ogg/revision/latest?cb=20240702035909",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_282.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why did you invite us to this duel?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Because our shared goals give equal weight to the beliefs we strive for.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_23_sunday_169.ogg/revision/latest?cb=20240702035911",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_283.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Where is the Stellaron? Why am I not seeing it?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "It hides behind the curtain. Or rather, it is the theater itself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_23_sunday_170.ogg/revision/latest?cb=20240702035915",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_284.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "However, if you want to see it, you must display faith equal to its immense power.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_23_sunday_171.ogg/revision/latest?cb=20240702035917",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_285.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "True goodness can only be achieved through faith.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_23_sunday_172.ogg/revision/latest?cb=20240702035919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_286.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Allow me to point out that falling into a permanent slumber is not happiness, especially when those people are driven by someone else's will in their sleep.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_23_himeko_123.ogg/revision/latest?cb=20240702035434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_287.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Do you still believe that the Order only seeks to control the universe as THEIR puppet, Himeko?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_23_sunday_173.ogg/revision/latest?cb=20240702035921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_288.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "No matter how perfect your vision of paradise may be, a cage remains a cage.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_23_himeko_124.ogg/revision/latest?cb=20240702035436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_289.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "People will never achieve true happiness in a world like that! They would just be toys for the Aeon!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_23_mar7th_140.ogg/revision/latest?cb=20240702035612",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_290.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_23_sunday_174.ogg/revision/latest?cb=20240702035923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_291.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It seems you have misunderstood my intentions. Allow me to clarify — My desire is not to resurrect a fallen Aeon or become one myself...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_23_sunday_175.ogg/revision/latest?cb=20240702035925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_292.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "My sole objective is to create a paradise free from Aeons, where the Order ensures the dignity and happiness of all humanity. A paradise exclusive to us human beings.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_23_sunday_176.ogg/revision/latest?cb=20240702035927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_293.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's not the case. If people are to live with dignity, there must be nothing and no one above them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_23_himeko_125.ogg/revision/latest?cb=20240702035438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_294.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "In your so-called paradise, you would be the one reigning supreme.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_23_himeko_126.ogg/revision/latest?cb=20240702035440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_295.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Looks like we won't be able to convince each other. Now that our conflict has been destined, let's unveil our Paths and reveal to the universe the true path.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_23_sunday_177.ogg/revision/latest?cb=20240702035929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_296.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "However, before the prelude to the future begins, please take a moment to ponder the questions I've posed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_23_sunday_178.ogg/revision/latest?cb=20240702035930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_297.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Is darkness equal to daylight?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Are sinners equal to the righteous?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "If you are born weak,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "which god should you turn to for solace?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstThe Past, Present, and Eternal Show)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Past\"",
+                "line": "How tragic! The Aeon with great might...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_23_wangxi_101.ogg/revision/latest?cb=20240702040001",
+                "is_unavailable": false,
+                "audio_filename": "audio_Past_298.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Present\"",
+                "line": "Under the banner of the Order, you have defined all things in the Cosmos...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_23_cike_101.ogg/revision/latest?cb=20240702035254",
+                "is_unavailable": false,
+                "audio_filename": "audio_Present_299.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Future\"",
+                "line": "...But this made us realize that we are but puppets in your hand!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_23_lairi_101.ogg/revision/latest?cb=20240702035455",
+                "is_unavailable": false,
+                "audio_filename": "audio_Future_300.ogg"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Start of Phase 2)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Past and Present\"",
+                "line": "The world is in Harmony!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_23_wangxi_102.ogg/revision/latest?cb=20240702040004",
+                "is_unavailable": false,
+                "audio_filename": "audio_Past_and_Present_301.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Past, Present and Future\"",
+                "line": "Praise the Great One!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_23_cike_103.ogg/revision/latest?cb=20240702035256",
+                "is_unavailable": false,
+                "audio_filename": "audio_Past,_Present_and_Future_302.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)\n(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I already know your decision.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I, now, permit you to gaze into the sun.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "On these one hundred and seven thousand, three hundred and thirty-six stones,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "the almighty and powerful strings of Harmony are at my disposal...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "...the supreme tuner,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Harmonious Choir, Dominicus!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle against\"Harmonious Choir\" The Great Septimus)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Harmonious Choir\" The Great Septimus",
+                "line": "O, lost souls! Come and meet your master!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_23_dominicusA_101.ogg/revision/latest?cb=20240702035318",
+                "is_unavailable": false,
+                "audio_filename": "audio_Harmonious_Choir_The_Great_Septimus_303.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "The embodiment of the Harmony? So, the true purpose of the Charmony Festival... is to usurp it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_23_himeko_129.ogg/revision/latest?cb=20240702035442",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_304.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Harmonious Choir\" The Great Septimus",
+                "line": "Wise and perceptive as you are... Answer me this — Why could the Harmony and the Order merge into one?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_23_dominicusA_102.ogg/revision/latest?cb=20240702035320",
+                "is_unavailable": false,
+                "audio_filename": "audio_Harmonious_Choir_The_Great_Septimus_305.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I'm feeling like... there's another world in front of my eyes...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Vo_chapter3_23_mar7th_142.ogg/revision/latest?cb=20240702035614",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_306.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "It's the power of tuning... Don't let the song distract you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Vo_chapter3_23_himeko_130.ogg/revision/latest?cb=20240702035444",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_307.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Harmonious Choir\" The Great Septimus",
+                "line": "Because neither side could tolerate... discord.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_23_dominicusA_104.ogg/revision/latest?cb=20240702035322",
+                "is_unavailable": false,
+                "audio_filename": "audio_Harmonious_Choir_The_Great_Septimus_308.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)\n(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Harmonious Choir\" The Great Septimus",
+                "line": "The time has come. Creation will be reborn from the remains of gods...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko and March 7th",
+                "line": "Dan Heng?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Radiant spirit...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Heed my word...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "...Show no mercy!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    }
+]

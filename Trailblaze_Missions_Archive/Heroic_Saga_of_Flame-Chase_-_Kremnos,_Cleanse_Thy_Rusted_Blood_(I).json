@@ -1,0 +1,971 @@
+[
+    {
+        "type": "heading",
+        "text": "Collect the memory fragments related to Castrum Kremnos"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After returning from the Abyss, we split into two groups.Phainonand I headed to assist the battle-wornMydei, while (Trailblazer) planned to harnessOronyx's power to gather the memory fragments. Once this was done, we would devise a plan to journey intoCastrum Kremnos' past, where we would join forces withCastoriceto destroyNikador's immortal body."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Thank goodness we no longer have to ride the dromas into the city. Thanks for your hard work, Tribbie .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_8_phainon_101.ogg/revision/latest?cb=20250205050245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "No need for formalities at a time like this. I trust that you have found a solution?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_8_tribbie_101.ogg/revision/latest?cb=20250205050307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Simply put, Oronyx refused to help us uncover the past of Castrum Kremnos. But for some reason, they showed interest toward (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_8_phainon_102_m.ogg/revision/latest?cb=20250205050248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ They... through some unknown means... gifted (Trailblazer) this pet—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_8_phainon_103_m.ogg/revision/latest?cb=20250205050251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Pet. Mem — isn't!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter4_8_mem_101.ogg/revision/latest?cb=20250205050214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "According to Dan Heng , this creature is related to a god from beyond the sky. Perhaps they can help us solve the problem.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_8_phainon_104.ogg/revision/latest?cb=20250205050253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "A god from beyond the sky...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_8_tribbie_102.ogg/revision/latest?cb=20250205050308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Tribbie, let's split up here. I'll make my way to Kremnos immediately to lend my support to Mydei.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_8_phainon_105.ogg/revision/latest?cb=20250205050254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ As for the mission of finding out Nikador 's weakness... Can I leave it to you, (Trailblazer)? I ask this sincerely from the bottom of my heart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_8_phainon_106_m.ogg/revision/latest?cb=20250205050257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_8.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Just leave it to me and Mem."
+    },
+    {
+        "type": "choice",
+        "text": "Be careful, you're not indestructible.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Don't worry about me, surviving the impossible is my specialty.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_8_phainon_107.ogg/revision/latest?cb=20250205050258",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Mydei and I will be waiting for you on the battlefield.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter4_8_phainon_108.ogg/revision/latest?cb=20250205050259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let me come too, Phainon. I'd rather be on the front lines, helping ease the burden.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Thank you. I don't have any reason to refuse.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_8_phainon_109.ogg/revision/latest?cb=20250205050301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Then this is where we part ways — Dan Heng and I will head to Castrum Kremnos immediately, while (Trailblazer) works on uncovering the secret behind the barbaric god's indestructible body. As for miss [ sic ] Castorice...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_8_phainon_110_m.ogg/revision/latest?cb=20250205050304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ I'll stay with (Trailblazer) to ensure ( his / her ) safety.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_8_castorice_101_m.ogg/revision/latest?cb=20250205050102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I'll leave it to you. Tribbie... Could I trouble you once again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_8_phainon_111.ogg/revision/latest?cb=20250205050305",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Of course, just leave the Century Gate to us .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_8_tribbie_103.ogg/revision/latest?cb=20250205050309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "We're the only ones left... Where should we go to find the lost memories?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_8_castorice_102.ogg/revision/latest?cb=20250205050104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memories... Smell, intense.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_8_mem_102.ogg/revision/latest?cb=20250205050215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Tracking, found. Past... Recreate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_8_mem_103.ogg/revision/latest?cb=20250205050217",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_18.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's just believe in Mem's sense of smell.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Mem, believe. Follow, friends!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_8_mem_104.ogg/revision/latest?cb=20250205050218",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_19.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So, you're actually a dog?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Pet, not!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_8_mem_105.ogg/revision/latest?cb=20250205050219",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_20.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Mem, believe. Follow, friends!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_8_mem_106.ogg/revision/latest?cb=20250205050221",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Approach BardLipos)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Here. Here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_8_mem_107.ogg/revision/latest?cb=20250205050222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memories, ballads... Collect!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_8_mem_108.ogg/revision/latest?cb=20250205050223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Bard Lipos)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "Oh, elegant lady! Are you here to listen to Lipos' song?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_8_boli_101.ogg/revision/latest?cb=20250205050045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "What are you in the mood for? The love stories of the ancient Chrysos Heirs ? The turbulent era of the Chrysos War? The rise and fall of the Seaside States? Lipos has it all!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_8_boli_102.ogg/revision/latest?cb=20250205050046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I wonder if there is a ballad about Nikador 's madness as well as the mystery of Castrum Kremnos vanishing into the fog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_8_castorice_103.ogg/revision/latest?cb=20250205050105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "Ma'am, you have come to the right place! There is such a ballad within my collection that has yet to grace the ears of others.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_8_boli_103.ogg/revision/latest?cb=20250205050048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "Allow me to sing it for you—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_8_boli_104.ogg/revision/latest?cb=20250205050049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"The war of a thousand years has drawn to its close. And now the world descends into a long night of chaos. O valiant Titan , tell me, how did your golden heart shatter into a thousand fragments?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_8_boli_105.ogg/revision/latest?cb=20250205050051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"O god, have you grown weary of endless strife? Then how do you justify your ruthless tyranny? And how shall you cast off the darkness that so deeply shrouds your divinity?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_8_boli_106.ogg/revision/latest?cb=20250205050052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"O god, have you forgotten the glory of old? Then how will you defend your dignity? And where shall your faithful subjects find their home?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_8_boli_107.ogg/revision/latest?cb=20250205050054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"O mighty Nikador , the truth is clear to us all. Your steadfast divinity is not vanquished. You are shrouded momentarily by that encroaching black tide.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_8_boli_108.ogg/revision/latest?cb=20250205050055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"But you never faltered, nor did you flee! Your golden warrior spirit, brave and bold, will conquer the black tide, as foretold. To the throne of Kremnos, you'll return once more!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_8_boli_109.ogg/revision/latest?cb=20250205050057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"Our god, our king, to aid your timeless struggle, we have prepared a grand ritual—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_8_boli_110.ogg/revision/latest?cb=20250205050058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bard Lipos",
+        "line": "\"Please grant us the honor to touch your soul with our humble hands, and present to you this sacred Sword Vessel... It shall consecrate your eternal life and enshrine your everlasting glory.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_8_boli_111.ogg/revision/latest?cb=20250205050100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bard_Lipos_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "There, done. Memory, collected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_8_mem_109.ogg/revision/latest?cb=20250205050225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Thank you, esteemed bard with an enchanting voice. Your ballads will endure through the ages, serving as a bulwark for Okhema .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_8_castorice_104.ogg/revision/latest?cb=20250205050106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_37.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainBard's Memory Fragment)"
+    },
+    {
+        "type": "condition",
+        "text": "(While approaching Chartonus)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Here. Here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_8_mem_111.ogg/revision/latest?cb=20250205050227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memory, craftsman... Collect!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_8_mem_112.ogg/revision/latest?cb=20250205050229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_39.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Chartonus)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Chartonus... Come to think of it, I remember hearing about them making a holy vessel for Kremnos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_8_castorice_105.ogg/revision/latest?cb=20250205050108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Oh... Castorice. Outlander, as well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter4_8_hatuonusi_101.ogg/revision/latest?cb=20250205050200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "To Chartonus, what brings you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_8_hatuonusi_102.ogg/revision/latest?cb=20250205050202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I remember the Kremnoans commissioned you to craft a divine object before. Do you happen to recall the details?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_8_castorice_106.ogg/revision/latest?cb=20250205050109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Ah... Happened it did. Why ask, do you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_8_hatuonusi_103.ogg/revision/latest?cb=20250205050203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_44.ogg"
+    },
+    {
+        "type": "note",
+        "text": "To vanquish Nikador for good."
+    },
+    {
+        "type": "note",
+        "text": "To protect Okhema."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Hm...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter4_8_hatuonusi_104.ogg/revision/latest?cb=20250205050204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Thousands of marvels of weaponry, I crafted. Remember them all, impossible it is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_8_hatuonusi_105.ogg/revision/latest?cb=20250205050206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Outlander, forgive me. Help, I cannot.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_8_hatuonusi_106.ogg/revision/latest?cb=20250205050207",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "That makes sense. With such a long life, the Grand Craftsman can't remember every single item he's made. Is there another way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_8_castorice_107.ogg/revision/latest?cb=20250205050110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Mem, knows!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_8_mem_113.ogg/revision/latest?cb=20250205050230",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Help, friend! Memory, retrieve!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_8_mem_114.ogg/revision/latest?cb=20250205050231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementRebuilding the Rights of Statues)"
+    },
+    {
+        "type": "section_header",
+        "text": "Check Chartonus' memory fragments"
+    },
+    {
+        "type": "condition",
+        "text": "(Activate Fragments of Recollection)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), are you feeling alright?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_8_castorice_108_m.ogg/revision/latest?cb=20250205050113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "You were in the same state as when you were with Oronyx .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_8_castorice_109.ogg/revision/latest?cb=20250205050114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_52.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the memory)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kremnos High Elder",
+        "line": "Grand Craftsman, would it be possible for you to craft a Sword Vessel that can seal divinity?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_8_zuzhang_101.ogg/revision/latest?cb=20250205050311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kremnos_High_Elder_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Anything my forging hammer cannot craft, there is not.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_8_hatuonusi_107.ogg/revision/latest?cb=20250205050209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "The finest stones in Kremnos, give me. The golden blood of Strife Titan, find me. The Sword Vessel, I shall craft.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_8_hatuonusi_108.ogg/revision/latest?cb=20250205050210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kremnos High Elder",
+        "line": "Does that mean we have a deal?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_8_zuzhang_102.ogg/revision/latest?cb=20250205050312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kremnos_High_Elder_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kremnos High Elder",
+        "line": "And what of your payment? For a commission of this magnitude, proper compensation must be ensured.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_8_zuzhang_103.ogg/revision/latest?cb=20250205050313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kremnos_High_Elder_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Payment... simple.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_8_hatuonusi_109.ogg/revision/latest?cb=20250205050211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chartonus",
+        "line": "Peace, for my people. Mountain Dwellers, no longer servants or fighters for Kremnos. Ever.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_8_hatuonusi_110.ogg/revision/latest?cb=20250205050213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chartonus_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kremnos High Elder",
+        "line": "...You have my word, Grand Craftsman.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_8_zuzhang_104.ogg/revision/latest?cb=20250205050314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kremnos_High_Elder_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "There, done. Memory, collected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_8_mem_115.ogg/revision/latest?cb=20250205050232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_61.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Collect the memory fragments related to Castrum Kremnos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), are you feeling alright? You were—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_8_castorice_110_m.ogg/revision/latest?cb=20250205050117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_62.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I saw the memory of the Grand Craftsman."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Ah, was it because of this little one? That's incredible!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_8_castorice_111.ogg/revision/latest?cb=20250205050118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The ability to look into others' memories sounds like something that could easily be misused. Luckily, you're the one wielding it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_8_castorice_112.ogg/revision/latest?cb=20250205050120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memory, observed. Happiness... take!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_8_mem_117.ogg/revision/latest?cb=20250205050235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainChartonus' Memory Fragment)"
+    },
+    {
+        "type": "condition",
+        "text": "(While approachingDamionis)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Here. Here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_8_mem_118.ogg/revision/latest?cb=20250205050236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memories, photos... Collect!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_8_mem_119.ogg/revision/latest?cb=20250205050238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Is that... Damionis? Did Lady Aglaea release him already?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_8_castorice_113.ogg/revision/latest?cb=20250205050121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_68.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That guy... He almost got us killed!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "He certainly has a bad reputation. If it weren't for him, you and Dan Heng wouldn't have been interrogated by Lady Aglaea.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_8_castorice_114.ogg/revision/latest?cb=20250205050122",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_69.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Has that dude never heard of copyright before?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I've heard some bad things about him. He may have some talent in the arts, but if it weren't for him, you and Dan Heng wouldn't have been interrogated by Lady Aglaea.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_8_castorice_115.ogg/revision/latest?cb=20250205050124",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_70.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But if Mem thinks he has some valuable memories, we'd better ask him in person.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_8_castorice_116.ogg/revision/latest?cb=20250205050125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Damionis)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "...Hmm? Who's that? I'm busy working on a scene, please don't...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_8_damiyanuosi_101.ogg/revision/latest?cb=20250205050143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Ah, it's the esteemed \"outlander.\" How've you been? It hasn't been all that long since we last met...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_8_damiyanuosi_102.ogg/revision/latest?cb=20250205050144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_73.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You almost got me killed!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Damionis",
+                "line": "My apologies, that was entirely my fault. I was determined to prove that a world beyond the sky exists...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_8_damiyanuosi_103.ogg/revision/latest?cb=20250205050146",
+                "is_unavailable": false,
+                "audio_filename": "audio_Damionis_74.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Damionis",
+                "line": "Fortunately, Lady Aglaea is quite lenient. She let me go after I made a vow.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_8_damiyanuosi_104.ogg/revision/latest?cb=20250205050147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Damionis_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're out already?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Damionis",
+                "line": "Lady Aglaea is quite lenient. She let me go after I made a vow.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_8_damiyanuosi_105.ogg/revision/latest?cb=20250205050148",
+                "is_unavailable": false,
+                "audio_filename": "audio_Damionis_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Rest assured, I'm not foolish enough to make the same mistake twice. Breaking a vow with Lady Aglaea would be like... digging my own grave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_8_damiyanuosi_106.ogg/revision/latest?cb=20250205050150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_77.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Do you have any memories related to Castrum Kremnos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Castrum Kremnos? For us unarmed civilians, Nikador 's territory is off-limits. Even in the past...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_8_damiyanuosi_107.ogg/revision/latest?cb=20250205050151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Oh, n–no... Wait, I just remembered! I did visit Castrum Kremnos once. Let me find it for you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_8_damiyanuosi_108.ogg/revision/latest?cb=20250205050152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Y–Yes, yes, this is the one! I can't believe I still have it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_8_damiyanuosi_109.ogg/revision/latest?cb=20250205050154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Could you tell us the story behind it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_8_castorice_117.ogg/revision/latest?cb=20250205050126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "During the final days of the Chrysos War, the final festival took place in Castrum Kremnos. However, due to the tense situation, few outsiders were willing to compete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_8_damiyanuosi_110.ogg/revision/latest?cb=20250205050155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "I gathered the courage to go there, but I found the atmosphere of the festival to be... quite strange. It felt more like the Kremnoans were preparing for a mysterious ceremony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter4_8_damiyanuosi_111.ogg/revision/latest?cb=20250205050156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Sensing something was off, I snapped a photo outside the city and then left... And what followed was something completely unexpected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_8_damiyanuosi_112.ogg/revision/latest?cb=20250205050158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Would you mind giving us the photo? We're... trying to piece together clues from that time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_8_castorice_118.ogg/revision/latest?cb=20250205050128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Damionis",
+        "line": "Sure, take it! Think of it as my way of making it up to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_8_damiyanuosi_113.ogg/revision/latest?cb=20250205050159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Damionis_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Done. Memory, collected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_8_mem_120.ogg/revision/latest?cb=20250205050239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_87.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDamionis' Memory Fragment)"
+    },
+    {
+        "type": "condition",
+        "text": "(After all three memory fragments were collected)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memory... collected!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter4_8_mem_122.ogg/revision/latest?cb=20250205050242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Kremnos... go! Help, friend!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_8_mem_123.ogg/revision/latest?cb=20250205050243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ What did they say, ( Mr. / Miss ) (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_8_castorice_119_m.ogg/revision/latest?cb=20250205050130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_90.ogg"
+    },
+    {
+        "type": "note",
+        "text": "All memories have been collected..."
+    },
+    {
+        "type": "note",
+        "text": "...It's time to head to Castrum Kremnos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Is everything in order? If so, we need to meet up with Lords Phainon and Mydei.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_8_castorice_120.ogg/revision/latest?cb=20250205050131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ Before we leave, I'd like to check with Lady Aglaea again. Do you mind waiting for me, ( Mr. / Miss ) (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_8_castorice_121_m.ogg/revision/latest?cb=20250205050134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_92.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Receive a message fromCastorice, Aglaea, and (Trailblazer)'s Group Chat)"
+    },
+    {
+        "type": "note",
+        "text": "Messages Castorice, Aglaea, and (Trailblazer)'s Group Chat Castorice Lady Aglaea, we have completed all preparations, and are ready to head to Castrum Kremnos' past to find a way to break through this deadlock. Aglaea Thank you. I will also stabilize the political situation in the city and be prepared to support you from afar. There's no need to hold yourself back, Cas. Do what you want to do. We all trust you. May Kephale light our eyes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ Everything's set now. Let's head out, ( Mr. / Miss ) (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_8_castorice_122_m.ogg/revision/latest?cb=20250205050137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_93.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you scared of Lady Aglaea?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Scared? No, I just don't want to see her disappointed.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_8_castorice_123.ogg/revision/latest?cb=20250205050138",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_94.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you always have to report everything to her?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I just don't want to see her disappointed.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_8_castorice_124.ogg/revision/latest?cb=20250205050139",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_95.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lady Aglaea's contributions to Okhema deserve more appreciation, but people mostly see her as distant and aloof.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter4_8_castorice_125.ogg/revision/latest?cb=20250205050140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "We don't have time to talk about this right now... Let's set off. Hopefully, this little one will help us recreate the memories of Castrum Kremnos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_8_castorice_126.ogg/revision/latest?cb=20250205050142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Friend, trust! Go, Kremnos!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_8_mem_124.ogg/revision/latest?cb=20250205050244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching to Aglaea's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Aglaea begins a personal investigation after discovering that Okhema might have been infiltrated, pulling out the filth hidden in the nooks and crannies of the city..."
+    }
+]

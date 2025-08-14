@@ -1,0 +1,1173 @@
+[
+    {
+        "type": "condition",
+        "text": "(The Trailblazer wakes up in a surreal place)"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Is this... the universe?"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ But I was fighting Cocolia . Why am I here...?"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ ...The last time I came here, I drew Nanook 's gaze. Could it be..."
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You wake up in a strange place surrounded by nebulous stars, seemingly enveloped by an amber-colored destiny.The last thing you remember is being pierced by Cocolia's lance... Could this be the afterlife? But your mind is still very clear and your body still has strength... These resounding voices in your head seem to be guiding you, telling you that you are still alive.Your companions might still be in fierce combat with Cocolia. You have to find a way to get back to their side, no matter what."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the first memory)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "The Commercial District has fallen. We've transfered the residents to the Outer Municipal District for the time being. The Garrison lost 26 fighters... but I...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_9_gepard_202.ogg/revision/latest?cb=20241204035540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...Go on, Gepard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_9_cocolia_235.ogg/revision/latest?cb=20241204035524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "I... I'm not sure that they're dead... I saw their broken figures lingering in the Fragmentum ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter1_9_gepard_204.ogg/revision/latest?cb=20241204035541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "What happened back there defied all reason... it was madness. Madam Guardian, if this continues...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_9_gepard_206.ogg/revision/latest?cb=20241204035541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...I know well the consequences, Gepard. You may leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_9_cocolia_237.ogg/revision/latest?cb=20241204035525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of theStellaron",
+        "line": "...We know well the consequences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter1_9_stellaron_203.ogg/revision/latest?cb=20241204035605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_theStellaron_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the second memory)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...Why do you hesitate, Cocolia? Isn't this what you've always been hoping for? Get out of this cage and take a look at the city. What is there to lose!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_9_serval_205.ogg/revision/latest?cb=20241204035559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "The efforts of our predecessors... their unfinished research... we can finally see them come to fruition! Give me some soldiers and I'll locate the Stellaron and find out how to save our world—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter1_9_serval_206.ogg/revision/latest?cb=20241204035600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...You need to come to your senses, Serval.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter1_9_cocolia_239.ogg/revision/latest?cb=20241204035526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Come... to my senses? What are you—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_9_serval_207.ogg/revision/latest?cb=20241204035601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Guards! Miss Serval is tired, take her to rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter1_9_cocolia_240.ogg/revision/latest?cb=20241204035527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Sequester her lab and detain the researchers — their work is illegal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_9_cocolia_242.ogg/revision/latest?cb=20241204035528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...Why Cocolia... Why have you grown so cold...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_9_serval_210.ogg/revision/latest?cb=20241204035601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Serval Landau... you were my most cherished friend.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_9_cocolia_244.ogg/revision/latest?cb=20241204035529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "...But there is no place for her in the promised new world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_9_stellaron_204.ogg/revision/latest?cb=20241204035606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_14.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the third memory)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "Madam Cocolia, the monsters are surging this way! ...It's too dangerous here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter1_9_soldierV_201.ogg/revision/latest?cb=20241204035602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...Foolish, weak...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter1_9_cocolia_245.ogg/revision/latest?cb=20241204035530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Silvermane Guard",
+        "line": "...What? Madam, what are you saying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_9_soldierV_202.ogg/revision/latest?cb=20241204035603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Silvermane_Guard_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Only I... Only I can understand. They have eyes that do not see, ears that do not hear...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter1_9_cocolia_246.ogg/revision/latest?cb=20241204035530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "...Aghhhhhhhh...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_9_soldierV_203.ogg/revision/latest?cb=20241204035604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Feast on their willful ignorance... absolve them of their stupidity and fear...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_9_cocolia_247.ogg/revision/latest?cb=20241204035532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the fourth memory)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Mother... I still don't understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_9_bronya_218.ogg/revision/latest?cb=20241204035519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "The Fragmentum corrosion has already spread to the Underworld . How will those below ground fend for themselves if we withdraw every guard?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter1_9_bronya_219.ogg/revision/latest?cb=20241204035520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "The automatons will ensure their safety. The most important defensive position is here on the surface. If our lines crumble, the underground will vanish in an instant. Our defenses here must be maintained at all costs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter1_9_cocolia_248.ogg/revision/latest?cb=20241204035532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "These are the choices we make, Bronya... As a leader, you must harbor the courage and foresight to choose.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter1_9_cocolia_250.ogg/revision/latest?cb=20241204035533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "You, me, and every Silvermane Guard in the city, all of us must carry out a higher mission. There will come a day when you must make your own choice. Do you understand?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_9_cocolia_251.ogg/revision/latest?cb=20241204035534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Higher mission...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter1_9_bronya_220.ogg/revision/latest?cb=20241204035521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "It is too early Bronya... still too early. You will understand when the time is right.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_9_cocolia_252.ogg/revision/latest?cb=20241204035535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_27.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach thechild)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "The city is drowning in tears... The power of the Preservation is fading.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_9_guardianC_201.ogg/revision/latest?cb=20241204035542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "We could not defy the will of the Stellaron after all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_9_guardianC_202.ogg/revision/latest?cb=20241204035543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_29.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Cocolia abandoned Preservation.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Guardians' Will",
+                "line": "Yes... But we have no right to judge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_9_guardianC_203.ogg/revision/latest?cb=20241204035544",
+                "is_unavailable": false,
+                "audio_filename": "audio_Guardians_Will_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This is not what Preservation would have wanted...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Guardians' Will",
+                "line": "Ah, a believer, I see?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_9_guardianC_204.ogg/revision/latest?cb=20241204035545",
+                "is_unavailable": false,
+                "audio_filename": "audio_Guardians_Will_31.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "The Fragmentum had been expanding for the past 700 years. There is no faith nor wealth left for our successors... only despair.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_9_guardianC_205.ogg/revision/latest?cb=20241204035546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "To see the home we vowed to preserve wither away... That in itself is torture. Not to mention the haunting whisper of temptation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_9_guardianC_206.ogg/revision/latest?cb=20241204035547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "The day will come when even the strongest of wills cannot help but give in to such influence. It is only a matter of time before the Amber Lord forsakes us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_9_guardianC_207.ogg/revision/latest?cb=20241204035548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_34.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Some people can't be swayed."
+    },
+    {
+        "type": "note",
+        "text": "Then let others carry on the will of Preservation."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "You...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter1_9_guardianC_208.ogg/revision/latest?cb=20241204035549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "You are but a stranger to us. And yet you seek to bond your destiny to ours...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter1_9_guardianC_209.ogg/revision/latest?cb=20241204035550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "So be it. What is there to lose when so much has already been lost...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_9_guardianC_210.ogg/revision/latest?cb=20241204035551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guardians' Will",
+        "line": "Touch the light of the Amber, trailblazer. See if your will can attract THEIR gaze.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_9_guardianC_211.ogg/revision/latest?cb=20241204035552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guardians_Will_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(The Trailblazer attempts to grab the flaming lance, but startles away as it surges with power, corresponding to the clash of Qlipoth's hammer. On their second attempt, the Trailblazer is able to maintain their hold on the lance, pulling it free and drawing the gaze of Qlipoth.)\n(The Trailblazer awakes from the Path Space and lands on the hand of theEngine of Creation, completely healed from their previous injury and clutching the flaming lance. Their allies rush forward amazed and joyous.)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Haha",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(The Trailblazer looks back and gives their allies a small nod before turning to point their lance at Cocolia)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstCocolia, Mother of Deception)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "No... It can't be...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter1_9_cocolia_253.ogg/revision/latest?cb=20241204035536",
+                "is_unavailable": false,
+                "audio_filename": "audio_Cocolia_39.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "The will of Preservation has made its choice...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter1_9_bronya_221.ogg/revision/latest?cb=20241204035522",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_40.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "You know nothing of the plight of this world... nothing of the wait for its final end!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_9_cocolia_254.ogg/revision/latest?cb=20241204035537",
+                "is_unavailable": false,
+                "audio_filename": "audio_Cocolia_41.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Even if we are doomed to destruction, we will go bravely, walking hand in hand into the darkness...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_9_bronya_223.ogg/revision/latest?cb=20241204035523",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_42.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "No! That end won't come to pass while we're around!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter1_9_mar7th_215.ogg/revision/latest?cb=20241204035553",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(At the start of the Trailblazer's first turn)</dt>\n<dd>\n<dl><dd>A teammate is currently being locked on. Please use <span class=\"text-highlight\">(Trailblazer)</span>'s <span class=\"text-highlight\">Skill</span></dd>\n<dd>The new <span class=\"text-highlight\">Skill</span> can Taunt enemies and draw attacks from Cocolia</dd></dl></dd></dl>\n<dl><dt>(At the start of the Trailblazer's second turn)</dt>\n<dd>\n<dl><dd><span class=\"text-highlight\">Magma Will</span> is accumulated when <span class=\"text-highlight\">(Trailblazer)</span> is attacked</dd>\n<dd>Consume 4 stacks of <span class=\"text-highlight\">Magma Will</span> to use <span class=\"text-highlight\">Enhanced Basic ATK</span></dd></dl></dd></dl>\n<dl><dt>(On the next ally's turn after Cocolia first uses Heartless Annihilator Call)</dt>\n<dd>\n<dl><dd>The <span class=\"text-highlight\">Engine of Creation</span> is activated. Use it to destroy <span class=\"text-highlight\">Lance of the Eternal Freeze</span></dd>\n<dd>An ally target's action can charge the <span class=\"text-highlight\">Engine of Creation</span> to unleash <span class=\"text-highlight\">Preservation Creation's Wrath</span></dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Before Cocolia first uses Last Choir of Genesis)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "The power of the Stellaron is with me...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_9_cocolia_258.ogg/revision/latest?cb=20241204035538",
+                "is_unavailable": false,
+                "audio_filename": "audio_Cocolia_44.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "You are but cinders of the Old World soon to become ashes!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_9_cocolia_259.ogg/revision/latest?cb=20241204035539",
+                "is_unavailable": false,
+                "audio_filename": "audio_Cocolia_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating Cocolia, acutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Cocolia collapses in defeat, now in her normal form. Bronya runs up to her, only to be held back by Seele)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Let me go — I gotta... I have to get to her!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "The Stellaron...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "...promised us the future!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "It will...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "...engulf everything!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(Cocolia gathers energy into her chest, causing an distorted explosion around her. Bronya escapes from Seele's grasp and runs towards Cocolia again, but is blocked by a force field.)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Mother!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Stop!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(In her final moments, Cocolia smiles before disintegrating into light particles. Bronya collapses to her knees.)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "It's over...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter1_10_seele_201.ogg/revision/latest?cb=20241204035505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter1_10_bronya_201.ogg/revision/latest?cb=20241204035414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Mother... Did you wake up from that dream...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter1_10_bronya_202.ogg/revision/latest?cb=20241204035414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Wow... that was a tough trailblazing expedition. Dan Heng , (Trailblazer) — we made it! But, uh, what are we gonna do with the Stellaron? It's usually Mr. Yang who handles it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_10_mar7th_201_m.ogg/revision/latest?cb=20241204035454",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I've informed Himeko and Mr. Yang already. They'll seal the Stellaron.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_10_danheng_201.ogg/revision/latest?cb=20241204035444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Nice! The crisis on this world is basically over, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter1_10_mar7th_202.ogg/revision/latest?cb=20241204035455",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter1_10_danheng_202.ogg/revision/latest?cb=20241204035445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...The storm still rages on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter1_10_danheng_203.ogg/revision/latest?cb=20241204035446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Now that the Stellaron is sealed, the Eternal Freeze will slowly recede. The Fragmentum won't aggressively expand anymore, but nor will it disappear. Jarilo-VI has a chance to return to life, but it will take time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_10_danheng_204.ogg/revision/latest?cb=20241204035447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It will depend on the efforts of the people here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_10_danheng_205.ogg/revision/latest?cb=20241204035447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Thank you... all of you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter1_10_bronya_203.ogg/revision/latest?cb=20241204035415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_56.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Don't be too hard on yourself.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "▶ Thank you (Trailblazer)... I—I'm fine. Don't worry.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter1_10_bronya_204_m.ogg/revision/latest?cb=20241204035417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What do you want to do now?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "This victory is only the beginning for Belobog .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_10_bronya_205.ogg/revision/latest?cb=20241204035418",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can't think of anything funny to say...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Hehe, start thinking, we're going to need all the humor we can get... At least the biggest hurdle is behind us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_10_bronya_206.ogg/revision/latest?cb=20241204035419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "There is still much to do... The people will have felt the effects of the Engine of Creation. There are so many questions to answer, so many truths to reveal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_10_bronya_207.ogg/revision/latest?cb=20241204035420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I don't know whether I can get the people to accept all this...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_10_bronya_208.ogg/revision/latest?cb=20241204035421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_61.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Tell everyone the truth.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Can I really do that...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_10_bronya_209.ogg/revision/latest?cb=20241204035422",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Tell everyone about Mother's true motives... about a lie perpetrated for 700 years...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_10_bronya_210.ogg/revision/latest?cb=20241204035423",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "No... No, no way.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter1_10_seele_202.ogg/revision/latest?cb=20241204035506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Cover up the truth...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "You mean...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter1_10_bronya_211.ogg/revision/latest?cb=20241204035424",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_65.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "...Use a lie to conceal a lie. But if I do that, then...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_10_bronya_212.ogg/revision/latest?cb=20241204035425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "You have to, Bronya.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter1_10_seele_203.ogg/revision/latest?cb=20241204035507",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_67.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...Seele?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter1_10_bronya_213.ogg/revision/latest?cb=20241204035426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I... I don't know how to explain it... but I don't think there's any other way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_10_seele_204.ogg/revision/latest?cb=20241204035508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "In the Underworld, we tell the kids \"things will be better tomorrow.\" Everyone knows it's a lie, but it gets them to sleep with some hope.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_10_seele_205.ogg/revision/latest?cb=20241204035509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Can you imagine the consequences if we told the people what happened here? They'd be devastated. If we can't trust the guardians , who — or what — can we trust...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_10_seele_206.ogg/revision/latest?cb=20241204035510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter1_10_bronya_214.ogg/revision/latest?cb=20241204035426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...Mother died to preserve Belobog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_10_bronya_215.ogg/revision/latest?cb=20241204035427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...What?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_10_mar7th_203.ogg/revision/latest?cb=20241204035455",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "The visitors from beyond the sky told her the secret of the Stellaron. She knew that Alisa Rand , the first supreme guardian, had failed to destroy it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter1_10_bronya_216.ogg/revision/latest?cb=20241204035428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...and yet she decided to challenge its power — a power beyond human comprehension. Supreme Guardian Cocolia sacrificed herself to dispel the dark clouds enveloping this city.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_10_bronya_217.ogg/revision/latest?cb=20241204035429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...From here on out, that's the \"truth\" the world will hear. What do you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter1_10_bronya_218.ogg/revision/latest?cb=20241204035430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "It keeps the hope of preservation alive, at least.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_10_seele_207.ogg/revision/latest?cb=20241204035511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's logical... and hard to disprove.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter1_10_danheng_206.ogg/revision/latest?cb=20241204035448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Why do we have to lie? ...I'm abstaining — I like telling the truth. But... I get what you're trying to do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_10_mar7th_204.ogg/revision/latest?cb=20241204035456",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_80.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Agreed — let's use this version.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "▶ Thank you for understanding, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_10_bronya_219_m.ogg/revision/latest?cb=20241204035432",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_81.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "A lie will always be a lie...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I understand, but... I must protect those that believe in the Architects ...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_10_bronya_220.ogg/revision/latest?cb=20241204035433",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_82.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "...Maybe we include some of the cool stuff we did?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Sorry... I'll be sure to make it up to you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_10_bronya_221.ogg/revision/latest?cb=20241204035434",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "For many people, mother was an outstanding guardian... The whole truth will live on in my mind — all the mistakes, madness, evil, and dreams therein... I will be the one to carry that burden.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_10_bronya_222.ogg/revision/latest?cb=20241204035435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Now I must take over the duties of the supreme guardian... and discard my naive fantasies.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_10_bronya_224.ogg/revision/latest?cb=20241204035436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I'm sorry, Seele. Please protect this secret with me... till the end of our lives.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter1_10_bronya_225.ogg/revision/latest?cb=20241204035436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Say no more — I know what to do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_10_seele_208.ogg/revision/latest?cb=20241204035512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Thank you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_10_bronya_226.ogg/revision/latest?cb=20241204035437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Well then, as promised, let's start rebuilding the bridge between the Overworld and the Underworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_10_bronya_227.ogg/revision/latest?cb=20241204035438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Seele, can you tell everyone in the Underworld that the Stellaron has been sealed? Tell them the blockade will soon be over... and they'll breathe freely again soon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter1_10_bronya_228.ogg/revision/latest?cb=20241204035439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Of course, leave it to me — Nat 's probably getting anxious about the delay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter1_10_seele_209.ogg/revision/latest?cb=20241204035513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "While you do that, I'll head back to the Administrative District . I need to tell Gepard... Serv— ah...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter1_10_bronya_229.ogg/revision/latest?cb=20241204035440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...Are you okay!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter1_10_seele_210.ogg/revision/latest?cb=20241204035514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What's wrong, Bronya? Do you feel sick?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_10_mar7th_205.ogg/revision/latest?cb=20241204035457",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I'm... fine. I need to... hurry...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_10_bronya_230.ogg/revision/latest?cb=20241204035441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ She's exhausted! Quick, we need to think of something... (Trailblazer), help me out here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_10_mar7th_206_m.ogg/revision/latest?cb=20241204035459",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_96.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Seele, take Bronya back with you."
+    },
+    {
+        "type": "note",
+        "text": "We'll go to the Underworld and pass on the message."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Right... I almost forgot, you're still wanted by the guards... I might be an Underworlder, but at least I don't stand out as much as you guys.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_10_seele_211.ogg/revision/latest?cb=20241204035515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "That's settled then. I'll leave Nat to you. Remember to keep the secret — for Bron— No, for Belobog's sake.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_10_seele_212.ogg/revision/latest?cb=20241204035516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Seele and Bronya leave)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ So, (Trailblazer), wanna tell us what happened back there? Don't think you can just reappear on the battlefield with a cool weapon in your hands and skip the story.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_10_mar7th_207_m.ogg/revision/latest?cb=20241204035501",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_99.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I saw Qlipoth the Preservation...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Uh... you drew the Amber Lord's gaze? Right at that moment? That's too much of a coincidence...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_10_mar7th_208.ogg/revision/latest?cb=20241204035502",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_100.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's the second time I've sacrificed myself for you, March...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Um... thank you? That's not answering my question though...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_10_mar7th_209.ogg/revision/latest?cb=20241204035503",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "All of a sudden, I was infused with a great and terrible power...!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Be serious! I really wanna know...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_10_mar7th_210.ogg/revision/latest?cb=20241204035504",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer) probably doesn't know what happened either. This wouldn't be the first time... Something similar happened when we faced the Doomsday Beast on the space station . Remember that glance from Nanook?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter1_10_danheng_207_m.ogg/revision/latest?cb=20241204035450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Originally, we thought it was because the Stellaron was linked to the Destruction , but now it seems to be more than that. We might need to speak with Mr. Yang to understand what's going on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_10_danheng_208.ogg/revision/latest?cb=20241204035451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's focus on the business at hand first. We shouldn't disrupt Himeko and Mr. Yang while they're dealing with the Stellaron. Let's talk once we're back on the Express .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_10_danheng_209.ogg/revision/latest?cb=20241204035452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mm, you're right, we need to finish what we started... Let's hurry up and find Natasha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_10_mar7th_211.ogg/revision/latest?cb=20241204035504",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_106.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Seele and Bronya, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Are you alright? Are you hurt anywhere? Do you feel dizzy? Tired? Or...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_10_seele_213.ogg/revision/latest?cb=20241204035517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...I don't know, Seele. I feel... cold... all over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_10_bronya_231.ogg/revision/latest?cb=20241204035442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Isn't that normal? This place is freezing... *sneeze* Ugh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_10_seele_214.ogg/revision/latest?cb=20241204035517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Let's get out of here before you catch a cold too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_10_bronya_232.ogg/revision/latest?cb=20241204035443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Don't worry, I'm a tough cookie. Here, hold on to me... let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_10_seele_215.ogg/revision/latest?cb=20241204035518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_111.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(They leave)"
+    }
+]

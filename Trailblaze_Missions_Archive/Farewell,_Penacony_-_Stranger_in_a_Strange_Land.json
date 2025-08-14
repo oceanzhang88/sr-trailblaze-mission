@@ -1,0 +1,800 @@
+[
+    {
+        "type": "heading",
+        "text": "Speak with Acheron"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Finally, the trailblazing expedition onPenaconyhas come to a preferable conclusion. It's time for a new adventure — but before that, the Crew would like to wish say a formal farewell to certain people.Drawing a firm line under the stories of those who passed is the best form of comfort. Go on, then — they're all at theDreamflux Reef... right here."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "When I arrived, I happened to see a child holding it. He said the flowers were prepared by Aunt Jessie, for the Watchmaker, and the war comrade he'd missed his whole life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_31_acheron_101.ogg/revision/latest?cb=20240630203025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Mikhail would place two bunches of flowers here year after year. And, after he left, it became three.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_31_acheron_102.ogg/revision/latest?cb=20240630203027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Your wishes will always be remembered by someone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Vo_chapter3_31_acheron_103.ogg/revision/latest?cb=20240630203029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Now, Penacony as you hoped, has welcomed the dawn after a long, dark night. The path forward may not be a bed of roses, but at least people are prepared to step forth towards freedom.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_31_acheron_104.ogg/revision/latest?cb=20240630203031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Tiernan, you can now go home.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_31_acheron_105.ogg/revision/latest?cb=20240630203033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "While the Nameless are also preparing for the next stop of their voyage.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_31_acheron_106.ogg/revision/latest?cb=20240630203035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But before leaving, we still have one last thing to do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_31_himeko_101.ogg/revision/latest?cb=20240630203257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_6.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "To say goodbye to you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "It is my honor. I've said many goodbyes. Yet I am glad, that this is the first time I speak those words with a smile.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_31_acheron_107.ogg/revision/latest?cb=20240630203037",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_7.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "But before leaving, I'm sure you all have plenty to say to the Nameless of the past?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_31_acheron_108.ogg/revision/latest?cb=20240630203039",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We've come to say goodbye to Gallagher.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "Looks like you've also noticed that history fictionologist is nowhere to be found in Penacony, disappearing just as quietly as when he first showed up.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_31_acheron_109.ogg/revision/latest?cb=20240630203041",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_9.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I believe he must have come here at the end, to bid farewell to his Nameless friends. Similarly, I'm sure you all have plenty you want to say to them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_31_acheron_110.ogg/revision/latest?cb=20240630203043",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_10.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "We've come to say goodbye to the old Nameless."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "A fitting end to the tale of the departed — one could not ask for a better farewell. Go on, they're all here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_31_acheron_111.ogg/revision/latest?cb=20240630203045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_11.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Say goodbye to Tiernan and Razalina"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Acheron again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "A fitting end to the tale of the departed — one could not ask for a better farewell. Go on, they're all here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_31_acheron_111.ogg/revision/latest?cb=20240630203045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon bidding farewell to Tiernan and Razalina)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Honestly, when I heard the conductor 's request, I was pretty surprised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_31_mar7th_101.ogg/revision/latest?cb=20240630203406",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Nameless — Those who Trailblaze , doing good deeds but never seeking recognition. After all this time, how would we even find those three people in such a vast place like Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/Vo_chapter3_31_mar7th_102.ogg/revision/latest?cb=20240630203408",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But it seems... in the Land of the Dreams, anything is indeed possible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_31_mar7th_103.ogg/revision/latest?cb=20240630203410",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "History may not remember the names of the dead, but the stars will attest to their journeys.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/Vo_chapter3_31_danheng_101.ogg/revision/latest?cb=20240630203228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The first glimmer of light in the prolonged night often illuminates little, as it is fleeting and the darkness too vast.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_31_danheng_102.ogg/revision/latest?cb=20240630203229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "But because of this, people will remember: As long as something shines in the night sky, then when the first star falls... countless more will follow, streaking across the horizon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_31_danheng_103.ogg/revision/latest?cb=20240630203233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_18.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A toast."
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams / Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "note",
+        "text": "/"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Breukelen Tiernan, Razalina Jane Estella, we raise a toast to you, Trailblazers of the silver rail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Vo_chapter3_31_danheng_104.ogg/revision/latest?cb=20240630203235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...A toast to history that no longer remains silent, the passionate and courageous pursuit, and a voyage that traverses the stars.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_31_danheng_105.ogg/revision/latest?cb=20240630203237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_20.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Say goodbye to Gallagher"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon bidding farewell to Gallagher)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That statue... It wasn't here last time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_31_mar7th_104.ogg/revision/latest?cb=20240630203412",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Looks like this is the last riddle that Mr. Gallagher left for us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Vo_chapter3_31_himeko_102.ogg/revision/latest?cb=20240630203259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "In the end, we still failed to figure out his true identity, or if he was even a \"living person.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_31_himeko_103.ogg/revision/latest?cb=20240630203301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What should I say... I mean this guy is definitely a history fictionologist all right. I'm suddenly reminded of the time at the theme park when he said he was only thirteen years old. Could that have meant something, too?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_31_mar7th_105.ogg/revision/latest?cb=20240630203414",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Either way, he's an \"enigmatic\" character for sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_31_mar7th_106.ogg/revision/latest?cb=20240630203416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "At least our journey together in Penacony was real enough, and his loyalty and love for this land... must have been real too, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_31_mar7th_107.ogg/revision/latest?cb=20240630203419",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A toast."
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams / Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "note",
+        "text": "/"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Gallagher, we raise a toast to you, the slumbering Hound...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_31_mar7th_108.ogg/revision/latest?cb=20240630203420",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...To the festival's invitation, to all lies, and the singular truth...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Vo_chapter3_31_mar7th_109.ogg/revision/latest?cb=20240630203422",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...If we ever meet again, please don't talk in riddles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_31_mar7th_110.ogg/revision/latest?cb=20240630203424",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Say goodbye to Micah"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon bidding farewell to Micah)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Is the Astral Express ready to depart Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_31_micah_101.ogg/revision/latest?cb=20240630203540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Apologies, Mr. Micah, that we are only now bidding you farewell.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_31_welt_101.ogg/revision/latest?cb=20240630203624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Oh, that's alright. You've all done so much for the Watchmaker, and we are forever indebted. Allow me, as the representative of Dreamflux Reef, to make another toast to all the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_31_micah_102.ogg/revision/latest?cb=20240630203542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "What will the people of Dreamflux Reef do now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_31_welt_102.ogg/revision/latest?cb=20240630203625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Many will continue to live here. Those accustomed to being awake will mostly have a hard time getting used to a life of darkness with their eyes closed. Though the Order has faded, there must be someone to watch over this primal Memory Zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_31_micah_103.ogg/revision/latest?cb=20240630203544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Penacony's nights are long, and there are many who are still far from a good night's sleep. As for the sweet dream over there...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_31_micah_104.ogg/revision/latest?cb=20240630203546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "We're still managing without it, aren't we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_31_micah_105.ogg/revision/latest?cb=20240630203548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_36.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A toast."
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams / Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "note",
+        "text": "/"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Micah, and residents of Dreamflux Reef, we raise a toast to you, watchers of the long dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_31_welt_103.ogg/revision/latest?cb=20240630203627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...To your tenacity throughout time, to each sorrowful night, and to the dawn that is finally upon us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_31_welt_104.ogg/revision/latest?cb=20240630203629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_38.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Say goodbye to Mikhail"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon bidding farewell to Mikhail)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "In the end, we still came full circle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Vo_chapter3_31_himeko_104.ogg/revision/latest?cb=20240630203302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ This Trailblazing expedition started from the moment (Trailblazer) and a bellboy ran into each other. After going on a journey of many twists and turns, they still ended up where they started.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Vo_chapter3_31_himeko_105_m.ogg/revision/latest?cb=20240630203307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Just like a clock's hands that turn round and round, the start and end of each day will always land on twelve o'clock — the advent of time moving forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_31_himeko_106.ogg/revision/latest?cb=20240630203309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "There shouldn't be much left to say. This entire adventure started because of you, and should naturally end with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_31_himeko_107.ogg/revision/latest?cb=20240630203310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And then, a new page will be turned.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_31_himeko_108.ogg/revision/latest?cb=20240630203312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_43.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A toast."
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams / Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "note",
+        "text": "/"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Mikhail Char Legwork, we raise a toast to you, Watchmaker of the Land of the Dreams, Nameless of the Astral Express...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_31_himeko_109.ogg/revision/latest?cb=20240630203314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...To Penacony's past, present, future... and the child's unwavering dream unto death.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_31_himeko_110.ogg/revision/latest?cb=20240630203316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "With that, our duty as Nameless should be complete... right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_31_mar7th_111.ogg/revision/latest?cb=20240630203426",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Trailblaze can illuminate the way, but ultimately, the future of a world belongs to those who live in it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_31_danheng_106.ogg/revision/latest?cb=20240630203240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_31_mar7th_112.ogg/revision/latest?cb=20240630203428",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...I still feel that Mr. Mikhail must have really wanted to witness this day himself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_31_mar7th_113.ogg/revision/latest?cb=20240630203430",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "What's on your mind, March?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_31_himeko_111.ogg/revision/latest?cb=20240630203318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Just a strange feeling. I had it a few stops ago, but it's super strong this time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_31_mar7th_114.ogg/revision/latest?cb=20240630203432",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Why not talk about it? Maybe everyone's thinking the same thing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_31_welt_105.ogg/revision/latest?cb=20240630203631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...I can't help but think that whether it's Mr. Mikhail, Mr. Tiernan, or Madam Razalina, their lives must have been long, and they must have experienced plenty of stories...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_31_mar7th_115.ogg/revision/latest?cb=20240630203434",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "They were also young once, stumbling and bumbling around just like us, getting into scraps and mischief, that sort of stuff. Companions, enemies, journeys, adventures, all the sad and happy memories... The \"every day\" that we're used to, they've lived through them too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_31_mar7th_116.ogg/revision/latest?cb=20240630203437",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But those things... are all in the past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_31_mar7th_117.ogg/revision/latest?cb=20240630203439",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_55.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Time will wash everything away... so treasure the present.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I know, but the thing that I can't get out of my mind... is the present.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_31_mar7th_118.ogg/revision/latest?cb=20240630203441",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_56.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "One day, our stories will also be a part of past.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, maybe that's the precise thing I can't let go of...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_31_mar7th_119.ogg/revision/latest?cb=20240630203443",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're awfully sentimental today...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "It's rare that I'm this serious, can't you just humor me for once? Sheesh!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_31_mar7th_120.ogg/revision/latest?cb=20240630203445",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It'll be easier to understand if I use an analogy: Like when you're reading a book, if one of its characters keeps running into obstacles, and experiences an ending full of regrets, we're bound to feel a bit mixed about it, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_31_mar7th_121.ogg/revision/latest?cb=20240630203447",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_59.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I could understand, but I'd feel mixed too.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Because we've seen every nook and cranny of their lives, we see these people as special.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_31_mar7th_122.ogg/revision/latest?cb=20240630203450",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No matter what, that's very hard to accept.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Because we've seen every nook and cranny of their lives, we see these people as special.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_31_mar7th_123.ogg/revision/latest?cb=20240630203452",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_61.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You won't be affected as long as you don't live vicariously through them.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "To me, it's because we've seen every nook and cranny of their lives, we see these people as special.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_31_mar7th_124.ogg/revision/latest?cb=20240630203455",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_62.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So even if there are parts of it that aren't really realistic nor logical, we still hope that their story gets a good ending when it comes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_31_mar7th_125.ogg/revision/latest?cb=20240630203457",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But what if they... and we... aren't really that special?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_31_mar7th_126.ogg/revision/latest?cb=20240630203459",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "When Mr. Mikhail sat in this chair, waiting for the Astral Express to arrive every day, what was he thinking? And if, at the end of his life, he could still firmly say he had no regrets...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_31_mar7th_127.ogg/revision/latest?cb=20240630203502",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Then, what is this regret we feel in our hearts right now...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_31_mar7th_128.ogg/revision/latest?cb=20240630203504",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I think, each and every one of us is searching for the answer to this very question.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_31_himeko_112.ogg/revision/latest?cb=20240630203320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The universe is vast, and our lives are but specks. The Trailblaze never ends, but against the backdrop of the cosmos, the average person's lifelong journey is merely a short stretch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_31_himeko_113.ogg/revision/latest?cb=20240630203322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But it is in this miniscule distance that paths cross, and countless worlds connect. The universe may not remember every person who leaves a tie along the silver rail, but we will.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_31_himeko_114.ogg/revision/latest?cb=20240630203324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "As long as we remember, their stories will never end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_31_himeko_115.ogg/revision/latest?cb=20240630203326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And what Mr. Mikhail has left for us is his answer to this very question. It may not be perfect, but it left a smile on this storied, jaded old Nameless' face at the end of his life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Vo_chapter3_31_himeko_116.ogg/revision/latest?cb=20240630203328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And its meaning will be interpreted by those who come after — us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_31_himeko_117.ogg/revision/latest?cb=20240630203330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's not the answer that's important, but what we can learn from others' answers... right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Vo_chapter3_31_mar7th_129.ogg/revision/latest?cb=20240630203506",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is what Trailblazing is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_31_himeko_118.ogg/revision/latest?cb=20240630203331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_31_mar7th_130.ogg/revision/latest?cb=20240630203508",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm really sorry for bringing down the vibe! Quick, Dan Heng, tell us a dad joke to lighten the mood!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_31_mar7th_131.ogg/revision/latest?cb=20240630203510",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's never a bad thing to reflect. One day, we'll all have to face our own farewells.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_31_welt_106.ogg/revision/latest?cb=20240630203633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "But before that, we still have a long way ahead of us together.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_31_danheng_107.ogg/revision/latest?cb=20240630203242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So the most important thing right now is to tell the conductor what we saw in Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_31_himeko_119.ogg/revision/latest?cb=20240630203334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Then prepare ourselves for our next Trailblazing destination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_31_himeko_120.ogg/revision/latest?cb=20240630203335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_80.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Now that the dust has finally settled, a new trailblazing expedition is about to begin.Go back to the Astral Express, collect your thoughts, and prepare yourself — for a new adventure."
+    }
+]

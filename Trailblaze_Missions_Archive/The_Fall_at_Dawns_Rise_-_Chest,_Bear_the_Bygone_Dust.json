@@ -1,0 +1,2572 @@
+[
+    {
+        "type": "heading",
+        "text": "Head to the \"Dragonbone City\" Styxia and continue your adventure"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After dropping (Trailblazer) andPhainonoff at theGrove, Cipher rounded up the \"Spirithief\",Bartholos, and returned to the Nethershore for a bit of scavenging..."
+    },
+    {
+        "type": "note",
+        "text": "A millennium ago at Marmoreal Market..."
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 1.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Seamstress, I've come as promised! Look at this box full of gold and silver treasures. I bet there's stuff here you've never seen!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_32_shaocipher_101.ogg/revision/latest?cb=20250628203615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Come on, as we agreed, I want to buy the most valuable clothes you have!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_32_shaocipher_102.ogg/revision/latest?cb=20250628203616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Little thief, you've got some nerve, barging into my shop dressed in those tattered rags!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_32_aglaea_101.ogg/revision/latest?cb=20250628203504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "What have you brought? Let me see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_32_aglaea_102.ogg/revision/latest?cb=20250628203505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Here, take a look! Only the finest goods — see this sapphire? It's even more blue than Phagousa 's eyes!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_32_shaocipher_103.ogg/revision/latest?cb=20250628203617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_4.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 2.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Ah...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_32_aglaea_103.ogg/revision/latest?cb=20250628203506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Such exquisite luster... I've only seen an Ocean's Tear of this quality in my mother's treasury...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_32_aglaea_104.ogg/revision/latest?cb=20250628203508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Wait, you've seen one before? And here I thought I'd leave you speechless. Ugh, what a letdown.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_32_shaocipher_104.ogg/revision/latest?cb=20250628203618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It's just an old memory. My family estate all burned to ashes long ago. This workshop is what I built from scratch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter4_32_aglaea_105.ogg/revision/latest?cb=20250628203508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Wow, a daughter rebuilding her family business — how admirable... Heh, enough with the jokes. At least you did get to enjoy those luxuries.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_32_shaocipher_105.ogg/revision/latest?cb=20250628203619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Heh... Mind your manners, kitty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_32_aglaea_106.ogg/revision/latest?cb=20250628203509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Tell me, Cifera, where did you come from, and how did you acquire these treasures?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_32_aglaea_107.ogg/revision/latest?cb=20250628203510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ha, I won them fair and square in a bet. What, do you doubt me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_32_shaocipher_106.ogg/revision/latest?cb=20250628203620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_32_aglaea_108.ogg/revision/latest?cb=20250628203511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Speak up, seamstress! Give me a straight answer. Do you want these or not?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_32_shaocipher_107.ogg/revision/latest?cb=20250628203621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Strange, you're clearly lying to my face...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_32_aglaea_109.ogg/revision/latest?cb=20250628203513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But my golden thread... doesn't tremble at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_32_aglaea_110.ogg/revision/latest?cb=20250628203514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "That's because I'm not lying. I've been telling the truth from the start.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_32_shaocipher_108.ogg/revision/latest?cb=20250628203622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Is that so? But the scars and mud stains on your face tell another story.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_32_aglaea_111.ogg/revision/latest?cb=20250628203514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_32_shaocipher_109.ogg/revision/latest?cb=20250628203622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_19.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 3.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Oh come on, can't we just do business without all this chatter? Don't worry, I didn't leave any evidence, so no one will bother you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_32_shaocipher_110.ogg/revision/latest?cb=20250628203623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "How can I trust a word you say when you're so skilled at lying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_32_aglaea_112.ogg/revision/latest?cb=20250628203515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Dealing with you rich people is such a pain, always wasting my time! Fine, if you don't want it, there are plenty of others who do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_32_shaocipher_111.ogg/revision/latest?cb=20250628203625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...Hold on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_32_aglaea_113.ogg/revision/latest?cb=20250628203516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Your treasure — I'll accept it. But these alone aren't enough to purchase the Goldweaver's finest clothes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_32_aglaea_114.ogg/revision/latest?cb=20250628203517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "That said, I do have something that would suit you perfectly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter4_32_aglaea_115.ogg/revision/latest?cb=20250628203518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Oh? What do you have in mind?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_32_shaocipher_112.ogg/revision/latest?cb=20250628203626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_26.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 4.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Look. Come a bit closer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_32_aglaea_116.ogg/revision/latest?cb=20250628203519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Oh! It's... shimmering gold, absolutely stunning!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_32_shaocipher_113.ogg/revision/latest?cb=20250628203626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "These golden boots are one of the Goldweaver's greatest treasures. Though not as valuable as the most precious gowns, they hold a magical power.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_32_aglaea_117.ogg/revision/latest?cb=20250628203521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Legend has it that Zagreus blessed these boots, allowing anyone who wears them to move swiftly and silently...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_32_aglaea_118.ogg/revision/latest?cb=20250628203521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Put them on, Cifera, and don't get caught again. A face as lovely as yours deserves better protection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter4_32_aglaea_119.ogg/revision/latest?cb=20250628203522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_32_shaocipher_114.ogg/revision/latest?cb=20250628203627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph, you rich folks just love sticking your noses in everything, don't you? Well, I'm taking these now, so don't get any second thoughts!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_32_shaocipher_115.ogg/revision/latest?cb=20250628203628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Uhh... hmm...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_32_shaocipher_116.ogg/revision/latest?cb=20250628203629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "What's wrong?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_32_aglaea_120.ogg/revision/latest?cb=20250628203523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Uh... do you have a smaller size? These are way too big for me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_32_shaocipher_117.ogg/revision/latest?cb=20250628203630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...Well, I suppose you'll have to grow into them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_32_aglaea_121.ogg/revision/latest?cb=20250628203525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Fake! Fake!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_32_zeiling_101.ogg/revision/latest?cb=20250628203631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Do you have to interrupt me in the middle of my story? Fake? What's fake?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_32_cipher_101.ogg/revision/latest?cb=20250628203525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Those boots definitely don't hold Zagreus's divine power!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_32_zeiling_102.ogg/revision/latest?cb=20250628203632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "You're Amphoreus 's most cunning liar, and even you were fooled by Aglaea — hehehe!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_32_zeiling_103.ogg/revision/latest?cb=20250628203633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Watch your mouth, or I'll feed you to the fish in the River of Souls !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_32_cipher_102.ogg/revision/latest?cb=20250628203526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Weren't you curious how I got tangled up with that seamstress? Well, now you know. Satisfied?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_32_cipher_103.ogg/revision/latest?cb=20250628203527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe... I didn't expect such a simple story. How disappointing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_32_zeiling_104.ogg/revision/latest?cb=20250628203633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "But, uh... Boss Lady, there's a chance Aglaea wasn't trying to trick you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_32_zeiling_105.ogg/revision/latest?cb=20250628203634",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_32_cipher_104.ogg/revision/latest?cb=20250628203528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...You're defending her?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_32_cipher_105.ogg/revision/latest?cb=20250628203529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... no, no! I just think the story's so moving... it'd be a shame to ruin it with a lie. If I could cry, I'd be in tears right now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_32_zeiling_106.ogg/revision/latest?cb=20250628203635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ha! Good thing you've still got a sharp tongue, or you'd have been stuck guarding someone's front door ages ago.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_32_cipher_106.ogg/revision/latest?cb=20250628203530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Enough chit-chat. Let's take a look at this place. The city of Styxia — look how beautiful she is!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_32_cipher_107.ogg/revision/latest?cb=20250628203531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Let me take a good sniff of this air...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_32_cipher_108.ogg/revision/latest?cb=20250628203532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Sniff... sniff...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_32_cipher_109.ogg/revision/latest?cb=20250628203533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Prrrrrr~~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_32_cipher_110.ogg/revision/latest?cb=20250628203534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "This air... it's filled with the scent of treasure everywhere! Wonderful, just wonderful!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_32_cipher_111.ogg/revision/latest?cb=20250628203535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Thanks to Castorice and Gray Mystery , the ancient city's barrier was finally dispelled. Now that I think about it, helping them was well worth it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_32_cipher_112.ogg/revision/latest?cb=20250628203536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Time for treasure hunting, Bartho! Lead the way, and whatever we find, we'll split 80-20.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_32_cipher_113.ogg/revision/latest?cb=20250628203537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh, well, I have a suggestion... How about 70-30 instead?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_32_zeiling_107.ogg/revision/latest?cb=20250628203636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Listen closely. Do you hear that? The gnawfish in the River of Souls are growling with hunger...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_32_cipher_114.ogg/revision/latest?cb=20250628203538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...80-20 it is! How generous you are, Boss Lady Cipher!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_32_zeiling_108.ogg/revision/latest?cb=20250628203637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Anyway... What's with all this water? It's damp, cold, and miserable here. I hate it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_32_cipher_115.ogg/revision/latest?cb=20250628203538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, the mighty demigod of Trickery... uneasy around water?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_32_zeiling_109.ogg/revision/latest?cb=20250628203638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "You wouldn't understand! The people of Dolos are talented in many ways, just... not in swimming.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_32_cipher_116.ogg/revision/latest?cb=20250628203539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Why don't we have a race? Long-distance, sprint, or laps — take your pick!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_32_cipher_117.ogg/revision/latest?cb=20250628203540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, what's got you so worked up? Relax, relax... Who would've thought the fearless Lady Cipher was afraid of water!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_32_zeiling_110.ogg/revision/latest?cb=20250628203639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Cats hate getting wet. What's so hard to understand about that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_32_cipher_118.ogg/revision/latest?cb=20250628203541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Now hurry up and figure out a way across, or I might have to reconsider our split!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_32_cipher_119.ogg/revision/latest?cb=20250628203542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... don't rush me. Let me take a look around...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_32_zeiling_111.ogg/revision/latest?cb=20250628203640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Got it — let's use that thing! Come on! Follow me, Boss Lady!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_32_zeiling_112.ogg/revision/latest?cb=20250628203641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "(Hmph... Not a good imitation.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_32_cipher_120.ogg/revision/latest?cb=20250628203543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "(I'll play along... Let's see where this goes, \"Bartholos.\" )",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter4_32_cipher_121.ogg/revision/latest?cb=20250628203544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_70.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "See what Bartholos is up to"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Tell me... how did you hunt for treasure when I wasn't around, Boss Lady?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_32_zeiling_113.ogg/revision/latest?cb=20250628203642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph, trying to trick me into saying something? Not a chance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_32_cipher_122.ogg/revision/latest?cb=20250628203545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, you're as sharp as ever...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter4_32_zeiling_114.ogg/revision/latest?cb=20250628203643",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_73.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, interesting, very interesting...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_32_zeiling_115.ogg/revision/latest?cb=20250628203644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Was this device designed by priests of Oronyx ? Do you think you can handle it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_32_cipher_123.ogg/revision/latest?cb=20250628203546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Don't underestimate me, Boss! Just find a cozy, dry corner and wait for me, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_32_zeiling_116.ogg/revision/latest?cb=20250628203645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Mission accomplished! Now you don't have to worry about your tail getting wet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_32_zeiling_117.ogg/revision/latest?cb=20250628203645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Not bad. But just a warning — if this thing fails while we're halfway through the water...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_32_cipher_124.ogg/revision/latest?cb=20250628203547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Don't worry. Trust me! For that sweet 20% cut of the loot, I'll make sure you're taken care of!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_32_zeiling_118.ogg/revision/latest?cb=20250628203646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_79.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "With the rune in hand, across the river we go"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Huh... this feels truly magical... When did you pick up this trick?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... self-taught, all self-taught!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Return the Rune to the base"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "We're here! Can we turn off this spotlight now? It's really blinding.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_32_cipher_126.ogg/revision/latest?cb=20250628203548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "No problem! Just use the device over there to shut it off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_32_zeiling_120.ogg/revision/latest?cb=20250628203647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_81.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Dig, dig — treasure awaits"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Sniff... sniff...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_32_cipher_127.ogg/revision/latest?cb=20250628203549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "The scent of gold coins, gems, and fine leather... it's so refreshing!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_32_cipher_128.ogg/revision/latest?cb=20250628203550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "The treasures in this ancient city are all floating back up thanks to Gray Mystery and that pink squirrel !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_305_cipher_125.ogg/revision/latest?cb=20250628203504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_84.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Attempt to continue up toward theHand of Zagreus, before digging up the treasure)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Slow down, Boss!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Your legs are long and mine are short!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Yes, right here —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_32_cipher_129.ogg/revision/latest?cb=20250628203551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "What are you waiting for? Start digging!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_32_cipher_130.ogg/revision/latest?cb=20250628203551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Roger that! Watch me —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_32_zeiling_121.ogg/revision/latest?cb=20250628203648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_87.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Bartholos activated excavation mode, unearthing the treasure buried deep underground..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Wow... that's a huge chest! Move over. I want to open it myself!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_32_cipher_131.ogg/revision/latest?cb=20250628203552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Wow, wow, a massive haul! Unbelievable, it's hard to imagine the kind of luxurious life the people of Styxia once led!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_32_cipher_132.ogg/revision/latest?cb=20250628203554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "As expected for a realm of Phagousa 's disciples. This entire chest is filled with ornaments made from Ocean's Tears... Here — take this, and see if it suits you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_32_cipher_133.ogg/revision/latest?cb=20250628203555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, thanks for the gift, Boss! Much appreciated!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_32_zeiling_122.ogg/revision/latest?cb=20250628203649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Look at the clarity of this purple crystal... It matches my skin tone perfectly! Cipher, Cipher, you truly have the most refined taste of all the thieves in Amphoreus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_32_zeiling_123.ogg/revision/latest?cb=20250628203650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe, let me try this on... Huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_32_zeiling_124.ogg/revision/latest?cb=20250628203651",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Huh!? Where... where is... my treasure!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_32_zeiling_125.ogg/revision/latest?cb=20250628203652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hahahaha —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_32_cipher_134.ogg/revision/latest?cb=20250628203556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "How long have we known each other? I can't believe you still fall for this!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_32_cipher_135.ogg/revision/latest?cb=20250628203557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... this, this is...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_32_zeiling_126.ogg/revision/latest?cb=20250628203653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Oh, how could I have forgotten about this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_32_zeiling_127.ogg/revision/latest?cb=20250628203654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "\"All believe it as true, and a lie becomes reality.\" What a convenient ability!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_32_zeiling_128.ogg/revision/latest?cb=20250628203658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "The demigod of Trickery's divine gift, far more practical than any golden thread or teleporter!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_32_cipher_136.ogg/revision/latest?cb=20250628203558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Alright, enough fooling around. Here's the real thing. Lead the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_32_cipher_137.ogg/revision/latest?cb=20250628203559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Cipher rules! I've already pinpointed the next trove of treasure. Starting navigation... hehehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_32_zeiling_129.ogg/revision/latest?cb=20250628203659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_102.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Keep hunting for the next trove!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Boss Lady, we're set to make a fortune this time. Got any plans on how to spend it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_32_zeiling_132.ogg/revision/latest?cb=20250628203700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Of course — spend nothing. Have you forgotten my silly prophecy?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_32_cipher_138.ogg/revision/latest?cb=20250628203600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Ah... I remember, of course! Hehehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_32_zeiling_133.ogg/revision/latest?cb=20250628203701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_105.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Hand of Zagreus)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh! Isn't that my...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_32_zeiling_134.ogg/revision/latest?cb=20250628203702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Uh-huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_32_cipher_139.ogg/revision/latest?cb=20250628203600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Ahem, isn't that a controller for the Hand of Zagreus?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_32_zeiling_135.ogg/revision/latest?cb=20250628203703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ho, indeed it is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_32_cipher_140.ogg/revision/latest?cb=20250628203601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_109.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Check out the Hand of Zagreus, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Once activated, this thing makes a racket that can be heard for miles — just too stupid! What was—...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_32_zeiling_136.ogg/revision/latest?cb=20250628203704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ahem... Seriously, what was the Titan thinking when they came up with this thing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_32_cipher_141.ogg/revision/latest?cb=20250628203602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hey! If you don't want the \"Trickery\" to be exposed, you'd better start by keeping your mouth shut... What do you say?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_32_cipher_142.ogg/revision/latest?cb=20250628203603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... hehe, Boss Lady, you're absolutely right! I'll be careful with my words!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_32_zeiling_137.ogg/revision/latest?cb=20250628203705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_113.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Attempt to engage the Hand of Zagreus again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "This thing's way too loud when it's on... Let's not stir up more trouble, okay?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Here we go round the River of Souls~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_32_zeiling_151.ogg/revision/latest?cb=20250628203712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Spirithief goes, Spirithief goes~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_32_zeiling_152.ogg/revision/latest?cb=20250628203713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...What are you even singing? You're totally out of tune!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_32_cipher_166.ogg/revision/latest?cb=20250628203614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_116.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Knock out the monsters blocking the way"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ho, there's a big guy guarding this place!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter4_32_cipher_144.ogg/revision/latest?cb=20250628203604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Yeah, yeah... big and dumb, just a pure lump of stupidity!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_32_zeiling_138.ogg/revision/latest?cb=20250628203706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_118.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachBlack Tide's Corroded Daemon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Look at its face — oh my, how could something be so ugly? Tsk tsk...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_32_cipher_145.ogg/revision/latest?cb=20250628203605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Yeah, yeah, so ugly... ugly enough to make even me, a little imp without a digestive system, feel nauseous!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_32_zeiling_139.ogg/revision/latest?cb=20250628203707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "If that ugly brute messes up my face, even the stoic Talanton might end up shedding a tear.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_32_cipher_146.ogg/revision/latest?cb=20250628203606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Indeed, that would be heartbreaking! Clearly, running away is the sensible choice, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_32_zeiling_140.ogg/revision/latest?cb=20250628203708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "So, how about you take the front? I'll attack from the side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_32_cipher_147.ogg/revision/latest?cb=20250628203607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Right, right. Fleeing fits our rogue nature...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_32_zeiling_141.ogg/revision/latest?cb=20250628203709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Eh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_32_zeiling_142.ogg/revision/latest?cb=20250628203709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_125.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstBlack Tide's Corroded Daemon×1,Black Tide's Corroded Axe×1,Tide-Eroded Blade×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ha! Such an ugly and useless creature, taken down with just a couple of hits. How boring!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_32_cipher_148.ogg/revision/latest?cb=20250628203608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hey, Bartholos, are you still alive? Give us a squeak if you are.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_32_cipher_149.ogg/revision/latest?cb=20250628203609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Here! I mean, squeak!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_32_zeiling_143.ogg/revision/latest?cb=20250628203710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Look at you, all shaken up. Can't handle even this bit of action?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_32_cipher_150.ogg/revision/latest?cb=20250628203610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "It should be safe here now. Get to work.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_32_cipher_151.ogg/revision/latest?cb=20250628203611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Aye aye, Boss Lady Cipher!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_32_zeiling_144.ogg/revision/latest?cb=20250628203711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_131.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Bartholos activated excavation mode, unearthing the treasure buried deep underground..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Sniff... sniff...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_32_cipher_152.ogg/revision/latest?cb=20250628203612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmm... It doesn't smell like anything valuable this time. Since we've already dug it up, let's open it and see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_32_cipher_153.ogg/revision/latest?cb=20250628203613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmm...? Is this...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_32_cipher_154.ogg/revision/latest?cb=20250628203613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_134.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The Journal of a Styxian Refugee"
+    },
+    {
+        "type": "note",
+        "text": "Month of Balance, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "Three more neighboring households moved away today. The tide has risen higher than ever before, already reaching the fifth step of the stone stairway to our residence. The priests insist it's merely seasonal high tide that will soon recede, but having lived in Styxia for thirty years, I've never witnessed water levels like this."
+    },
+    {
+        "type": "note",
+        "text": "Leandro from the harbor went fishing three days ago and reported that the seawater had become unusually turbid, appearing as if mixed with ink. Beneath the surface, he glimpsed strange shadows, not human in form yet possessing distinct outlines. After returning, he developed a high fever and has remained bedridden since."
+    },
+    {
+        "type": "note",
+        "text": "Month of Balance, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "The city's feasts have grown increasingly frenzied. Grand celebrations that once occurred only during the Month of Joy now happen almost daily. At the Anzo family's banquet last night, I witnessed two normally well-mannered women treading grapes barefoot, emitting strange laughter, and then directly drinking the dirt-laden juice. They claimed to be mimicking Phagousa's ritual ceremonies, though I've never heard of such an absurd form of worship."
+    },
+    {
+        "type": "note",
+        "text": "Prices at the Market have risen by thirty percent. The honey brew merchant reports that the brewing process has become exceptionally difficult lately — the yeast cultures mysteriously rot. Only by distilling with seawater collected directly from the harbor can they produce proper wine."
+    },
+    {
+        "type": "note",
+        "text": "Fortunately, our Doris remains lucid, and has wisely advised us to minimize our consumption of the city's water and wine."
+    },
+    {
+        "type": "note",
+        "text": "Month of Everday, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "Last night, strange music emanated from the harbor. It wasn't produced by any instrument, but seemed to rise from the ocean depths. The low, haunting melody sounded as if it were telling an ancient tale, compelling people to approach the shore. Several neighbors' children sleepwalked to the dock last night; they claimed to have seen \"the goddess in the water\" performing and wanted to get closer."
+    },
+    {
+        "type": "note",
+        "text": "The priests have forbidden all forms of musical performance and deployed soldiers to patrol the docks. For some reason, I can't shake the feeling that they're acting from fear rather than a genuine desire to protect us."
+    },
+    {
+        "type": "note",
+        "text": "Month of Everday, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "Today I met Nora, the cloth merchant, at the market. She revealed that the situation in her district is far more dire than we had imagined. The spirit water pool in Phagousa's temple suddenly dried up three days ago, and despite their best efforts, the priests cannot replenish it. More alarming still, strange cracks have appeared on the wall behind the deity statue, forming patterns or script that no one can decipher."
+    },
+    {
+        "type": "note",
+        "text": "Nora also shared a peculiar rumor: Some claim to have seen in their dreams a woman playing a lyre, draped in black veils, with eyes gleaming like seawater. She allegedly told dreamers that Styxia would soon face a great transformation, and only \"those who hear her voice\" would be saved. Some city residents have begun referring to her as the \"prophetic sea musician\" — despite the priests' determined efforts to suppress such rumors."
+    },
+    {
+        "type": "note",
+        "text": "Month of Freedom, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "We've finally decided to evacuate with our entire family. The seawater has reached the highest watermark at the dock, yet some remain oblivious, still immersed in endless revelry. Our family and the neighboring Milon household have decided to journey to Okhema together. Reportedly, the Worldbearing Titan 's protection extends there, and the tides of darkness has not yet invaded those lands. We plan to slip away quietly tonight from the northern dock exit. We pray to Phagousa for safe passage."
+    },
+    {
+        "type": "note",
+        "text": "Month of Freedom, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "We've been traveling for three days now. Last night, the Milon family's youngest child suddenly developed a high fever, continuously muttering strange phrases that resembled an ancient ballad. His father decided to take him back to the city for medical treatment, though we all know there is little hope to be found there."
+    },
+    {
+        "type": "note",
+        "text": "This morning, looking back at Styxia from the hillside, I was horrified to discover the entire city enveloped in a strange aura, with seawater shimmering with an unnatural blue radiance in the sunlight. From a distance, those magnificent buildings seemed to twist and distort in the water, as if they were merely illusions."
+    },
+    {
+        "type": "note",
+        "text": "Month of Weaving, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "We encountered several other fleeing townspeople. They brought even more horrifying news: The seawater in Styxia has begun displaying strange colors and textures — sometimes thick as honey, other times solid as glass. Those who remained in the city have begun undergoing bizarre transformations, ███ ███████ ████ █████ ███."
+    },
+    {
+        "type": "note",
+        "text": "Even more disturbing is that at night, the entire city bathes in an indescribable glow, as if enveloped by some gigantic amniotic membrane. They say this is Phagousa's punishment, but I can't help wondering: Is this the Titans' wrath, or is some power even greater than the Titans at work?"
+    },
+    {
+        "type": "note",
+        "text": "We've decided to continue northward to Okhema. Along the way, we've heard rumors of someone named ██████████ who can supposedly appease Phagousa's wrath, but these are merely legends fabricated by desperate people. We common folk can only rely on our own feet to flee this disaster."
+    },
+    {
+        "type": "note",
+        "text": "Month of Weaving, Day ██"
+    },
+    {
+        "type": "note",
+        "text": "Tonight, after the children fell asleep, I secretly examined a small vial of seawater I brought from the city. It was the last drop collected from the spirit water pool in Phagousa's temple before we left. In the moonlight, it displays a strange shimmer, as if something moves within it, unlike any ordinary water."
+    },
+    {
+        "type": "note",
+        "text": "By chance, I discovered that gently tapping the vial with my fingertip produces a peculiar sound, like distant lyre notes echoing. In that moment, I seemed to glimpse a mysterious woman standing upon the sea surface, sorrowfully playing a melody that no one could understand."
+    },
+    {
+        "type": "note",
+        "text": "I don't know if this was illusion or reality. But if such a being truly exists, one who can hear the sorrows of Styxians, then as we embark on this uncertain journey, please grant us a flicker of hope — even if it's merely a beautiful dream."
+    },
+    {
+        "type": "note",
+        "text": "Okhema is now within reach. Taking one final glance back at my homeland, the beautiful scenery of old is nowhere to be seen — only distorted masses of light and shadow undulating on the sea level, resembling foam heaped by waves before dawn, dissolving one by one to gradually reveal its cold and true nature..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh... this looks tragic. Do you think they made it to Okhema?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_32_zeiling_145.ogg/revision/latest?cb=20250628204320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Probably not. I've never seen or heard of anyone from Styxia in Okhema.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_32_cipher_156.ogg/revision/latest?cb=20250628204202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "At least I'm still left for Dolos... Guess this city wasn't so lucky, huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_32_cipher_157.ogg/revision/latest?cb=20250628204203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Heh, it does seem unfair, doesn't it? Just because they were born in the wrong place, they had to face such... devastation. Meanwhile, those in Okhema, simply because they're supported by the Worldbearing Titan, continue to survive...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_32_cipher_158.ogg/revision/latest?cb=20250628204204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Yeah, the world just isn't fair, is it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_32_zeiling_146.ogg/revision/latest?cb=20250628204321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Speaking of the Worldbearing Titan, Cipher, didn't you tell me once... you used to be an apprentice at Kephale's Priestly Court?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_32_zeiling_147.ogg/revision/latest?cb=20250628204322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_32_cipher_159.ogg/revision/latest?cb=20250628204204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Did I?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_32_cipher_160.ogg/revision/latest?cb=20250628204205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Yes! You definitely told me, and I remember it clearly! Maybe it's been so long, your memory's gotten a little fuzzy, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_32_zeiling_148.ogg/revision/latest?cb=20250628204323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_32_cipher_161.ogg/revision/latest?cb=20250628204206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Ah, right, I did tell you. It wasn't a big deal. I just snuck in with a bunch of mumbling priests and watched them do their spooky rituals around some glowing rock.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_32_cipher_162.ogg/revision/latest?cb=20250628204207",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Honestly, I was only interested in the wallets of the old grandpas on the Council back then. Don't remember much else — it's been, what, nearly a thousand years?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_32_cipher_163.ogg/revision/latest?cb=20250628204208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh... I see. But you in a priest's robe? Now that's hard to picture.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_32_zeiling_149.ogg/revision/latest?cb=20250628204324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Who asked you to picture that? Besides, priest robes from a thousand years ago were nothing like the ones today.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_32_cipher_164.ogg/revision/latest?cb=20250628204209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Right, right... I didn't think about that. I was just curious if you ever overheard anything interesting from those priests, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_32_zeiling_150.ogg/revision/latest?cb=20250628204325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph. How ridiculous. Come on, let's head to the next spot!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_32_cipher_165.ogg/revision/latest?cb=20250628204210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_150.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Keep hunting for the next trove!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Tsk, where did this roadblock come from?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_32_cipher_169.ogg/revision/latest?cb=20250628204213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "This is so annoying. The treasure is right in front of us...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_32_cipher_170.ogg/revision/latest?cb=20250628204214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh dear, we're stuck here. But I have a plan —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_32_zeiling_154.ogg/revision/latest?cb=20250628204327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Should we call on that big, noisy, cumbersome Hand of Zagreus?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_32_zeiling_155.ogg/revision/latest?cb=20250628204328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ha... never thought that thing would actually come in handy. Alright, do you want to handle it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_32_cipher_171.ogg/revision/latest?cb=20250628204215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe... leave it to me, Boss!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_32_zeiling_156.ogg/revision/latest?cb=20250628204329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "I don't need a controller! After all... you know!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_32_zeiling_157.ogg/revision/latest?cb=20250628204330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_157.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Bartholos)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hand of Zagreus, my darling — activate!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_32_zeiling_160.ogg/revision/latest?cb=20250628204331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_158.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Clear the obstacles using the Hand of Zagreus"
+    },
+    {
+        "type": "condition",
+        "text": "(Disengaging the Hand of Zagreus, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Eh? Why did it suddenly stop?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "*cough* ...Just a tiny hiccup. No worries. Let's try again.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After clearing the obstacles using the Hand of Zagreus)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hehe! Works like a charm!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_32_zeiling_161.ogg/revision/latest?cb=20250628204332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ha, not bad! However, I still don't see how this ties into \"Trickery.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_32_cipher_172.ogg/revision/latest?cb=20250628204216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Let's go, to the next trove!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_32_zeiling_162.ogg/revision/latest?cb=20250628204333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hey, slow down. That question you asked me earlier... I think I just remembered something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_32_cipher_173.ogg/revision/latest?cb=20250628204217",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Eh? What did I ask?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_32_zeiling_163.ogg/revision/latest?cb=20250628204334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "You know... that question. The one you specifically asked me, right after we dug up the second chest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_32_cipher_174.ogg/revision/latest?cb=20250628204218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Uh... forgive me, Boss Lady, but have you been under a lot of stress lately? I didn't ask anything. You must've imagined it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter4_32_zeiling_164.ogg/revision/latest?cb=20250628204335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Oh... is that so?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_32_cipher_175.ogg/revision/latest?cb=20250628204218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Maybe you're right. I have been a little on edge lately. I need to relax... Alright, let's move on to the next treasure trove.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_32_cipher_176.ogg/revision/latest?cb=20250628204220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Treasure! Let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_32_zeiling_165.ogg/revision/latest?cb=20250628204336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "(Hmph...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_32_cipher_177.ogg/revision/latest?cb=20250628204221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_169.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "More treasure awaits, keep searching!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Twinkle, twinkle, in my chest~ How this Coreflame is the best!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_32_cipher_167.ogg/revision/latest?cb=20250628204211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "When it comes to singing, I still sound better than you, Boss!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_32_zeiling_153.ogg/revision/latest?cb=20250628204326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Go beyond all time and space~ On the Journey of Flame-Chase~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_32_cipher_168.ogg/revision/latest?cb=20250628204212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_172.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Sniff... sniff...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_32_cipher_127.ogg/revision/latest?cb=20250628203549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Ooh, this scent... feels like something incredible is buried here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_32_cipher_179.ogg/revision/latest?cb=20250628204222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Incredible indeed! Hehe, if even Boss Lady says so, how can I not be excited?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_32_zeiling_166.ogg/revision/latest?cb=20250628204336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Do I need to give instructions here? Get digging!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_32_cipher_180.ogg/revision/latest?cb=20250628204223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_176.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Bartholos activated excavation mode, unearthing the treasure buried deep underground..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Heh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_32_zeiling_167.ogg/revision/latest?cb=20250628204337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Oh, isn't this a Golden Scapegoat ? Interesting! Looks like whoever buried this treasure wanted to play a little game with us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_32_cipher_181.ogg/revision/latest?cb=20250628204224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh, isn't there a myth about this thing? \"Those who feared fire became sheep, those who did not became human\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_32_zeiling_168.ogg/revision/latest?cb=20250628204338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Sheep, humans — whatever. All I know is unlocking this gets us treasure. Here, this honor's all yours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_32_cipher_182.ogg/revision/latest?cb=20250628204224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Puzzles and tricks are right up my alley! Just leave it to little ol' me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_32_zeiling_169.ogg/revision/latest?cb=20250628204339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_181.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Solve the puzzle of the goat's head"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Golden Scapegoat)"
+    },
+    {
+        "type": "heading",
+        "text": "The treasure's here, grab it while you can!"
+    },
+    {
+        "type": "condition",
+        "text": "(After trying to claim the reward from the Golden Scapegoat)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Told you nothing can stump me, hehe!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_32_zeiling_170.ogg/revision/latest?cb=20250628204340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Cipher, it's your turn now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_32_zeiling_171.ogg/revision/latest?cb=20250628204341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Stop, stay there, and don't turn around.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_32_cipher_183.ogg/revision/latest?cb=20250628204225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_184.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Eh? What do you mean...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_32_zeiling_172.ogg/revision/latest?cb=20250628204342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "I told you, don't move!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_32_cipher_184.ogg/revision/latest?cb=20250628204226",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Ouch!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_32_zeiling_173.ogg/revision/latest?cb=20250628204343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Ow, my poor old back — what are you doing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_32_zeiling_174.ogg/revision/latest?cb=20250628204344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Shh, quiet! Don't say anything unnecessary.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_32_cipher_186.ogg/revision/latest?cb=20250628204227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "That seamstress, she's listening.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_32_cipher_187.ogg/revision/latest?cb=20250628204228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Wh—What!? Boss, do you mean...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_32_zeiling_175.ogg/revision/latest?cb=20250628204345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Stay put and keep quiet... I'll handle her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_32_cipher_188.ogg/revision/latest?cb=20250628204229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Well, well, seamstress! Getting sneaky, aren't we? Did you think I wouldn't notice your little spies lurking around me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_32_cipher_189.ogg/revision/latest?cb=20250628204230",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"...Heh.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_32_ruochong_101.ogg/revision/latest?cb=20250628204252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"As time passes... I find myself leaning more and more on blind luck.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_32_ruochong_102.ogg/revision/latest?cb=20250628204253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"With only the power of this little nymph, naturally I couldn't slip past your sharp eyes... Cifera.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_32_ruochong_103.ogg/revision/latest?cb=20250628204254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph... Even if you could fully control Bartholos's mind, I would still be able to see through your disguise — Aglaea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_32_cipher_190.ogg/revision/latest?cb=20250628204231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "You've gone to such lengths to spy on my every move — what exactly are you after? I've told you before, you don't need me to succeed. Why won't you just let this go?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_32_cipher_191.ogg/revision/latest?cb=20250628204233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "I already made an exception and got involved with Castorice and Gray Mystery. Asking for more now... isn't that pushing your luck a bit too far?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_32_cipher_192.ogg/revision/latest?cb=20250628204234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"I... I'm sorry, Cifera.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_32_ruochong_104.ogg/revision/latest?cb=20250628204255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"I've plotted and schemed my whole life, but I never could've predicted our relationship would end up like this.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_32_ruochong_105.ogg/revision/latest?cb=20250628204256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"I've spent centuries trying to figure out where I went wrong, replaying every moment over and over. But you've never given me a chance to explain myself face-to-face.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_32_ruochong_106.ogg/revision/latest?cb=20250628204257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_32_cipher_193.ogg/revision/latest?cb=20250628204235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Don't... don't talk to me like that. You know I can't take it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_32_cipher_194.ogg/revision/latest?cb=20250628204236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_32_ruochong_107.ogg/revision/latest?cb=20250628204259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"A thousand years ago, out of foolishness... I let my silence steal away the most beautiful sound I'd ever known.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_32_ruochong_108.ogg/revision/latest?cb=20250628204259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_32_cipher_195.ogg/revision/latest?cb=20250628204236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hysilens ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"So this time, I must say this to you, even if it's all in vain — I need you, Cifera. The Chrysos Heirs' mission needs you.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_32_ruochong_109.ogg/revision/latest?cb=20250628204301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"The finale I've delayed for far too long... it's finally here. Whatever resentment you still hold against me will fade once I'm gone.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_32_ruochong_110.ogg/revision/latest?cb=20250628204302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"Please, come back to Okhema. I'm begging you. Without you, they don't stand a chance.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_32_ruochong_111.ogg/revision/latest?cb=20250628204302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_32_cipher_197.ogg/revision/latest?cb=20250628204237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...I'll think about it, seamstress. But stop watching me... unless you want to lose me for good.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_32_cipher_198.ogg/revision/latest?cb=20250628204238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"Heh... Don't worry. As much as I'd love to hear your voice again, to see your face...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_32_ruochong_112.ogg/revision/latest?cb=20250628204303",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Golden Nymph",
+        "line": "\"...it seems that chance will never come. Goodbye, Cifera.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_32_ruochong_113.ogg/revision/latest?cb=20250628204304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Golden_Nymph_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Goodbye, Aglaea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_32_cipher_199.ogg/revision/latest?cb=20250628204239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_215.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Transition to a new location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Ah, what a shame. I thought there'd be some real treasure under that goat's head.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_32_zeiling_176.ogg/revision/latest?cb=20250628204346",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Turns out... everything in that chest was soaked in water from the River of Souls. Nothing valuable left.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_32_cipher_200.ogg/revision/latest?cb=20250628204240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Those relics were once priceless. But time has eroded away all that they once were.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_32_cipher_201.ogg/revision/latest?cb=20250628204241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Oh... hearing that from you makes it sound so sad.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter4_32_zeiling_177.ogg/revision/latest?cb=20250628204347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Wait, why am I getting all sentimental!? I haven't even processed what just happened — that horrible woman, when did she...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_32_zeiling_178.ogg/revision/latest?cb=20250628204348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Oh!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "If you see her, let her know this: As demigods, we can't avoid our duties forever.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Hmm... could it have been back then when...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Do you remember now? Looks like you don't need me to jog your memory. She must've slipped that nymph into your \"pocket\" while you were distracted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_32_cipher_202.ogg/revision/latest?cb=20250628204242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Don't underestimate that bug. It's every bit as dangerous as the seamstress's golden thread. Let your guard down for even a second, and it might take over — make you spill secrets you'd never share otherwise.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_32_cipher_203.ogg/revision/latest?cb=20250628204243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Whoa, that's like... some brainwashing monster straight out of the black tide . Creepy!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_32_zeiling_181.ogg/revision/latest?cb=20250628204348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Boss, how did you realize something was wrong? I'm curious — what exactly did that nymph make me say?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_32_zeiling_182.ogg/revision/latest?cb=20250628204349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph, actually, it gave itself away very early on...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_32_cipher_204.ogg/revision/latest?cb=20250628204244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Speaking of the Worldbearing Titan, Cipher, didn't you tell me once... you used to be an apprentice at Kephale's Priestly Court?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_32_zeiling_183.ogg/revision/latest?cb=20250628204350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "We've been partners in crime for a thousand years. We've talked about everything there is to talk about. Except for that one experience at Dawncloud. I never told you about that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_32_cipher_205.ogg/revision/latest?cb=20250628204245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_227.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "I... absolutely wouldn't have shared that with anyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_32_cipher_206.ogg/revision/latest?cb=20250628204246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "But, uh... Boss Lady, there's a chance Aglaea wasn't trying to trick you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_32_zeiling_184.ogg/revision/latest?cb=20250628204351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "And as far as I know, the embodiment of \"Trickery\" despises that golden thread, which forces people to speak the truth. You'd never defend Aglaea...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_32_cipher_207.ogg/revision/latest?cb=20250628204247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Isn't that right, Zagreus ?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "...Uh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_32_zeiling_185.ogg/revision/latest?cb=20250628204352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_231.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "You... have a terrifyingly sharp mind, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_32_zeiling_186.ogg/revision/latest?cb=20250628204353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "After all, I'm the only one in the world who knows you're still alive. To make sure you survived the Titan trial, I had to fool the entire world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_32_cipher_209.ogg/revision/latest?cb=20250628204248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "If you want to keep that lie from falling apart... you'd better keep playing your part in the days ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_32_cipher_210.ogg/revision/latest?cb=20250628204249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Even if it weren't for saving my worthless little life, I'd still walk through fire for Cipher without hesitation!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_32_zeiling_187.ogg/revision/latest?cb=20250628204354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Hmph, you may have been reduced to this form, but you still haven't lost your way with words.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_32_cipher_211.ogg/revision/latest?cb=20250628204249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "*cough* ...Speaking of which, Cipher... you're not taking that wicked woman's words to heart, are you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_32_zeiling_188.ogg/revision/latest?cb=20250628204355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Spirithief\" Bartholos",
+        "line": "Life's been pretty great lately. Why get into trouble now... Don't you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_32_zeiling_189.ogg/revision/latest?cb=20250628204356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Spirithief_Bartholos_238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Honestly, I've been thinking...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_32_cipher_213.ogg/revision/latest?cb=20250628204250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Maybe a trip back now wouldn't be too bad.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_32_cipher_214.ogg/revision/latest?cb=20250628204251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...You're back again, Cif—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_32_aglaea_123.ogg/revision/latest?cb=20250628204146",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_32_aglaea_126.ogg/revision/latest?cb=20250628204147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_242.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 5.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Cifera, you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_34_aglaea_101.ogg/revision/latest?cb=20250628204357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...I need clothes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_32_shaocipher_118.ogg/revision/latest?cb=20250628204305",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Anything, just throw me something. A piece of cloth will do, just enough to cover the wounds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_32_shaocipher_119.ogg/revision/latest?cb=20250628204306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "I will pay back the amount I owe... I promise.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_32_shaocipher_120.ogg/revision/latest?cb=20250628204307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_246.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "You... you're bleeding golden blood.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_32_aglaea_127.ogg/revision/latest?cb=20250628204148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Yes, what about it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_32_shaocipher_121.ogg/revision/latest?cb=20250628204308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "So what if I'm one of those Chrysos Heirs they talk about? Those infinitely strong heroes? World-renowned swordsmen? Exceptionally intelligent scholars!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_32_shaocipher_122.ogg/revision/latest?cb=20250628204309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Cifera...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_32_aglaea_128.ogg/revision/latest?cb=20250628204149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_250.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Well, I am sorry to disappoint! Who knew that group of amazing people would include me! A pauper, thief, con artist! Maybe I should just make another cut to drain all this yellow stuff out of me and-",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_32_shaocipher_123.ogg/revision/latest?cb=20250628204310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_251.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...Stop it, Cifera.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_32_aglaea_129.ogg/revision/latest?cb=20250628204150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Uh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_32_shaocipher_124.ogg/revision/latest?cb=20250628204311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I'll give you clothes, warm you up, and...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_32_aglaea_130.ogg/revision/latest?cb=20250628204151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Stay here. Stay in my workshop until you're healed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_32_aglaea_131.ogg/revision/latest?cb=20250628204152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...Tch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_32_shaocipher_125.ogg/revision/latest?cb=20250628204312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Aren't you going to ask me how I got these wounds?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_32_shaocipher_126.ogg/revision/latest?cb=20250628204313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Heh, right, what's the use? I'm so good at lying, even your golden thread can be fooled. If you can't verify the truth, why bother asking at all?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_32_shaocipher_127.ogg/revision/latest?cb=20250628204314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_258.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...I don't need to ask, nor do I need to use the golden thread. I know everything you do is for survival, at all costs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_32_aglaea_133.ogg/revision/latest?cb=20250628204153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_259.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Stay here. You won't have to deal with the cold or go hungry again. Stay by my side, and you can start putting yourself back together.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_32_aglaea_134.ogg/revision/latest?cb=20250628204154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_260.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Chest, Bear the Bygone Dust 6.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Aren't you... worried I'll ruin this place's reputation? Or that I might sneak off with your precious clothes and sell them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_32_shaocipher_128.ogg/revision/latest?cb=20250628204315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_261.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I wouldn't have invited you if I were worried about those things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_32_aglaea_135.ogg/revision/latest?cb=20250628204155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_262.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "You're weird, seamstress. You know, they say a child who often lies remains a liar for life...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_32_shaocipher_129.ogg/revision/latest?cb=20250628204316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_263.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "I've tried not to become a liar. But... honestly? It's just too hard... I'm close to giving up.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_32_shaocipher_130.ogg/revision/latest?cb=20250628204317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_264.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "What makes you think I won't disappoint you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_32_shaocipher_131.ogg/revision/latest?cb=20250628204318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Because I can feel it — not with the power of a demigod, but with the heart that beats in my chest — you love this place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_32_aglaea_136.ogg/revision/latest?cb=20250628204156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_266.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "That's why you keep coming by but also why you hesitate to stay longer. You worry you'll tarnish the \"Goldweaver\" name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_32_aglaea_137.ogg/revision/latest?cb=20250628204157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "After taking over Mnestia's divine authority, I became used to letting the golden thread distinguish sincerity from falsehood. However, the mission I need to complete requires me to learn to trust and rely on my heart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_32_aglaea_138.ogg/revision/latest?cb=20250628204158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_268.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Cifera — you're an honest thing I've given to this world... and also a challenge the world has given to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_32_aglaea_139.ogg/revision/latest?cb=20250628204159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_269.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Stay here with me. You have a beautiful face that deserves better than to be covered in scars and grime.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_32_aglaea_140.ogg/revision/latest?cb=20250628204200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_270.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "You've got a way of talking that's hard to follow.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_32_shaocipher_134.ogg/revision/latest?cb=20250628204319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_271.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "Alright, let's make it a deal. You have one day to change your mind — once the Action Hour passes, there's no turning back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_32_shaocipher_135.ogg/revision/latest?cb=20250628204319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_272.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Returning to the Trailblazer's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "When you have a chance to make a choice, make one that you know you won't regret."
+    }
+]

@@ -1,0 +1,1429 @@
+[
+    {
+        "type": "heading",
+        "text": "Investigate the suspicious room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "EnteringSampo's dream bubble, you realize that you have returned to thatdoctor's clinicinBelobog'sUnderworld, but this place is even more desolate than you remembered and far more suspicious.Before indulging your suspicions, you should do as Sampo suggested and adjust to the feeling of a dream within a dream."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Ugh... Where's this?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter3_2_firefly_247.ogg/revision/latest?cb=20240728230706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is this... the clinic in the Belobog Underworld? Why is it empty?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter3_2_player_122_m.ogg/revision/latest?cb=20240728230719",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How did I end up here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(This is part of my Dreamscape — Belobog is the setting for this dream.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter3_2_sampo_160.ogg/revision/latest?cb=20240728230754",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Where is everyone?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(This is a surprise that will be revealed later. You have to remember — in a dream, anything is possible.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter3_2_sampo_161.ogg/revision/latest?cb=20240728230757",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "What should I do now?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "(No need to be hasty, now. You should take a moment to get used to the feeling of being in a dream within a dream.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_2_sampo_162.ogg/revision/latest?cb=20240728230759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_4.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate note)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is this... another note?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter3_2_player_123_m.ogg/revision/latest?cb=20240728230723",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Quick Read)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Sampo's Advice?"
+            },
+            {
+                "type": "note",
+                "text": "Become the Garbage King Though the trash bags have long been broken"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What do you mean by this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(I have no idea. I didn't come here when I had this dream.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_2_sampo_163.ogg/revision/latest?cb=20240728230801",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think I've had this dream before too...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(Oh, really? Well you know what they say — great minds dream alike!)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_2_sampo_164.ogg/revision/latest?cb=20240728230803",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This all feels so familiar...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(That's the thing about dreams — anything can feel familiar.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter3_2_sampo_165.ogg/revision/latest?cb=20240728230805",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "(Stop nitpicking the details. If you ask me, I'd say you should take a look outside. But don't get frightened by what you see!)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter3_2_sampo_166.ogg/revision/latest?cb=20240728230809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_9.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Leave the suspicious room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Entering Sampo's dream bubble, you realize that you have returned to that doctor's clinic in Belobog's Underworld, but this place is even more desolate than you remembered and far more suspicious.You discover a note that is even more suspicious than the room itself — Just what does it mean? It seems that you will have to leave the clinic before you can get any answers."
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter3_2_player_124_m.ogg/revision/latest?cb=20240728230727",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(What...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter3_2_firefly_248.ogg/revision/latest?cb=20240728230708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(...What's happening!?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter3_2_firefly_249.ogg/revision/latest?cb=20240728230710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_12.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What's happening!?"
+    },
+    {
+        "type": "note",
+        "text": "Why are there trashcans everywhere?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You're finally here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter3_2_shatana_101.ogg/revision/latest?cb=20240728230848",
+        "is_unavailable": false,
+        "audio_filename": "audio__13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Nice to meet you, dream diver...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_2_shatana_102.ogg/revision/latest?cb=20240728230850",
+        "is_unavailable": false,
+        "audio_filename": "audio__14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "My name is Shatana, and I have a deal to offer you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter3_2_shatana_103.ogg/revision/latest?cb=20240728230855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_15.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Deal? What deal?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Have you heard of... Tatalov the Garbage King?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_2_shatana_104.ogg/revision/latest?cb=20240728230857",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Shatana? Are you related to Natasha ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Natasha who? I don't recall meeting such a person.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter3_2_shatana_105.ogg/revision/latest?cb=20240728230902",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Let's get back to the question... Have you heard of Tatalov the Garbage King?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter3_2_shatana_106.ogg/revision/latest?cb=20240728230904",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_18.ogg"
+            },
+            {
+                "type": "note",
+                "text": "That line of yours sounds eerily familiar..."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "You're... probably just experiencing some déjà vu...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_2_shatana_107.ogg/revision/latest?cb=20240728230906",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Let's get back to the question... Have you heard of Tatalov the Garbage King?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter3_2_shatana_108.ogg/revision/latest?cb=20240728230907",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "He's our king, as well as the manager of all the waste in this world. Perched on his throne, he uplifts trashcans that are humble and suppresses those that are violent. He's the cornerstone of Belobog, the lid that secures us, the barrel that reinforces us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter3_2_shatana_109.ogg/revision/latest?cb=20240728230909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "However, since the thing from beyond the sky arrived here along with the Eternal Freeze , Tatalov's eyes have been blinded. He stopped listening to our calls, leaving the impoverished to be bullied and his loyal servants to be degraded...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter3_2_shatana_110.ogg/revision/latest?cb=20240728230912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "The humiliation was too much for us. We intended to help Garbage King mend his ways under the banner of the Skyfire ... But we were no match for the sinister king, who spread vicious rumors among the trashcans to divide us against each other. As a result, we could no longer communicate with one another using trashbags ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter3_2_shatana_112.ogg/revision/latest?cb=20240728230916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "...I implore your help to restore peace to the trash bags, so that the trashcans here may be united once more. Then, we'll be able to launch a counterattack against that undeserving king.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter3_2_shatana_113.ogg/revision/latest?cb=20240728230918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_24.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you saying you want me to rally you all together?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "(I think that's what she means...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter3_2_firefly_250.ogg/revision/latest?cb=20240728230712",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're speaking in riddles...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "(I think she's trying to say that you're the only one who can unite these, uhm, trashcans and lead their battle against the evil king... or something like that.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter3_2_firefly_251.ogg/revision/latest?cb=20240728230715",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "Well, that seals the deal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter3_2_shatana_114.ogg/revision/latest?cb=20240728230920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_27.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What do I need to do?"
+    },
+    {
+        "type": "note",
+        "text": "Deal? What deal?"
+    },
+    {
+        "type": "choice",
+        "text": "But I haven't agreed to anything!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "(Dr. Edward said he didn't have the time to make any alternative storylines. Just accept it.)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter3_2_sampo_167.ogg/revision/latest?cb=20240728230811",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "You have one mission — help the trashcans with their troubles and collect three Proofs of Trust .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter3_2_shatana_115.ogg/revision/latest?cb=20240728230922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "Once you've accomplished that, you'll become our new king and lead our fight against the evil king. Off you go, dream diver... Your mission is calling for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter3_2_shatana_116.ogg/revision/latest?cb=20240728230924",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_30.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Obtain three Proofs of Trust"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As you leave the clinic, what lies before your eyes is a giant kingdom formed of trashcans. A trashcan by the name of Shatana finds you and asks for your help in freeing the trashcans from their worries and leading them to liberation — The prerequisite is that you acquire three Proofs of Trust."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I'm confused...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter3_2_player_125_m.ogg/revision/latest?cb=20240728230731",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Shatana, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "Off you go, dream diver... Your mission is calling for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter3_2_shatana_117.ogg/revision/latest?cb=20240728230925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "note",
+        "text": "How can this be opened?"
+    },
+    {
+        "type": "note",
+        "text": "There has to be a way..."
+    },
+    {
+        "type": "note",
+        "text": "Smash it with the lid!"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Courageous Can)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Courageous Can",
+        "line": "We've had enough of Tatalov's oppression! To retrieve our belongings from his treasure trove, the resources vital to our livelihoods seized by Tatalov's greed and tyranny, we must open this door.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter3_ag1_bravetrashcan_101.ogg/revision/latest?cb=20240728231001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Courageous_Can_33.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Push the door."
+    },
+    {
+        "type": "note",
+        "text": "Kick the door."
+    },
+    {
+        "type": "note",
+        "text": "Open sesame!"
+    },
+    {
+        "type": "note",
+        "text": "Strange, you haven't done anything, but the door opens slowly — it turns out that this is an automatic sensor door. It just can't sense trashcans."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Courageous Can",
+        "line": "The door is open... The legends are true! You are the savior destined to defeat Tatalov! The God of Trash sent you to return the tyrant's treasures to us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter3_ag1_bravetrashcan_113.ogg/revision/latest?cb=20240728231005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Courageous_Can_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Courageous Can",
+        "line": "Ah, I've never felt so exhilarated before! When you raise the banner of rebellion against Tatalov, I and the other oppressed cans shall stand by your side!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter3_ag1_bravetrashcan_114.ogg/revision/latest?cb=20240728231007",
+        "is_unavailable": false,
+        "audio_filename": "audio_Courageous_Can_35.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You watch the trashcans excitedly crowd into the \"treasure trove,\" tearing open bag after bag of garbage and pouring the contents into their torso..."
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainProof of Trust×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trashcan Prince)"
+    },
+    {
+        "type": "note",
+        "text": "This is a normal-looking trashcan. How magical! A kingdom of trashcans actually has an ordinary trashcan... This is a rare opportunity. Do you wish to do something to it?"
+    },
+    {
+        "type": "choice",
+        "text": "Insert trash.",
+        "children": [
+            {
+                "type": "note",
+                "text": "Of course. That's the job of a trashcan. You chuck whatever random things you have on hand into its pitch-black and bottomless void. A series of loud sounds thundered back."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Remove some trash.",
+        "children": [
+            {
+                "type": "note",
+                "text": "Of course. That's the value of a trashcan. When you used your finger to touch its sides, a burst of loud sounds followed."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Give it a kick.",
+        "children": [
+            {
+                "type": "note",
+                "text": "...Evidently, this is not civilized behavior. In regular circumstances, you'd probably have to give up a Praise of High Morals ... However, this is the Dreamscape, so who cares? You feel your foot impact the can with a loud bam..."
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "When you open your eyes again, the trashcan is no longer just a trashcan. It's now a trashcan... with arms and legs."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "Thank you, beautiful stranger. I am the Trashcan Prince, and my father was assassinated by Tatalov, and I was cursed into becoming a trashcan. You saved me from internment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter3_ag1_princetrashcan_101.ogg/revision/latest?cb=20240728231011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "I shall offer everything I have — my body, my soul, my life, even my trash bags — just to repay your kindness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_ag1_princetrashcan_105.ogg/revision/latest?cb=20240728231019",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_37.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You talk like a Knight of Beauty ..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "There are many cans who compliment my beauty, but I am not familiar with the name of which you just spoke. The only knightly order in this kingdom is the \" Knights of Loose Change ,\" each of whom is a noble and respectable can of the highest order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter3_ag1_princetrashcan_102.ogg/revision/latest?cb=20240728231013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_38.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Then stand with me against Tatalov."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "I will. I will stand with you and ignite the rising smoke of rebellion until the kingdom is saved from absolute peril.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter3_ag1_princetrashcan_103.ogg/revision/latest?cb=20240728231015",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "You have earned my confidence. I wish for you to accept this item and my heart as a token of my sincere gratitude. I will fight for you, O glorious soul.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter3_ag1_princetrashcan_104.ogg/revision/latest?cb=20240728231017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainProof of Trust×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trashcan Prince again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashcan Prince",
+        "line": "You have earned my confidence. I will fight for you, O glorious soul.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter3_ag1_princetrashcan_104.ogg/revision/latest?cb=20240728231017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Prince_41.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious Can",
+        "line": "Then who is worthy of it?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Beautiful Can",
+        "line": "Only I should have it!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wise Can",
+        "line": "This requires further discussion...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to three trash cans)"
+    },
+    {
+        "type": "note",
+        "text": "Three trashcans stand around each other, arguing ceaselessly about a certain matter..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious Can",
+        "line": "Outlander, a dispute awaits your fair judgment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter3_ag1_serioustrashcan_101.ogg/revision/latest?cb=20240728231021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serious_Can_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Beautiful Can",
+        "line": "This is the legendary golden trash, a symbol of power and status. Only the most qualified trashcan may lay claim to it. All of us feel that we are that trashcan, and so we keep fighting for it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter3_ag1_beautytrashcan_101.ogg/revision/latest?cb=20240728230954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Beautiful_Can_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wise Can",
+        "line": "So, we have decided that an observer possessing unique and just insight should be the judge for this matter and decide to whom the reward will belong, and bring a conclusive end to this long dispute.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_ag1_wisdomtrashcan_101.ogg/revision/latest?cb=20240728231107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Wise_Can_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious Can",
+        "line": "If you give the golden trash to me, I will pledge you endless wealth, more than enough to fill the biggest trashcan there is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_ag1_serioustrashcan_104.ogg/revision/latest?cb=20240728231023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serious_Can_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wise Can",
+        "line": "If you give the golden trash to me, I will grant you endless knowledge, more than any full bag of trashcan provide.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter3_ag1_wisdomtrashcan_103.ogg/revision/latest?cb=20240728231109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Wise_Can_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Beautiful Can",
+        "line": "If you bestow upon me this golden trash, I shall promise you the most beautiful trashcan in the world — myself. I will stand beside you as a partner beyond peer and face all your trials and triumphs by your side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter3_ag1_beautytrashcan_103.ogg/revision/latest?cb=20240728230957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Beautiful_Can_47.ogg"
+    },
+    {
+        "type": "note",
+        "text": "So... what is your choice?"
+    },
+    {
+        "type": "note",
+        "text": "Split golden trash into three and distribute evenly."
+    },
+    {
+        "type": "note",
+        "text": "Amidst the watchful gaze of the three, you perfectly split the golden trash. Not even a Clockie Pizza can be divided this evenly."
+    },
+    {
+        "type": "choice",
+        "text": "I am the only one worthy of it!",
+        "children": [
+            {
+                "type": "note",
+                "text": "Under the watchful eyes of the three, you claim the golden trash as your own. Indeed, among these small trashcans, is there anyone who stands as tall and upright as you do?"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wise Can",
+        "line": "The conundrum that has stymied us for so long... fixed just like that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_ag1_wisdomtrashcan_110.ogg/revision/latest?cb=20240728231111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Wise_Can_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Beautiful Can",
+        "line": "Then who is the most qualified can... No, that no longer mattered [ sic ].",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter3_ag1_beautytrashcan_109.ogg/revision/latest?cb=20240728230959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Beautiful_Can_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious Can",
+        "line": "The outlander must be trying to help us understand how foolish this dispute of ours was... You have proven yourself with your actions. This signifies our loyalty and longing. We wish for you to have it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_ag1_serioustrashcan_109.ogg/revision/latest?cb=20240728231025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serious_Can_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainProof of Trust×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Wise Can again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Wise Can",
+        "line": "We all approve of your intellect and justness.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Serious Can again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious Can",
+        "line": "You have proven yourself with your actions. We three cans shall become your aides, and win freedom once more for trashcans.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter3_ag1_serioustrashcan_114.ogg/revision/latest?cb=20240728231027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serious_Can_51.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Beautiful Can again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Beautiful Can",
+        "line": "We three cans will become your aides, and win freedom once more for our people.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quote)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "Ninety-seven thousand eight hundred sixty-three...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trashiemedes)"
+    },
+    {
+        "type": "note",
+        "text": "This particular trashcan stands quietly. Its lid has chipped and faded paint. It is meticulously counting the roadside trash, occasionally sighing or scratching its head, as if struggling to memorize an astronomical number."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "...Are you here to mock me too? Or are you seeking wise answers?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_ag1_ajitrashcan_101.ogg/revision/latest?cb=20240728230938",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashiemedes_52.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why are you counting trash?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Trashiemedes",
+                "line": "It's a long story. A long, long time ago, I angered Tatalov. I told him that even the most stable of nations has their day of decay, and even all the trash in the stars can eventually be counted. It is unclear which part of the sentence infuriated him...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter3_ag1_ajitrashcan_102.ogg/revision/latest?cb=20240728230942",
+                "is_unavailable": false,
+                "audio_filename": "audio_Trashiemedes_53.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Trashiemedes",
+                "line": "...As punishment, he assigned me this role, demanding that I count all the trash in the city. Before then, I am to never issue forth my opinions.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter3_ag1_ajitrashcan_105.ogg/revision/latest?cb=20240728230944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Trashiemedes_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I need \"Proof of Trust.\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "Oh... it's rare for a can to be so straightforward. I do possess the \"Proof of Trust,\" but now it's lost in the mountain of trash.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter3_ag1_ajitrashcan_108.ogg/revision/latest?cb=20240728230946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashiemedes_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "If you want it, work with me. I have counted the majority of the trash in this city, leaving only these three newly arrived cans.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter3_ag1_ajitrashcan_110.ogg/revision/latest?cb=20240728230948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashiemedes_56.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the first trash can)"
+    },
+    {
+        "type": "note",
+        "text": "What sort of trash would Trashcan Kingdom hold? Curiosity piqued, you open the lid of the first trashcan."
+    },
+    {
+        "type": "note",
+        "text": "Unfortunately, there isn't any difference. Maybe Dr. Edward did not have time to attend to these details."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the second trash can)"
+    },
+    {
+        "type": "note",
+        "text": "There's a comic book inside this trashcan. The pages are torn and damaged. It tells of an adventure: Tatalov was once a brave trashcan. With valiance and willpower, it defeated a colossal junk monster and saved a human from its monstrous maw."
+    },
+    {
+        "type": "note",
+        "text": "In order to repay Tatalov, that human turned himself into a trashcan... This is actually a horror story."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the third trash can)"
+    },
+    {
+        "type": "note",
+        "text": "You see something unexpected — a True Sting, lying inside the trashcan, looking back at you."
+    },
+    {
+        "type": "note",
+        "text": "Die, remnants of Propagation !"
+    },
+    {
+        "type": "note",
+        "text": "It is time to rid the people of this menace — Use your bat to tell it that this is a Kingdom of Preservation !"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle)"
+    },
+    {
+        "type": "choice",
+        "text": "Lordly Trashcan ×1 Juvenile Sting ×2",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Clear-Headed Can",
+                "line": "Who dares disrupt my slumber!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_ag1_waketrashcan_101.ogg/revision/latest?cb=20240728231105",
+                "is_unavailable": false,
+                "audio_filename": "audio_Clear-Headed_Can_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "note",
+        "text": "After a loud boom, Propagation's crisis has ended. The world is once again peaceful. And that trashcan who has endured undeserved ordeals has returned to his slumber. Thank you, Nameless!"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trashiemedes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "Not bad, young can. You've proven yourself by your wisdom and patience... You deserve this Proof of Trust. I'll gift it to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_ag1_ajitrashcan_112.ogg/revision/latest?cb=20240728230950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashiemedes_58.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainProof of Trust×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trashiemedes again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trashiemedes",
+        "line": "I'm now old and frail, no longer able to fight by your side. Hopefully, my mind can still be of use to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter3_ag1_ajitrashcan_116.ogg/revision/latest?cb=20240728230952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashiemedes_59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate large trash can)"
+    },
+    {
+        "type": "note",
+        "text": "A strange trash bag sits in the bottomless trashcan. You notice the \"seal\" on the bag — A few fish bones have clipped the mouth of the bag shut."
+    },
+    {
+        "type": "note",
+        "text": "Remove the seal."
+    },
+    {
+        "type": "note",
+        "text": "Bam! Green smoke wafts up from within the bag together with a loud noise. It twists and congeals in the air, slowly becoming a giant... trashcan."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Garboski",
+        "line": "Finally — I am free! I am \"Garboski,\" a can of unmatched evil. Tatalov used despicable means to defeat me and sealed me in this deep and cramped trash bag.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter3_ag1_trashcancan_101.ogg/revision/latest?cb=20240728231030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Garboski_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Garboski",
+        "line": "For the first five hundred years of my imprisonment, I swore an oath that if a can came to save me, I would reward them with endless wealth. Then, for the next five hundred years, I swore that if a can saved me, I would reward them with endless trash.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter3_ag1_trashcancan_103.ogg/revision/latest?cb=20240728231032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Garboski_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Garboski",
+        "line": "However, ten thousand years have passed. That's 20 five-hundred-year periods, but no cans came! Therefore, I swore that if a can came to save me, I would reward them with a painless death.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter3_ag1_trashcancan_105.ogg/revision/latest?cb=20240728231034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Garboski_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Garboski",
+        "line": "— You've come, and so you now must die.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter3_ag1_trashcancan_107.ogg/revision/latest?cb=20240728231036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Garboski_63.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "This is not fair! I saved you!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Garboski",
+                "line": "Correct. I will now offer you a final mercy. You get to choose how you wish to die.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter3_ag1_trashcancan_108.ogg/revision/latest?cb=20240728231038",
+                "is_unavailable": false,
+                "audio_filename": "audio_Garboski_64.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "I wish to die as a warrior!",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Garboski",
+                        "line": "Oh? No trashcan has ever dared to challenge me to a duel. I acknowledge your bravery... Perhaps there's no need to conduct a pointless battle.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter3_ag1_trashcancan_110.ogg/revision/latest?cb=20240728231043",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Garboski_65.ogg"
+                    },
+                    {
+                        "type": "note",
+                        "text": "Why not stand with me against Tatalov?"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Garboski",
+                        "line": "Countless years of captivity have whittled flat my edges. My prime is long past, never to return. I only wish to past [ sic ] the rest of my life as a normal trashcan. Farewell, stranger.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter3_ag1_trashcancan_114.ogg/revision/latest?cb=20240728231045",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Garboski_66.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I don't believe you were sealed in the trash bag.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Garboski",
+                        "line": "Ah, yes, Tatalov used the same trick against me. \"With such a massive body like yours, how can a bag fit you?\" And so I slipped into a trash bag before him and found myself sealed.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter3_ag1_trashcancan_120.ogg/revision/latest?cb=20240728231047",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Garboski_67.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Garboski",
+                        "line": "Even the vilest trashcan is capable of learning to heed a lesson. Your tactics are ineffective against me now! Now, feel my ten thousand years — five hundred years times twenty — of fury!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter3_ag1_trashcancan_122.ogg/revision/latest?cb=20240728231049",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Garboski_68.ogg"
+                    },
+                    {
+                        "type": "condition",
+                        "text": "(Begin battle againstLordly Trashcan×1)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "condition",
+                        "text": "(After the battle)"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Garboski",
+                        "line": "I didn't expect you to be so strong. I acknowledge your bravery... Perhaps there's no need to conduct a pointless battle.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_ag1_trashcancan_123.ogg/revision/latest?cb=20240728231051",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Garboski_69.ogg"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Why not stand with me against Tatalov?",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Garboski",
+                                "line": "Countless years of captivity have whittled flat my edges. My prime is long past, never to return. I only wish to past [ sic ] the rest of my life as a normal trashcan. Farewell, stranger.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_ag1_trashcancan_133.ogg/revision/latest?cb=20240728231057",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Garboski_70.ogg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "But I'm a person, not a trashcan.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Garboski",
+                "line": "You're right. You are not the savior that I expected. And because you haven't betrayed my expectations... I should thank you instead. Go. I won't take your life, but that's the limit of my mercy.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_ag1_trashcancan_129.ogg/revision/latest?cb=20240728231055",
+                "is_unavailable": false,
+                "audio_filename": "audio_Garboski_71.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Why not stand with me against Tatalov?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Garboski",
+                "line": "Countless years of captivity have whittled flat my edges. My prime is long past, never to return. I only wish to past [ sic ] the rest of my life as a normal trashcan. Farewell, stranger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter3_ag1_trashcancan_125.ogg/revision/latest?cb=20240728231053",
+                "is_unavailable": false,
+                "audio_filename": "audio_Garboski_72.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Audience Can)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Audience Can",
+        "line": "You dealt with the sealed demon, Garboski? He is so powerful and so terrifying, but you defeated him... How magnificent of you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter3_ag1_viewtrashcan_101.ogg/revision/latest?cb=20240728231059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Audience_Can_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Audience Can",
+        "line": "You've won me over, along with many others. This item carries our high regard for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter3_ag1_viewtrashcan_104.ogg/revision/latest?cb=20240728231101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Audience_Can_74.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainProof of Trust×1)"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Shatana"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You have collected sufficient Proofs of Trust — It is time to prove your strength to Shatana."
+    },
+    {
+        "type": "condition",
+        "text": "(After obtainingProof of Trust×3)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I've finally collected three Proofs of Trust... Let's go back and deliver them.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter3_2_player_126_m.ogg/revision/latest?cb=20240728230735",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_75.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Shatana)\n(If the player collects five Proof of Trust)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Impressive... It's hard to believe you've collected all the Proofs of Trust. Your determination is truly admirable...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter3_2_shatana_119.ogg/revision/latest?cb=20240728230931",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Otherwise)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Shatana",
+                "line": "Excellent. Looks like you've held up your side of the deal...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_2_shatana_118.ogg/revision/latest?cb=20240728230929",
+                "is_unavailable": false,
+                "audio_filename": "audio_Shatana_77.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "...I've waited so long for this day. Here, I'll escort you to your throne, the Pillars of Creation , where you'll witness the future of my people...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter3_2_shatana_120.ogg/revision/latest?cb=20240728230933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shatana",
+        "line": "I wish you success.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter3_2_shatana_121.ogg/revision/latest?cb=20240728230936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Shatana_79.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat Tatalov the Garbage King"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Before you arrive at the Pillars of Creation, a huge number of trashcans yearning for freedom have already engaged Tatalov the Garbage King in a ferocious battle. Your arrival is certain to help them turn the tide of battle."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is this where the final battle will take place... Not sure how I feel about this...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter3_2_player_127_m.ogg/revision/latest?cb=20240728230739",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Such a tragic scene...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter3_2_player_128_m.ogg/revision/latest?cb=20240728230743",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...Didn't they say the Garbage King would wait for me here?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter3_2_player_129_m.ogg/revision/latest?cb=20240728230747",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Have I been set up?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter3_2_player_130_m.ogg/revision/latest?cb=20240728230750",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_83.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Hey, wait!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "What kind of nonsense is this?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ What a bummer... I was really looking forward to seeing how (Trailblazer) was going to overthrow the Garbage King...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter3_2_sampo_168_m.ogg/revision/latest?cb=20240728230817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_84.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It really is a shame."
+    },
+    {
+        "type": "note",
+        "text": "I'd easily finish him off with one punch."
+    },
+    {
+        "type": "note",
+        "text": "The Garbage King? You're the real Garbage King!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "What a huge pity! Such a meaningful dream came to an abrupt halt because of Miss Firefly...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter3_2_sampo_169.ogg/revision/latest?cb=20240728230819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...I was looking forward to seeing your face when the truth dawned on you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter3_2_sampo_170.ogg/revision/latest?cb=20240728230821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Truth? What truth?"
+    },
+    {
+        "type": "choice",
+        "text": "What are you trying to say?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "...Trying to say? I'm not saying anything, I just want to reveal the truth...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter3_2_sampo_171.ogg/revision/latest?cb=20240728230823",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_87.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this weird dream trying to hint at some hidden meaning?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Hint at? No, more like reveal...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter3_2_sampo_172.ogg/revision/latest?cb=20240728230825",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_88.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Don't you want to find out the truth behind the dream? Don't let all the pretty scenery in the dream world distract you from your goal — as soon as you get complacent, you'll lose sight of the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter3_2_sampo_173.ogg/revision/latest?cb=20240728230827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Don't you think this dream bubble looks really similar to modern-day Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_2_sampo_174.ogg/revision/latest?cb=20240728230829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "A small stage is crowded with a bunch of scheming people. None of them want to be exposed under the spotlight, so they all push you to the front...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter3_2_sampo_175.ogg/revision/latest?cb=20240728230831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You're not at home anymore kid — you've wandered into the depths of the unknown. Let me put it to you straight — don't let yourself get enticed by that glowing light. I'm going to be very disappointed if you get bamboozled by the likes of them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_2_sampo_176.ogg/revision/latest?cb=20240728230834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_92.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What in the dream world are you talking about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Seems like you really do have no clue. Turn around and take a look...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_2_sampo_177.ogg/revision/latest?cb=20240728230835",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_93.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Sampo, just what are you up to, exactly?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Same as always, pal. If you still don't get it, just turn around and take a look...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_2_sampo_178.ogg/revision/latest?cb=20240728230837",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_94.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "A glowing light..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Is that girl still here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter3_2_sampo_179.ogg/revision/latest?cb=20240728230839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "She claims to be a local but doesn't know how this world works — all she's got is street smarts. Who exactly is she? You don't find her the least bit... suspicious?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter3_2_sampo_180.ogg/revision/latest?cb=20240728230842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You'd better hurry up and confront her if you have any questions. Don't let her off scot-free, haha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter3_2_sampo_181.ogg/revision/latest?cb=20240728230844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "See you around, pal... Don't let me down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter3_2_sampo_182.ogg/revision/latest?cb=20240728230846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Proceed toGood Omen, My Friend)"
+    }
+]

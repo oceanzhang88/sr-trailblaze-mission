@@ -1,0 +1,1823 @@
+[
+    {
+        "type": "heading",
+        "text": "Story Recap"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Following the return of the Coreflames of Reason and Death, Aquila is the only Titan that we still need to campaign against. Phainon asks us to recreate the past, and he repeatedly challenges the Flame Reaver to hone his abilities. The Flame-Chase Journey's triumphant conclusion draws nigh, yet a sudden disturbance occurs in the holy city ..."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Using the Council of Elders and the Cleaners , Aglaea made sure that her fall paved the road forward for the Flame-Chase. Amidst his grief, Phainon takes up the mantle of leadership, giving a speech to unite the people. Cipher also returns on a mission, promising to protect Kephale 's Coreflame while the Flame-Chase party is away from the city."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ With the help of the Twilight Courtyard 's last descendant of the sky, Hyacine , the party ascends to Aquila's flying fortress. Hyacine resolves to fulfill the duty passed down over generations of her family, only to discover that the glorious feat of Seliose the Daythunder Knight campaigning against Aquila was nothing more than a blood-stained lie."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ At the same time in the city of the dead dragon's bones, Cipher contends with the Flame Reaver who comes seeking the Coreflame. Though she holds out for some time, she is no match and is slain in the end. But she had already given Kephale's Coreflame to Spirithief Bartholos , ordering them to wait for an opportunity to deliver the Coreflame to Phainon and the others."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ The Flame-Chasers fight together to defeat the Sky Titan, which has become a combined being of the god and a mortal. As they are trying to escape from the Eye of Twilight , the Dawn Device suddenly goes out, and Hyacine is forced to return the Coreflame early and remain in the sky to bear divine authority, becoming the protector of the people."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Following Cipher's death, the divine power of Trickery dissipates, and the thousand-year dawn of Okhema that is sustained by her lie comes to an end. The holy city is met with the merciless invasion of the black tide , as the powerful Flame Reaver moves in ever closer."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ At this moment of crisis, Mydei , Castorice , Tribbie and Trinnon , Chartonus , the Holy City Guards, and Dan Heng... All lay their lives on the line so that the Deliverer would have a chance to complete his mission. After making sure that I would remain safe, Phainon enters the Vortex of Genesis alone..."
+    },
+    {
+        "type": "heading",
+        "text": "Talk to the Guard, and meet up with Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The Flame Reaver suddenly froze, as if something unforeseen had transpired. As I pondered what might have happened, I spotted (Trailblazer)'s figure once more..."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toZephthe Guard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "▶ (Trailblazer), please stay close to us. We need to rendezvous with Lord Dan Heng.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_395_zefu_101_m.ogg/revision/latest?cb=20250706025525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosynethe Guard",
+        "line": "We will do everything in our power to clear the path for you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_395_nimoxini_101.ogg/revision/latest?cb=20250706025403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosynethe_Guard_1.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Meet up with Dan Heng"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "There he is! Lord Dan Heng!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_395_zefu_102.ogg/revision/latest?cb=20250706025527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosyne the Guard",
+        "line": "Quick! We must assist him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_395_nimoxini_102.ogg/revision/latest?cb=20250706025407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosyne_the_Guard_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ ...( Trailblazer )!? What are you doing here? Where's Phainon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_395_danheng_101_m.ogg/revision/latest?cb=20250706025318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_4.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It's a long story. Let's deal with that guy first!"
+    },
+    {
+        "type": "note",
+        "text": "We need to go, Dan Heng!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosyne the Guard",
+        "line": "We are under Lord Phainon's orders to escort both of you to safety, no matter the cost!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_395_nimoxini_103.ogg/revision/latest?cb=20250706025409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosyne_the_Guard_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosyne the Guard",
+        "line": "Leave this to me and the Holy City Guards... Zeph, take them and go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_395_nimoxini_104.ogg/revision/latest?cb=20250706025411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosyne_the_Guard_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "Wait, Mnemosyne—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_395_zefu_103.ogg/revision/latest?cb=20250706025529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "That black-clad swordmaster... something seems off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_395_zefu_104.ogg/revision/latest?cb=20250706025533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "At some point earlier, they suddenly froze in place... not moving at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_395_danheng_102.ogg/revision/latest?cb=20250706025319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Like... some kind of omen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_395_danheng_103.ogg/revision/latest?cb=20250706025321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_10.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Now's our chance to take them down!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "No, don't get too close! That thing's black flames are burning hot. I don't know what's happening, but leaving is the best option.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_395_danheng_104.ogg/revision/latest?cb=20250706025323",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_11.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No time to waste, let's get out of here.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Right. We don't know exactly what's happening, but retreating is the safest choice right now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_395_danheng_105.ogg/revision/latest?cb=20250706025325",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "I don't know which demigod graced us with this miracle... Please, come with us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_395_zefu_105.ogg/revision/latest?cb=20250706025538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_13.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Escape from Amphoreus"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Phainon... is he going to be alright?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_395_danheng_106.ogg/revision/latest?cb=20250706025326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "Believe in his resolve to save Okhema.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_395_zefu_106.ogg/revision/latest?cb=20250706025539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Flame Reaver, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), don't get too close!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_395_danheng_107_m.ogg/revision/latest?cb=20250706025328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "That thing's black flames are extremely dangerous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_395_danheng_108.ogg/revision/latest?cb=20250706025330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Flame Reaver isn't pursuing us... Could this really be some kind of divine intervention?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_395_danheng_109.ogg/revision/latest?cb=20250706025332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosyne the Guard",
+        "line": "We can't stay here for long. Lady Trinnon's Century Gate is just outside the city — let's keep moving.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_395_nimoxini_105.ogg/revision/latest?cb=20250706025413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosyne_the_Guard_19.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I still feel like someone should stay behind...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I agree. But Phainon... he must have struggled a lot before making this decision.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_395_danheng_110.ogg/revision/latest?cb=20250706025334",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this... really what Trailblazing is supposed to be?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Our experience in Amphoreus has far exceeded expectations. If our goal was just to replenish fuel, then mission accomplished. But you're right...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_395_danheng_111.ogg/revision/latest?cb=20250706025336",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Leaving like this... I'll definitely regret it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I... feel the same. Someone should stay and help Phainon complete Era Nova .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_395_danheng_112.ogg/revision/latest?cb=20250706025337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_395_danheng_113.ogg/revision/latest?cb=20250706025338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "For now, let's get back in contact with the Express and plan our next move. That's the safest course of action. We need more information.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_395_danheng_114.ogg/revision/latest?cb=20250706025340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "On that note, I have a proposal—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_395_screwllum_101.ogg/revision/latest?cb=20250706025419",
+        "is_unavailable": false,
+        "audio_filename": "audio__25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "...Who's there!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_395_zefu_107.ogg/revision/latest?cb=20250706025541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "I hope to convey a message to the two \" Nameless .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_395_screwllum_102.ogg/revision/latest?cb=20250706025423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mr. Screwllum!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_395_danheng_115.ogg/revision/latest?cb=20250706025342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mnemosyne the Guard",
+        "line": "Who are you!? Stand down! I order you to maintain a distance of ten paces!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_395_nimoxini_106.ogg/revision/latest?cb=20250706025415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mnemosyne_the_Guard_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's okay, guard. This one is not our enemy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_395_danheng_116.ogg/revision/latest?cb=20250706025344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "It has been a while, Nameless of the Astral Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_395_screwllum_103.ogg/revision/latest?cb=20250706025425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "I'm glad I arrived in time to stop that black-clad one from harming you further.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_395_screwllum_104.ogg/revision/latest?cb=20250706025427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "So, it was you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_395_danheng_117.ogg/revision/latest?cb=20250706025347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_33.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's good to see some familiar faces.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "▶ It was fortunate we found you in time. Madam Herta and I were both quite relieved, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_395_screwllum_105_m.ogg/revision/latest?cb=20250706025433",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Never thought the Express Crew would bring in a genius for backup...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "▶ Indeed. Madam Herta invited me to meet with you Nameless. Rest assured, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_395_screwllum_106_m.ogg/revision/latest?cb=20250706025439",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_35.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Things are getting more confusing by the minute...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "▶ Rest assured, (Trailblazer). Madam Herta and I have come here for the sake of Amphoreus.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_395_screwllum_107_m.ogg/revision/latest?cb=20250706025443",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_36.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "You two know this... Antikytheran ? Does he come from the same people as Councilor Lygus ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_395_zefu_108.ogg/revision/latest?cb=20250706025545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Don't worry, guard. This gentleman is an ally of the Trailblaze. Would you mind giving us a moment to speak in private?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_395_danheng_118.ogg/revision/latest?cb=20250706025348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Zeph the Guard",
+        "line": "Of course. We'll wait nearby. Please stay safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_395_zefu_109.ogg/revision/latest?cb=20250706025546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Zeph_the_Guard_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "I fully understand your situation. For now, the only thing I can do is temporarily freeze that black-clad one in place. Time is limited. So, I'll keep this brief—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_395_screwllum_108.ogg/revision/latest?cb=20250706025444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "The place where you stand, Amphoreus, is a world constructed from data and memoria, an experimental field of a certain Aeon .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_395_screwllum_109.ogg/revision/latest?cb=20250706025446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "And now, this isolated sandbox world is rapidly falling into a third Path — Destruction .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_395_screwllum_110.ogg/revision/latest?cb=20250706025447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Destruction...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_395_danheng_119.ogg/revision/latest?cb=20250706025351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Conclusion: If Amphoreus continues unchecked on this course...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_395_screwllum_111.ogg/revision/latest?cb=20250706025448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "A Lord Ravager will complete its evolution and metamorphosis, and emerge from the surging tides. The cosmos as we know it will suffer irreversible consequences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_395_screwllum_112.ogg/revision/latest?cb=20250706025450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_45.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "A Lord Ravager... Like Phantylia ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "The disaster that this Lord Ravager intends to trigger may be far more severe than the Luofu 's Stellaron Crisis. Because its goal is...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_395_screwllum_113.ogg/revision/latest?cb=20250706025452",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_46.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "A cosmic-scale disaster?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "Affirmative. If everything unfolds toward the worst possible outcome as predicted, the consequences will be unimaginable. Because the Lord Ravager's goal is...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_395_screwllum_114.ogg/revision/latest?cb=20250706025453",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_47.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "The Aeon of Erudition .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_395_screwllum_115.ogg/revision/latest?cb=20250706025455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_395_danheng_120.ogg/revision/latest?cb=20250706025353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Putting aside the complex details of the inferences involved, I have a request to make, for one of you Nameless, to stay behind on Amphoreus, acting as an informant, in order to prevent the wrath of Destruction from ravaging the cosmos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_395_screwllum_116.ogg/revision/latest?cb=20250706025457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "This world is enveloped in a \"firewall\" that defies explanation, and the flow of time here is also different from reality. Madam Herta and I can only tear open a gap and project images inside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_395_screwllum_117.ogg/revision/latest?cb=20250706025458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "However — the accidental crash landing of the Express Car notwithstanding — both of you were able to successfully land here. There must be some principle behind this we have yet to fully grasp.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_395_screwllum_118.ogg/revision/latest?cb=20250706025500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "It will take time to uncover the reason. Before then, if one of the Nameless is willing to stay and witness the fate of this world — or to push it along when necessary — it would be of great assistance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_395_screwllum_119.ogg/revision/latest?cb=20250706025502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_53.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I will shoulder this responsibility.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_395_danheng_121.ogg/revision/latest?cb=20250706025355",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_54.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Mr. Screwllum, I believe you, so I only have one thing I'd like to confirm with you. As Amphoreus is already facing its end, how can we guarantee the safety of the person who stays behind?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_395_danheng_122.ogg/revision/latest?cb=20250706025357",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_55.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Two people can stay.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Screwllum",
+                "line": "There are reasons for which I must recommend against such a course of action.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_395_screwllum_120.ogg/revision/latest?cb=20250706025504",
+                "is_unavailable": false,
+                "audio_filename": "audio_Screwllum_56.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What say you, Dan Heng?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_395_danheng_123.ogg/revision/latest?cb=20250706025358",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_57.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Mr. Screwllum, I believe you, so I only have one thing I'd like to confirm with you. As Amphoreus is already facing its end, how can we guarantee the safety of the person who stays behind?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_395_danheng_124.ogg/revision/latest?cb=20250706025401",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Look at this, if you would—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_395_screwllum_121.ogg/revision/latest?cb=20250706025505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "This Curio is called a \" Chronocognitive Anchor .\" The two of you may view it as a kind of Space Anchor in the world of Erudition .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_395_screwllum_122.ogg/revision/latest?cb=20250706025507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "As long as you carry it with you, your individual data structure will be protected and will remain unaffected by the influence of digital tsunamis. When required, it can also serve as a bridge for communications between the internal and external world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_395_screwllum_123.ogg/revision/latest?cb=20250706025509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Of course, ███ it is not ███ Curio with unlimited uses ███ may only be held by one person",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_395_screwllum_124.ogg/revision/latest?cb=20250706025511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "The connection ███ being ███ interfered with, decide ███ quickly as possible ████",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_395_screwllum_125.ogg/revision/latest?cb=20250706025513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Two ███ final ███ messages",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_395_screwllum_126.ogg/revision/latest?cb=20250706025514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "One: The Intellitron ██████ named ███████ Lygus ████ possibly █████ the primary culprit behind everything ██████",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_395_screwllum_127.ogg/revision/latest?cb=20250706025516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "Two: Herta ██ discovered a clue ██—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_395_screwllum_128.ogg/revision/latest?cb=20250706025519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Screwllum",
+        "line": "— Miss March █████ has ████ already been ████ drawn into ███ Amphoreus██",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_395_screwllum_129.ogg/revision/latest?cb=20250706025520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Screwllum_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainChronocognitive Anchor)"
+    },
+    {
+        "type": "heading",
+        "text": "Watch March 7th's experience"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Mr. Screwllum's information has left us feeling rather unsettled. It seems March 7th has now also become entangled in the events of Amphoreus."
+    },
+    {
+        "type": "condition",
+        "text": "(EnterExploratory ExcursionPath Space)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(BeginMother, Parted by the Turning of Seasons)"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Vortex of Genesis and complete the Era Nova with Phainon"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Mr. Screwllum's arrival marks a definite turning point, giving us fresh insights into Amphoreus's condition.Following his request, (Trailblazer) will stay behind in Amphoreus to adapt to changing circumstances, while I'll return to the Express as planned to regroup with the other Crew members and formulate our next course of action."
+    },
+    {
+        "type": "note",
+        "text": "(Trailblazer), at Vortex of Genesis"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "...You okay there, friend?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_40_mem_101.ogg/revision/latest?cb=20250706025739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Something seems to be bothering you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_40_mem_102.ogg/revision/latest?cb=20250706025740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_40_player_106_m.ogg/revision/latest?cb=20250706025840",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (The Vortex of Genesis... we made it back.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_40_player_107_m.ogg/revision/latest?cb=20250706025843",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Even this place has changed...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_40_player_108_m.ogg/revision/latest?cb=20250706025845",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Phainon... is he ready for Era Nova?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_40_player_109_m.ogg/revision/latest?cb=20250706025849",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_73.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I hope Dan Heng will be okay heading back on his own.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "If anything, he's the one worried about you! But I'm here to watch over you now!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_40_mem_103.ogg/revision/latest?cb=20250706025742",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_74.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Maybe Dan Heng should be here...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "...It's a bit late for that now, isn't it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_40_mem_104.ogg/revision/latest?cb=20250706025743",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No matter what, we need to see it through the end.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Yeah... we've come such a long way...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_40_mem_105.ogg/revision/latest?cb=20250706025744",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "If what that machine gentleman said is true, if Amphoreus is destined for destruction... then I'll stay by your side until the very end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter4_40_mem_106.ogg/revision/latest?cb=20250706025747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Like how you and Dan Heng treasure the Express... Amphoreus means everything to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_40_mem_107.ogg/revision/latest?cb=20250706025749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_78.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Time to see the Era Nova begin."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Right! Time to see the last Coreflame restored!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_40_mem_108.ogg/revision/latest?cb=20250706025751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_79.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Complete the Era Nova with Phainon"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Look, there's Phainon! And... wait!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_40_mem_109.ogg/revision/latest?cb=20250706025752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...Lygus?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_40_player_110_m.ogg/revision/latest?cb=20250706025851",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ( Remember... Screwllum's warning. )",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_40_player_111_m.ogg/revision/latest?cb=20250706025854",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Phainon and Lygus)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "...And you, Lord Phainon, will wield that Coreflame to bury this ancient world, plunging everything into the gray unknown—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_40_lykos_101.ogg/revision/latest?cb=20250706025601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "None of that matters now. This brutal Flame-Chase Journey has stripped away my delusions. I know the future isn't some peaceful paradise with gentle west winds, just waiting to welcome us to step in...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_40_phainon_101.ogg/revision/latest?cb=20250706025756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "If what lies ahead is a mass of chaos, I shall cut through it myself...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_40_phainon_102.ogg/revision/latest?cb=20250706025758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...and usher in the first ray of blazing sunlight.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_40_phainon_103.ogg/revision/latest?cb=20250706025800",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_40_phainon_104.ogg/revision/latest?cb=20250706025801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Is it truly you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_40_phainon_105.ogg/revision/latest?cb=20250706025802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "With one last chance to turn back, you still step forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_40_lykos_102.ogg/revision/latest?cb=20250706025602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "...How befitting of a Trailblazer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_40_lykos_103.ogg/revision/latest?cb=20250706025604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_90.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "This is the path I must take.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "As it happens, I find myself thinking the exact same thing.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_40_lykos_104.ogg/revision/latest?cb=20250706025606",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lygus_91.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Spare me your mockery.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "(chuckles) You misunderstand.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_40_lykos_105.ogg/revision/latest?cb=20250706025607",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lygus_92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As our world nears its end, the ones who walk the infinite paths have embraced their destiny...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_40_lykos_106.ogg/revision/latest?cb=20250706025608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As the Theoros, it is my duty to witness the world's future and oversee this final Coreflame ritual on their behalf—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_40_lykos_107.ogg/revision/latest?cb=20250706025610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "The Trial of Worldbearing — The ritual of Era Nova.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_40_lykos_108.ogg/revision/latest?cb=20250706025611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_95.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Screwllum says you're behind all this."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_40_phainon_106.ogg/revision/latest?cb=20250706025804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "▶ Ah, I see. So you met my kindred spirit before I could erase his traces.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_40_lykos_109_m.ogg/revision/latest?cb=20250706025613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ (Trailblazer), what are you saying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_40_phainon_107_m.ogg/revision/latest?cb=20250706025806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_98.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This one knows more than he's telling."
+    },
+    {
+        "type": "note",
+        "text": "Time to make him talk!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_40_phainon_108.ogg/revision/latest?cb=20250706025808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I've had my suspicions. How does a native Antikytheran know so much about repairing vehicles from beyond the sky?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_40_phainon_109.ogg/revision/latest?cb=20250706025809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Lord Lygus — How much do you truly know about Era Nova? Tell us everything!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_40_phainon_110.ogg/revision/latest?cb=20250706025810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_40_lykos_110.ogg/revision/latest?cb=20250706025615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Very well, I need no longer maintain this Theoros masquerade. You seek truth, Lord Phainon — and truth you shall have.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_40_lykos_111.ogg/revision/latest?cb=20250706025616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As you know, when the old gods fell, someone had to bear their broken pillars, to fill the vacant seats. Those who would assume divine authority must prove themselves through trials.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_40_lykos_112.ogg/revision/latest?cb=20250706025618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Yet, for Kephale's demigods, the possibility of overcoming the trials has forever been nonexistent. For the \"Worldbearing\" trial is the divine duty itself — bringing forth the \"Era Nova\" and bearing its weight is an endless ordeal, ceasing only upon collapse.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_40_lykos_113.ogg/revision/latest?cb=20250706025619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Precisely: The \"Era Nova\" ritual is not something that can be completed in an instant. No, but a long and arduous journey. While the sacrificial journeys of other demigods conclude in this world, Kephale must shoulder the gods' Coreflames, bear the memories of all worlds, and stand unwavering...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_40_lykos_114.ogg/revision/latest?cb=20250706025620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Until the next world... when the black tide consumes the Bearer and all that they carry, leaving nothing behind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_40_lykos_115.ogg/revision/latest?cb=20250706025621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Unless their Coreflame finds a new bearer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_40_phainon_112.ogg/revision/latest?cb=20250706025812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "The holy flame that illuminates all worlds rests in your hands. All that remains is one choice...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_40_lykos_116.ogg/revision/latest?cb=20250706025623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Nurture it, pass it on to future generations, or extinguish it here and now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_40_lykos_117.ogg/revision/latest?cb=20250706025624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Deliverer, the fate of all worlds rests in your hands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_40_lykos_118.ogg/revision/latest?cb=20250706025625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Enough testing. I've made my decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_40_phainon_113.ogg/revision/latest?cb=20250706025814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "But before I ignite the dawn of the next world, you need to promise me something — two things, actually.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_40_phainon_114.ogg/revision/latest?cb=20250706025815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Speak your terms.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_40_lykos_119.ogg/revision/latest?cb=20250706025627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Promise me this: Professor Anaxa 's vision of the \"New World\" is absolute. The world will be reborn from my memories, all souls, living and dead, will return as the first humans, unchanged from their past lives...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_40_phainon_115.ogg/revision/latest?cb=20250706025817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "And my friends — the fallen demigods, they shall transcend the cycle to become new Titans. Our heroes shall not have died in vain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_40_phainon_116.ogg/revision/latest?cb=20250706025818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Of course. This I can guarantee.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_40_lykos_120.ogg/revision/latest?cb=20250706025628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Good. The second one—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_40_phainon_117.ogg/revision/latest?cb=20250706025819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Promise me (Trailblazer) can return safely to ( his / her ) homeland, unbound by Amphoreus's laws.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_40_phainon_118_m.ogg/revision/latest?cb=20250706025823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "▶ ...My apologies, but I cannot promise this. As you mentioned, ( he / she ) now bears the Time Titan's authority...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_40_lykos_121_m.ogg/revision/latest?cb=20250706025630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "▶ ( His / Her ) bonds with this world run too deep.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_40_lykos_122_m.ogg/revision/latest?cb=20250706025635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_40_phainon_119.ogg/revision/latest?cb=20250706025824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_122.ogg"
+    },
+    {
+        "type": "note",
+        "text": "No need to worry, I have a plan."
+    },
+    {
+        "type": "note",
+        "text": "Trust me, initiate the Era Nova."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "▶ Well... I stand corrected. An outsider like ( him / her ) does have ways to defy destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_40_lykos_123_m.ogg/revision/latest?cb=20250706025638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Thank you, my friends, for everything you've done for this world. Though the next world may not remember, I shall never forget.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_40_phainon_120.ogg/revision/latest?cb=20250706025826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As the Theoros, I declare: Amphoreus has determined her path.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_40_lykos_124.ogg/revision/latest?cb=20250706025640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Step forward, heroes — follow her path and see it through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_40_lykos_125.ogg/revision/latest?cb=20250706025641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_126.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Complete Era Nova"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Phainon, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Without you, we could never have reached our prophesied tomorrow...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_40_phainon_121.ogg/revision/latest?cb=20250706025827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Thank you for walking this path with me to the end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_40_phainon_122.ogg/revision/latest?cb=20250706025829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_128.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Lygus, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As our world draws its final breath... I stand before you as the Theoros.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_40_lykos_126.ogg/revision/latest?cb=20250706025643",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_129.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Before we begin... there's something I need to know.",
+        "children": [
+            {
+                "type": "choice",
+                "text": "Who are you, really?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "Allow me to reintroduce myself. I am Lycurgus, once an honored elder of the Okhema Council. As the Theoros, I have sworn to watch over and protect every citizen of Okhema until the very end.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter4_40_lykos_127.ogg/revision/latest?cb=20250706025644",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_130.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "Of course, that alone won't satisfy your curiosity. So let me share something more... something that means little to Amphoreus, but everything to a traveler like yourself.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_40_lykos_128.ogg/revision/latest?cb=20250706025646",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_131.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "I, Lycurgus, am one of the Erudition's many pathstriders . Through me, Nous keeps watch over this realm, working to save Amphoreus from decay.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_40_lykos_129.ogg/revision/latest?cb=20250706025647",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_132.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "I don't expect you to trust me based on words alone. But believe this much: When you look at the bigger picture, we're walking the same path, you and I.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_40_lykos_130.ogg/revision/latest?cb=20250706025649",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_133.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "What aren't you telling me?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "Ah... While the holy city may honor me, I'm but a humble speck before the cosmos. My reach... is limited.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_40_lykos_131.ogg/revision/latest?cb=20250706025650",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_134.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "Your doubts are natural. Let me assure you of this—",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_40_lykos_132.ogg/revision/latest?cb=20250706025651",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_135.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "What's done, I've told truthfully. What's to come, I'll witness fairly. My conscience is clear... to my role as the Theoros, to Amphoreus and her destiny.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_40_lykos_133.ogg/revision/latest?cb=20250706025653",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_136.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "What's your connection to Screwllum?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "I believe, all synthetic life shares a common source — we're all children of the universe's eternal mathematical law.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_40_lykos_134.ogg/revision/latest?cb=20250706025654",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_137.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "So you see, the answer is simple: that brilliant mind is my kindred, a \"brother,\" if you will.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_40_lykos_135.ogg/revision/latest?cb=20250706025656",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_138.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Let's leave it at that. Time to complete the ritual.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Lygus",
+                        "line": "The world will be moved by your sacrifice, Trailblazer.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_40_lykos_136.ogg/revision/latest?cb=20250706025657",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Lygus_139.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's time to complete the ritual.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "The world will be moved by your sacrifice, Trailblazer.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_40_lykos_137.ogg/revision/latest?cb=20250706025658",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lygus_140.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Complete Era Nova"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Behold, O gods! Amphoreus has achieved her victory, and the Era Nova approaches—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_40_lykos_138.ogg/revision/latest?cb=20250706025700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "The radiant soul has arrived, having walked through the bustling nights, bearing the golden fire and blood, stepping with pride into daylight—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_40_lykos_139.ogg/revision/latest?cb=20250706025702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "He is the pure child, walking upon the path of yesterday, today, and tomorrow—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_40_tribbie_101.ogg/revision/latest?cb=20250706025856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "He is the first to be born, first to be named among the nameless—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter4_40_castorice_101.ogg/revision/latest?cb=20250706025550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Eternal in form, limitless in reach, he treads the endless night underfoot—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_40_anaxa_101.ogg/revision/latest?cb=20250706025549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Greatest of kings, protector of the displaced, raising humanity's children above their adversaries—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_40_mydei_101.ogg/revision/latest?cb=20250706025754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "The firmament of molten gold courses through his very bones and flesh—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_40_hyacine_101.ogg/revision/latest?cb=20250706025559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cipher",
+        "line": "The greatest of schemes reveal against his breath and words—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_40_cipher_101.ogg/revision/latest?cb=20250706025553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cipher_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "In the golden lakes of that beautiful new world, he shall wash himself clean—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter4_40_aglaea_101.ogg/revision/latest?cb=20250706025547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "There, finish what we first... and last wished for...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_40_cyrene_140.ogg/revision/latest?cb=20250706025556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cyrene_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "...To write an ending unlike any before for this world we so deeply love.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_40_cyrene_141.ogg/revision/latest?cb=20250706025558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cyrene_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_40_phainon_123.ogg/revision/latest?cb=20250706025830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Come, (Trailblazer), join me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_40_phainon_124_m.ogg/revision/latest?cb=20250706025835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_153.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Restore the final Coreflame with Phainon."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The time has come for us all to face oblivion...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_40_phainon_125.ogg/revision/latest?cb=20250706025836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...or embark on one final grand journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_40_phainon_126.ogg/revision/latest?cb=20250706025838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_155.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "Ha, ha, ha. What a magnificent and epic adventure!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "The Hero's Journey reaches its end, and the truth behind the Era Nova is about to be revealed... Is that truly the case?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "Here, as the Theoros, allow me to humbly request that you find a moment to listen to what I have witnessed.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lygus",
+                "line": "This is about the nature of Amphoreus itself: a story of \"the prime mover of life.\"",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Watch \"Immersive Theater\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "My, what a broad topic this is. Where shall we start?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_40_lykos_140.ogg/revision/latest?cb=20250706025704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Got it. Let's start at the very beginning. The big bang, the birth of particles, the emergence of all things...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_40_lykos_141.ogg/revision/latest?cb=20250706025705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Just kidding. What I mean to say is that time, space, matter... all concepts exist solely because we perceive them. This is called the \"Erudition.\" Without it, the universe would merely be a chaotic book, written by chance, yet unread by anyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_40_lykos_142.ogg/revision/latest?cb=20250706025707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As your acquaintance Lord Anaxagoras suggested: everything in Amphoreus exists through Nouspores, living in the memories of those yet to come.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_40_lykos_143.ogg/revision/latest?cb=20250706025709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "How beautifully it aligns, revealing universal truth in such simple terms. Only he could solve the riddle of \"what exactly are we\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_40_lykos_144.ogg/revision/latest?cb=20250706025710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Oh, but you'll remember, even as the embodiment of Reason, one mystery remained beyond his grasp...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_40_lykos_145.ogg/revision/latest?cb=20250706025712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "\"If that is the case, whose memories did the very first Nouspore sprout from?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_40_cercesnpc_101.ogg/revision/latest?cb=20250706025551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "As Sages across ages have asked the gods.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_40_lykos_146.ogg/revision/latest?cb=20250706025713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "What is the \"prime mover of life\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter4_40_lykos_147.ogg/revision/latest?cb=20250706025714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "But let's set aside the Grove 's teachings for now, look further, past Amphoreus, to what they call the forbidden realms beyond the sky...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_40_lykos_148.ogg/revision/latest?cb=20250706025715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Do you know of the \" Scholars' Strife \"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_40_lykos_149.ogg/revision/latest?cb=20250706025717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "During that grand yet brutal war waged in the name of the Erudition, a genius's legacy was abandoned, strewn across the cosmos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_40_lykos_152.ogg/revision/latest?cb=20250706025718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "The \" Scepters ,\" a macrocosmic computational array beyond mortal comprehension... Made to emulate the Aeon's thoughts, it became part of the Aeon's cognition at birth. Scattered throughout the cosmos, these arrays act as Celestial-Body Neurons for Nous .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_40_lykos_153.ogg/revision/latest?cb=20250706025719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "But regrettably, as everyone knows, the Erudition forsook them all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_40_lykos_154.ogg/revision/latest?cb=20250706025720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "But what nobody knows is that, though forgotten, they never stopped seeking the divine answer. A question that survived war and disaster, stumping even the greatest minds — including both Mechanical Emperors...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_40_lykos_155.ogg/revision/latest?cb=20250706025721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Now, we come to the real truth of Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_40_lykos_156.ogg/revision/latest?cb=20250706025722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "What if — hypothetically — a Scepter found the answer to \"the prime mover of life\" ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_40_lykos_157.ogg/revision/latest?cb=20250706025723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "If through endless solitary extrapolations in the cosmic cold, the one deemed as a failure by the Aeon of Erudition found proof through the ages...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_40_lykos_158.ogg/revision/latest?cb=20250706025726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "What would happen? Perhaps the answer is simpler than you'd think.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_40_lykos_159.ogg/revision/latest?cb=20250706025728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "From a perishing neuron, it evolved into true \"life,\" reborn through the gaze of another Aeon .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_40_lykos_160.ogg/revision/latest?cb=20250706025729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "...This is a tale from the distant past, unknown to all, even unheard by the greatest geniuses.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_40_lykos_161.ogg/revision/latest?cb=20250706025730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Now, let's leave the Scepter's story here. Returning to where we began: What is \"the prime mover of life\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_40_lykos_162.ogg/revision/latest?cb=20250706025731",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Actually, you know the answer better than you realize.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_40_lykos_163.ogg/revision/latest?cb=20250706025732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "It's been by your side, accompanying you throughout this long journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_40_lykos_164.ogg/revision/latest?cb=20250706025734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Right now, it awaits you ahead...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_40_lykos_165.ogg/revision/latest?cb=20250706025736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "In that brave new world, beyond the end of Genesis.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_40_lykos_166.ogg/revision/latest?cb=20250706025738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_181.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter Exploratory ExcursionImmersive Theater: Hero's Journey)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(BeginHero, Return to That Peace of Home)"
+            }
+        ]
+    }
+]

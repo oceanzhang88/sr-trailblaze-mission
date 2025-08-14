@@ -1,0 +1,284 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In the Sweltering Morning Sun - Roads to the Past Have Long Been Closed - Dialogue Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+    :root {
+        --nav-width: 320px;
+        /* Light Theme Vars */
+        --accent-color-light: #007bff;
+        --text-primary-light: #212529;
+        --text-secondary-light: #353a3f;
+        --bg-main-light: #ffffff;
+        --bg-nav-light: #f8f9fa;
+        --border-color-light: #dee2e6;
+        --note-bg-light: #f1f3f5;
+        --speaker-color-light: #0056b3;
+        --choice-color-light: #0b7285;
+        --unavailable-color-light: #dc3545;
+        --cutscene-text-light: #343a40;
+        --cutscene-bg-light: #f8f9fa;
+        --info-bg-light: #f8f9fa;
+        --info-text-light: #495057;
+        /* Dark Theme Vars */
+        --accent-color-dark: #00aaff;
+        --text-primary-dark: #e0e0e0;
+        --text-secondary-dark: #888888;
+        --bg-main-dark: #121212;
+        --bg-nav-dark: #1e1e1e;
+        --border-color-dark: #333333;
+        --note-bg-dark: #222222;
+        --speaker-color-dark: #80dfff;
+        --choice-color-dark: #22b8cf;
+        --unavailable-color-dark: #e57373;
+        --cutscene-text-dark: #ced4da;
+        --cutscene-bg-dark: #1c1c1c;
+        --info-bg-dark: #2c2c2c;
+        --info-text-dark: #adb5bd;
+    }
+    body {
+        --accent-color: var(--accent-color-light);
+        --text-primary: var(--text-primary-light);
+        --text-secondary: var(--text-secondary-light);
+        --bg-main: var(--bg-main-light);
+        --bg-nav: var(--bg-nav-light);
+        --border-color: var(--border-color-light);
+        --note-bg: var(--note-bg-light);
+        --speaker-color: var(--speaker-color-light);
+        --choice-color: var(--choice-color-light);
+        --unavailable-color: var(--unavailable-color-light);
+        --cutscene-text: var(--cutscene-text-light);
+        --cutscene-bg: var(--cutscene-bg-light);
+        --info-bg: var(--info-bg-light);
+        --info-text: var(--info-text-light);
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background-color: var(--bg-main);
+        color: var(--text-primary);
+        transition: background-color 0.2s, color 0.2s;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        overflow: hidden;
+    }
+    body.dark-theme {
+        --accent-color: var(--accent-color-dark);
+        --text-primary: var(--text-primary-dark);
+        --text-secondary: var(--text-secondary-dark);
+        --bg-main: var(--bg-main-dark);
+        --bg-nav: var(--bg-nav-dark);
+        --border-color: var(--border-color-dark);
+        --note-bg: var(--note-bg-dark);
+        --speaker-color: var(--speaker-color-dark);
+        --choice-color: var(--choice-color-dark);
+        --unavailable-color: var(--unavailable-color-dark);
+        --cutscene-text: var(--cutscene-text-dark);
+        --cutscene-bg: var(--cutscene-bg-dark);
+        --info-bg: var(--info-bg-dark);
+        --info-text: var(--info-text-dark);
+    }
+
+    .nav-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index: 999; opacity: 0; visibility: hidden; transition: opacity 0.3s ease; }
+    body.nav-open .nav-overlay { opacity: 1; visibility: visible; }
+    .mission-nav { width: var(--nav-width); height: 100vh; position: fixed; top: 0; left: 0; background-color: var(--bg-nav); border-right: 1px solid var(--border-color); z-index: 1000; transform: translateX(-100%); transition: transform 0.3s ease, background-color 0.2s; display: flex; flex-direction: column; }
+    body.nav-open .mission-nav { transform: translateX(0); box-shadow: 3px 0 15px rgba(0,0,0,0.1); }
+    .nav-header { padding: 0 1.5em; flex-shrink: 0; }
+    .nav-scroll-area { flex-grow: 1; overflow-y: auto; padding: 0 1.5em; }
+    .nav-footer { padding: 1em 1.5em; flex-shrink: 0; border-top: 1px solid var(--border-color); }
+    .page-header { display: flex; align-items: center; padding: 0.5em 1em; background-color: var(--bg-nav); border-bottom: 1px solid var(--border-color); position: sticky; top: 0; z-index: 500; }
+    .nav-toggle { background: none; border: none; font-size: 1.5rem; cursor: pointer; padding: 0.2em 0.5em; color: var(--text-primary); }
+    
+    /* --- MODIFIED: Mobile-specific layout adjustments --- */
+    /* By default, main-wrapper is the primary scroll container */
+    .main-wrapper {
+        flex-grow: 1;
+        overflow-y: auto;
+        height: 100vh; /* Ensure it takes up full height to allow scrolling */
+        -webkit-overflow-scrolling: touch; /* Smoother scrolling on iOS */
+    }
+
+    @media (min-width: 900px) {
+        .page-header { display: none; }
+        body { display: flex; }
+        .mission-nav { transform: translateX(0); position: relative; }
+        /* --- MODIFIED: On desktop, the main-wrapper no longer needs a fixed height, as it is part of a flex container --- */
+        .main-wrapper { height: auto; }
+        main.container { margin: 0 auto; }
+    }
+
+    .theme-toggle { width: 100%; background-color: var(--note-bg); border: 1px solid var(--border-color); color: var(--text-primary); padding: 0.6em; border-radius: 8px; cursor: pointer; font-size: 1rem; text-align: center; }
+    .theme-toggle .theme-icon-dark { display: none; }
+    .theme-toggle .theme-icon-light { display: inline; }
+    body.dark-theme .theme-toggle .theme-icon-dark { display: inline; }
+    body.dark-theme .theme-toggle .theme-icon-light { display: none; }
+
+    .mission-nav h2 { font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem; }
+    .mission-nav ul { list-style: none; padding: 0; margin: 0; }
+    .mission-nav .nav-title { font-weight: 500; cursor: pointer; user-select: none; display: flex; align-items: center; padding: 0.6em 0; }
+    .mission-nav .nav-title::before { content: '▶'; font-size: 0.6em; margin-right: 0.6em; transition: transform 0.2s; }
+    .mission-nav .nav-title:not(.collapsed)::before { transform: rotate(90deg); }
+    .mission-nav .mission-list { padding-left: 1em; border-left: 1px solid var(--border-color); max-height: 2000px; overflow: hidden; transition: max-height 0.3s ease-in-out; }
+    .mission-nav .mission-list.collapsed { max-height: 0; }
+    .mission-nav a { display: block; padding: 0.5em 0.8em; color: var(--text-secondary); text-decoration: none; font-size: 0.9rem; border-radius: 6px;}
+    .mission-nav a:hover { background-color: var(--note-bg); color: var(--text-primary); }
+    .mission-nav a.current-mission { font-weight: 600; color: var(--accent-color); }
+
+    main.container { padding: 2em; flex-grow: 1; max-width: 800px; }
+    h1 { font-weight: 700; font-size: 2rem; margin-top: 0; }
+    h3 { font-size: 1.25rem; font-weight: 600; text-align: center; text-transform: uppercase; letter-spacing: 1px; color: var(--text-secondary); margin: 4em 0 2em 0; border-bottom: 1px solid var(--border-color); padding-bottom: 0.6em; }
+    
+    .section-header { text-align: center; font-weight: 500; font-size: 0.9rem; color: var(--text-secondary); margin: 2.5em 0 1em 0; display: flex; align-items: center; }
+    .section-header::before, .section-header::after { content: ''; flex-grow: 1; border-bottom: 1px solid var(--border-color); }
+    .section-header::before { margin-right: 0.8em; }
+    .section-header::after { margin-left: 0.8em; }
+    
+    .mission-description-box { background-color: var(--bg-nav); border: 1px solid var(--border-color); border-radius: 8px; margin: 2em 0; }
+    .mission-description-title { font-weight: 600; padding: 0.8em 1.2em; border-bottom: 1px solid var(--border-color); display: flex; align-items: center; }
+    .mission-description-title::before { content: ''; display: inline-block; width: 20px; height: 20px; margin-right: 0.7em; background-image: url('https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/UI_Trailblaze_Mission.png'); background-size: contain; background-repeat: no-repeat; }
+    .mission-description-content { padding: 1.2em; color: var(--text-secondary); line-height: 1.7; white-space: pre-line; }
+    
+    .condition-item { text-align: center; color: var(--text-secondary); margin: 0.1em 0; font-size: 0.85rem; white-space: pre-line; }
+
+    .dialogue-content-block ul.node-list { list-style-type: none; padding: 0; margin: 1em 0; }
+    .li-dialogue { padding-left: 1em; border-left: 2px solid var(--border-color); list-style-type: none;}
+    .dialogue-item { display: flex; align-items: flex-start; margin: 0.75em 0; }
+    .speaker { color: var(--speaker-color); font-weight: 600; }
+    .audio-cell { flex-shrink: 0; width: 40px; padding-top: 2px; }
+    .play-button { background: transparent; border: 1px solid var(--border-color); color: var(--text-secondary); cursor: pointer; width: 28px; height: 28px; border-radius: 50%; }
+    .li-choice { margin: 0.5em 0 0.5em 3.5em; color: var(--choice-color); list-style-type: none;}
+    .li-dialogue-unavailable .dialogue-item { color: var(--unavailable-color); text-decoration: line-through; opacity: 0.8; }
+    .li-dialogue-unavailable .speaker { color: var(--unavailable-color); }
+    .li-dialogue-unavailable::before { content: '❌'; margin-left: -2.3em; margin-right: 1em; float: left; text-decoration: none; opacity: 0.8; }
+
+    .cutscene-block { margin: 2em auto; padding: 0em 0em; background-color: var(--cutscene-bg); border: 1px solid var(--border-color); border-radius: 8px; max-width: 85%; font-family: 'Lora', serif; }
+    .cutscene-block .node-list { margin: 0; }
+    .cutscene-block .li-dialogue { border: none; padding: 0; margin-bottom: 0.85em; text-align: center; list-style-type: none; line-height: 1.6; }
+    .cutscene-block .li-dialogue:last-child { margin-bottom: 0; }
+    .cutscene-block .dialogue-item { display: inline; justify-content: center; }
+    .cutscene-block .text-cell { color: var(--cutscene-text); }
+    .cutscene-block .speaker { color: var(--text-secondary); font-weight: 500; font-style: italic; font-size: 1em; }
+    .cutscene-block .audio-cell { display: none; }
+
+    .note-block,
+    .tutorial-container dt,
+    .tutorial-container dd dd {
+        margin: 0.3em auto;
+        padding: 0.1em 0em;
+        background-color: var(--info-bg);
+        border-radius: 4px;
+        max-width: 80%;
+        text-align: center;
+        font-size: 0.9rem;
+        color: var(--info-text);
+        border: none;
+    }
+    body.dark-theme .note-block,
+    body.dark-theme .tutorial-container dt,
+    body.dark-theme .tutorial-container dd dd {
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+    .note-block p { margin: 0.3em 0em; padding: 0.3em; }
+    .tutorial-container { margin: 2em 0; }
+    .tutorial-container dl, .tutorial-container dd { margin: 0; padding: 0; border: none; list-style-type: none; }
+    .tutorial-container .text-highlight { color: var(--accent-color); font-weight: 500; }
+
+    </style>
+</head>
+<body>
+    
+    <nav class='mission-nav'>
+        <div class='nav-header'>
+            <h2>All Missions</h2>
+        </div>
+        <div class='nav-scroll-area'>
+            <ul><li><span class='nav-title collapsed' data-target='chapter-0'>Herta Space Station</span><ul id='chapter-0' class='mission-list collapsed'><li><span class='nav-title collapsed' data-target='sub-chapter-0-0'>Today Is Yesterday's Tomorrow</span><ul id='sub-chapter-0-0' class='mission-list collapsed'><li><a href='Today_Is_Yesterdays_Tomorrow_-_Chaos_in_the_Deep.html' >Chaos in the Deep</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_Eye_of_the_Storm.html' >Eye of the Storm</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_A_Moment_of_Peace.html' >A Moment of Peace</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_Lingering_Shadows.html' >Lingering Shadows</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_Simulated_Universe_First_Closed_Beta.html' >Simulated Universe: First Closed Beta</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_The_Voyage_Continues.html' >The Voyage Continues</a></li><li><a href='Today_Is_Yesterdays_Tomorrow_-_Drifting_Between_the_Stars.html' >Drifting Between the Stars</a></li></ul></li></ul></li><li><span class='nav-title ' data-target='chapter-1'>Jarilo-VI</span><ul id='chapter-1' class='mission-list '><li><span class='nav-title collapsed' data-target='sub-chapter-1-0'>In the Withering Wintry Night</span><ul id='sub-chapter-1-0' class='mission-list collapsed'><li><a href='In_the_Withering_Wintry_Night_-_A_Grand_Cool_Adventure.html' >A Grand Cool Adventure</a></li><li><a href='In_the_Withering_Wintry_Night_-_Travelers_on_a_Winter_Night.html' >Travelers on a Winter Night</a></li><li><a href='In_the_Withering_Wintry_Night_-_Everwinter_Night.html' >Everwinter Night</a></li><li><a href='In_the_Withering_Wintry_Night_-_You_Can_Run,_But_You_Cant_Hide.html' >You Can Run, But You Can't Hide</a></li><li><a href='In_the_Withering_Wintry_Night_-_Hide-and-seek.html' >Hide-and-seek</a></li><li><a href='In_the_Withering_Wintry_Night_-_The_Eighth_and_Final_Rule.html' >The Eighth and Final Rule</a></li><li><a href='In_the_Withering_Wintry_Night_-_Long_Wait_for_the_Blades_Edge.html' >Long Wait for the Blade's Edge</a></li><li><a href='In_the_Withering_Wintry_Night_-_Trailblaze_Level.html' >Trailblaze Level</a></li><li><a href='In_the_Withering_Wintry_Night_-_Ones_Fallen_into_the_Abyss.html' >Ones Fallen into the Abyss</a></li><li><a href='In_the_Withering_Wintry_Night_-_A_Sunset_Rendezvous.html' >A Sunset Rendezvous</a></li><li><a href='In_the_Withering_Wintry_Night_-_The_Past_Will_Return_as_an_Avalanche.html' >The Past Will Return as an Avalanche</a></li><li><a href='In_the_Withering_Wintry_Night_-_Lying_in_Rust.html' >Lying in Rust</a></li><li><a href='In_the_Withering_Wintry_Night_-_To_Rot_or_to_Burn.html' >To Rot or to Burn</a></li><li><a href='In_the_Withering_Wintry_Night_-_Not_Good_With_Farewells.html' >Not Good With Farewells</a></li></ul></li><li><span class='nav-title ' data-target='sub-chapter-1-1'>In the Sweltering Morning Sun</span><ul id='sub-chapter-1-1' class='mission-list '><li><a href='In_the_Sweltering_Morning_Sun_-_Equilibrium_Level.html' >Equilibrium Level</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Cleanse_in_the_Darkness_Outside.html' >Cleanse in the Darkness Outside</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Unattainable_Idol.html' >Unattainable Idol</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Young_Guard.html' >Young Guard</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Soldiers_Stay_Silent.html' >Soldiers Stay Silent</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_The_Stars_Are_Cold_Toys.html' >The Stars Are Cold Toys</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Roads_to_the_Past_Have_Long_Been_Closed.html' class="current-mission">Roads to the Past Have Long Been Closed</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_The_Dawn_Here....html' >The Dawn Here...</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_The_Return.html' >The Return</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_In_the_Dangerous_Muddy_Swamp.html' >In the Dangerous Muddy Swamp</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_No_Time_for_Me,_My_Friend.html' >No Time for Me, My Friend</a></li><li><a href='In_the_Sweltering_Morning_Sun_-_Silent_Galaxy.html' >Silent Galaxy</a></li></ul></li></ul></li><li><span class='nav-title collapsed' data-target='chapter-2'>The Xianzhou Luofu</span><ul id='chapter-2' class='mission-list collapsed'><li><span class='nav-title collapsed' data-target='sub-chapter-2-0'>Windswept Wanderlust</span><ul id='sub-chapter-2-0' class='mission-list collapsed'><li><a href='Windswept_Wanderlust_-_An_Invitation_Without_Proffer.html' >An Invitation Without Proffer</a></li><li><a href='Windswept_Wanderlust_-_Amidst_the_Mara-Struck.html' >Amidst the Mara-Struck</a></li><li><a href='Windswept_Wanderlust_-_Devising_Stratagems.html' >Devising Stratagems</a></li><li><a href='Windswept_Wanderlust_-_Scattered_Memories_of_Hooded_Past.html' >Scattered Memories of Hooded Past</a></li><li><a href='Windswept_Wanderlust_-_The_Hound_Chases_the_Fox.html' >The Hound Chases the Fox</a></li><li><a href='Windswept_Wanderlust_-_Stars_Spun,_Prescience_Sprung.html' >Stars Spun, Prescience Sprung</a></li><li><a href='Windswept_Wanderlust_-_New_Friends_Bring_New_Joy.html' >New Friends Bring New Joy</a></li><li><a href='Windswept_Wanderlust_-_Omniscient_Inquiry_of_Arcana.html' >Omniscient Inquiry of Arcana</a></li><li><a href='Windswept_Wanderlust_-_Wood_Sprouts_Anew,_Fate_Tilts_Askew.html' >Wood Sprouts Anew, Fate Tilts Askew</a></li><li><a href='Windswept_Wanderlust_-_Tranquil_Amidst_Turmoil.html' >Tranquil Amidst Turmoil</a></li><li><a href='Windswept_Wanderlust_-_Humming_Antlers,_Entwined_Horns.html' >Humming Antlers, Entwined Horns</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-2-1'>Topclouded Towerthrust</span><ul id='sub-chapter-2-1' class='mission-list collapsed'><li><a href='Topclouded_Towerthrust_-_Desolate_Depths_of_Despair.html' >Desolate Depths of Despair</a></li><li><a href='Topclouded_Towerthrust_-_Dragon_Mislay,_Dreams_Astray.html' >Dragon Mislay, Dreams Astray</a></li><li><a href='Topclouded_Towerthrust_-_Oblation_Obtained,_Order_Ordained.html' >Oblation Obtained, Order Ordained</a></li><li><a href='Topclouded_Towerthrust_-_A_Dragon_Gallant,_Its_Ocean_Distant.html' >A Dragon Gallant, Its Ocean Distant</a></li><li><a href='Topclouded_Towerthrust_-_Demise_of_Immortality,_Finale_of_Calamity.html' >Demise of Immortality, Finale of Calamity</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-2-2'>Karmic Clouds Faded, War Banners Folded</span><ul id='sub-chapter-2-2' class='mission-list collapsed'><li><a href='Karmic_Clouds_Faded,_War_Banners_Folded_-_Obsequies_Performed,_A_Long_Road_Ahead.html' >Obsequies Performed, A Long Road Ahead</a></li></ul></li></ul></li><li><span class='nav-title collapsed' data-target='chapter-3'>Penacony</span><ul id='chapter-3' class='mission-list collapsed'><li><span class='nav-title collapsed' data-target='sub-chapter-3-0'>The Sound and the Fury</span><ul id='sub-chapter-3-0' class='mission-list collapsed'><li><a href='The_Sound_and_the_Fury_-_Long_Days_Journey_Into_Night.html' >Long Day's Journey Into Night</a></li><li><a href='The_Sound_and_the_Fury_-_The_Knocking_at_Ungodly_Hours.html' >The Knocking at Ungodly Hours</a></li><li><a href='The_Sound_and_the_Fury_-_The_Youths_Who_Chase_Dreams.html' >The Youths Who Chase Dreams</a></li><li><a href='The_Sound_and_the_Fury_-_Sleepless_Night.html' >Sleepless Night</a></li><li><a href='The_Sound_and_the_Fury_-_Tales_from_the_Golden_Age.html' >Tales from the Golden Age</a></li><li><a href='The_Sound_and_the_Fury_-_Good_Omen,_My_Friend.html' >Good Omen, My Friend</a></li><li><a href='The_Sound_and_the_Fury_-_Lullaby_of_the_North_Wind.html' >Lullaby of the North Wind</a></li><li><a href='The_Sound_and_the_Fury_-_Gentleness,_the_Name_of_Nocturne.html' >Gentleness, the Name of Nocturne</a></li><li><a href='The_Sound_and_the_Fury_-_Through_a_Glass_Darkly.html' >Through a Glass Darkly</a></li><li><a href='The_Sound_and_the_Fury_-_Should_One_Awaken_at_Midnight.html' >Should One Awaken at Midnight</a></li><li><a href='The_Sound_and_the_Fury_-_Whodunit.html' >Whodunit</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-3-1'>Cat Among Pigeons</span><ul id='sub-chapter-3-1' class='mission-list collapsed'><li><a href='Cat_Among_Pigeons_-_The_Devil_in_Velvet.html' >The Devil in Velvet</a></li><li><a href='Cat_Among_Pigeons_-_Lost_Generation.html' >Lost Generation</a></li><li><a href='Cat_Among_Pigeons_-_Double_Indemnity.html' >Double Indemnity</a></li><li><a href='Cat_Among_Pigeons_-_When_the_Sacred_Ginmill_Closes.html' >When the Sacred Ginmill Closes</a></li><li><a href='Cat_Among_Pigeons_-_Heaven_is_a_Place_on_Earth.html' >Heaven is a Place on Earth</a></li><li><a href='Cat_Among_Pigeons_-_Why_Do_the_Heathen_Rage.html' >Why Do the Heathen Rage?</a></li><li><a href='Cat_Among_Pigeons_-_The_Tell-Tale_Heart.html' >The Tell-Tale Heart</a></li><li><a href='Cat_Among_Pigeons_-_All_the_Sad_Tales.html' >All the Sad Tales</a></li><li><a href='Cat_Among_Pigeons_-_A_Walk_Among_the_Tombstones.html' >A Walk Among the Tombstones</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-3-2'>In Our Time</span><ul id='sub-chapter-3-2' class='mission-list collapsed'><li><a href='In_Our_Time_-_The_Great_Train_Robbery.html' >The Great Train Robbery</a></li><li><a href='In_Our_Time_-_The_Fool_Always_Rings_Twice.html' >The Fool Always Rings Twice</a></li><li><a href='In_Our_Time_-_Small_Town_Grotesque.html' >Small Town Grotesque</a></li><li><a href='In_Our_Time_-_The_Public_Enemy.html' >The Public Enemy</a></li><li><a href='In_Our_Time_-_Bullet_&_Brain.html' >Bullet & Brain</a></li><li><a href='In_Our_Time_-_The_Only_Path_to_Tomorrow.html' >The Only Path to Tomorrow</a></li><li><a href='In_Our_Time_-_Seabiscuit.html' >Seabiscuit</a></li><li><a href='In_Our_Time_-_Beauty_and_Destruction.html' >Beauty and Destruction</a></li><li><a href='In_Our_Time_-_Then_Wake_to_Weep.html' >Then Wake to Weep</a></li><li><a href='In_Our_Time_-_Everything_that_Rises_Must_Converge.html' >Everything that Rises Must Converge</a></li><li><a href='In_Our_Time_-_The_Sun_Also_Rises.html' >The Sun Also Rises</a></li><li><a href='In_Our_Time_-_And_on_the_Eighth_Day.html' >And on the Eighth Day</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-3-3'>Farewell, Penacony</span><ul id='sub-chapter-3-3' class='mission-list collapsed'><li><a href='Farewell,_Penacony_-_Unconquered.html' >Unconquered</a></li><li><a href='Farewell,_Penacony_-_All_About_Eve.html' >All About Eve</a></li><li><a href='Farewell,_Penacony_-_Rivers_Run_Without_Return.html' >Rivers Run Without Return</a></li><li><a href='Farewell,_Penacony_-_Life_is_But_a_Drifting_Dream.html' >Life is But a Drifting Dream</a></li><li><a href='Farewell,_Penacony_-_Soldiers_Pay.html' >Soldier's Pay</a></li><li><a href='Farewell,_Penacony_-_A_Thousand_Bells_at_Dawn.html' >A Thousand Bells at Dawn</a></li><li><a href='Farewell,_Penacony_-_Stranger_in_a_Strange_Land.html' >Stranger in a Strange Land</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-3-4'>A New Venture on the Eighth Dawn</span><ul id='sub-chapter-3-4' class='mission-list collapsed'><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_All_Who_Wakes.html' >All Who Wakes</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_The_Departed_Will_Return_First.html' >The Departed Will Return First</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_A_Misfortune_of_Survivors.html' >A Misfortune of Survivors</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_Reality_is_But_Dreams_Echo.html' >Reality is But Dream's Echo</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_Sound_of_Farewell_Hums_Reunion.html' >Sound of Farewell Hums Reunion</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_Bow_Out_At_Moment_of_Début.html' >Bow Out At Moment of Début</a></li><li><a href='A_New_Venture_on_the_Eighth_Dawn_-_A_New_Venture_on_the_Eighth_Dawn.html' >A New Venture on the Eighth Dawn</a></li></ul></li></ul></li><li><span class='nav-title collapsed' data-target='chapter-4'>Amphoreus</span><ul id='chapter-4' class='mission-list collapsed'><li><span class='nav-title collapsed' data-target='sub-chapter-4-0'>Heroic Saga of Flame-Chase</span><ul id='sub-chapter-4-0' class='mission-list collapsed'><li><a href='Heroic_Saga_of_Flame-Chase_-_Silver_Chariot,_Away_to_that_Blackened_Land.html' >Silver Chariot, Away to that Blackened Land</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Distant_Travelers,_Listen_to_this_Worlds_Prayer.html' >Distant Travelers, Listen to this World's Prayer</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Night_Stars,_Accompany_My_Slumber.html' >Night Stars, Accompany My Slumber</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Wasteland,_Hark_Back_Glory_of_Old.html' >Wasteland, Hark Back Glory of Old</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Night_Veil,_Shroud_the_Silent_Past.html' >Night Veil, Shroud the Silent Past</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Kremnos,_Cleanse_Thy_Rusted_Blood_(I).html' >Kremnos, Cleanse Thy Rusted Blood (I)</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_A_Cleansing_of_Gold.html' >A Cleansing of Gold</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Kremnos,_Cleanse_Thy_Rusted_Blood_(II).html' >Kremnos, Cleanse Thy Rusted Blood (II)</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_A_Witchs_Scientific_Repose.html' >A Witch's Scientific Repose</a></li><li><a href='Heroic_Saga_of_Flame-Chase_-_Hero,_Bear_Thy_Coreflame.html' >Hero, Bear Thy Coreflame</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-4-1'>Light Slips the Gate, Shadow Greets the Throne</span><ul id='sub-chapter-4-1' class='mission-list collapsed'><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Strife,_Dispel_the_Accompanying_Fears.html' >Strife, Dispel the Accompanying Fears</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Glory,_Turn_From_Imbibed_Poison.html' >Glory, Turn From Imbibed Poison</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Grove,_Wherefore_Are_the_Wise_Silent.html' >Grove, Wherefore Are the Wise Silent</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Lamentations,_Bring_Not_Empty_Tears.html' >Lamentations, Bring Not Empty Tears</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Memories,_Veiled_in_Blazing_Mist.html' >Memories, Veiled in Blazing Mist</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Passages,_Knocking_Echoes_in_Dreams.html' >Passages, Knocking Echoes in Dreams</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Nemesis,_Scorched_by_Golden_Blood.html' >Nemesis, Scorched by Golden Blood</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Throne,_End_Those_Long_Years_Forlorn.html' >Throne, End Those Long Years Forlorn</a></li><li><a href='Light_Slips_the_Gate,_Shadow_Greets_the_Throne_-_Passage,_Reveal_the_Past_Once_More.html' >Passage, Reveal the Past Once More</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-4-2'>Through the Petals in the Land of Repose</span><ul id='sub-chapter-4-2' class='mission-list collapsed'><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Spindle,_Laboring_to_Weave_the_Tapestry_of_Time.html' >Spindle, Laboring to Weave the Tapestry of Time</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Olive,_Cast_To_the_Conference_Chair.html' >Olive, Cast To the Conference Chair</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Papyrus,_Read_the_Blasphemers_Will.html' >Papyrus, Read the Blasphemer's Will</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Debate,_Discourse_Without_Spears.html' >Debate, Discourse Without Spears</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Broken_Dream,_Enlighten_From_the_Beyond.html' >Broken Dream, Enlighten From the Beyond</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Pathstrider,_Set_Sail_Upon_the_River_of_Souls.html' >Pathstrider, Set Sail Upon the River of Souls</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Death,_Dripping_Like_Morning_Dew.html' >Death, Dripping Like Morning Dew</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Ferryman,_Ferry_Me_Across_the_Stream_of_Souls.html' >Ferryman, Ferry Me Across the Stream of Souls</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Sea_of_Flowers,_Adored_Only_by_Death.html' >Sea of Flowers, Adored Only by Death</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Citizen,_Listen_to_Those_Roaring_Tides.html' >Citizen, Listen to Those Roaring Tides</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Scholar,_Let_Us_Meet_Again_Before_the_Gates_of_Truth.html' >Scholar, Let Us Meet Again Before the Gates of Truth</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Homeward_Journey,_Never_Look_Back_Upon_the_Path_Whence_You_Came.html' >Homeward Journey, Never Look Back Upon the Path Whence You Came</a></li><li><a href='Through_the_Petals_in_the_Land_of_Repose_-_Witchs_Mirrored_Reversal.html' >Witch's Mirrored Reversal</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-4-3'>The Fall at Dawn's Rise</span><ul id='sub-chapter-4-3' class='mission-list collapsed'><li><a href='The_Fall_at_Dawns_Rise_-_Stars,_Cleanse_the_Troubled_Thoughts.html' >Stars, Cleanse the Troubled Thoughts</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Scrolls,_Turn_the_Blades_Gaze.html' >Scrolls, Turn the Blade's Gaze</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Chest,_Bear_the_Bygone_Dust.html' >Chest, Bear the Bygone Dust</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Golden_Thread,_Relay_the_Saviors_Fate.html' >Golden Thread, Relay the Savior's Fate</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Grove,_Judge_the_Past_and_Present.html' >Grove, Judge the Past and Present</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Poet,_Speak_of_the_Sky_Through_Me_(I).html' >Poet, Speak of the Sky Through Me (I)</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Poet,_Speak_of_the_Sky_Through_Me_(II).html' >Poet, Speak of the Sky Through Me (II)</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Slate,_Why_Neglect_That_Lights_Shade.html' >Slate, Why Neglect That Light's Shade</a></li><li><a href='The_Fall_at_Dawns_Rise_-_Dawn,_Shine_at_the_Worlds_End.html' >Dawn, Shine at the World's End</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-4-4'>For the Sun is Set to Die</span><ul id='sub-chapter-4-4' class='mission-list collapsed'><li><a href='For_the_Sun_is_Set_to_Die_-_Hero,_Honor_That_Crimson_Call.html' >Hero, Honor That Crimson Call</a></li><li><a href='For_the_Sun_is_Set_to_Die_-_Mother,_Parted_by_the_Turning_of_Seasons.html' >Mother, Parted by the Turning of Seasons</a></li><li><a href='For_the_Sun_is_Set_to_Die_-_Hero,_Return_to_That_Peace_of_Home.html' >Hero, Return to That Peace of Home</a></li><li><a href='For_the_Sun_is_Set_to_Die_-_Hero,_Shatter_That_Woeful_Effigy.html' >Hero, Shatter That Woeful Effigy</a></li><li><a href='For_the_Sun_is_Set_to_Die_-_Hero,_Ignite_That_Primal_Sun.html' >Hero, Ignite That Primal Sun</a></li><li><a href='For_the_Sun_is_Set_to_Die_-_Hero,_Sing_That_Anthem_of_Creation.html' >Hero, Sing That Anthem of Creation</a></li></ul></li><li><span class='nav-title collapsed' data-target='sub-chapter-4-5'>Before Their Deaths</span><ul id='sub-chapter-4-5' class='mission-list collapsed'><li><a href='Before_Their_Deaths_-_Time,_Ferry_Me_Through_Ages.html' >Time, Ferry Me Through Ages</a></li><li><a href='Before_Their_Deaths_-_Sun,_Repel_Stars_and_Pale_Moon.html' >Sun, Repel Stars and Pale Moon</a></li><li><a href='Before_Their_Deaths_-_Wanderer,_Decipher_the_Waxen_Imprints.html' >Wanderer, Decipher the Waxen Imprints</a></li><li><a href='Before_Their_Deaths_-_Zephyr,_Uplift_Bygone_Dust_Cloudsward.html' >Zephyr, Uplift Bygone Dust Cloudsward</a></li><li><a href='Before_Their_Deaths_-_Nectar,_Saturate_the_Hollow_Treecore.html' >Nectar, Saturate the Hollow Treecore</a></li><li><a href='Before_Their_Deaths_-_Sea,_Bury_the_Wine-Dark_Dreams.html' >Sea, Bury the Wine-Dark Dreams</a></li><li><a href='Before_Their_Deaths_-_Captives,_Behold_the_Expanse_Beyond_Light.html' >Captives, Behold the Expanse Beyond Light</a></li></ul></li></ul></li>
+            </ul>
+        </div>
+        <div class='nav-footer'>
+            <button class='theme-toggle' aria-label='Toggle Theme'>
+                <span class='theme-icon-light'>☀️</span>
+                <span class='theme-icon-dark'>◑</span>
+            </button>
+        </div>
+    </nav>
+    <div class="main-wrapper">
+        <header class="page-header">
+            <button class="nav-toggle" aria-label="Open navigation">☰</button>
+        </header>
+        <main class="container">
+            <h1>In the Sweltering Morning Sun - Roads to the Past Have Long Been Closed</h1>
+            <div class="dialogue-content-block">
+<h3>Keep going and face Cocolia</h3><div class="mission-description-box"><div class="mission-description-title">Mission Description</div><div class="mission-description-content">Your first Trailblaze journey is nearing its end. At the top of these steps is the origin of it all — it is where theStellaronlay.Remove the Stellaron andBelobogwill be completely freed from the instability and fabricated peace, and the planet will welcome a new life.However, an ending is but a new beginning — yourExpresswill also return to its rails and head towards the next destination.Once you are ready, mount the steps and witness the ending to this planet and journey.</div></div></div>
+
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const body = document.body;
+            const navToggle = document.querySelector('.nav-toggle');
+            const navOverlay = document.querySelector('.nav-overlay');
+            const themeToggle = document.querySelector('.theme-toggle');
+
+            function openNav() { body.classList.add('nav-open'); }
+            function closeNav() { body.classList.remove('nav-open'); }
+            if (navToggle) { navToggle.addEventListener('click', () => body.classList.contains('nav-open') ? closeNav() : openNav()); }
+            if (navOverlay) { navOverlay.addEventListener('click', () => closeNav()); }
+            document.querySelectorAll('.nav-title').forEach(title => {
+                title.addEventListener('click', () => {
+                    title.classList.toggle('collapsed');
+                    document.getElementById(title.dataset.target)?.classList.toggle('collapsed');
+                });
+            });
+
+            let currentlyPlaying = null;
+            document.querySelectorAll('.play-button').forEach(button => {
+                button.addEventListener('click', () => {
+                    const audio = document.getElementById(button.dataset.audioId);
+                    if (!audio) return;
+                    if (audio.paused) {
+                        if (currentlyPlaying && currentlyPlaying.audio !== audio) {
+                            currentlyPlaying.audio.pause();
+                            currentlyPlaying.button.innerHTML = '▶';
+                        }
+                        audio.play();
+                        button.innerHTML = '&#9632;';
+                        currentlyPlaying = { audio, button };
+                    } else {
+                        audio.pause();
+                        audio.currentTime = 0;
+                        button.innerHTML = '▶';
+                        currentlyPlaying = null;
+                    }
+                    audio.onended = () => {
+                        button.innerHTML = '▶';
+                        if (currentlyPlaying?.audio === audio) currentlyPlaying = null;
+                    };
+                });
+            });
+
+            function applyTheme(theme) {
+                if (theme === 'dark') body.classList.add('dark-theme');
+                else body.classList.remove('dark-theme');
+            }
+            
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            applyTheme(savedTheme);
+
+            if(themeToggle) {
+                themeToggle.addEventListener('click', () => {
+                    const newTheme = body.classList.contains('dark-theme') ? 'light' : 'dark';
+                    localStorage.setItem('theme', newTheme);
+                    applyTheme(newTheme);
+                });
+            }
+        });
+    </script>
+</body>
+</html>

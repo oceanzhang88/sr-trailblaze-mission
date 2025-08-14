@@ -1,0 +1,934 @@
+[
+    {
+        "type": "heading",
+        "text": "Defeat Flame Reaver"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "(Trailblazer)'s thoughts are pulled back to the Vortex of Genesis, to the moment before the Era Nova, to when they are standing beside Phainon and facing the final visitor: The one who burned to nothingness for salvation and the will they are carrying out."
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstFlame Reaver of the Deepest Dark)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "The time has come...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_43_daohuoxingzhe_101.ogg/revision/latest?cb=20250706034707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "To once again... start everything...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter4_43_daohuoxingzhe_102.ogg/revision/latest?cb=20250706034708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Flame Reaver of the Deepest Dark uses Silent Sorrow)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "Answer me... will you be the blazing sun...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_43_daohuoxingzhe_103.ogg/revision/latest?cb=20250706034710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "Even if all creation... burns to ash...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_43_daohuoxingzhe_104.ogg/revision/latest?cb=20250706034711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_3.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Flame Reaver of the Deepest Dark uses Cry Not For The Discarded)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "Losses... are a constant on the Flame-Chase journey...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_43_daohuoxingzhe_105.ogg/revision/latest?cb=20250706034712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Flame Reaver\"",
+        "line": "And you haven't lost... nearly enough...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter4_43_daohuoxingzhe_106.ogg/revision/latest?cb=20250706034713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Flame_Reaver_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Flame Reaver of the Deepest Dark is reduced to 1% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This ends now! With your corpse...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_43_phainon_141.ogg/revision/latest?cb=20250706034725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...I'll ignite the dawn!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_43_phainon_142.ogg/revision/latest?cb=20250706034726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "How is this possible...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Execute Flame Reaver"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle against???)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The suns of destruction... now twinned...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_43_daohuoxingzhe_107.ogg/revision/latest?cb=20250706034714",
+        "is_unavailable": false,
+        "audio_filename": "audio__8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Feel them set your blood ablaze... your fury...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_43_daohuoxingzhe_108.ogg/revision/latest?cb=20250706034715",
+        "is_unavailable": false,
+        "audio_filename": "audio__9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Not enough...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_43_daohuoxingzhe_109.ogg/revision/latest?cb=20250706034717",
+        "is_unavailable": false,
+        "audio_filename": "audio__10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "This form shall fuel the fire... burn, burn unceasing!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_43_daohuoxingzhe_110.ogg/revision/latest?cb=20250706034718",
+        "is_unavailable": false,
+        "audio_filename": "audio__11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Come... let the fires of fury devour me...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_43_daohuoxingzhe_111.ogg/revision/latest?cb=20250706034719",
+        "is_unavailable": false,
+        "audio_filename": "audio__12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Or become the next epitaph... seared upon this burning world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_43_daohuoxingzhe_112.ogg/revision/latest?cb=20250706034720",
+        "is_unavailable": false,
+        "audio_filename": "audio__13.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When ??? is reduced to 1% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"One person alone may witness the miracle... Such is the will of fate...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter4_43_daohuoxingzhe_113.ogg/revision/latest?cb=20250706034721",
+        "is_unavailable": false,
+        "audio_filename": "audio__14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That person... can only be... you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter4_43_daohuoxingzhe_114.ogg/revision/latest?cb=20250706034723",
+        "is_unavailable": false,
+        "audio_filename": "audio__15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Why not... let wrath... incinerate fate...?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Kha... os...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Witness all the memories of Khaslana"
+    },
+    {
+        "type": "condition",
+        "text": "(EnterExploratory ExcursionEternal Recurrence)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(BeginHero, Ignite That Primal Sun)"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Witness the end of Khaslana"
+    },
+    {
+        "type": "note",
+        "text": "The ???th Eternal Recurrence: End"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "Tell me, will you be the blazing sun...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_45_daohuoxingzhe_101.ogg/revision/latest?cb=20250706034728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "Even if all of you... burns to ash?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter4_45_daohuoxingzhe_102.ogg/revision/latest?cb=20250706034730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Without hesitation. I will bear this world until my body turns to dust.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_45_phainon_132.ogg/revision/latest?cb=20250706034757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "Good...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_45_daohuoxingzhe_103.ogg/revision/latest?cb=20250706034732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "Remember this moment. Remember your friends who never lived to see the world's end. Remember their final wishes—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_45_khaslana_198.ogg/revision/latest?cb=20250706034734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "And let the purest rage in your heart rise out of those wishes...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_45_khaslana_199.ogg/revision/latest?cb=20250706034736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Khaslana",
+        "line": "Let it consume you, fuel you, until it burns away the false sky above.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_45_khaslana_200.ogg/revision/latest?cb=20250706034737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Khaslana_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Fine. If I can defy fate...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_45_phainon_133.ogg/revision/latest?cb=20250706034758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Then in the name of \"Worldbearing,\" I promise you: Kephale will never forget this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_45_phainon_134.ogg/revision/latest?cb=20250706034759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_24.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Khaslana",
+                "line": "Take it... Everything I bear.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Khaslana",
+                "line": "Keep on burning.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Khaslana",
+                "line": "As long as we are never extinguished...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Khaslana",
+                "line": "The Flame-Chase will not end...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Khaslana",
+                "line": "Do not... Bow your head to THEM...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Take it, Trailblazer.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "May this blood be like gold and never tarnish.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Resist the gods"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Farewell, (Trailblazer). This is where I fulfill my final destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_45_phainon_135_m.ogg/revision/latest?cb=20250706034802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The prophecy of the \"Deliverer\" means nothing to me now. It belongs in the hands of someone far more fitting. Someone like you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter4_45_phainon_136.ogg/revision/latest?cb=20250706034803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Khaslana, the name of one who bears chaos , does not belong to a single person. Rather, it is the embodiment of the mythical Kephale and a symbol of all heroes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_45_phainon_137.ogg/revision/latest?cb=20250706034804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "As the prophecy foretold: \" You will bear the blazing sun, until the pale dawn breaks.\" May the name accompany you in my place in the epic you write with your own hands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_45_phainon_138.ogg/revision/latest?cb=20250706034806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Another attempt. Another failure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_45_lykos_101.ogg/revision/latest?cb=20250706034738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "I won't remind you how many times you've reached the end of history, but I will still place the choice before you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_45_lykos_102.ogg/revision/latest?cb=20250706034740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "If you've lost count, let me tell you: this is the 33,550,336th ending.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_45_phainon_139.ogg/revision/latest?cb=20250706034807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Ah, a perfect number. How poetic. You and I both know the truth: In all these millions of futile endeavors, Amphoreus has never changed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_45_lykos_103.ogg/revision/latest?cb=20250706034741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "If the outcome is inevitable, then why not silence your searing rage and embrace your fate with dignity?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_45_lykos_104.ogg/revision/latest?cb=20250706034744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Your silence lasts longer than ever, Lord Phainon...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_45_lykos_105.ogg/revision/latest?cb=20250706034745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Shall I take that to mean the will you've carried across countless cycles is finally starting to fracture?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_45_lykos_106.ogg/revision/latest?cb=20250706034746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Fracture? Heh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_45_phainon_141.ogg/revision/latest?cb=20250706034809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "No. I'm just disappointed. I've retrieved memories from thirty million past lives. And I remember every conversation before every choice here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter4_45_phainon_142.ogg/revision/latest?cb=20250706034810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "And yet, even after all this time, your arguments remain the same: repetitive, uninspired. If you had any hope of breaking me, you should have spent those endless cycles refining your rhetoric.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_45_phainon_143.ogg/revision/latest?cb=20250706034812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "You had infinite chances to sway me into the future you want... And yet, here we are. The score: 33,550,336 to 0.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_45_phainon_144.ogg/revision/latest?cb=20250706034813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "So tell me, Lycurgus — who's the real loser here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_45_phainon_145.ogg/revision/latest?cb=20250706034814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_45_lykos_107.ogg/revision/latest?cb=20250706034747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "How unfortunate. This was never a fair game. I have all the time and patience in the world. I can wait for you at the end of history another billion times... and another billion after that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_45_lykos_108.ogg/revision/latest?cb=20250706034749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "But you? You will never escape this cage. You can claim victory of the spirit if you wish. But we both know — the moment that score shifts from 0 to 1...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_45_lykos_109.ogg/revision/latest?cb=20250706034750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "That is the moment I shall sound the Paean of Era Nova.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_45_lykos_110.ogg/revision/latest?cb=20250706034751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Ha... Haha...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_45_phainon_146.ogg/revision/latest?cb=20250706034815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "Lord Phainon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_45_lykos_111.ogg/revision/latest?cb=20250706034752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Your incompetence disappoints me, but what truly makes me laugh is your utter lack of self-awareness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_45_phainon_147.ogg/revision/latest?cb=20250706034817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Think about it. In this story, who is truly the one in chains? Who is the one shackled to mindless \"vengeance,\" mistaking courage, the courage to rebel against the gods for foolishness?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_45_phainon_148.ogg/revision/latest?cb=20250706034818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_45_lykos_112.ogg/revision/latest?cb=20250706034754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Perhaps you're right. Maybe I should have tired of this futile struggle long ago. But even so, I will never accept the mercy of your release.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_45_phainon_149.ogg/revision/latest?cb=20250706034819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Because you... you are both a prisoner to the gods and to me. And tell me, what right does a mere prisoner have to speak of fate and choice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_45_phainon_150.ogg/revision/latest?cb=20250706034820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "What right does a mere prisoner have — to look upon my fury!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_45_phainon_151.ogg/revision/latest?cb=20250706034822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lygus",
+        "line": "You know this is pointless. You can't kill me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_45_lykos_113.ogg/revision/latest?cb=20250706034755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lygus_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Of course not. But I am tired of being measured against a worm the gods keep as a pet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_45_phainon_152.ogg/revision/latest?cb=20250706034823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Listen well, creator of Destruction. This cry comes from all your abandoned creations...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_45_phainon_153.ogg/revision/latest?cb=20250706034825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "In the tenth cycle, I drove Dawnmaker through the heart of every Titan. Golden blood ran down my fingers. Divine fire seared through my nerves, nearly breaking my will — but I endured.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_45_phainon_154.ogg/revision/latest?cb=20250706034826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "In the ten-thousandth cycle, my former comrades had all become my enemies. The endless slaughter dulled my senses to pain. The painful emptiness almost swallowed me, forcing me to stop fighting — but I endured.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_45_phainon_155.ogg/revision/latest?cb=20250706034827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "In the hundred-thousandth cycle, the Destruction had already fused into a blazing sun, surging within this fragile body. My rationality had been burned away at the dawn of the era... Yet even with only this shattered body remaining, I still endured.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_45_phainon_156.ogg/revision/latest?cb=20250706034829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "In the twenty-three million five hundred seventy-thousandth cycle... This time, I felt it: a tiny spark rising in the hollow cavity of my chest, different from the obsession with Deliverance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_45_phainon_157.ogg/revision/latest?cb=20250706034830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "By its faint glow... once again — no, countless times again — I endured!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_45_phainon_158.ogg/revision/latest?cb=20250706034831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Now, a sun is about to fall, ready to incinerate this absurd space-time dimension in an instant—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_45_phainon_159.ogg/revision/latest?cb=20250706034833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "That sun is me — all the countless versions of me from the past — along with my countless brethren, dragged into existence against their will, drowning again and again in your golden blood. The very essence of this world's suffering and despair, fused into the purest hatred, the fiercest rage—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_45_phainon_160.ogg/revision/latest?cb=20250706034834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Nanook, you arrogant fool! You think we were born only to serve as fuel for the fire? Fine, then — just as you wish, let the fire burn!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_45_phainon_161.ogg/revision/latest?cb=20250706034835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "If I was born as the blazing sun of Destruction, then let you and your lackeys be the flares erupting from my core! And let this rage, burning futilely for thirty million epochs, engulf everything—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_45_phainon_162.ogg/revision/latest?cb=20250706034837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "And grant you a dawn where all stars burn to ash!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_45_phainon_163.ogg/revision/latest?cb=20250706034838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_65.ogg"
+    },
+    {
+        "type": "note",
+        "text": ">>> Warning! Warning! Warning!"
+    },
+    {
+        "type": "note",
+        "text": ">>> Experimental anomaly detected: Subject Khaslana failed to load into buffer zone —"
+    },
+    {
+        "type": "note",
+        "text": ">>> Memory dump irregularities detected █ illegal references ██ undeclared objects ███ unhandled methods ████ uncaught exceptions █████"
+    },
+    {
+        "type": "note",
+        "text": "█ █anomaly █de██ \"DES █tected██ TRUCTION\" █energy██ NA █ ██ NOO █surging██ K ██ ██ █ ███"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Are you ready,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Nanook!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "I brought you destruction!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "I feel the pain and anger, wicked monster, losin' control"
+            },
+            {
+                "type": "note",
+                "text": "I'm ready for a battle, wakened shadow, blood on my soul"
+            },
+            {
+                "type": "note",
+                "text": "Burn it, burning it all"
+            },
+            {
+                "type": "note",
+                "text": "Heavens, let them fall"
+            },
+            {
+                "type": "note",
+                "text": "They taste of bitter ashes, littered plastic, crumblin' away"
+            },
+            {
+                "type": "note",
+                "text": "They glimpse the broken faces, devil racin', searching for faith"
+            },
+            {
+                "type": "note",
+                "text": "Crushing, crushing it all"
+            },
+            {
+                "type": "note",
+                "text": "Shadows, watch them crawl"
+            },
+            {
+                "type": "note",
+                "text": "Creepin' up my brain"
+            },
+            {
+                "type": "note",
+                "text": "Learnin' from my pain"
+            },
+            {
+                "type": "note",
+                "text": "Baby watchin' it burn, send death to isolation"
+            },
+            {
+                "type": "note",
+                "text": "Oh watchin' it burn, ain't got no hesitation"
+            },
+            {
+                "type": "note",
+                "text": "Watchin' it burn, we're fallin' higher"
+            },
+            {
+                "type": "note",
+                "text": "Watchin' it burn!"
+            },
+            {
+                "type": "note",
+                "text": "Oh, watchin' it burn!"
+            },
+            {
+                "type": "note",
+                "text": "Watchin' it burn!"
+            },
+            {
+                "type": "note",
+                "text": "Watchin' it burn!"
+            },
+            {
+                "type": "note",
+                "text": "Like glass that shattered, reaching through the darkness"
+            },
+            {
+                "type": "note",
+                "text": "Voices trailing fires, echo of desires"
+            },
+            {
+                "type": "note",
+                "text": "A world of silence, sound of Death's parading"
+            },
+            {
+                "type": "note",
+                "text": "Phantoms in the shadow, softly waiting..."
+            },
+            {
+                "type": "note",
+                "text": "I'm tearin' it down! Embrace the detonation"
+            },
+            {
+                "type": "note",
+                "text": "Burnin' it loud! Cravin' our damn creation"
+            },
+            {
+                "type": "note",
+                "text": "Breakin' the chain! I'm reachin' for ya"
+            },
+            {
+                "type": "note",
+                "text": "Shout till the end! This blaze is my salvation!"
+            },
+            {
+                "type": "note",
+                "text": "Sword in the wind! I strike without damnation!"
+            },
+            {
+                "type": "note",
+                "text": "Shatter the skies!"
+            },
+            {
+                "type": "note",
+                "text": "No fate"
+            },
+            {
+                "type": "note",
+                "text": "No king"
+            },
+            {
+                "type": "note",
+                "text": "No god!"
+            },
+            {
+                "type": "note",
+                "text": "Fall to my name!"
+            },
+            {
+                "type": "note",
+                "text": "Fall to my name!"
+            },
+            {
+                "type": "note",
+                "text": "Fall to my name!"
+            },
+            {
+                "type": "note",
+                "text": "Fall to my name!"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "My wish?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "My wish is...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "to fulfill everyone else's wishes.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "If I can't fulfill them...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Then send them on to tomorrow.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    }
+]

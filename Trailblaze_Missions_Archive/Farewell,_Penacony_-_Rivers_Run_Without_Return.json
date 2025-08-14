@@ -1,0 +1,1013 @@
+[
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Alfalfa Family had a meeting with the IPC ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_28_danheng_101.ogg/revision/latest?cb=20240630235809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I got this information from a message sent by that IPC ambassador . He said it was to \"return the favor.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_28_welt_101.ogg/revision/latest?cb=20240701000036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's not hard to imagine. Penacony today is pretty much like the frontier prison it once was, with external forces casting greedy eyes and the undercurrent of Order lurking within.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_28_welt_102.ogg/revision/latest?cb=20240701000038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Instead of falling into a situation where they are plagued by both external and internal threats, Penacony would rather take a step back and invite the IPC to negotiate at the table, ostensibly to cooperate, but in reality, to secure more opportunities for their own survival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_28_welt_103.ogg/revision/latest?cb=20240701000040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Well, no wonder they sought the mediation from the Astral Express . In your opinion, who should we stand behind?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_28_danheng_102.ogg/revision/latest?cb=20240630235811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I don't think the followers of the Harmony are completely innocent victims in all of this. For reasons unknown, they have a strong desire to smooth things over, which leads to speculation about their motives.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_28_welt_104.ogg/revision/latest?cb=20240701000042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If either The Family or IPC were to assume full control of Penacony, it would return to its previous illusory dream of hedonism, and the efforts of those previous Nameless ... would once again go to waste.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_28_welt_105.ogg/revision/latest?cb=20240701000044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "There you are. Did you rest well?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Vo_chapter3_28_welt_106.ogg/revision/latest?cb=20240701000046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I didn't disturb you since you were in a deep sleep.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_28_danheng_103.ogg/revision/latest?cb=20240630235813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_8.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It feels like I had a really long dream.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Even long dreams eventually come to an end. Our adventure in Penacony is reaching its conclusion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_28_welt_107.ogg/revision/latest?cb=20240701000048",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Where is Himeko ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "She went to negotiate with The Family as a representative of the Crew. She'll contact us once her arrangements are ready.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_28_danheng_104.ogg/revision/latest?cb=20240630235815",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_10.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Please continue the topic."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "After Ena 's dream was shattered, The Family branch from the Montour System soon arrived and swiftly took control of the situation. Most members of the Oak Family fell unconscious, but fortunately, their lives were not in danger.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_28_welt_108.ogg/revision/latest?cb=20240701000050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The mastermind behind the plans was confirmed to be Gopher Wood , the previous Dreammaster, but by the time we arrived... he was dead already.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_28_danheng_105.ogg/revision/latest?cb=20240630235817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_12.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "And... what about Sunday ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "He'll face a trial. As for further details... The Family would rather not disclose them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_28_danheng_106.ogg/revision/latest?cb=20240630235819",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How did the guests react?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Since The Family branch from the Montour System managed to quash the spread of rumors within a short period of time, the majority of guests were unaware of the situation, and their lives remained largely unaffected.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/Vo_chapter3_28_welt_109.ogg/revision/latest?cb=20240701000052",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_14.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What will happen to Penacony?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "That's what we're about to witness on the Radiant Feldspar .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_28_welt_110.ogg/revision/latest?cb=20240701000054",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ultimately, the public perceived the incident as an attack by evil forces targeting the Charmony Festival . They believe The Family failed to safeguard the sweet dream, significantly eroding their credibility in the process.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Vo_chapter3_28_mar7th_101.ogg/revision/latest?cb=20240630235837",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "While quite different from the truth, this appears to be the outcome with the least impact...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_28_mar7th_102.ogg/revision/latest?cb=20240630235839",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "After all, you don't know who's awake and who's pretending to be asleep. While they'll open their eyes in the face of danger, once the danger subsides, they'll embrace the sweet dream again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_28_siobhan_101.ogg/revision/latest?cb=20240630235855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Here's a toast, with three glasses of \"Glory of the Trailblaze \" to all of you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_28_siobhan_102.ogg/revision/latest?cb=20240630235857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_19.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Hello again.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "Yeah, it's good to see you all again, although we might be saying goodbye again after this reunion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Vo_chapter3_28_siobhan_103.ogg/revision/latest?cb=20240630235859",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How come you're here too?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "What are you talking about? This is my lounge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_28_siobhan_104.ogg/revision/latest?cb=20240630235901",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "It's good to see you all again, although we might be saying goodbye again after this reunion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_28_siobhan_105.ogg/revision/latest?cb=20240630235903",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "When will the Astral Express leave Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_28_siobhan_106.ogg/revision/latest?cb=20240630235904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We'll stay a bit longer, but not too long.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_28_welt_111.ogg/revision/latest?cb=20240701000056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "So, this is our final meeting, then? If this is a farewell, then it seems to be missing something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_28_siobhan_107.ogg/revision/latest?cb=20240630235906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Music? Atmosphere? Ah, maybe a special drink to honor those who are not here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_28_siobhan_108.ogg/revision/latest?cb=20240630235908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Let's see. The mixed drink should be solemn, dignified, and unique, as we'll use it to pay respect to those fallen heroes...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_28_siobhan_109.ogg/revision/latest?cb=20240630235910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "To the Nameless resting in peace... and to Gallagher .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Vo_chapter3_28_siobhan_110.ogg/revision/latest?cb=20240630235912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_28.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk to Siobhan and prepare a drink"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The story of Penacony has (nearly) drawn to a conclusion, and you can finally spend some of your free time with your friends.The Crew members gather at Siobhan's establishment and get ready to mix a few drinks in memory of those who lost their lives — while also celebrating the promise of new life."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's rare for all passengers to leave the Express together during a Trailblazing expedition, but for Penacony... it seems most appropriate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_28_danheng_107.ogg/revision/latest?cb=20240630235821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_29.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "But what about the Express?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Given the conductor 's presence, there's no need to worry about it. However, it's crucial that we soon return to inform Pom-Pom about uh... the Nameless.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_28_danheng_108.ogg/revision/latest?cb=20240630235823",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened to you in Ena's dream?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "In my dream, the Express stopped at many places, and passengers came and went. However, the five of us were always present, and the journey seemed never-ending.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_28_danheng_109.ogg/revision/latest?cb=20240630235825",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_31.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Perhaps this could be a deep-seated desire inside me, and upon realizing this... I... I knew it wasn't real.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_28_danheng_110.ogg/revision/latest?cb=20240630235827",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_32.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is the Order incident in Penacony a unique case...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "No related records exist in the data bank, but I have a theory: The hidden dangers of the Order have always been within the Harmony — And this issue existed within The Family from the very beginning.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_28_danheng_111.ogg/revision/latest?cb=20240630235829",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_33.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "However, now that more powers in the universe are aware of this secret, the situation in the cosmos... will become more complicated.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_28_danheng_112.ogg/revision/latest?cb=20240630235831",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "That's all for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Like I said, we'll go and see. Once we've packed everything, we should head to our next destination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_28_danheng_113.ogg/revision/latest?cb=20240630235833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_35.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It seems like you have other questions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_28_danheng_114.ogg/revision/latest?cb=20240630235835",
+        "is_unavailable": false,
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Return to the dialogue options above)"
+            }
+        ],
+        "audio_filename": "audio_Dan_Heng_36.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt Yang, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "This Trailblazing expedition has been thrilling and memorable. Hopefully we've all gained insights about ideals, paranoia, clarity, and dreams from the experiences we've had.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_28_welt_112.ogg/revision/latest?cb=20240701000058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_37.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What will happen to Sunday and Robin ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "One bird longs for the earth, and the other longs for the sky... Even if Robin had to stop her brother with her own hands, she won't give up on him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_28_welt_113.ogg/revision/latest?cb=20240701000100",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_38.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "However, facing punishment from the Harmony is inevitable. He will face a trial. As for further details... The Family would rather not disclose them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_28_welt_114.ogg/revision/latest?cb=20240701000102",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "When did the Order infiltrate Penacony?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Since The Family took up residence in Penacony, the Order has been hiding in plain sight under the guise of the Oak Family, using the Stellaron 's power to strengthen their hold on the sweet dream, which eventually resulted in disaster.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_28_welt_115.ogg/revision/latest?cb=20240701000106",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_40.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...That's the claim The Family makes. Whether they were truly unaware of all this is a delicate matter.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_28_welt_116.ogg/revision/latest?cb=20240701000108",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did the IPC make any move?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Aventurine's efforts finally earned the IPC a seat at the table. As a result, a more senior representative arrived in Penacony and initiated negotiations with The Family.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_28_welt_117.ogg/revision/latest?cb=20240701000113",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_42.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "As far as the Astral Express is concerned, the IPC will make for an invaluable ally during the negotiations to prevent Penacony returning to its former ways.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_28_welt_118.ogg/revision/latest?cb=20240701000115",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened to you in Ena's dream?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Well, it was somewhat surprising. In that dream, I returned to my homeworld and reunited with my long-lost friends. And for some reason... Acheron resurfaced in my mind.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_28_welt_119.ogg/revision/latest?cb=20240701000117",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_44.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "When I realized that her \"conclusion\" was not preserved in memories, I became aware of the bitter truth.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_28_welt_120.ogg/revision/latest?cb=20240701000119",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "That's all for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The conclusion of a journey can often be sorrowful. All we can do is try to make sure it ends on a happy note.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/Vo_chapter3_28_welt_121.ogg/revision/latest?cb=20240701000120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_46.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt Yang again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ Is there anything else you'd like to ask, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_28_welt_122_m.ogg/revision/latest?cb=20240701000127",
+        "is_unavailable": false,
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Return to the dialogue options above)"
+            }
+        ],
+        "audio_filename": "audio_Welt_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th at the stage, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Guess what! Something weird just happened when I was on my way over here. Someone gave me a strange gift.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_28_mar7th_103.ogg/revision/latest?cb=20240630235841",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So I unwrapped it and found out it was a button, with a message on the back: \"Just press this button, and all of Penacony will explode!\" Sounds terrifying!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_28_mar7th_104.ogg/revision/latest?cb=20240630235843",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_49.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Could it be a terrorist attack?!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "But who would launch such an obvious attack? They just want to stir up chaos.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_28_mar7th_105.ogg/revision/latest?cb=20240630235845",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did you press it?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Of course not! Who would press something like that!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_28_mar7th_106.ogg/revision/latest?cb=20240630235847",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "By the time I turned around, the person had already vanished. So I handed it over to a nearby hound . I heard there were many similar reports before the Charmony Festival started.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Vo_chapter3_28_mar7th_107.ogg/revision/latest?cb=20240630235850",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm really worried about the future of Penacony...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_28_mar7th_108.ogg/revision/latest?cb=20240630235852",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_53.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm really worried about the future of Penacony...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_28_mar7th_109.ogg/revision/latest?cb=20240630235853",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_54.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Siobhan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Ready to mix your drink, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_28_siobhan_111_m.ogg/revision/latest?cb=20240630235916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_55.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What happened to Gallagher?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "I'm not sure. I haven't seen him since our last meeting at the lounge. Come to think of it, he always did come and go quietly.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_28_siobhan_112.ogg/revision/latest?cb=20240630235917",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_56.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "We used to discuss everything here. But every time he'd leave, I'd realize that I didn't know him at all. Such is the mystery that is Gallagher.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_28_siobhan_113.ogg/revision/latest?cb=20240630235919",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_57.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "I have a hunch... Perhaps he's already fulfilled his wishes and won't be coming back.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_28_siobhan_114.ogg/revision/latest?cb=20240630235921",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let's mix the drinks.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "Before we start, would you like to talk to your friends? We have plenty of time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Vo_chapter3_28_siobhan_116.ogg/revision/latest?cb=20240630235925",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_59.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "No need. Let's get started.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Siobhan",
+                        "line": "Alright, as you wish.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_28_siobhan_117.ogg/revision/latest?cb=20240630235927",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Siobhan_60.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Siobhan",
+                        "line": "I think I have an idea about what drink to make. Would you like it bitter or sweet? It's up to you. Choose the flavor that suits you best at this moment.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_28_siobhan_118.ogg/revision/latest?cb=20240630235929",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Siobhan_61.ogg"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Bitter.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Siobhan",
+                                "line": "Here's Bitter Dreams... the least popular drink in this bar. It's bitter and sour, just like the harsh realities of life.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_28_siobhan_119.ogg/revision/latest?cb=20240630235931",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Siobhan_62.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Sweet.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Siobhan",
+                                "line": "Drowning Sweetness... one of the most challenging drinks to make. A slight imbalance in the ingredients can result in an overwhelmingly viscous, sweet taste.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_28_siobhan_121.ogg/revision/latest?cb=20240630235935",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Siobhan_63.ogg"
+                            },
+                            {
+                                "type": "dialogue",
+                                "speaker": "Siobhan",
+                                "line": "However, with the right ratios... you get a uniquely sweet drink with a lingering aftertaste.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_28_siobhan_122.ogg/revision/latest?cb=20240630235937",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Siobhan_64.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Siobhan",
+                        "line": "Not a bad choice. Let's start mixing.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_28_siobhan_123.ogg/revision/latest?cb=20240630235938",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Siobhan_65.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "Great idea. I'll come back soon."
+            },
+            {
+                "type": "condition",
+                "text": "(Exits conversation)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Just a moment. I'd like to talk to everyone.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "Sure, we can wait – Gallagher included.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_28_siobhan_115.ogg/revision/latest?cb=20240630235923",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_66.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Exits conversation)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(If the player fails to mix the drink)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "...This doesn't seem quite right. Don't worry. Let's give it another try.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_28_siobhan_130.ogg/revision/latest?cb=20240630235951",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Let me know when you're ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_28_siobhan_131.ogg/revision/latest?cb=20240630235953",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Siobhan again after failing to mix the drink)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "▶ Ready for another try, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_28_siobhan_132_m.ogg/revision/latest?cb=20240630235956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_69.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's begin."
+    },
+    {
+        "type": "condition",
+        "text": "(After successfully mixing the drink)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Words always fall short. If you want to bring closure to past events at this lounge, there's no better way than mixing a drink.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_28_siobhan_133.ogg/revision/latest?cb=20240630235958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Blend all your memories and emotions together and stir them well. Through the filter of time, what remains in the glass is something to savor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_28_siobhan_134.ogg/revision/latest?cb=20240701000001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Well, it's done...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_28_siobhan_135.ogg/revision/latest?cb=20240701000002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Here's to the Nameless resting in peace... and to my friend, Gallagher.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Vo_chapter3_28_siobhan_136.ogg/revision/latest?cb=20240701000004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_73.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams was mixed)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "Death is a bitter truth, but what you did will be remembered by history.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_28_siobhan_137.ogg/revision/latest?cb=20240701000006",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_74.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(If Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "The spirit of freedom will spread far and wide among the stars, and its legacy will be more timeless than a pastoral song.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_28_siobhan_142.ogg/revision/latest?cb=20240701000015",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "We're not accepted by the outside world, so we've gathered here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_28_siobhan_138.ogg/revision/latest?cb=20240701000008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "And one day, our souls will return to the same place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Vo_chapter3_28_siobhan_139.ogg/revision/latest?cb=20240701000010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "...Cheers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/Vo_chapter3_28_siobhan_140.ogg/revision/latest?cb=20240701000011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_78.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family Himeko Guys, let's make our way to the Radiant Feldspar I'll wrap things up soon. Let's meet at the Aft Pool in the stern Dan Heng Roger Welt Catch you later. I'm on my way. (Trailblazer) I'll lead the charge! March 7th By the way, what are you doing on the Radiant Feldspar, Miss Himeko? What have you been up to lately, Miss Himeko? (Trailblazer) By the way, what have you been up to lately, Miss Himeko? March 7th Hey! I was about to ask the same thing! Himeko It's a secret for now Be patient, you'll find out at the opening ceremony March 7th Hey... I can't wait!"
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams was mixed)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainAchievementAll the Flowers are Dying)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(If Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainAchievementIt's a Wonderful Life)"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Say goodbye to Siobhan and prepare to board"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The story of Penacony has (nearly) drawn to a conclusion, and you can finally spend some of your free time with your friends.The Crew members gather at Siobhan's establishment and get ready to mix a few drinks in memory of those who lost their lives — while also celebrating the promise of new life.Himeko sends a message informing you that you may board the ship."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Siobhan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Are you leaving? Then take this with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_28_siobhan_146.ogg/revision/latest?cb=20240701000022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_79.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If Bitter Dreams / Drowning Sweetness was mixed)"
+    },
+    {
+        "type": "note",
+        "text": "/"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "I've mixed more of this last special drink for you. The past shouldn't be forgotten, so I hope it brings back the flavors of Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_28_siobhan_147.ogg/revision/latest?cb=20240701000024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Thank you. I'm sure it'll leave a lasting impression.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_28_welt_123.ogg/revision/latest?cb=20240701000129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "If you happen to run into Gallagher, make sure he has a sip too. I know his tastes, and he'll be thrilled.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_28_siobhan_148.ogg/revision/latest?cb=20240701000026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_82.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We will."
+    },
+    {
+        "type": "choice",
+        "text": "But what if we never cross paths with him?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Siobhan",
+                "line": "Then... I guess you won't be seeing him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_28_siobhan_149.ogg/revision/latest?cb=20240701000028",
+                "is_unavailable": false,
+                "audio_filename": "audio_Siobhan_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Alright, enough with the heavy stuff. You guys have important things to take care of, so let's not dwell on things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_28_siobhan_150.ogg/revision/latest?cb=20240701000030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "Whether it's the Astral Express or Penacony, there's still a long journey ahead. So, let's lift our spirits, guys.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_28_siobhan_151.ogg/revision/latest?cb=20240701000032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Siobhan",
+        "line": "And embark towards our tomorrows.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_28_siobhan_152.ogg/revision/latest?cb=20240701000034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Siobhan_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching to Jade's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "The meeting with Oti Alfalfa didn't start smoothly. Jade and Topaz are currently aboard the Radiant Feldspar discussing the strategy for the second half.."
+    }
+]

@@ -1,0 +1,3096 @@
+[
+    {
+        "type": "heading",
+        "text": "Use the celestial globe to alter the firmament and reveal the past."
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Seliose's past seems to diverge greatly from what was told in bygone stories. Now, accompanied by her two mythical companion beasts from ages past, we stand poised to unveil the ancient and hidden truths."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the celestial globe behind Solabis, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Solabis",
+        "line": "Reveal its truth in order, heroes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_35_suolabisi_163.ogg/revision/latest?cb=20250628214457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Solabis_0.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the celestial globe behind Lunabis, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "The sequence of historical events is already set...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_35_lunaibisi_158.ogg/revision/latest?cb=20250628214349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Operate celestial globe)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...\"The turn of dawn and dusk, commanding the celestial globe...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_35_hyacine_255.ogg/revision/latest?cb=20250628214224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "\"Embrace the clouds, Celestial Mural.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_35_hyacine_256.ogg/revision/latest?cb=20250628214226",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ruthless New Believer",
+        "line": "Ha... look who we've caught — an old-fashioned disciple of the ancient god!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_35_xintuA_101.ogg/revision/latest?cb=20250628214511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ruthless_New_Believer_4.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Witness the true history of the Skyfolk.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "The frail Titan was conquered long ago by the mighty warrior goddess. Now they're nothing more than rusted scrap, left in the forge to decay over countless years.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_35_xintuA_102.ogg/revision/latest?cb=20250628214512",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_5.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "Surrender to us, relic of a bygone era! We'll reshape your clouded mind and grant you a place alongside your kin in Seliose's glory...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_35_xintuA_103.ogg/revision/latest?cb=20250628214513",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_6.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Helpless Old Disciple",
+                "line": "Your so-called \"reshaping\" is nothing more than torment, both in body and mind.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_35_xintuB_101.ogg/revision/latest?cb=20250628214520",
+                "is_unavailable": false,
+                "audio_filename": "audio_Helpless_Old_Disciple_7.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Helpless Old Disciple",
+                "line": "No... I'd rather die than give in to hypocrites like you, hiding behind empty faith and wielding power as you please!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_35_xintuB_102.ogg/revision/latest?cb=20250628214520",
+                "is_unavailable": false,
+                "audio_filename": "audio_Helpless_Old_Disciple_8.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "Hahaha! Take a good look at this pathetic fool! Do you see it? What a laughable hypocrite!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_35_xintuA_104.ogg/revision/latest?cb=20250628214514",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_9.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "You're one of the Sunfolk, aren't you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_35_xintuA_105.ogg/revision/latest?cb=20250628214515",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "When you oppressed your own under the guise of faith, leaving countless souls to suffer endlessly under the scorching sun — did you ever consider that even the fiercest sun could one day fall?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_35_xintuA_106.ogg/revision/latest?cb=20250628214516",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Helpless Old Disciple",
+                "line": "I... I once thought...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_35_xintuB_103.ogg/revision/latest?cb=20250628214521",
+                "is_unavailable": false,
+                "audio_filename": "audio_Helpless_Old_Disciple_12.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "Spare us your empty excuses, relic of the old world. \"I'd rather die than give in to hypocrites like you, hiding behind empty faith and wielding power as you please!\" —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_35_xintuA_107.ogg/revision/latest?cb=20250628214517",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "— You've already sentenced yourself. All we're doing is following through.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_35_xintuA_108.ogg/revision/latest?cb=20250628214518",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Ruthless New Believer",
+                "line": "Do it. Make it clean. A single, sharp cut across the neck.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_35_xintuA_109.ogg/revision/latest?cb=20250628214519",
+                "is_unavailable": false,
+                "audio_filename": "audio_Ruthless_New_Believer_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Helpless Old Disciple",
+                "line": "No, no... NO!!!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_35_xintuB_104.ogg/revision/latest?cb=20250628214522",
+                "is_unavailable": false,
+                "audio_filename": "audio_Helpless_Old_Disciple_16.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_35_hyacine_257.ogg/revision/latest?cb=20250628214227",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "...The creations shaped by Kephale in their image failed to inherit their compassion and acceptance.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_35_phainon_190.ogg/revision/latest?cb=20250628214404",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_18.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Are you alright, Hyacine?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_35_phainon_191.ogg/revision/latest?cb=20250628214405",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "I'm fine, Lord Phainon. I... expected this.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_35_hyacine_258.ogg/revision/latest?cb=20250628214227",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_20.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "It's just... thinking about the vision Seliose held before declaring war on the Titan... this sight is deeply heartbreaking.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_35_hyacine_259.ogg/revision/latest?cb=20250628214229",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...Let's move on.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_35_hyacine_260.ogg/revision/latest?cb=20250628214230",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Listen to Hyacine's summary.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Seliose's victory couldn't change her people. Some Skyfolk revered her as a new goddess, and began to oppress those unwilling to abandon their old beliefs...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_35_hyacine_304.ogg/revision/latest?cb=20250628214310",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_23.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The simple vision she carried with her before declaring war on the Titans... became an illusion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_35_hyacine_305.ogg/revision/latest?cb=20250628214311",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_24.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Let's... keep going",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_35_hyacine_306.ogg/revision/latest?cb=20250628214312",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "Seliose possessed the strength to slay gods...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_35_lunaibisi_159.ogg/revision/latest?cb=20250628214350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "Yet, she failed to sever the cycle of karma rooted deeply in humanity's hearts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_35_lunaibisi_160.ogg/revision/latest?cb=20250628214351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_27.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Operate celestial globe)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...\"The turn of dawn and dusk, commanding the celestial globe...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_35_hyacine_261.ogg/revision/latest?cb=20250628214231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "\"Drive out the gods, Celestial Mural.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_35_hyacine_262.ogg/revision/latest?cb=20250628214232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Could that be...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "But... how is that possible?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_35_phainon_192.ogg/revision/latest?cb=20250628214406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_30.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Witness the true history of the Skyfolk.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dispirited Old Believer",
+                "line": "Please... help us, the forsaken Skyfolk...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_35_xintuC_101.ogg/revision/latest?cb=20250628214523",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dispirited_Old_Believer_31.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dispirited Old Believer",
+                "line": "...Lady Caenis, you are the strong one who follows the path of shadows.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter4_35_xintuC_102.ogg/revision/latest?cb=20250628214524",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dispirited_Old_Believer_32.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "The \"Cleaners\"...! Did the Skyfolk conspire with them?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_35_phainon_193.ogg/revision/latest?cb=20250628214407",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_33.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dispirited Old Believer",
+                "line": "Word has it you hunt those with golden blood, all in your quest to cleanse the world of the filth of those cursed offspring.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_35_xintuC_103.ogg/revision/latest?cb=20250628214525",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dispirited_Old_Believer_34.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dispirited Old Believer",
+                "line": "Deliver justice for us. The witch with golden blood struck down the proud Eye of Twilight, desecrating their divine grace. Yet, it is we, the devout denizens of the sky, who are forced to pay the price!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_35_xintuC_104.ogg/revision/latest?cb=20250628214526",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dispirited_Old_Believer_35.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Caenis\"",
+                "line": "I can smell your despair, Skyfolk... The Cleaners are on the side of mortals. Together, we'll erase that blasphemous bloodline from this world.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_35_qingxizhe_101.ogg/revision/latest?cb=20250628214440",
+                "is_unavailable": false,
+                "audio_filename": "audio_Caenis_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Caenis\"",
+                "line": "The Daythunder Knight and her fantastic creatures are far too strong. No one can hope to defeat them in a direct fight. But we'll show you every trick, every strategy you can use to turn the tide...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_35_qingxizhe_102.ogg/revision/latest?cb=20250628214441",
+                "is_unavailable": false,
+                "audio_filename": "audio_Caenis_37.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "In their desperation, those ancient disciples were willing to do anything — even ally themselves with the Cleaners.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_35_phainon_194.ogg/revision/latest?cb=20250628214408",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_38.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "But I'm guessing their plan failed, didn't it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_35_phainon_195.ogg/revision/latest?cb=20250628214409",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_39.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "Those assassins were vicious, but not foolish. They never actually dared to attack Seliose.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_35_suolabisi_164.ogg/revision/latest?cb=20250628214458",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_40.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "They weren't driven by any genuine desire to help the oppressed. Their true targets were the innocent Chrysos Heirs hidden among the Skyfolk.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_35_suolabisi_165.ogg/revision/latest?cb=20250628214459",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_41.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "These schemes only came to light long after the damage was done.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_35_suolabisi_166.ogg/revision/latest?cb=20250628214459",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_42.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Before the Flame-Chase Journey began, the Chrysos Heirs waged war against each other over who was a \"legitimate\" heir of the prophecy. Even Tribbie's many selves were pulled into the chaos.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_35_phainon_196.ogg/revision/latest?cb=20250628214410",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_43.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "At the time, golden blood was seen as a curse. Honestly? It's easy to see why.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_35_phainon_197.ogg/revision/latest?cb=20250628214411",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_44.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "But Seliose... where was she in all of this? What thoughts weighed on her mind as she watched everything unfold?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_35_hyacine_263.ogg/revision/latest?cb=20250628214233",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Listen to Hyacine's summary.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The oppressed old believers didn't hesitate to team up with the Cleaners, but those assassins had never thought of directly provoking the mighty Seliose. Instead, they trained their daggers on the innocent Chrysos Heirs hidden in the Skyfolk's midst...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_35_hyacine_307.ogg/revision/latest?cb=20250628214313",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Seliose... how exactly would she have felt to witness all this transpire?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter4_35_hyacine_308.ogg/revision/latest?cb=20250628214314",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_47.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "You'll know very soon, Miss Hyacine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_35_lunaibisi_161.ogg/revision/latest?cb=20250628214352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Solabis",
+        "line": "Her unconditional tolerance was met with ruthless betrayal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_35_suolabisi_167.ogg/revision/latest?cb=20250628214500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Solabis_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Solabis",
+        "line": "Her deep love for humanity was reduced to ashes... leaving behind only endless fury.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_35_suolabisi_168.ogg/revision/latest?cb=20250628214501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Solabis_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Operate celestial globe)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...\"The turn of dawn and dusk, commanding the celestial globe...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_35_hyacine_264.ogg/revision/latest?cb=20250628214234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "\"Reveal the history, Celestial Mural.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_35_hyacine_265.ogg/revision/latest?cb=20250628214235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Now, you have nowhere to hide... Titan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_35_phainon_198.ogg/revision/latest?cb=20250628214412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Look, everyone, over there —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_35_mem_128.ogg/revision/latest?cb=20250628214403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Are those... Lady Lunabis and Lord Solabis?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_35_hyacine_266.ogg/revision/latest?cb=20250628214236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Yes, those are remnants of their memories from a thousand years ago.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_35_phainon_199.ogg/revision/latest?cb=20250628214413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_56.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Witness the true history of the Skyfolk.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Indignant New Believer",
+                "line": "Your Highness, what are you planning to do!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_35_xintuD_101.ogg/revision/latest?cb=20250628214527",
+                "is_unavailable": false,
+                "audio_filename": "audio_Indignant_New_Believer_57.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Indignant New Believer",
+                "line": "We are devout disciples of Lady Seliose... We would never betray her! It's those rats... they are the fools who backstabbed our hero!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_35_xintuD_102.ogg/revision/latest?cb=20250628214528",
+                "is_unavailable": false,
+                "audio_filename": "audio_Indignant_New_Believer_58.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Desperate Old Believer",
+                "line": "Please spare us! We were blinded by hatred and misled by those people clothed in black.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_35_xintuE_101.ogg/revision/latest?cb=20250628214532",
+                "is_unavailable": false,
+                "audio_filename": "audio_Desperate_Old_Believer_59.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Indignant New Believer",
+                "line": "Punish them, Your Highness! Without these stubborn remnants of the past, the Skyfolk may finally stand united under the warrior goddess's banner!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_35_xintuD_103.ogg/revision/latest?cb=20250628214529",
+                "is_unavailable": false,
+                "audio_filename": "audio_Indignant_New_Believer_60.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "The strong crush the weak, twisting faith into a tool for oppression.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_35_jiyisuola_101.ogg/revision/latest?cb=20250628214325",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_61.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "The weak rise to power, yet the cycle of hatred endures, unbroken through time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_35_jiyilunai_101.ogg/revision/latest?cb=20250628214315",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "Seliose has made her judgment —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_35_jiyisuola_102.ogg/revision/latest?cb=20250628214325",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "— The corruption within humanity is a sickness beyond cure.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_35_jiyilunai_102.ogg/revision/latest?cb=20250628214316",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_64.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Desperate Old Believer",
+                "line": "Yet she once loved us with such fierce devotion...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_35_xintuE_102.ogg/revision/latest?cb=20250628214532",
+                "is_unavailable": false,
+                "audio_filename": "audio_Desperate_Old_Believer_65.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Desperate Old Believer",
+                "line": "Has she... given up on us?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_35_xintuE_103.ogg/revision/latest?cb=20250628214533",
+                "is_unavailable": false,
+                "audio_filename": "audio_Desperate_Old_Believer_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "Seliose touched the Coreflame and gained the vision of the Titan.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_35_jiyisuola_103.ogg/revision/latest?cb=20250628214327",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_67.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "She saw what the god fears — rooted in the darkness, spawning from the edge of the world, the black tide that devours all.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_35_jiyilunai_103.ogg/revision/latest?cb=20250628214317",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_68.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "They flee from the clouds not out of favoritism toward the scorching sun, but merely out of fear of that boundless shadow.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_35_jiyisuola_104.ogg/revision/latest?cb=20250628214327",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_69.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "Yet humanity misinterpreted the god's intentions, forging them into weapons for fratricide...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_35_jiyilunai_104.ogg/revision/latest?cb=20250628214318",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_70.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "...This history, brewed from sorrow and tragedy, shall end here.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_35_jiyilunai_105.ogg/revision/latest?cb=20250628214319",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_71.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Indignant New Believer",
+                "line": "In the name of the warrior goddess...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_35_xintuD_104.ogg/revision/latest?cb=20250628214530",
+                "is_unavailable": false,
+                "audio_filename": "audio_Indignant_New_Believer_72.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Indignant New Believer",
+                "line": "What kind of fate has she woven for us...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_35_xintuD_105.ogg/revision/latest?cb=20250628214531",
+                "is_unavailable": false,
+                "audio_filename": "audio_Indignant_New_Believer_73.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "We are here to deliver the message Seliose left for mortals —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_35_jiyisuola_105.ogg/revision/latest?cb=20250628214329",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_74.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "\"To my once beloved, yet now unsavable kin —\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_35_jiyisuola_106.ogg/revision/latest?cb=20250628214330",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_75.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "\"With golden divine blood coursing through me, even the Tyrant of the Sky bends to my unyielding light. My light burns far brighter than before, and the fog clouding my mind has finally lifted —\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_35_jiyisuola_107.ogg/revision/latest?cb=20250628214331",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_76.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "\"I gaze upon this fragile earth through the god's hundred eyes, and resolution fills me. A hero's instinct drives me forward, compelling me to deliver your final judgment —\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_35_jiyilunai_106.ogg/revision/latest?cb=20250628214320",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_77.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "\"Your future flows between the boiling streams of the golden pool at your feet —\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_35_jiyisuola_108.ogg/revision/latest?cb=20250628214334",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_78.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "\"Rejoice, for as everyone's flesh and blood merge with liquid gold —\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_35_jiyilunai_107.ogg/revision/latest?cb=20250628214321",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis & Lunabis",
+                "line": "\"You will finally understand what true unity means.\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_35_jiyisuola_109.ogg/revision/latest?cb=20250628214335",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_&_Lunabis_80.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Composed Old Believer",
+                "line": "Ha... I've long seen this day coming.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_35_xintuF_101.ogg/revision/latest?cb=20250628214534",
+                "is_unavailable": false,
+                "audio_filename": "audio_Composed_Old_Believer_81.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Composed Old Believer",
+                "line": "This isn't your fault, Seliose. Your only mistake...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_35_xintuF_102.ogg/revision/latest?cb=20250628214535",
+                "is_unavailable": false,
+                "audio_filename": "audio_Composed_Old_Believer_82.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Composed Old Believer",
+                "line": "...was placing far too much hope in humanity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_35_xintuF_103.ogg/revision/latest?cb=20250628214536",
+                "is_unavailable": false,
+                "audio_filename": "audio_Composed_Old_Believer_83.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_35_hyacine_267.ogg/revision/latest?cb=20250628214237",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_84.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Lunabis, Solabis, you...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_35_hyacine_268.ogg/revision/latest?cb=20250628214238",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_85.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "Yes, we acted as Seliose's executioners.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_35_suolabisi_169.ogg/revision/latest?cb=20250628214502",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_86.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "That day, countless Skyfolk fell from the dome of the Eye of Twilight, swallowed by golden lava.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_35_lunaibisi_162.ogg/revision/latest?cb=20250628214353",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_87.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "They spent their entire lives praying to the sky, yet their devotion never earned them wings to escape their fate.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_35_lunaibisi_163.ogg/revision/latest?cb=20250628214354",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_88.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Seliose... was like a completely different person.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "After learning about everything she went through...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_35_phainon_200.ogg/revision/latest?cb=20250628214414",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_89.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "I can only feel regret... but I can't condemn her choice.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_35_phainon_201.ogg/revision/latest?cb=20250628214415",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_90.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Honestly, I understand her.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "After learning about everything she went through...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_35_phainon_202.ogg/revision/latest?cb=20250628214416",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_91.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "▶ I feel the same way as you, (Trailblazer).",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_35_phainon_203_m.ogg/revision/latest?cb=20250628214418",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_92.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "If this is the true history — was Seliose's fusion with Aquila truly meant to save humanity from ruin?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_35_hyacine_269.ogg/revision/latest?cb=20250628214239",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_93.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "By touching the Coreflame, Seliose gained insight into the Titan's fear... and glimpsed their cold indifference.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_35_lunaibisi_164.ogg/revision/latest?cb=20250628214355",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_94.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "Aquila never yearned for mortal devotion. The establishment of the sky civilization was merely the result of humanity's own doing. The celestial globe, said to be gifted by the Titan to the Skyfolk in the myths, was in truth a creation of mortals.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_35_lunaibisi_165.ogg/revision/latest?cb=20250628214356",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_95.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "Disillusioned with humanity, Seliose began to long for the detachment of divinity. She sent Lunabis and me to the earth in search of a forbidden art said to fuse human and Titan souls.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter4_35_suolabisi_170.ogg/revision/latest?cb=20250628214503",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_96.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Professor Anaxa's alchemy already achieved such power a thousand years ago?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_35_phainon_204.ogg/revision/latest?cb=20250628214419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_97.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Seliose, who passed fatal judgment on the Skyfolk, had turned her back on humanity —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_35_hyacine_270.ogg/revision/latest?cb=20250628214240",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_98.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Listen to Hyacine's summary.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Seliose gave up on the children of humanity, and handed the Skyfolk a death sentence... throwing them into the boiling pool of gold beneath our feet...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...And then she chose to merge with Aquila, casting aside once and for all the humanity that tormented her all her life.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "If this was the path she chose, then whose wish have my ancestors and I been guarding all this time!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_35_hyacine_271.ogg/revision/latest?cb=20250628214241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "The final fragment of history lies just ahead. Go and claim it, Miss Hyacine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_35_lunaibisi_166.ogg/revision/latest?cb=20250628214357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lunabis",
+        "line": "Just as Seliose once did, you must take this step too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_35_lunaibisi_167.ogg/revision/latest?cb=20250628214358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Lunabis_101.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Hyacine and prepare to face the final truth"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Hyacine)"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "choice",
+        "text": "Hyacine",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Seliose had abandoned her humanity... Then, my Twilight Courtyard ancestors... and me... Are we truly her descendants?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_35_hyacine_272.ogg/revision/latest?cb=20250628214242",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_102.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The truth will soon be revealed. No matter what... I will not run away from my mission.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_35_hyacine_273.ogg/revision/latest?cb=20250628214243",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_103.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Grayie, will you stand by my side?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_35_hyacine_274.ogg/revision/latest?cb=20250628214243",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_104.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Confront history and rise to challenge the gods!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Is that...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_35_hyacine_276.ogg/revision/latest?cb=20250628214245",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_105.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Skyfolk",
+                "line": "Great Seliose, I beg you — spare this humble life!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_35_tiankongzhizi_101.ogg/revision/latest?cb=20250628214509",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Skyfolk_106.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Skyfolk",
+                "line": "I've never harmed anyone... The punishment you deliver out of rage is far too harsh for someone innocent like me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_35_tiankongzhizi_102.ogg/revision/latest?cb=20250628214509",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Skyfolk_107.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "The time has come, mortal —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_35_jiyisuola_110.ogg/revision/latest?cb=20250628214336",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_108.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "— it's time to face your destiny.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_35_jiyilunai_109.ogg/revision/latest?cb=20250628214322",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_109.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Skyfolk",
+                "line": "Wait! Please, let me speak with Her Highness, the warrior goddess!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_35_tiankongzhizi_103.ogg/revision/latest?cb=20250628214510",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Skyfolk_110.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Look! Can you see it? Golden blood is spilling from my wounds! I am a Chrysos Heir too... chosen by the prophecy, just like Lady Seliose!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_35_huangjinyi_101.ogg/revision/latest?cb=20250628214211",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_111.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "She isn't lying...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_35_jiyilunai_110.ogg/revision/latest?cb=20250628214323",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_112.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Lunabis",
+                "line": "Seliose, what will you do with one of your own?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_35_jiyilunai_111.ogg/revision/latest?cb=20250628214324",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Lunabis_113.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "A Chrysos Heir...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter4_35_sainieesi2_101.ogg/revision/latest?cb=20250628214441",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_114.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "You are no different from the rest.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_35_sainieesi2_102.ogg/revision/latest?cb=20250628214442",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_115.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "You were once one of the Sunborn... Did you ever rise to defend the weak when your kin oppressed others under the guise of the Titan's favor?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_35_sainieesi2_103.ogg/revision/latest?cb=20250628214443",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_116.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "I... did not.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_35_huangjinyi_102.ogg/revision/latest?cb=20250628214212",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_117.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "You abandoned your old faith and made me your new god after Aquila's fall.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_35_sainieesi2_104.ogg/revision/latest?cb=20250628214444",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_118.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "Did you offer your help when your comrades turned their blades on the faithful who refused to convert?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_35_sainieesi2_105.ogg/revision/latest?cb=20250628214445",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_119.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "I... did not.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_35_huangjinyi_103.ogg/revision/latest?cb=20250628214213",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_120.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "When the Prophecy of Genesis reached all beings, calling the Chrysos Heirs to become heroes of this fractured world...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_35_sainieesi2_106.ogg/revision/latest?cb=20250628214446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_121.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "...did you overcome your inner weakness and heed its urgent call?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_35_sainieesi2_107.ogg/revision/latest?cb=20250628214447",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_122.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "I... failed to do so.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_35_huangjinyi_104.ogg/revision/latest?cb=20250628214214",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_123.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "Look, Chrysos Heir... you are no different from the rest...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_35_sainieesi2_108.ogg/revision/latest?cb=20250628214448",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_124.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "My judgment is just — only burning gold can purify your sins...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_35_sainieesi2_109.ogg/revision/latest?cb=20250628214449",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_125.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "...Wait, Lady Seliose — please, grant me a moment to explain my cowardice!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_35_huangjinyi_105.ogg/revision/latest?cb=20250628214215",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_126.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Your divinity indeed casts our mediocrity in a harsh and unflattering light. Humanity has walked this earth for many ages, enduring life's struggles and witnessing its shameful imperfections...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_35_huangjinyi_106.ogg/revision/latest?cb=20250628214216",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_127.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Yet, despite everything, we built great city-states and thriving civilizations! Even when trapped in the mud of malice, we continued to struggle and push forward...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_35_huangjinyi_107.ogg/revision/latest?cb=20250628214217",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_128.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Because beyond our flaws, the virtue that we all share is tenacity!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_35_huangjinyi_108.ogg/revision/latest?cb=20250628214218",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_129.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Even if it means risking everything I have and everything I have yet to gain... I must kneel before you, begging for a chance at life. I need to prove that mortals are capable of redemption!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_35_huangjinyi_109.ogg/revision/latest?cb=20250628214219",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_130.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Memory Solabis",
+                "line": "To admit your weakness in such a righteous manner... it seems you have completely abandoned your dignity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_35_jiyisuola_111.ogg/revision/latest?cb=20250628214337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memory_Solabis_131.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_35_sainieesi2_110.ogg/revision/latest?cb=20250628214450",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_132.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "You say you're willing to risk everything you've yet to gain...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_35_sainieesi2_111.ogg/revision/latest?cb=20250628214451",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_133.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "Tell me... what kind of miraculous bet is that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_35_sainieesi2_112.ogg/revision/latest?cb=20250628214451",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_134.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "It's simple, Lady Seliose...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_35_huangjinyi_110.ogg/revision/latest?cb=20250628214220",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_135.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Should you grant me a chance at life, I will ensure that your epic is passed down through generations, sung by my descendants until the end times buries all civilizations and legends.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_35_huangjinyi_111.ogg/revision/latest?cb=20250628214221",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_136.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Should the Prophecy of Deliverance we've heard hold even the slightest chance of becoming reality...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_35_huangjinyi_112.ogg/revision/latest?cb=20250628214222",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_137.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Unnamed Chrysos Heir",
+                "line": "Then my descendants will return here one day to prove to you that even the flawed and imperfect mortals you disdain can bear the weight of the world!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_35_huangjinyi_113.ogg/revision/latest?cb=20250628214223",
+                "is_unavailable": false,
+                "audio_filename": "audio_Unnamed_Chrysos_Heir_138.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_35_sainieesi2_113.ogg/revision/latest?cb=20250628214452",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_139.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "Ha... interesting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_35_sainieesi2_114.ogg/revision/latest?cb=20250628214453",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_140.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "Release her, Solabis, Lunabis.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_35_sainieesi2_115.ogg/revision/latest?cb=20250628214454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_141.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "From now on, she and her descendants will carry both the sky's blessing and the curse of their history. No matter how long it takes, I will wait for the one who is destined to arrive...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_35_sainieesi2_116.ogg/revision/latest?cb=20250628214455",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_142.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seliose, Theos Synthetos",
+                "line": "When that time comes, I'll take pleasure in mocking these mortal children on how their progenitress sold their unborn lives.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_35_sainieesi2_117.ogg/revision/latest?cb=20250628214456",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seliose,_Theos_Synthetos_143.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "The truth of the legend... is finally clear.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_35_phainon_205.ogg/revision/latest?cb=20250628214419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_144.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Hyacinthia...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_35_phainon_206.ogg/revision/latest?cb=20250628214420",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_145.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_35_hyacine_277.ogg/revision/latest?cb=20250628214246",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_146.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Am I... the descendant of that nameless Chrysos Heir?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_35_hyacine_278.ogg/revision/latest?cb=20250628214247",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_147.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Our lineage wasn't from the hero...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_35_hyacine_279.ogg/revision/latest?cb=20250628214248",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_148.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...but from a nameless Chrysos Heir who begged for mercy before her.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_35_hyacine_280.ogg/revision/latest?cb=20250628214249",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_149.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "My whole clan's fragile mortal life... was simply spared on Seliose's whim...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_35_hyacine_281.ogg/revision/latest?cb=20250628214250",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_150.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "We must not yield to her scorn.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "Her judgment may be true — mortals do have their flaws. But even so, human dignity must not be trampled.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_35_phainon_207.ogg/revision/latest?cb=20250628214421",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_151.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Humans aren't as contemptible as she thinks.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "She sees only the sins we've committed, but we will make her understand that it's not all we are.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_35_phainon_208.ogg/revision/latest?cb=20250628214422",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_152.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Perhaps there's a trace of compassion left in her.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Phainon",
+                        "line": "She turned her back on humanity and embraced divinity... She believes we're not worth saving.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_35_phainon_209.ogg/revision/latest?cb=20250628214423",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Phainon_153.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Lord Solabis, Lady Lunabis —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_35_hyacine_282.ogg/revision/latest?cb=20250628214251",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_154.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Tell me... did you wait for a thousand years at the Eye of Twilight... Just to witness that Chrysos Heir's child coming back to receive punishment?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_35_hyacine_283.ogg/revision/latest?cb=20250628214252",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_155.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "...Time alters everything, child.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_35_lunaibisi_168.ogg/revision/latest?cb=20250628214359",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_156.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "Once upon a time, we had not yet learned to read the complexities of human nature, and Seliose's perspective was our only window into understanding humanity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_35_lunaibisi_169.ogg/revision/latest?cb=20250628214400",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_157.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "Her words were everything to us: Our guide, comfort, command, and admonition.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_35_suolabisi_171.ogg/revision/latest?cb=20250628214504",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_158.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "It wasn't until she fell silent that we learned to perceive humanity through our senses.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_35_suolabisi_172.ogg/revision/latest?cb=20250628214505",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_159.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "During our resistance against the black tide... we watched over the earth, observing the progress of the Flame-Chase Journey. We saw heroes embarking on a mission of deliverance from which they could not return.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_35_lunaibisi_170.ogg/revision/latest?cb=20250628214401",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_160.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "The unity and hope Seliose couldn't see... we've witnessed in her place.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_35_lunaibisi_171.ogg/revision/latest?cb=20250628214402",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_161.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "We've changed, young Hyacinthia. Our watch isn't about proving humanity's weaknesses anymore...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_35_suolabisi_173.ogg/revision/latest?cb=20250628214506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_162.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "...It's about waiting for the return of the light.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter4_35_suolabisi_174.ogg/revision/latest?cb=20250628214507",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_163.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_35_hyacine_284.ogg/revision/latest?cb=20250628214252",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_164.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Lady Seliose! I want to tell you this! Doesn't matter if you can hear me or not!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_35_hyacine_285.ogg/revision/latest?cb=20250628214253",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_165.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "I want you to know that I am glad to be born as the child of a nameless and ordinary mortal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_35_hyacine_286.ogg/revision/latest?cb=20250628214254",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_166.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Only then can I prove to you that tenacious hope, buried in the deepest part of the human soul, has not been lost to time! It's just waiting to heal and grow, and then it will shine once more.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_35_hyacine_287.ogg/revision/latest?cb=20250628214255",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_167.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Even the most cowardly individual harbors a seed within. Perhaps in your era, the light on the horizon was too dim for it to sprout...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_35_hyacine_288.ogg/revision/latest?cb=20250628214256",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_168.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "But do you see it now? A thousand years later, the path you forged is now walked by many brilliant heroes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_35_hyacine_289.ogg/revision/latest?cb=20250628214257",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_169.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "They love the people of this world unreservedly, willing to sacrifice themselves to shine a light upon the children of humanity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_35_hyacine_290.ogg/revision/latest?cb=20250628214258",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_170.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The light they leave behind will inspire the seeds within people to sprout, grow, and thrive, nurturing them every step of the way.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_35_hyacine_291.ogg/revision/latest?cb=20250628214259",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_171.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Until the barren land is reborn as a thriving forest, growing endlessly, and one day... reaching for the sky once again.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_35_hyacine_292.ogg/revision/latest?cb=20250628214300",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_172.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "That \"twilight,\" still capable of being healed and protected in the end times... is the reason we choose to bear the weight of humanity's flaws.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_35_hyacine_293.ogg/revision/latest?cb=20250628214301",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_173.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "History has proven once again: The Flame-Chase Journey itself is a miracle —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_35_phainon_210.ogg/revision/latest?cb=20250628214424",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_174.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "It began with a whitewashed lie, but it laid down a path of deliverance for humanity over thousands of years.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_35_phainon_211.ogg/revision/latest?cb=20250628214425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_175.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Seliose, we have honored the promise made by that nameless Chrysos Heir and returned here. We also bring you the answer to your question —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_35_phainon_212.ogg/revision/latest?cb=20250628214426",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_176.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Mortals are capable of change... and humanity is worth saving!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_35_phainon_213.ogg/revision/latest?cb=20250628214427",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_177.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Our people, forging through the trials of the end times, deserve a second chance — we are worthy of a new dawn!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_35_phainon_214.ogg/revision/latest?cb=20250628214428",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_178.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Hyacine —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_35_phainon_215.ogg/revision/latest?cb=20250628214429",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_179.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Yes! Solabis, Lunabis —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_35_hyacine_294.ogg/revision/latest?cb=20250628214301",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_180.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Solabis",
+                "line": "We are here, Hyacinthia.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_35_suolabisi_175.ogg/revision/latest?cb=20250628214508",
+                "is_unavailable": false,
+                "audio_filename": "audio_Solabis_181.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Lunabis",
+                "line": "We are here, Miss Hyacine.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_35_lunaibisi_172.ogg/revision/latest?cb=20250628214402",
+                "is_unavailable": false,
+                "audio_filename": "audio_Lunabis_182.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Give me your strength. I've made my decision, and we stand resolved.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_35_hyacine_295.ogg/revision/latest?cb=20250628214303",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_183.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "For all that mortals have built, I will follow the guidance of the prophecy and claim the Coreflame of the Eye of Twilight —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_35_hyacine_296.ogg/revision/latest?cb=20250628214304",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_184.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The children of humanity have returned from the earth, and we... will challenge the skies once again!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_35_hyacine_297.ogg/revision/latest?cb=20250628214305",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_185.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Take a moment to gather your thoughts, Hyacine.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "You're right... we all need some time to prepare.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_35_hyacine_275.ogg/revision/latest?cb=20250628214244",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hyacine_186.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "This time, I will not be overwhelmed by the darkness of humanity.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Face us, avatar of Sky!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstSublime, Radiant, Avatar of the Sky)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Does this weather please you, Titan incarnate?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_35_phainon_216.ogg/revision/latest?cb=20250628214430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Indulge in this, and taste the fiery blaze of Dawnmaker!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_35_phainon_217.ogg/revision/latest?cb=20250628214431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "If you can still hear my voice, Lady Seliose —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter4_35_hyacine_298.ogg/revision/latest?cb=20250628214306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Behold the strength of those who've pledged to save the world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_35_hyacine_299.ogg/revision/latest?cb=20250628214306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_190.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When the Temperature exceeds 72%)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The temperature is rising —",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We need to find a way to quench this heatwave!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\"Avatar of the Sky\" increases the Temperature during its next action based on the \"Helium Flash\" value</dd>\n<dd>Attack multiple enemy targets at the same time to quickly reduce their \"Helium Flash\" value</dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Sublime, Radiant, Avatar of the Sky uses Fury, Incineration of Dawn and Dusk)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "They... they want to turn this place to scorched earth!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_35_hyacine_300.ogg/revision/latest?cb=20250628214307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_191.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Sublime, Radiant, Avatar of the Sky is reduced to below 30% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Give us the Coreflame...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_35_hyacine_301.ogg/revision/latest?cb=20250628214308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...At least, we can soothe the world's pain!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_35_hyacine_302.ogg/revision/latest?cb=20250628214309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_193.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Sublime, Radiant, Avatar of the Sky is reduced to below 10% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I shall strike down the false sun!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_35_phainon_218.ogg/revision/latest?cb=20250628214431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_194.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Sublime, Radiant, Avatar of the Sky is reduced to 1% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Let's finish this! Slice off their wings!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_35_player_101_m.ogg/revision/latest?cb=20250628214439",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "You, too, will be cleansed with gold!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_35_phainon_224.ogg/revision/latest?cb=20250628214437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_196.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene begins)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": ": Quick, behind me!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Second phase starts)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The platform is plummeting fast!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Stand firm! It's a long way down... Let's end them before we crash into the pool of gold!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_35_phainon_219.ogg/revision/latest?cb=20250628214432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_197.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When the Thunderclouds exceeds 5%)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Storm clouds are gathering...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_35_phainon_220.ogg/revision/latest?cb=20250628214433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Are you ready to sever the lightning?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_35_phainon_221.ogg/revision/latest?cb=20250628214434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_199.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\"Avatar of the Sky\" additionally deals DMG during its next action based on the \"Thundercloud\" value</dd>\n<dd>Attack enemy targets to quickly seize \"Thundercloud\" and deal DMG to \"Avatar of the Sky\" after its next action</dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(When Sublime, Radiant, Avatar of the Sky is reduced to 1% HP again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There is another world waiting to be saved...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_35_phainon_222.ogg/revision/latest?cb=20250628214435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We... have no intention of dying here with you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_35_phainon_223.ogg/revision/latest?cb=20250628214436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_201.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Titan —",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "— Melt into nothing!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Use the Shrine of Prayers to Rewind the shattered platform"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After a fierce battle, Aquila plunged into the pool of gold, and their Coreflame was seamlessly claimed by Hyacine. Now, the urgent task is to flee the crumbling sky fortress before it collapses entirely."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter4_36_phainon_101.ogg/revision/latest?cb=20250628214559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Aglaea...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_36_phainon_102.ogg/revision/latest?cb=20250628214600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Are you... still protecting us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_36_phainon_103.ogg/revision/latest?cb=20250628214601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Look, Aquila's Coreflame —",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Is it... all over now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_36_hyacine_101.ogg/revision/latest?cb=20250628214541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Seliose condemned humanity, casting them into the pool of gold. In the end, she too was...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_36_hyacine_102.ogg/revision/latest?cb=20250628214542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Take that Coreflame with you, Hyacine. Our mission isn't over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_36_phainon_104.ogg/revision/latest?cb=20250628214602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Hmm... Coreflame of the sky, come with me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_36_hyacine_103.ogg/revision/latest?cb=20250628214543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_208.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Hyacine contains the Coreflame in her palm..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "It's a strange feeling. It's so warm and... powerful.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_36_hyacine_104.ogg/revision/latest?cb=20250628214544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Holding it in my hand, it feels like the winds of this world might turn for me... Summoning thunder or snow is just a thought away.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_36_hyacine_105.ogg/revision/latest?cb=20250628214545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I understand how you feel, but right now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_36_phainon_105.ogg/revision/latest?cb=20250628214603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...this platform is on the brink of collapse. Who knows how much longer it can hold. We need to find a way to leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_36_phainon_106.ogg/revision/latest?cb=20250628214604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Look, over there —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_36_phainon_107.ogg/revision/latest?cb=20250628214605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "A Time Priest's instrument. Does it still have any divine power left?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "No idea, but we have to take a gamble. If the prayer can rewind the shattered platform, then we might ride it back to the entrance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_36_phainon_108.ogg/revision/latest?cb=20250628214606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...and also retrieve Aglaea's amulet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_36_phainon_109.ogg/revision/latest?cb=20250628214607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We can't delay any longer. Everyone, move quickly",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_36_phainon_110.ogg/revision/latest?cb=20250628214607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Is the Sky Castrum collapsing because of Aquila's fall?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "The golden thread... is trembling...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_36_mem_101.ogg/revision/latest?cb=20250628214557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This device is too old. It might not work...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ We're out of time. We have to retrieve it... (Trailblazer), quickly!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_36_phainon_111_m.ogg/revision/latest?cb=20250628214609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_218.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Oronyx —"
+    },
+    {
+        "type": "note",
+        "text": "I summon thee —"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "\"Lift the curtain of memory—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_36_mem_102.ogg/revision/latest?cb=20250628214558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ \"—and stir up ripples of past reverie!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_36_player_101_m.ogg/revision/latest?cb=20250628214635",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_220.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene begins)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": ": This is bad. The prayer's power...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": ": ...No!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainion",
+                "line": ": Come on... we have to get out of here.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": ": I shall have my final bath...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": ": ...in warm and radiant gold.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "From here on, Phainon, you shall embark on a journey with no return.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter4_36_aglaea_113.ogg/revision/latest?cb=20250628214537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Light fades only to await the sun's rise.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_36_aglaea_114.ogg/revision/latest?cb=20250628214538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "One day, you will step forward — not out of fear...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_36_aglaea_116.ogg/revision/latest?cb=20250628214539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea & Phainon",
+        "line": "...but to return the dawn to this world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_36_aglaea_117.ogg/revision/latest?cb=20250628214540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_&_Phainon_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...It's right in front of us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_36_phainon_126.ogg/revision/latest?cb=20250628214610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The platform has reset above us... We need to find a way up!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This way, behind! That door leads outside —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_36_phainon_130.ogg/revision/latest?cb=20250628214611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There's got to be a path!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_36_phainon_131.ogg/revision/latest?cb=20250628214612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_227.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Try using the Miracle Orb to pass through the curtain wall"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "A Miracle Orb! Let's use it to open our escape route!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Optional)"
+    },
+    {
+        "type": "choice",
+        "text": "Investigate",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Dear Seliose,",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_35_liuyan_133.ogg/revision/latest?cb=20250628214338",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_228.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Are you okay? We haven't heard from you in so long...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_35_liuyan_134.ogg/revision/latest?cb=20250628214339",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_229.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "We think we understand why you haven't replied, but we still wanted to leave these words here, just in case you see them, you know?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_35_liuyan_135.ogg/revision/latest?cb=20250628214340",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_230.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "We are afraid this might be the last letter we ever write to you. Oleinus has sunk into an endless night, with dreadful creatures continuing to surge from the black tide, plunging the entire city in chaos.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_35_liuyan_136.ogg/revision/latest?cb=20250628214341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_231.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Right now, I'm doing everything I can to help people escape. We have been guiding them through the Century Gate, sending them to Okhema, where our sister Tribbie is waiting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_35_liuyan_137.ogg/revision/latest?cb=20250628214342",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_232.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Maintaining the Century Gate takes everything I have. Lately, it feels like we are getting smaller and smaller. And to make matters worse, the lord of Oleinus is still closing in on us ...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_35_liuyan_138.ogg/revision/latest?cb=20250628214343",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_233.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Yet we can't stop now. There are still so many people who need saving.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_35_liuyan_139.ogg/revision/latest?cb=20250628214344",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_234.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "We have to get them to safety, far from the grasp of the black tide. It's something we can't turn away from. Any of our sisters would make the same choice without a second thought...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter4_35_liuyan_140.ogg/revision/latest?cb=20250628214345",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_235.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "Dear Seliose — have you become a hero? We truly hope you've succeeded. If you have, perhaps more people will believe in the prophecy... and find the strength to stand together because of it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_35_liuyan_141.ogg/revision/latest?cb=20250628214346",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_236.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "We are so tired now. Maybe it's time for a little rest... and in our dreams, we will see Mama again, along with all our sisters...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_35_liuyan_142.ogg/revision/latest?cb=20250628214348",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_237.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Message Slate",
+                "line": "— Missing you, Trissha",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_35_liuyan_143.ogg/revision/latest?cb=20250628214349",
+                "is_unavailable": false,
+                "audio_filename": "audio_Message_Slate_238.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Miracle Orb)"
+    },
+    {
+        "type": "note",
+        "text": "Engage \"Miracle Orb\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "It worked! Let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_36_mem_103.ogg/revision/latest?cb=20250628214558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_239.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Phainon... Aglaea is...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_36_hyacine_106.ogg/revision/latest?cb=20250628214545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_36_phainon_132.ogg/revision/latest?cb=20250628214613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I... know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_36_phainon_133.ogg/revision/latest?cb=20250628214614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_242.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the second Miracle Orb)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "That orb is blinking... We need to use it to open the gate!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Lightning and thunder...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_36_hyacine_107.ogg/revision/latest?cb=20250628214546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "The Celestial Mural is showing the end of the world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_36_hyacine_108.ogg/revision/latest?cb=20250628214547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_244.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What's happening out there...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "The mural's control over the weather was severed long ago. Whatever happens here shouldn't affect the world below... or so I hope.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "On the contrary, the Flame-Chase Journey is on the verge of success.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Aquila is the eleventh Coreflame of the Flame-Chase Journey. The final Coreflame of Kephale is enshrined in the council hall at Dawncloud.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We're so close to achieving the miracle. Humanity will finally take control of its fate...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_36_phainon_134.ogg/revision/latest?cb=20250628214615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...as long as we can make it out of here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_36_phainon_135.ogg/revision/latest?cb=20250628214616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_246.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue onward and escape the falling Cloudedge Bastion Ruins"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This path isn't as safe as it looks... Stay sharp and watch your step!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...Argh!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_36_hyacine_109.ogg/revision/latest?cb=20250628214548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Watch out! Everything is collapsing, and a misstep could lead to a fall!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_36_phainon_136.ogg/revision/latest?cb=20250628214617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "The door's frame is coming down!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_36_hyacine_110.ogg/revision/latest?cb=20250628214549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ (Trailblazer) — give us a hand!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_36_phainon_137_m.ogg/revision/latest?cb=20250628214619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_250.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After using Oronyx's Prayer)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ (Trailblazer)... you do have a knack for saving the world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_36_phainon_138_m.ogg/revision/latest?cb=20250628214620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_251.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's getting worse!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Stay close to (Trailblazer)... Don't fall behind!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_36_phainon_140_m.ogg/revision/latest?cb=20250628214622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_252.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The platform is just ahead!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Hyacine, where are those winged beasts?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_36_phainon_141.ogg/revision/latest?cb=20250628214623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "I'm trying to locate them, but the storm clouds on the mural are blocking my senses!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_36_hyacine_111.ogg/revision/latest?cb=20250628214550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "We could use their wings to escape if they were still here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_36_hyacine_112.ogg/revision/latest?cb=20250628214551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We'll have to rely on our feet for now. Keep moving...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_36_phainon_142.ogg/revision/latest?cb=20250628214624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...We're not safe yet!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_36_phainon_143.ogg/revision/latest?cb=20250628214625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_257.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the next Miracle Orb)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "It's getting even more unstable...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_35x_mem_125.ogg/revision/latest?cb=20250628214209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_258.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Make sure you get the timing right!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_35x_mem_126.ogg/revision/latest?cb=20250628214209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_259.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the West Wind Compass)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We're almost there. The end is just ahead. All we need is a rainbow bridge...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_36_phainon_144.ogg/revision/latest?cb=20250628214626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_260.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "A West Wind Compass... leave it to me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_36_hyacine_113.ogg/revision/latest?cb=20250628214552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_261.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Focus, Hyacinthia! Stay focused...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_36_hyacine_114.ogg/revision/latest?cb=20250628214553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_262.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Why does this have to happen now...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "We're out of time. The fortress runs on Aquila's divine energy — if I can channel the Coreflame...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_36_hyacine_115.ogg/revision/latest?cb=20250628214554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_263.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "It worked! The Coreflame responded. Everyone, let's get out of here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_36_hyacine_116.ogg/revision/latest?cb=20250628214555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_264.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Ride the platform and return to the domed roof of the Cloudedge Bastion Ruins"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We all have something worth living for —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_36_phainon_145.ogg/revision/latest?cb=20250628214627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "And we all want to see Okhema's second dawn &md",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_36_phainon_146.ogg/revision/latest?cb=20250628214628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_266.ogg"
+    },
+    {
+        "type": "note",
+        "text": "( Activate Floating Platform)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Wait... what was that sound?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_36_hyacine_118.ogg/revision/latest?cb=20250628214556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Everyone — once the platform stops, we make a break for the exit...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_36_phainon_148.ogg/revision/latest?cb=20250628214629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_268.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Don't hesitate, not even for a second!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_36_phainon_149.ogg/revision/latest?cb=20250628214630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_269.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Once the platform stops)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Everyone, hold on tight!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_36_phainon_150.ogg/revision/latest?cb=20250628214631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_270.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Isn't that sound... How's that possible...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "No time for speculation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_36_phainon_151.ogg/revision/latest?cb=20250628214632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_271.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "— Run!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_36_phainon_152.ogg/revision/latest?cb=20250628214633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_272.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "The Titan?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "But their Coreflame has already...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Could this be... Seliose...?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat \"Eye of Twilight\" Aquila"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The truth is extremely bitter — Seliose had long since lost all faith in her kin. Hyacine's bloodline leads back to an unnamed Chrysos Heir who escaped the purge, yet thankfully, she refused to let this black moment shape her. Now, we shall confront Aquila, Eye of Twilight, and bring closure to this saga of skies and predestination."
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstDecimator, Karma of Daythunder, Eye of Twilight"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "That twisted form...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter4_37_phainon_142.ogg/revision/latest?cb=20250628214647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_273.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Did the black tide bring them back to life?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_37_phainon_143.ogg/revision/latest?cb=20250628214648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_274.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "The Coreflame has been taken, yet they still move...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_37_hyacine_114.ogg/revision/latest?cb=20250628214639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_275.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Lady Seliose, is that you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_37_hyacine_115.ogg/revision/latest?cb=20250628214640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_276.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\"Eye of Twilight\" deals a set amount of DMG based on \"Black Tide Sync Rate\"</dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Break Decimator, Karma of Daythunder, Eye of Twilight)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Your curse ends here!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Decimator, Karma of Daythunder, Eye of Twilight uses Eye of Terror)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "I hear it, the echo of the apocalypse...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_37_hyacine_116.ogg/revision/latest?cb=20250628214641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_277.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Stop, Lady Seliose!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_37_hyacine_117.ogg/revision/latest?cb=20250628214642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_278.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Decimator, Karma of Daythunder, Eye of Twilight uses Unmaking Ashes: Godsfall)\n(Cutscene begins)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "We must bring light to these dark times!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "With just a glimmer of light...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "I'll be able to pierce through the clouds...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Use mine, Hyacine.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "I am...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "the one who bears the world—",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "I am...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "the blazing sun, destined",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "to rise!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(\"Healing Rainbow\" activates)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Coreflame...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_37_hyacine_118.ogg/revision/latest?cb=20250628214643",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_279.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Bestow upon us the healing rainbow!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_37_hyacine_119.ogg/revision/latest?cb=20250628214644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_280.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\"Healing Rainbow\" can remove \"Tide-Corrosion\" state from all allies and restore HP for them.</dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(When Decimator, Karma of Daythunder, Eye of Twilight is reduced to below 30% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Almost there... keep the momentum going!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "Hero of the sky, awaken!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_37_hyacine_120.ogg/revision/latest?cb=20250628214644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_281.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Activate \"Healing Rainbow\")"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "With humanity's tenacity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_37_hyacine_121.ogg/revision/latest?cb=20250628214645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_282.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hyacine",
+        "line": "...we reject your judgment!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_37_hyacine_122.ogg/revision/latest?cb=20250628214646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hyacine_283.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Decimator, Karma of Daythunder, Eye of Twilight is reduced to 1% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The first and only god that Dawnmaker will slay —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_37_phainon_145.ogg/revision/latest?cb=20250628214649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_284.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "— is you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_37_phainon_146.ogg/revision/latest?cb=20250628214650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_285.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene begins)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Too far...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "We must stop them!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Heroes...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Help us!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "Hero of the sky—",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "— witness",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hyacine",
+                "line": "the will of humanity!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seliose's Voice",
+        "line": "Children of humanity... you have overturned the judgment I once cast in disillusionment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter4_36_sainieesi2_101.ogg/revision/latest?cb=20250628214636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Selioses_Voice_286.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seliose's Voice",
+        "line": "Beginning with a lie disguised as a heroic legend, passed down for millennia , a grand epic of creation has been written...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_36_sainieesi2_103.ogg/revision/latest?cb=20250628214637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Selioses_Voice_287.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seliose's Voice",
+        "line": "...You are worthy of a new dawn.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_36_sainieesi2_104.ogg/revision/latest?cb=20250628214638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Selioses_Voice_288.ogg"
+    }
+]

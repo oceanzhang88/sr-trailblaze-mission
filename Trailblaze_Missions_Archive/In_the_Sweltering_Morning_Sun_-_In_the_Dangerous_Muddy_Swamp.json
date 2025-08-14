@@ -1,0 +1,1748 @@
+[
+    {
+        "type": "heading",
+        "text": "Report to Natasha"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Cocoliawas defeated and the influence of theStellaronweakened with her demise.Bronyahad fabricated a white lie to let the people ofBelobogaccept the passing of theirSupreme Guardianin battle.Seelethen returned to theOverworldwith Bronya, who was utterly exhausted. At the same time, someone also needs to bring the news of the victory to theUnderworld."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach theclinic)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look! There's a big crowd around the clinic.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter1_10_mar7th_212.ogg/revision/latest?cb=20241204035937",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Do you think they felt the effects of the battle just now...? Let's go ask around.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_10_mar7th_213.ogg/revision/latest?cb=20241204035938",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Civilian",
+        "line": "What was that shaking just now?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Civilian",
+        "line": "I thought the whole building was about to collapse...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Civilian",
+        "line": "The ground just kept on shaking...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Civilian",
+        "line": "Was it the Fragmentum ?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Girl",
+        "line": "Was it an earthquake?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man",
+        "line": "No, it couldn't have been an earthquake...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Girl",
+        "line": "What about an avalanche?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man",
+        "line": "Eh, not an avalanche either...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Girl",
+        "line": "Then could it be the end of the world?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man",
+        "line": "Maybe...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elderly Man",
+        "line": "It's over, we're doomed...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elderly Man",
+        "line": "I haven't even written my will yet!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elderly Woman",
+        "line": "What are you so worked up about?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elderly Woman",
+        "line": "It's not like we have much to will to anyone in the first place.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Natasha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Natasha! Oleg ! Hope you didn't have to wait too long.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter1_10_mar7th_214.ogg/revision/latest?cb=20241204035939",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Oh! It's them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_10_natasha_201.ogg/revision/latest?cb=20241204040032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "You kids move fast! By the look on your faces, I assume you come bearing good news?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter1_10_oleg_201.ogg/revision/latest?cb=20241204040049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mm-hmm, you bet! You might not believe this, but we summoned up all our strength, and then...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_10_mar7th_215.ogg/revision/latest?cb=20241204035940",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ ...Uh, maybe (Trailblazer) should do the talking. I'm no good at serious stuff — I'll probably say something I'll regret.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter1_10_mar7th_216_m.ogg/revision/latest?cb=20241204035942",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_6.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The guardian sacrificed herself to seal the Stellaron.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "We were there at the fight — we witnessed everything.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_10_danheng_210.ogg/revision/latest?cb=20241204035847",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you feel like recounting the story, Dan Heng ...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "The supreme guardian sacrificed herself to seal the Stellaron. We were there at the fight — we witnessed everything.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_10_danheng_211.ogg/revision/latest?cb=20241204035847",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "\"Sacrificed herself,\" huh... Sure. Yeah. That's the whole story...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter1_10_mar7th_218.ogg/revision/latest?cb=20241204035943",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Cocolia? In order to save Belobog, she... I see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_10_natasha_202.ogg/revision/latest?cb=20241204040033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "So the massive tremors we felt earlier were a result of the battle, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_10_oleg_202.ogg/revision/latest?cb=20241204040050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_11.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yes, it was a hard-won victory."
+    },
+    {
+        "type": "choice",
+        "text": "We quite literally saved the world...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Through patting yourself on the back!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter1_10_mar7th_219.ogg/revision/latest?cb=20241204035944",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "...Thank you. I can't even imagine what you've been through up there. I'm just glad everything turned out alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter1_10_natasha_203.ogg/revision/latest?cb=20241204040034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "What about Seele?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_10_natasha_204.ogg/revision/latest?cb=20241204040035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Don't worry, she's alright! It took a big toll on Bronya, so Seele took her over to the Guards.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_10_mar7th_220.ogg/revision/latest?cb=20241204035945",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Good... I'm so glad you're all okay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_10_natasha_205.ogg/revision/latest?cb=20241204040036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Now that Cocolia is no more, I guess our Silvermane girl is about to become the next supreme guardian?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter1_10_oleg_203.ogg/revision/latest?cb=20241204040051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "She sees things through and doesn't go back on her word. The Underworld will thrive again under her watch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_10_oleg_204.ogg/revision/latest?cb=20241204040052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mm-hmm! Oh, we brought you a message from Bronya! Ahem, \"The blockade will soon be lifted. The people of the Underworld will breathe freely.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_10_mar7th_221.ogg/revision/latest?cb=20241204035946",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "\"Breathe freely...\" That's been our wish all along.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_10_natasha_206.ogg/revision/latest?cb=20241204040037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "▶ March, Dan Heng, and (Trailblazer)... can I ask for your help again? I want to get this news out to everyone. It'll lift their spirits and bring them hope.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_10_natasha_207_m.ogg/revision/latest?cb=20241204040039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_21.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Count us in."
+    },
+    {
+        "type": "note",
+        "text": "I can't wait to see their faces."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Thank you. Choose whoever you like. Wildfire will take care of the rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_10_natasha_208.ogg/revision/latest?cb=20241204040040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ We've gotten to know a lot of Underworlders... (Trailblazer), who do you think we should start with?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter1_10_mar7th_222_m.ogg/revision/latest?cb=20241204035948",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's start with the mining team over at the Great Mine."
+    },
+    {
+        "type": "note",
+        "text": "Let's start with Hook and The Moles."
+    },
+    {
+        "type": "note",
+        "text": "Let's start with Gertie."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Roger that — you can leave the rest to us. If everything goes smoothly... this should be Wildfire's final mission.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_10_natasha_209.ogg/revision/latest?cb=20241204040041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_24.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Mining Team Version"
+    },
+    {
+        "type": "section_header",
+        "text": "Go to the Great Mine and comfort the Underworlders"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.The great tremors from the battle made the Underworlders very concerned. Natasha would like you to to go comfort them and bring the good news to everyone.Go to the Great Mine and see how things are going."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Do you think the Great Mine was affected by our fighting on the surface?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter1_10_mar7th_223.ogg/revision/latest?cb=20241204035949",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's hope we didn't cause a collapse.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_10_danheng_212.ogg/revision/latest?cb=20241204035848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_26.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Reach theVagrant Shelter)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, it's Antonia ! The miners and vagrants are all in the same spot.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter1_10_mar7th_224.ogg/revision/latest?cb=20241204035950",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I sure hope they're not arguing again... Quick, let's head over!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_10_mar7th_225.ogg/revision/latest?cb=20241204035951",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Antonia)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "...Here, take it. I'm afraid we're short on goods and materials right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_10_antonia_201.ogg/revision/latest?cb=20241204035830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Humble Vagrant",
+        "line": "Oh, well we actually have enough for the moment. You hang onto it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_10_vagrantV_201.ogg/revision/latest?cb=20241204040059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Humble_Vagrant_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey! Are you guys causing trouble again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_10_mar7th_226.ogg/revision/latest?cb=20241204035952",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "It's you! Oh, no, no, you misunderstand...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter1_10_antonia_202.ogg/revision/latest?cb=20241204035831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "There was a huge quake at the mine just now — part of it collapsed. If the vagrants here hadn't stopped to help, I doubt we'd have gotten everyone out in one piece.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_10_antonia_203.ogg/revision/latest?cb=20241204035832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "I was just discussing how to repay them. It's a shame the mining team is hard up right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter1_10_antonia_204.ogg/revision/latest?cb=20241204035833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_34.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Wanna hear something really great?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Antonia",
+                "line": "Oh? To do with us? I'm listening...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_10_antonia_205.ogg/revision/latest?cb=20241204035834",
+                "is_unavailable": false,
+                "audio_filename": "audio_Antonia_35.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've got you covered.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Uh... can't we get Bronya to cover the bill?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_10_mar7th_227.ogg/revision/latest?cb=20241204035953",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Ugh, can we focus? (Trailblazer), tell them the good news already!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter1_10_mar7th_228_m.ogg/revision/latest?cb=20241204035954",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Telling the mining team and the vagrants about the victory..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "You mean to say that... we're about to be reunited with the Overworld?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_10_antonia_206.ogg/revision/latest?cb=20241204035835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Humble Vagrant",
+        "line": "Are you serious!? This has... gotta be a dream. Good things... don't happen to us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_10_vagrantV_202.ogg/revision/latest?cb=20241204040100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Humble_Vagrant_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Today they do! And you're not dreaming. If you don't believe us, pinch yourself!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_10_mar7th_229.ogg/revision/latest?cb=20241204035956",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "If things go back to the way they were 10 years ago... then the mining team can finally escape this poverty...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_10_antonia_207.ogg/revision/latest?cb=20241204035836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "...and you won't have to rely on the charity of others. We'll finally be living with the dignity we deserve.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_10_antonia_208.ogg/revision/latest?cb=20241204035837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Humble Vagrant",
+        "line": "I... *sniff* *sob*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter1_10_vagrantV_203.ogg/revision/latest?cb=20241204040101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Humble_Vagrant_43.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Come on. Wipe your tears."
+    },
+    {
+        "type": "note",
+        "text": "Let it out!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Thank you, outsiders, from the bottom of my heart! The mining team'll remember you as heroes... as will the rest of the Underworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter1_10_antonia_209.ogg/revision/latest?cb=20241204035838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Antonia",
+        "line": "Please tell Natasha that we're ready to get back to work... If the cable car station can start operating again, we'll dispatch a mining representative to negotiate with the Architects .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_10_antonia_210.ogg/revision/latest?cb=20241204035840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Antonia_45.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Hook and the Moles Version"
+    },
+    {
+        "type": "section_header",
+        "text": "Go to Rivet Town and find members of the Moles"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.The great tremors from the battle made the Underworlders very concerned. Natasha would like you to to go comfort them and bring the good news to everyone.The kids in the Moles ran to Rivet Town during the commotion. Go check on them."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Those kids better not have taken advantage of the chaos to go on an expedition.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_10_natasha_210.ogg/revision/latest?cb=20241204040042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Hook does always talk about wanting to go on a Rivet Town adventure... this could be bad.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_10_natasha_211.ogg/revision/latest?cb=20241204040043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Reach theOrphanage)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "48... 49... 50!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_10_julian_201.ogg/revision/latest?cb=20241204035929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Ready or not, here I come!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_10_julian_202.ogg/revision/latest?cb=20241204035930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Julian? Quick, let's go see!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_10_mar7th_230.ogg/revision/latest?cb=20241204035956",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_50.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Find Julian and talk to him"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.For Natasha's peace of mind, you arrive at Rivet Town to look for the children who sneaked here to have an adventure.You can hear Julian's voice from far away — They can't be playing hide-and-seek in the Fragmentum, can they..."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Julian)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Found you! You ran all the way out here just to play hide-and-seek? It's too dangerous!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter1_10_mar7th_231.ogg/revision/latest?cb=20241204035957",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "M—Miss March!? D—Didn't you go back to the surface...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_10_julian_203.ogg/revision/latest?cb=20241204035931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Since when did I become \"Miss\" March? And where's Hook and the others? Come on, call them over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter1_10_mar7th_232.ogg/revision/latest?cb=20241204035958",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Aww... but we just started playing. Can't we finish this round first...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_10_julian_204.ogg/revision/latest?cb=20241204035931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_54.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Say no more — this is gonna be easy!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Seasoned pros, I see...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_10_danheng_213.ogg/revision/latest?cb=20241204035849",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_55.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, it wasn't like I wanted to play! The kids forced us to...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter1_10_mar7th_233.ogg/revision/latest?cb=20241204035959",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_56.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "If we had lollipops, they'd give themselves up in no time.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Great idea! Shame we don't have any.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_10_mar7th_234.ogg/revision/latest?cb=20241204040000",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_57.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Well, we better go and find them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter1_10_danheng_214.ogg/revision/latest?cb=20241204035850",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "...A—Actually, I sorta wanna go play on the swings for a while... I'll leave the seeking to you guys!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_10_julian_205.ogg/revision/latest?cb=20241204035932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_59.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Find the Moles who are hiding"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.For Natasha's peace of mind, you arrive at Rivet Town to look for the children who sneaked here to have an adventure.They are actually playing hide-and-seek in the Fragmentum — Go get those naughty kids out of there!"
+    },
+    {
+        "type": "condition",
+        "text": "(FindAlinabehind a chain link fence, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Aha! Gotcha!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_10_mar7th_235.ogg/revision/latest?cb=20241204040001",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "...Huh? Grown-ups? Where's Julian?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_10_alina_201.ogg/revision/latest?cb=20241204035823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "Hmph, so he is a scaredy-cat. I knew he'd get someone else to talk to me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter1_10_alina_202.ogg/revision/latest?cb=20241204035825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_62.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Well, that explains \"sorta wanna go play on the swings for a while...\""
+    },
+    {
+        "type": "note",
+        "text": "It's not safe here."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You should be happy it's us and not Natasha! If she'd found you, you'd be in big trouble already.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_10_mar7th_236.ogg/revision/latest?cb=20241204040002",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "Mm... I guess so. Anyway, I'm gonna go find Julian.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_10_alina_203.ogg/revision/latest?cb=20241204035826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Find Hook at the side of the building)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hook! Hehe, got you again!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter1_10_mar7th_237.ogg/revision/latest?cb=20241204040003",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Huh!? Wh—What the heck are you guys doing here? Ugh, wait till I get my hands on Julian, that traitor... Where's his integrity!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_10_hook_201.ogg/revision/latest?cb=20241204035915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What about your integrity, huh? You brought the other kids out here to Rivet Town, didn't you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_10_mar7th_238.ogg/revision/latest?cb=20241204040004",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "I... I did not! The Moles hold a vote on all our expedition destinations!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter1_10_hook_202.ogg/revision/latest?cb=20241204035916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_68.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Gather your minions, Hook. We've got exciting news!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "...Fine, I will. But it better be exciting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter1_10_hook_203.ogg/revision/latest?cb=20241204035917",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_69.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Maybe we should go and get Natasha...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Ah, you snitch! You'll regret it, I'm warning you...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter1_10_hook_204.ogg/revision/latest?cb=20241204035918",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_70.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Okay, okay, that's enough of that. Let's go and find Julian.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_10_mar7th_239.ogg/revision/latest?cb=20241204040005",
+        "is_unavailable": false,
+        "children": [
+            {
+                "type": "condition",
+                "text": "(The Moles all gather)"
+            }
+        ],
+        "audio_filename": "audio_March_7th_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hide-and-seek update... Astral Express crew — 2, The Moles — 0!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter1_10_mar7th_240.ogg/revision/latest?cb=20241204040006",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmph, celebrate while you can! Hide-and-seek is best of five, y'know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_10_hook_205.ogg/revision/latest?cb=20241204035919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Anyway, enough about hide-and-seek. You came all this way to tell The Moles something, so spit it out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter1_10_hook_206.ogg/revision/latest?cb=20241204035919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Hehe... (Trailblazer), do you wanna do the honors?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_10_mar7th_241_m.ogg/revision/latest?cb=20241204040008",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Telling The Moles about the victory..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_10_hook_207.ogg/revision/latest?cb=20241204035920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_10_julian_206.ogg/revision/latest?cb=20241204035933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? What's wrong? Why aren't you saying anything?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter1_10_mar7th_242.ogg/revision/latest?cb=20241204040009",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "Hook, Julian...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_10_alina_204.ogg/revision/latest?cb=20241204035827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_79.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is our story that scary?"
+    },
+    {
+        "type": "note",
+        "text": "I wasn't expecting this reaction..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "*sob*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_10_julian_207.ogg/revision/latest?cb=20241204035934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "...H—Hey! Wipe your tears, Julian! You're second-in-command — no crying in front of grown-ups!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_10_hook_208.ogg/revision/latest?cb=20241204035921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmph, you three listen up. Starting from today, you are The Moles' number one rivals!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter1_10_hook_209.ogg/revision/latest?cb=20241204035922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Rivals...? Why the heck are we rivals now? What are you talking about?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_10_mar7th_243.ogg/revision/latest?cb=20241204040010",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "...Hook and Julian always wanted to defeat the villains on the surface and take back our homeland.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_10_alina_205.ogg/revision/latest?cb=20241204035828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alina",
+        "line": "But it sounds like you grown-ups just stole their thunder, so...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter1_10_alina_206.ogg/revision/latest?cb=20241204035828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alina_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmph! You think we're gonna accept defeat just like that!? One day The Moles will be the heroes of the Underworld and the Overworld! Then everyone will sit... sit...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter1_10_hook_210.ogg/revision/latest?cb=20241204035923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Sit up and take notice!"
+    },
+    {
+        "type": "choice",
+        "text": "Sit down and shut up!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Sit up and take notice, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter1_10_mar7th_244.ogg/revision/latest?cb=20241204040011",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_87.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Ah! Yeah — sit up and take notice! I—I would've figured it out myself. I didn't need you to remind me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter1_10_hook_211.ogg/revision/latest?cb=20241204035924",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So that's why you were so silent! Hmph, if you wanna be as awesome as us, you better start training every day~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_10_mar7th_245.ogg/revision/latest?cb=20241204040012",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...And start listening to Natasha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter1_10_danheng_215.ogg/revision/latest?cb=20241204035851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Training every day... listening to the old witch... Will that really make us as awesome as you guys? In that case... deal!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter1_10_hook_212.ogg/revision/latest?cb=20241204035925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Julian, Alina, let's run back to the town! Training starts today!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_10_hook_213.ogg/revision/latest?cb=20241204035926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Y—Yes boss! Understood!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_10_julian_208.ogg/revision/latest?cb=20241204035935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Uh, Alina, I can... uh... give you a piggyback if you can't make it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_10_julian_209.ogg/revision/latest?cb=20241204035936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_94.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Gertie Version"
+    },
+    {
+        "type": "section_header",
+        "text": "Bring the good news to Gertie at the Goethe Grand Hotel"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.The great tremors from the battle made the Underworlders very concerned. Natasha would like you to go confront them and bring the good news to everyone.The Goethe Grand Hotel also seems to be affected. Go see how Gertie is doing."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Why is everyone in such a hurry? I hope nothing's happened at the hotel...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_10_mar7th_246.ogg/revision/latest?cb=20241204040013",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We should take a look, maybe we can help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter1_10_danheng_216.ogg/revision/latest?cb=20241204035852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_96.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Reach the Goethe Grand Hotel)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I see Gertie! But who's that lying on the ground?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter1_10_mar7th_247.ogg/revision/latest?cb=20241204040014",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Quick, let's head over!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_10_mar7th_248.ogg/revision/latest?cb=20241204040015",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toJoshua)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Oh my, this doesn't look good... Can you hear me? Are you okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter1_10_gertie_201.ogg/revision/latest?cb=20241204035858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Joshua",
+        "line": "H—He's still breathing! T—Try not to p—panic Aunt Gertie...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_10_joshua_201.ogg/revision/latest?cb=20241204035927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Joshua_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Is everything okay? Wait, isn't that... Peak ? Don't tell me he fell asleep in the middle of the road again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_10_mar7th_249.ogg/revision/latest?cb=20241204040016",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Oh, it's you three! Back in the Underworld so soon?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter1_10_gertie_202.ogg/revision/latest?cb=20241204035859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Word must have gotten out that I was renovating the hotel today. Being the kind-hearted young man that he is, Peak came straight over and offered to help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_10_gertie_203.ogg/revision/latest?cb=20241204035900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "There we were hard at work, when all of a sudden the hotel started shaking... I got everyone outside as fast as I could, but I think Peak was hit by a ceiling tile...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_10_gertie_204.ogg/revision/latest?cb=20241204035901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_104.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you sure he was \"hard at work...?\"",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Look! Seems like he's coming around.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter1_10_mar7th_250.ogg/revision/latest?cb=20241204040017",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_105.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Quick, mouth-to-mouth resuscitation...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I... don't think that's necessary. Look, he's awake.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter1_10_danheng_217.ogg/revision/latest?cb=20241204035853",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_106.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Peak gets up)"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Huh...? Argh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter1_10_peak_201.ogg/revision/latest?cb=20241204040053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Peak, are you awake? Oh, thank goodness you're alright! Easy now, take your time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_10_gertie_205.ogg/revision/latest?cb=20241204035902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Argh, my back... I was having such a great nap, how did I...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_10_peak_202.ogg/revision/latest?cb=20241204040054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Joshua",
+        "line": "A—Are you okay, bro? L—Let me take you to N—Natasha's clinic...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_10_joshua_202.ogg/revision/latest?cb=20241204035928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Joshua_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, look where he was lying. What is that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_10_mar7th_251.ogg/revision/latest?cb=20241204040018",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "It's...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_10_gertie_206.ogg/revision/latest?cb=20241204035903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "...an old photo. I thought I lost this ages ago. How did it get...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_10_gertie_207.ogg/revision/latest?cb=20241204035904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Aunt Gertie, isn't that you in the photo? And Old Goethe , too! You look so young!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter1_10_mar7th_252.ogg/revision/latest?cb=20241204040019",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Don't I know it. My distant cousin had only just taken over the family business at the time. He wrote me a letter inviting me to head up and take a look. It's been nearly 20 years already...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter1_10_gertie_208.ogg/revision/latest?cb=20241204035905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "*sigh* I remember chatting in the hotel lobby and drinking tea. I wonder if we'll ever get another chance to do that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter1_10_gertie_209.ogg/revision/latest?cb=20241204035906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ ...Y'know, we've got some good news for you, haven't we, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_10_mar7th_253_m.ogg/revision/latest?cb=20241204040020",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_117.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You tell Gertie about the victory..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "...Is that true? Bronya, she... I—I can't believe my ears!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_10_gertie_210.ogg/revision/latest?cb=20241204035907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_118.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Put your faith in Bronya."
+    },
+    {
+        "type": "note",
+        "text": "You and Old Goethe will have the kettle on the stove in no time."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "I... Hahaha! I don't know what to say! Turns out things aren't always lost forever. *sigh* It feels like better days are finally on the horizon!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter1_10_gertie_211.ogg/revision/latest?cb=20241204035908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Thank you all so much for coming to tell me the good news. I haven't felt like this in a long time... We'll get plenty of guests staying at the hotel again once the passageway is open!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_10_gertie_212.ogg/revision/latest?cb=20241204035909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "But there's no way I'm letting them set eyes on the old place looking like this... Oh, and we're gonna need to expand the menu. Oh dear. Action stations!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter1_10_gertie_213.ogg/revision/latest?cb=20241204035910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Peak",
+        "line": "Action... stations? Already? Ooh, um — ow, oww...! My head...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_10_peak_203.ogg/revision/latest?cb=20241204040055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Peak_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Please let Dr. Natasha know not to worry — we're all okay... You three will have to come and stay again once the hotel is fully renovated!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_10_gertie_214.ogg/revision/latest?cb=20241204035911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_123.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Receive a message from The Astral Express Family group"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family Welt @(Trailblazer) @March 7th @Dan Heng, the sealing of the Stellaron is complete, and the spatial distortion is dissipating. Good job. We should be back soon (Trailblazer) We should be back soon We'll need to stay here a little longer (Trailblazer) We'll need to stay here a little longer Welt Don't rush, go at your own pace. The Express will be here, before you're ready to leave. March 7th Great! I'm craving some juice... Pom-Pom still owes me a glass! Dan Heng How is Jarilo-VI ? Welt Not great. Even though the influence of the Stellaron has basically subsided, the existing Fragmentum is too deeply rooted. The Eternal Freeze has lasted a very long time, enough to severely impact the ecology of the planet. In short, the planet probably won't regain the vitality that it once had a thousand years ago in such a short time. March 7th Oh... How could this be? Is there anything else we can do? (Trailblazer) Is there anything else we can do? Welt ...As Trailblazers, our mission has already concluded successfully. The fate of this world should be handed back to its inhabitants. Humankind has always struggled against austere conditions and had always managed to thrive in spite of it. Now that the Eternal Freeze is gone, the Fragmentum has lost its momentum to expand. Jarilo-VI will be revitalized. Believe in the perseverance of her people. I detected a high-frequency spatial energy surge in the north of Jarilo-VI. You might be interested in checking it out. Don't worry. That energy is not related to the Stellaron. It's only an Echo left behind after spatial distortions fade away. Inside the Echo, our perceptions of space and time that we are used to will become radically altered, to the point where it might even reconstruct certain scenes from our own past experiences. If you're in the mood and wish to re-live those memorable adventures, you can try your luck at places where Echoes can be found."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Mr. Yang put it nicely, but the reality is this: We sealed the Stellaron, but that's not gonna solve the problems on this planet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_10_mar7th_254.ogg/revision/latest?cb=20241204040021",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "There I was getting excited to tell everyone the good news...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_10_mar7th_255.ogg/revision/latest?cb=20241204040022",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_125.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We did make a promise..."
+    },
+    {
+        "type": "note",
+        "text": "We did all we could. Now it's a matter of time..."
+    },
+    {
+        "type": "note",
+        "text": "Does this count as false advertising?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "That's the cruelty of a Stellaron. Still, compared with some of the other planets we've visited, at least this one has hope.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_10_danheng_218.ogg/revision/latest?cb=20241204035854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So... should we tell everyone the deal?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_10_mar7th_256.ogg/revision/latest?cb=20241204040023",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We should tell Bronya when the time's right. Let's not dampen the spirit just yet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_10_danheng_219.ogg/revision/latest?cb=20241204035855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_128.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockEcho of Warand its Adventure Mission,Echo of War)"
+    },
+    {
+        "type": "heading",
+        "text": "Return to Natasha"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.You passed the news of the victory to the Underworlders and soothed their anxiety.Return to Natasha and report your results... Just remember not to tell anyone about what Welt had sent you, at least for now."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Natasha)"
+    },
+    {
+        "type": "note",
+        "text": "Doctor Natasha, we're back..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Oh, is everyone alright? Thanks for your help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_10_natasha_212.ogg/revision/latest?cb=20241204040044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_129.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Maybe next time we can send a group notification...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Haha. Sometimes face-to-face communication is more meaningful, don't you think?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter1_10_natasha_213.ogg/revision/latest?cb=20241204040045",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_130.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "For you, anything.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "▶ I'm flattered, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter1_10_natasha_214_m.ogg/revision/latest?cb=20241204040046",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_131.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Now we just have to wait for the official news. I hope Bronya doesn't keep us too long.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_10_natasha_215.ogg/revision/latest?cb=20241204040047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh... do you think Svarog and Clara felt the effects of our battle with the guardian?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter1_10_mar7th_257.ogg/revision/latest?cb=20241204040024",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "I think they'll be fine... Plus Svarog's devotion to Clara is even greater than his hostility to Wildfire. If you're worried, you could look for them over at the robot settlement.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_10_natasha_216.ogg/revision/latest?cb=20241204040048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_134.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the Robot Settlement and inform Clara and Svarog"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.You passed the news of the victory to the Underworlders. Everyone is happy and celebrating... while you temporarily withhold the ugly truth.There are still two important people not informed of the news, those being Clara and Svarog. Your journey would have been much more difficult without their help."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Perkins)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perkins",
+        "line": "Outssssiders... F—Friends of Clara.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_10_guardrobot_201.ogg/revision/latest?cb=20241204035912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perkins_135.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Hey Perkins!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "How did you know that was Perkins...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_10_mar7th_258.ogg/revision/latest?cb=20241204040025",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_136.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Did Clara fix you?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perkins",
+        "line": "Th—Th—Th—Thank you... for rescuing... Claaaara.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_10_guardrobot_202.ogg/revision/latest?cb=20241204035913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perkins_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Seems like Perkins picked up a stammer?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_10_mar7th_259.ogg/revision/latest?cb=20241204040026",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Its language module must have malfunctioned... Can you take us to Clara?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_10_danheng_220.ogg/revision/latest?cb=20241204035856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Perkins",
+        "line": "Outsiders... are f—friends of Clara... Follow me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_10_guardrobot_203.ogg/revision/latest?cb=20241204035914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Perkins_140.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Perkins the Robot"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.Your final task in the Underworld is to let Clara and Svarog know about your victory.Follow a restored Perkins to where Clara and Svarog are."
+    },
+    {
+        "type": "heading",
+        "text": "Inform Clara and Svarog"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Cocolia was defeated and the influence of the Stellaron weakened with her demise.Your final task in the Underworld is to let Clara and Svarog know about your victory.These two would likely play important roles in the long journey ahead to rebuild the Underworld."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Clara and Svarog)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "You have visitors, Clara.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_10_svarog_201.ogg/revision/latest?cb=20241204040055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "Ah! It's the variables!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter1_10_clara_201.ogg/revision/latest?cb=20241204035841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_142.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Another nickname for the collection..."
+    },
+    {
+        "type": "choice",
+        "text": "Nice haircut, Svarog.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Are you trying to start another fight...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_10_mar7th_260.ogg/revision/latest?cb=20241204040027",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_143.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "There was a huge shaking just now coming up through the ground. Mr. Svarog said it... must have been...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter1_10_clara_202.ogg/revision/latest?cb=20241204035842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Recalculating... Conclusion: Engine of Creation . 97.66% probability.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter1_10_svarog_202.ogg/revision/latest?cb=20241204040056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_145.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Old friend of yours?"
+    },
+    {
+        "type": "note",
+        "text": "Any other secret weapons you'd like to tell us about...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "The Engine of Creation was an immense construction machine created by the Architects. It was not built to fight.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter1_10_svarog_203.ogg/revision/latest?cb=20241204040057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well whatever, we won... Thanks to that giant robot, we were finally able to take care of the Stellaron... and Bronya made a promise — the Underworld and the Overworld will soon be reunited.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_10_mar7th_261.ogg/revision/latest?cb=20241204040028",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Which means that you, Svarog — uh... You won't have to worry about preserving the Underworld... for the time being.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter1_10_mar7th_262.ogg/revision/latest?cb=20241204040029",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "March, everyone... thank you so much! I wasn't sure you guys would be able to do it, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter1_10_clara_203.ogg/revision/latest?cb=20241204035843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "But now... Mr. Svarog, what do you say?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_10_clara_204.ogg/revision/latest?cb=20241204035844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clara",
+        "line": "You guys said you were travelers from other worlds, right? I want to be just like you... One day, I'm gonna go traveling to faraway places and make new friends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_10_clara_205.ogg/revision/latest?cb=20241204035846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clara_151.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I know you will."
+    },
+    {
+        "type": "note",
+        "text": "Your future is yours to decide!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Svarog",
+        "line": "Calculation result... update. Mission number 0001 — Preserve the Underworld — complete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter1_10_svarog_204.ogg/revision/latest?cb=20241204040058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Svarog_152.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Messages Bronya, Trailblazer, March 7th, Dan Heng's Group Chat Bronya March, Dan Heng, (Trailblazer) — Are you seeing this? This android can actually send messages... Your taste in stickers... (Trailblazer) Your taste in stickers... Bronya Hm? What's wrong with that picture? I quite like it... The message has been sent (Trailblazer) The message has been sent Bronya Thank you for all you've done for Belobog How do you feel, physically? (Trailblazer) How do you feel, physically? Bronya Thanks to Seele, I'm fine now Bronya Thank goodness. I've already given the orders to the Silvermane Guards to immediately lift the blockade between the Overworld and the Underworld. And some people in the Underworld should have already received the notice After closing for more than a decade, the cable car station should finally be reopening soon. If you don't mind, I would like you to come to the Overworld for my succession ceremony March 7th Woohoo! We wouldn't miss it for the universe! We'll be there (Trailblazer) We'll be there See you there, hehe (Trailblazer) See you there, hehe If I'm not busy (Trailblazer) If I'm not busy Bronya See you there then"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That's our Bronya — quick as a flash!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter1_10_mar7th_263.ogg/revision/latest?cb=20241204040030",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "She certainly moves a lot faster than some people I know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter1_10_danheng_221.ogg/revision/latest?cb=20241204035857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...If you haven't got anything nice to say right now, zip it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_10_mar7th_264.ogg/revision/latest?cb=20241204040031",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_155.ogg"
+    }
+]

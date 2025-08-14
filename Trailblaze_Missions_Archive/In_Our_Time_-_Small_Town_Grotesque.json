@@ -1,0 +1,2517 @@
+[
+    {
+        "type": "note",
+        "text": "In the meantime..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "We're back to where it all began. You entered the Golden Hour from this place, and it is also from here where you will enter the true Penacony .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/Vo_chapter3_17_firefly_119.ogg/revision/latest?cb=20240703055418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's a pleasure to journey alongside you once more, but it's time I laid bare the entire truth before you. As you might have heard... I also go by another name: Stellaron Hunter , Sam .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_17_firefly_120.ogg/revision/latest?cb=20240703055420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you... all right?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm fine... Sorry, I hope I haven't scared you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_17_firefly_121.ogg/revision/latest?cb=20240703055422",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You lied to me...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm sorry. I had no other choice...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_17_firefly_122.ogg/revision/latest?cb=20240703055424",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Are you... Firefly's soul?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I know you have many questions... Do you remember when we encountered \"Death\" in that strange Dreamscape ? When I was caught by that meme...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_17_firefly_123.ogg/revision/latest?cb=20240703055426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "In that instant before it killed me, I saw the reflection of another Dreamscape in its ghastly pupils.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_17_firefly_124.ogg/revision/latest?cb=20240703055428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So, following the clues in the script , I came up with some theories about the meme. That's why I instructed Silver Wolf to issue invitations, drawing everyone to the dream's hotel...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_17_firefly_125.ogg/revision/latest?cb=20240703055430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I intended to call upon \"Death\" before you arrived, to solve the riddle using more direct means, and then invite you to join. However, contrary to my wishes, I couldn't defy the script , and I didn't get a chance to explain it to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_17_firefly_126.ogg/revision/latest?cb=20240703055432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It is how you see now — I was impaled by the bladed wings of \"Death.\" The heavy pressure of concentrated memoria miasma... exploded in my mind, as if it was actually reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/Vo_chapter3_17_firefly_127.ogg/revision/latest?cb=20240703055434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But after the momentary numbness subsided, I found that my body was absolutely unscathed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_17_firefly_128.ogg/revision/latest?cb=20240703055436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I was still alive, and it was just as I thought — I had arrived at a place starkly different from this beautiful dream. Beneath the Dreamscape of Penacony lies another more chaotic, more primal Memory Zone. Its name... Land of the Exiles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_17_firefly_129.ogg/revision/latest?cb=20240703055438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And so then I returned to the hotel in the Dreamscape, hoping to tell you of its existence. Yet I could not reveal my own identity, so I could only divert your party's attention and lure you away from the battlefield.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/Vo_chapter3_17_firefly_130.ogg/revision/latest?cb=20240703055440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And after, all my attempts proved futile. It wasn't until not long ago, when a crimson blade of light shattered the high wall of the dream, causing you all to fall far into the abyssal depths of the Dreamscape, that I was able to awaken you and your companions one by one...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_17_firefly_131.ogg/revision/latest?cb=20240703055442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And that's it, that is all that's happened so far.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_17_firefly_132.ogg/revision/latest?cb=20240703055444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_13.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I completely understand!"
+    },
+    {
+        "type": "note",
+        "text": "I'm completely confused!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I know it's tough to believe all this without reservations. I just want to say you're very close to the final answer — just one more thing needs to be done, and then I can prove it to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_17_firefly_133.ogg/revision/latest?cb=20240703055445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Now, let's leave this place... Please close your eyes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Vo_chapter3_17_firefly_134.ogg/revision/latest?cb=20240703055447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Take a deep breath, and visualize the Dreamscape's outline in your heart. And remember... you must not open your eyes at all times.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Vo_chapter3_17_firefly_135.ogg/revision/latest?cb=20240703055449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Three...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_17_firefly_136.ogg/revision/latest?cb=20240703055451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Two...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_17_firefly_137.ogg/revision/latest?cb=20240703055453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "One...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_17_firefly_138.ogg/revision/latest?cb=20240703055454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Don't be afraid. The one who has come to greet us... has arrived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_17_firefly_139.ogg/revision/latest?cb=20240703055456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_20.ogg"
+    },
+    {
+        "type": "note",
+        "text": "After a piercing screech, a thick and ferocious surge of memoria crashes into your chest, churning and ravaging. Your consciousness becomes like scraps of paper caught in a whirlpool, breaking apart, dissolving, and dispersing within the turbulent muddy current."
+    },
+    {
+        "type": "note",
+        "text": "Innumerable voices resonate through the symphony of memoria like roaring thunder, and among them, one echo stands out with exceptional clarity. You know it comes from the girl beside you, your hearts beating to the same rhythm in silence, and then, more silence..."
+    },
+    {
+        "type": "note",
+        "text": "Until memories stir up ripples in that quiet darkness..."
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Small Town Grotesque 1.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I never knew you could do this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_17_firefly_101.ogg/revision/latest?cb=20240703055342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_17_blade_101.ogg/revision/latest?cb=20240703055300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Do you have a driver's license?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_17_firefly_102.ogg/revision/latest?cb=20240703055344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_17_blade_102.ogg/revision/latest?cb=20240703055302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That is... surprising.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_17_firefly_103.ogg/revision/latest?cb=20240703055348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Why? Because this is Jepella , the city of sins?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_blade_103.ogg/revision/latest?cb=20240703055304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Mhmm, no... it's nothing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Vo_chapter3_17_firefly_104.ogg/revision/latest?cb=20240703055350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm just thinking, you haven't slept in twenty system hours... Are you sure you're okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_17_firefly_105.ogg/revision/latest?cb=20240703055352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I'm fine. I'll survive. Same goes for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_17_blade_104.ogg/revision/latest?cb=20240703055306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_17_firefly_106.ogg/revision/latest?cb=20240703055354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm not so sure about that. Slow down a bit.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_17_firefly_107.ogg/revision/latest?cb=20240703055356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Infiltration is over. Feel free to activate Sam anytime you like.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_17_blade_105.ogg/revision/latest?cb=20240703055308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There's still some time before the next part of the script unfolds. Let me stay a little longer in this body.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_17_firefly_108.ogg/revision/latest?cb=20240703055357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_33.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A long silence ensued. Neither of them brought up any topic, seemingly accustomed to this silence."
+    },
+    {
+        "type": "note",
+        "text": "It wasn't until much later that a soft sigh once again broke the quiet in the car."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Such a long tunnel. Didn't feel this long when I set off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Vo_chapter3_17_firefly_109.ogg/revision/latest?cb=20240703055400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "In half a system hour, it will lead us to Kafka , and then comes the downfall of the Jepella Brotherhood .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_17_blade_106.ogg/revision/latest?cb=20240703055310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Is that also part of the script ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_17_firefly_110.ogg/revision/latest?cb=20240703055401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "It's in your script , too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_17_blade_107.ogg/revision/latest?cb=20240703055312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Sorry, I didn't notice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_17_firefly_111.ogg/revision/latest?cb=20240703055403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Their destiny won't change just because of your selective ignorance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Vo_chapter3_17_blade_108.ogg/revision/latest?cb=20240703055314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_17_firefly_112.ogg/revision/latest?cb=20240703055405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I told you before, it's a bad habit.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_17_blade_109.ogg/revision/latest?cb=20240703055315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What about you, then? Is this the moment you finally find the \"Death\" you've been looking for?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/Vo_chapter3_17_firefly_113.ogg/revision/latest?cb=20240703055407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "As always, it's a blank slate. It's not on this planet. Why the sudden inquiry?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_17_blade_110.ogg/revision/latest?cb=20240703055318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Because I'm currently in a car with a sleep-deprived driver... I just want to get there in one piece.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_17_firefly_114.ogg/revision/latest?cb=20240703055409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "This car has full self-driving capabilities. I'll just put my hand on the steering wheel. Will that do?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_17_blade_112.ogg/revision/latest?cb=20240703055320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Hey, don't take everything so seriously.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Vo_chapter3_17_firefly_115.ogg/revision/latest?cb=20240703055410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "... Elio would always say there's only one type of destiny: The inescapable type. He can see the future, and we... likewise are aware of our \"predetermined end.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Vo_chapter3_17_firefly_116.ogg/revision/latest?cb=20240703055412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But before that moment arrives, we can still choose what we do... We all have this right, don't we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_17_firefly_117.ogg/revision/latest?cb=20240703055414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "After today, Jepella's name will disappear from cosmic history, and the Ever-Flame Mansion will take its place. In the not-too-distant future, you'll receive an invitation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_17_blade_113.ogg/revision/latest?cb=20240703055322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "That's your next stop.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_17_blade_114.ogg/revision/latest?cb=20240703055323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Land of the Dreams, Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_17_firefly_118.ogg/revision/latest?cb=20240703055416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I hope you find whatever you seek there, be it answers... or salvation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_17_blade_115.ogg/revision/latest?cb=20240703055325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ (Trailblazer), glad to see you're safe and sound.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_17_welt_101_m.ogg/revision/latest?cb=20240703055956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_53.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is this..."
+    },
+    {
+        "type": "note",
+        "text": "That voice just now..."
+    },
+    {
+        "type": "note",
+        "text": "Mr. Yang, you're here too?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "\"Close your eyes\"... This is the answer. Isn't it incredible? The monster that we have always known as \"Death,\" is actually the guardian of the land of the exiles. It abides by a certain rule, abducting people from their dreams and bringing them here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_17_firefly_140.ogg/revision/latest?cb=20240703055458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The question that has been perplexing us — \"Does death really exist in the Dreamscape?\" — appears to be a cognitive trap. It was laid by those orchestrating events from the shadows to cover up the truth behind the disappearances, and the existence of this fortress known as Dreamflux Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_17_welt_102.ogg/revision/latest?cb=20240703055958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Every emergence of that meme is related to the Watchmaker. Since Dreamflux Reef is where it brings its captives, it's likely that many of our longstanding questions will be answered in this place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_17_welt_103.ogg/revision/latest?cb=20240703060000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The atmosphere here is starkly different from the beautiful dream. There are no regulators here like The Family, and they all look like they're mildly dazed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_17_firefly_141.ogg/revision/latest?cb=20240703055500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But from the whispers of the residents, I've heard a familiar name... Gallagher .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_17_firefly_142.ogg/revision/latest?cb=20240703055502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's that man again, always in the right place at the right time... though that does save us the trouble of looking for him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_17_welt_104.ogg/revision/latest?cb=20240703060002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ Himeko and March have already made a move. (Trailblazer), get ready. We're about to set off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_17_welt_105_m.ogg/revision/latest?cb=20240703060006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_60.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Advance down the narrow alley"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Firefly explains to you the deeper reasons behind her various inexplicable behaviors, and guides you to dive deeper into a place declared as a \"nightmare\" byThe Family... The primitive Memory Zone outside the sweet dream: \"Dreamflux Reef.\" This move also exposes some of the truths behind \"Death\" — It is nothing but a tamed memetic entity that assists specific people who wish to travel between dreams. \"Closing your eyes\" is merely a strange invocation used to summon them.After a brief moment of discomfort, you realize that you have arrived at an abandoned old town. Once you have spoken with everyone and prepared yourself, alight and begin your adventure at this abandoned station."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (The real Dreamscape, the land of the exiles... Before we go, should we speak to everyone first?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_17_player_101_m.ogg/revision/latest?cb=20240703055858",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_61.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm really sorry for waiting until now to tell you everything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_17_firefly_143.ogg/revision/latest?cb=20240703055503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_62.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why couldn't you reveal your true identity?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Two reasons: Firstly, the script — in the future that Elio saw, Sam and the Astral Express' confrontation was inevitable. I tried to break the shackles of the prophecy, but this is as far as I could go.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_17_firefly_144.ogg/revision/latest?cb=20240703055506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "That aside... there were also my personal motives. I wished to travel with you as Firefly... and not Sam.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_17_firefly_145.ogg/revision/latest?cb=20240703055507",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_64.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "It's all right. I didn't take it personally.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "...Thank you.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_17_firefly_146.ogg/revision/latest?cb=20240703055509",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_65.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "This is still hard for me to accept.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "I... I get it. Being cautious around a Stellaron Hunter isn't a bad thing.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_17_firefly_147.ogg/revision/latest?cb=20240703055511",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_66.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do the Stellaron Hunters also want a piece of the legacy?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Elio only gave me one instruction: Allow the Astral Express to pursue the Grand Legacy. It means that the Watchmaker's Legacy holds great significance to Trailblazing, and to you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_17_firefly_148.ogg/revision/latest?cb=20240703055513",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_67.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Elio's scripts used to revolve and expand around certain specific Stellarons. But with your appearance, this condition has apparently ceased to be appropriate. Perhaps, he also saw the \"impossible\" in the future.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_17_firefly_149.ogg/revision/latest?cb=20240703055515",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So, who exactly is Sam...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Do you still remember the medical cabin I told you about? Well, that's Sam — It belongs to the Iron Cavalry of Glamoth's Firmament Frontline, a Fyrefly Type-IV Strategic Assault Mech .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Vo_chapter3_17_firefly_150.ogg/revision/latest?cb=20240703055517",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_69.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "It is the cradle of my vitality, and the meaning of my birth. And for the longest time, it was... how I should have looked to the rest of the world.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_17_firefly_151.ogg/revision/latest?cb=20240703055519",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_70.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's talk later."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The timescale of Dreamflux Reef differs from reality, so we mustn't lower our guard. You're sensitive to memoria — A slight misstep, and you could get lost in this Memory Zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_17_firefly_152.ogg/revision/latest?cb=20240703055521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Something on your mind? Let's talk about it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_17_welt_106.ogg/revision/latest?cb=20240703060008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_72.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Acheron 's blade slash...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "No wonder Miss Acheron is so averse to drawing her blade... it's hard to imagine such terrifying power could reside in an ordinary sheath. If it weren't for the fact that Aventurine 's power originated from the Preservation, the entire Dreamscape would have been affected.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_17_welt_107.ogg/revision/latest?cb=20240703060010",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_73.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Don't feel burdened by this. Even without that Stellaron inside you, Aventurine would still have found other methods to accomplish his goal. Let's just believe in Miss Acheron. And given her prowess, I don't think we've got anything to worry about.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_17_welt_108.ogg/revision/latest?cb=20240703060011",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_74.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What are your thoughts on Gallagher?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "During your investigation, he shared a vital piece of information. Mikhail, the former Watchmaker who collaborated with The Family to construct the Penacony we're familiar with today, had a falling out with The Family for specific reasons.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_17_welt_109.ogg/revision/latest?cb=20240703060013",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_75.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "But this is precisely where the problem lies — you were clearly investigating a murder. So then why, as a security officer, is he changing the subject to talk about his past with the Watchmaker?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_17_welt_110.ogg/revision/latest?cb=20240703060015",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_76.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "And now with Firefly mentioning his name again... it's hard not to be suspicious.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_17_welt_111.ogg/revision/latest?cb=20240703060020",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_77.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Regarding Firefly and the Crew...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Before we found you, she'd already revealed her Stellaron Hunter identity, and shared a lot of information.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_17_welt_112.ogg/revision/latest?cb=20240703060022",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_78.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Who would've thought that the Molten Knight's true identity was actually a young girl... For her, this is a secret that she cannot allow others to know. That being the case, I think we can believe she's willing to cooperate.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_17_welt_113.ogg/revision/latest?cb=20240703060026",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "But, she didn't reveal all her secrets. I just can't shake the feeling that her situation is different from that of the typical dreamer... And I hope that doesn't lead to any dangerous predicaments.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Vo_chapter3_17_welt_114.ogg/revision/latest?cb=20240703060029",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's call it a day."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I hope you've regained a little composure. We'll move out when you're ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_17_welt_115.ogg/revision/latest?cb=20240703060031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Muddled Vagrant, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Muddled Vagrant",
+        "line": "Welcome to heaven... dreams, true or false... all are ephemeral...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_liulangA_101.ogg/revision/latest?cb=20240703055626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Muddled_Vagrant_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Muddled Vagrant",
+        "line": "Might as well drink more SoulGlad instead...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_17_liulangA_102.ogg/revision/latest?cb=20240703055628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Muddled_Vagrant_83.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(As the player moves down the narrow alley)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Keep going straight down this alley and it'll lead to an elevator. It'll take us to the center of the land of the exiles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_17_firefly_153.ogg/revision/latest?cb=20240703055523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_84.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Melancholic Vagrant, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Vagrant",
+        "line": "Did you also get kicked out of the beautiful dream? I want to go back... but then, I don't want to go back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_17_liulangB_101.ogg/revision/latest?cb=20240703055630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Melancholic_Vagrant_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Vagrant",
+        "line": "Tell me what I should do. Oh... I don't know what to do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_17_liulangB_102.ogg/revision/latest?cb=20240703055632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Melancholic_Vagrant_86.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Happy Vagrant, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Happy Vagrant",
+        "line": "Hi there, friend from a distant land!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_17_liulangC_101.ogg/revision/latest?cb=20240703055634",
+        "is_unavailable": false,
+        "audio_filename": "audio_Happy_Vagrant_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Happy Vagrant",
+        "line": "I hear the Watchmaker's Legacy is right here! Let's say we go treasure hunting?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_17_liulangC_102.ogg/revision/latest?cb=20240703055635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Happy_Vagrant_88.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Wait for the elevator to arrive"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly explains to you the deeper reasons behind her various inexplicable behaviors, and guides you to dive deeper into a place declared as a \"nightmare\" by The Family... The primitive Memory Zone outside of the sweet dream: \"Dreamflux Reef.\" This move also exposes some of the truths behind \"Death\" — It is nothing but a tamed memetic entity that assists specific people who wish to travel between dreams. \"Closing your eyes\" is merely a strange invocation used to summon them.As you ascend in the elevator, the sound of the old car parts creaking and groaning sounds like the lamenting cries of long-dead souls. Just what could be awaiting you in the depths of this \"nightmare\"?"
+    },
+    {
+        "type": "condition",
+        "text": "(When the player arrives near the elevator)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "What a huge Clockie ... Looks like the Watchmaker also left his mark on Dreamflux Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_17_welt_116.ogg/revision/latest?cb=20240703060032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_89.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While riding up the elevator)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Unbelievable... to think there's a settlement of this size within the Dreamscape... and all beyond The Family's reach.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_17_welt_117.ogg/revision/latest?cb=20240703060034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_90.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon stepping out of the elevator)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The atmosphere in this fortress is... pretty different from that in the beautiful dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_17_welt_118.ogg/revision/latest?cb=20240703060036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "When I first saw it, I was in awe too. The sky here, it's like... a reflection of the twelve Dreamscapes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Vo_chapter3_17_firefly_154.ogg/revision/latest?cb=20240703055525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What's even more bizarre, is that this place is also separated into trade and residential areas. The layout may be simple, but the facilities are very comprehensive. It seems that there are quite a number of people living here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Vo_chapter3_17_firefly_155.ogg/revision/latest?cb=20240703055527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Though both Dreamscapes have distinct styles, the architectural designs are quite similar — works of the same hand, perhaps. Hard not to speculate on the connection...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/Vo_chapter3_17_welt_119.ogg/revision/latest?cb=20240703060038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "But there's no point in overthinking things. Let's meet up with Himeko and the others first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_17_welt_120.ogg/revision/latest?cb=20240703060042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Take a right turn at the end of this road and you'll reach the trade district. There are more people there, and perhaps someone knows where she is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_17_firefly_156.ogg/revision/latest?cb=20240703055529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Not coming with us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_17_welt_121.ogg/revision/latest?cb=20240703060043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The Astral Express likely needs room for some internal deliberation. In the meantime, I'll try and locate Gallagher.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_17_firefly_157.ogg/revision/latest?cb=20240703055531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Sure, let's reconnect later.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_17_welt_122.ogg/revision/latest?cb=20240703060045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Letting her go was the right decision — further observations are needed before we decide whether to trust her. But first, there's someone I need to talk to.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_17_welt_123.ogg/revision/latest?cb=20240703060048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ Let's go, (Trailblazer). I'm sure you've already noticed him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_17_welt_124_m.ogg/revision/latest?cb=20240703060052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_101.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yep, I saw him right away...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "He's right over there...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_17_welt_125.ogg/revision/latest?cb=20240703060053",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Look, over there...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_17_welt_126.ogg/revision/latest?cb=20240703060056",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_103.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "A familiar face?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Hehe, not exactly — I've only met him once. Look, over there...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_17_welt_127.ogg/revision/latest?cb=20240703060058",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_104.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The Reverie Hotel 's bellboy... How did he end up here? And right after Miss Acheron severed the beautiful dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_17_welt_128.ogg/revision/latest?cb=20240703060101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We'd better check, just to be sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_17_welt_129.ogg/revision/latest?cb=20240703060103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_106.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Confirm the situation with Misha"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As the door opens, a cold and uninspiring plaza comes into view, along with two skyscrapers that had long past their glory days. Just as you decide to split up, a familiar figure catches your and Welt's attention... What could the bellboy of The Reverie be doing in the \"nightmare\"? Sensing something was amiss, you decided to go and speak with him, lest you lose sleep at night over this inexplicable phenomenon."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Misha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Ah? You're the guest from before. We meet again! And a new friend... F—Forgot to introduce myself, I'm the hotel's bellboy, Misha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_17_misha_101.ogg/revision/latest?cb=20240703055811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Hello, Misha. I'm Welt, we met in a dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_17_welt_130.ogg/revision/latest?cb=20240703060105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Hm? And who might this be...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_17_welt_131.ogg/revision/latest?cb=20240703060106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Tick-tock! Old friend and new friend, let's high-five!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_17_clock_101.ogg/revision/latest?cb=20240703055327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_110.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Mr. Yang, you can see him?"
+    },
+    {
+        "type": "note",
+        "text": "Mr. Yang, you're still young at heart!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "You're... a Memory Zone Meme?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_17_welt_132.ogg/revision/latest?cb=20240703060108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Nope. Clockie is a good friend of mine. We all live here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_17_misha_102.ogg/revision/latest?cb=20240703055812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "How did you two get here? This Dreamscape isn't supposed to be open to the public... I wonder if it has something to do with Sleepie?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_17_misha_103.ogg/revision/latest?cb=20240703055814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So this is... your home?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_17_welt_133.ogg/revision/latest?cb=20240703060110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yep. After my work in the beautiful dream ends, I'll go back home. Commuting used to be more convenient, but ever since travel became cumbersome, Sleepie started ferrying people back and forth between the two Dreamscapes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_17_misha_104.ogg/revision/latest?cb=20240703055817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "This Sleepie... Can you describe what it looks like?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/Vo_chapter3_17_welt_134.ogg/revision/latest?cb=20240703060112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Sleepie is a Memory Zone Meme, looks fierce and has many eyes. But it's actually really well-behaved. Gallagher's been taking care of it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_17_misha_105.ogg/revision/latest?cb=20240703055818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_117.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This description, could it be..."
+    },
+    {
+        "type": "note",
+        "text": "Gallagher again...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Based on the description, that meme is indisputably \"Death.\" A nightmare for The Family, but for the people who live here... that couldn't be further from the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_welt_135.ogg/revision/latest?cb=20240703060114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "D—Death? Not in a dream, surely. Sleepie's just a little aggressive, and sometimes messes up by fetching the wrong guests, but it would never hurt anyone!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_17_misha_106.ogg/revision/latest?cb=20240703055820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I see... Has it brought back any guests recently, say in the last day or two? We're currently investigating a missing person case that occurred within the beautiful dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_17_welt_136.ogg/revision/latest?cb=20240703060118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I see... Then you'll have to speak with Gallagher. But he's currently busy hosting a visitor from the Oak Family, and specifically asked not to be disturbed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_17_misha_107.ogg/revision/latest?cb=20240703055822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Um, Mr. Yang, the person you're looking for...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_17_misha_108.ogg/revision/latest?cb=20240703055824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Is it Miss Robin?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_17_misha_109.ogg/revision/latest?cb=20240703055826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Just as I thought. Considering what happened with Miss Firefly, this doesn't come as a surprise.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/Vo_chapter3_17_welt_137.ogg/revision/latest?cb=20240703060120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "If you're looking for Miss Robin, I can lead the way. She told me that she'd be willing to meet with outside guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_17_misha_110.ogg/revision/latest?cb=20240703055828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If it's not too much trouble. Also, we're looking for our missing companions: A woman with red hair, accompanied by a girl with pink hair. Have you seen them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_17_welt_138.ogg/revision/latest?cb=20240703060122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Oh, I haven't... But please rest assured — Dreamflux Reef is a small place, and it's not as bustling as the beautiful dream, but its safety is unmatched.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_17_misha_111.ogg/revision/latest?cb=20240703055830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "How about this! Since it's your first time here in Dreamflux Reef, I'll be your guide and help you find your companions, and then we can all go visit Miss Robin together.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Vo_chapter3_17_misha_112.ogg/revision/latest?cb=20240703055831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "She's gone to Mrs. Grace's to visit the children. She won't be leaving anytime soon, so there should be enough time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_17_misha_113.ogg/revision/latest?cb=20240703055833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Alright, then. We'll follow your plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_17_welt_139.ogg/revision/latest?cb=20240703060124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Well, we now know the answer to both murder cases that have caused such commotion in Penacony. As for the intentions of the mastermind behind it all... we're still none the wiser.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_17_welt_140.ogg/revision/latest?cb=20240703060126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_131.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It has to be Gallagher who's behind it all.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Yes, that's my thinking as well. I'm not entirely certain, but we still have to find him one way or another.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Vo_chapter3_17_welt_141.ogg/revision/latest?cb=20240703060128",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_132.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That visitor from the Oak Family is worth learning more about.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Yes, and I believe their relationship with Gallagher may run deep — why else would they be so clandestine about their discussion? Regardless, we have to find Gallagher.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_17_welt_142.ogg/revision/latest?cb=20240703060130",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_133.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That name, Sleepie...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Uhh, no idea. But its connection to Gallagher is worth digging into. Regardless, we have to find him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_17_welt_143.ogg/revision/latest?cb=20240703060131",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_134.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Say, you mentioned before that you saw a Clockie that only you could see, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_17_welt_144.ogg/revision/latest?cb=20240703060133",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_135.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yep, he's right here."
+    },
+    {
+        "type": "note",
+        "text": "He was with Misha at that time."
+    },
+    {
+        "type": "note",
+        "text": "You also saw him, Mr. Yang."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I can't shake off this strange feeling. Am I really still so young at heart...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_17_welt_145.ogg/revision/latest?cb=20240703060135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Forget it. It's not important. We'd better just follow Misha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_17_welt_146.ogg/revision/latest?cb=20240703060137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_137.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Misha and explore Dreamflux Reef"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Misha claims Dreamflux Reef to be his home... If that is the case, you can only imagine how bad the treatment must have been atThe Reverie. Although, the cute and naïve Misha has not taken that to heart. In fact, seeing that you are in trouble, he offers to lead you on a search for your lost companions and give you a tour of the desolate town along the way. Not only that, you may even have a chance to meet with an old friend... Robin.Before this, however, you need to regroup with March 7th and Himeko. There is no time to lose. Better hurry after Misha."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Everyone, look! From here, you can see the most spectacular view of Dreamflux Reef—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_17_misha_114.ogg/revision/latest?cb=20240703055835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "A black hole? No... an accretion disk formed from consolidated memoria? Was Dreamflux Reef built on such unstable memoria?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_17_welt_147.ogg/revision/latest?cb=20240703060139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Oh? So Mr. Yang is also versed in memoria dynamics. I was just trying to figure out how to explain this huge hole to everyone. I bet you guys have a lot in common with Miss Kaimee !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_17_misha_115.ogg/revision/latest?cb=20240703055837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_140.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon reaching Kaimee)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Look, there she is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_17_misha_116.ogg/revision/latest?cb=20240703055840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_141.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Kaimee)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "My calculations are finally done. In another ten system hours, the above dream will swallow the dream below! My hypothesis was correct — this place will cease to exist, as the dream devours everything...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_17_kemei_101.ogg/revision/latest?cb=20240703055601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "Hmm? Who are you all, and why haven't you left yet? This place is about to disappear!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_17_kemei_102.ogg/revision/latest?cb=20240703055603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_143.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What are you doing out here?"
+    },
+    {
+        "type": "note",
+        "text": "Then why aren't you leaving?"
+    },
+    {
+        "type": "note",
+        "text": "Who are you?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "I'm Kaimee, a dreamscape surveyor specializing in memoria dynamics, and this is my life's work that I'm researching.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Vo_chapter3_17_kemei_103.ogg/revision/latest?cb=20240703055604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "See that huge gaping hole? It was just a narrow rift many years ago, but now it's grown into a giant hole. The surrounding memoria has been flowing towards the other end of the hole at a constant velocity, slowly but surely.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_17_kemei_104.ogg/revision/latest?cb=20240703055606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "But the scary part is... according to my calculations, the flow rate of memoria has recently changed, and it's faster than ever before — it's almost... almost as if something is sucking it in from the other side!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_17_kemei_105.ogg/revision/latest?cb=20240703055608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "By constantly improving upon Madam Razalina's memoria measurement method, I've finally obtained accurate results—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Vo_chapter3_17_kemei_106.ogg/revision/latest?cb=20240703055610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "After ten system hours, the Dreamflux Reef will cease to exist! It will disintegrate like a melting glacier and then fuse with the sweet dream fragments on that side of the void!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_17_kemei_107.ogg/revision/latest?cb=20240703055612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Uhh, please don't worry, this sort of thing has happened many times before... Miss Kaimee isn't a bad person, she's just a bit... lost in her own world. She'll probably realize she's wrong soon enough.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/Vo_chapter3_17_misha_117.ogg/revision/latest?cb=20240703055842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "You don't say... There was something else that piqued my interest. Who is Madam Razalina?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_17_welt_148.ogg/revision/latest?cb=20240703060141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "Oh, do you know her, too? Or are you also a fan of memoria dynamics?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Vo_chapter3_17_kemei_108.ogg/revision/latest?cb=20240703055614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We're very interested in Madam Razalina's achievements. Could you tell us a little more about them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_17_welt_149.ogg/revision/latest?cb=20240703060143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "Why, Of course! She's an excellent scholar of memoria dynamics, and the first person to apply memoria rate measurement methodology on interstellar travelers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_17_kemei_109.ogg/revision/latest?cb=20240703055616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "Regrettably, due to the presence of the Garden of Recollection , ordinary people don't pay much attention to the nature of memoria. She departed this world without much fame, leaving only a few thin journals behind...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_17_kemei_110.ogg/revision/latest?cb=20240703055618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "I came to Penacony to learn more about my idol, and went to great lengths to seek out Dreamflux Reef, all because this is her final resting place. Prodigies always meet their demise prematurely... If only Madam Razalina had more time, she would've discovered a way to reverse the flow of memoria!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_17_kemei_111.ogg/revision/latest?cb=20240703055620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "I felt it, the source is in... the Golden Hour! There is a certain anomalous presence stirring the currents of the Memory Zone. I must uncover more concrete proof... I must convince everyone...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_kemei_112.ogg/revision/latest?cb=20240703055622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ ...(Trailblazer), does the name Madam Razalina sound familiar to you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_17_welt_150_m.ogg/revision/latest?cb=20240703060147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_157.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It was one of the Nameless mentioned by the conductor.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "That's right. It seems like she did a great deal of research and calculations in Dreamflux Reef... before abruptly passing away.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_17_welt_151.ogg/revision/latest?cb=20240703060149",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_158.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Before we came to Penacony, the conductor had given us a list of Nameless to look into — her name was mentioned. It seems like she did a great deal of research and calculations in Dreamflux Reef... before abruptly passing away.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_17_welt_152.ogg/revision/latest?cb=20240703060151",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_159.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Miss Kaimee regularly mentions her. I hear Madam Razalina passed away during the Prison War... If she could see the Penacony of today, its people building homes in the Memory Zone... I bet she'd be really happy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_17_misha_118.ogg/revision/latest?cb=20240703055844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Perhaps.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_17_welt_153.ogg/revision/latest?cb=20240703060153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_161.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Misha and head to the trading district to search for your partners"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Misha claims Dreamflux Reef to be his home... If that is the case, you can only imagine how bad the treatment must have been at The Reverie. Although, the cute and naïve Misha has not taken that to heart. In fact, seeing that you are in trouble, he offers to lead you on a search for your lost companions and give you a tour of the desolate town along the way. Not only that, you may even have a chance to meet with an old friend... Robin.Before anything else, you need to regroup with March 7th and Himeko. Misha believes that the Express Crew is likely in the trading district. Maybe you should go and check it out."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Our destination is the commercial district. That's where the largest crowds gather in Dreamflux Reef. We might be able to find the others there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_17_misha_119.ogg/revision/latest?cb=20240703055846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_162.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Kaimee again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kaimee",
+        "line": "I felt it, the source is in... the Golden Hour! There is a certain anomalous presence stirring the currents of the Memory Zone. I must uncover more concrete proof... I must convince everyone...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_kemei_112.ogg/revision/latest?cb=20240703055622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kaimee_163.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon reaching March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Let me go...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_17_memberA_101.ogg/revision/latest?cb=20240703055734",
+        "is_unavailable": false,
+        "audio_filename": "audio__164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Please, come to your senses! I'm begging you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_17_mar7th_101.ogg/revision/latest?cb=20240703055637",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_165.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ghost, there's a ghost! D—Don't come near me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_17_memberA_102.ogg/revision/latest?cb=20240703055736",
+        "is_unavailable": false,
+        "audio_filename": "audio__166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh my, I'm human and so are you. Can you get a grip...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_17_mar7th_102.ogg/revision/latest?cb=20240703055639",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Ah! There you are! I've been waiting for you two!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/Vo_chapter3_17_mar7th_103_m.ogg/revision/latest?cb=20240703055643",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Quickly, come help! I bumped into a member of The Family on the way here. He was so scared and I just wanted to calm him down. But...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_17_mar7th_104.ogg/revision/latest?cb=20240703055645",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Member",
+        "line": "Let me go. Let me go... I've only done good in my life. Why can't I rest in peace after death...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_17_memberA_103.ogg/revision/latest?cb=20240703055738",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Member_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Well, this is how it turned out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_17_mar7th_105.ogg/revision/latest?cb=20240703055647",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_171.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You scared him this badly?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ha. Ha. You're a regular comedian...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_17_mar7th_106.ogg/revision/latest?cb=20240703055648",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_172.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Now you shall pay respect to March 7th, Ghost of Dreamflux Reef!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Me!? A ghost? Don't make me hit you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_17_mar7th_107.ogg/revision/latest?cb=20240703055650",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_173.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "He thinks he's dead... Although when I first fell in, I also thought the same.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_17_mar7th_108.ogg/revision/latest?cb=20240703055652",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Dear guest, this is not the afterlife. This is Dreamflux Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_17_misha_120.ogg/revision/latest?cb=20240703055848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That's right. Did you hear that? Repeat after me: Dream— Flux— Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_17_mar7th_109.ogg/revision/latest?cb=20240703055654",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Member",
+        "line": "You... You're talking to someone invisible. If I'm not dead, what am I? *sob*... I shouldn't have pushed my luck and tried sleeping in my dream... Curiosity kills the Pepeshi!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_17_memberA_104.ogg/revision/latest?cb=20240703055740",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Member_177.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Invisible who?"
+    },
+    {
+        "type": "note",
+        "text": "What's wrong with sleeping in dreams?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Member",
+        "line": "S—Stop asking! You'll alert the monsters! All the dead are right here, all of them...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_17_memberA_105.ogg/revision/latest?cb=20240703055742",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Member_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh... You're not talking about the Memory Zone Meme, are you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_17_mar7th_110.ogg/revision/latest?cb=20240703055656",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Member",
+        "line": "Don't say that name! It's all your fault! Th—They're coming!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_17_memberA_106.ogg/revision/latest?cb=20240703055744",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Member_180.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstMemory Zone Meme \"Heartbreaker\"×2,Memory Zone Meme \"Allseer\"×1,Memory Zone Meme \"Insatiable Vanity\"×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "He passed out. His intense negative emotions attracted the nearby Memory Zone Memes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_17_welt_154.ogg/revision/latest?cb=20240703060155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I see... but why aren't the other people around here scared?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_17_mar7th_111.ogg/revision/latest?cb=20240703055658",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Unlike in the sweet dream, people here don't see Memory Zone Memes as dangerous monsters... and even if they pose a threat, people can easily escape by forcing a wake-up call.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_17_misha_121.ogg/revision/latest?cb=20240703055850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "But we can't just leave this man here... Can we take him somewhere safe?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Vo_chapter3_17_misha_122.ogg/revision/latest?cb=20240703055852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_184.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Aunt Jessie"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Misha claims Dreamflux Reef to be his home... If that is the case, you can only imagine how bad the treatment must have been at The Reverie. Although, the cute and naïve Misha has not taken that to heart. In fact, seeing that you are in trouble, he offers to lead you on a search for your lost companions and give you a tour of the desolate town along the way. Not only that, you may even have a chance to meet with an old friend... Robin.You were able to reunite with March 7th safely. However, before you can go in search of Himeko, you will need to find a local to look after this poor soul that was scared unconscious by the pink spirit of Dreamflux Reef. This Aunt Jessie that March 7th mentioned sounds like a solid candidate."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We can ask Jessie for help! I've gotten to know many locals while waiting for you guys.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_17_mar7th_112.ogg/revision/latest?cb=20240703055659",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Everyone here is living a self-sufficient life... I don't know how to describe it, but this place feels like the real Dreamscape...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_17_mar7th_113.ogg/revision/latest?cb=20240703055701",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_186.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aunt Jessie)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Evening, Jessie! Uhm... is it evening?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_17_mar7th_114.ogg/revision/latest?cb=20240703055703",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "Welcome, Miss March! Who might these be?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Vo_chapter3_17_cuisi_101.ogg/revision/latest?cb=20240703055329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "These two are my friends! As for the man lying on the ground... he's a scaredy-cat who fainted from fright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_17_mar7th_115.ogg/revision/latest?cb=20240703055705",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "Haha, I see, another poor guy who accidentally ended up here. I'll take care of him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Vo_chapter3_17_cuisi_102.ogg/revision/latest?cb=20240703055331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "There have been a lot of new faces lately. Things must be tough in the beautiful dream. *sigh* The few remaining havens of freedom in Asdana will soon face trouble...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_17_cuisi_103.ogg/revision/latest?cb=20240703055334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Do such things often happen here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_17_welt_155.ogg/revision/latest?cb=20240703060156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "Not really, but they're becoming more frequent now. Guess it's one of the signs of the sweet dream's collapse .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_17_cuisi_104.ogg/revision/latest?cb=20240703055336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "This man has had quite the shock. Could you help me find a Halovian lady, March? Her songs can heal mental wounds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_17_cuisi_105.ogg/revision/latest?cb=20240703055338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A Halovian lady...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_17_mar7th_116.ogg/revision/latest?cb=20240703055707",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "That must be Robin. She's also here, in Dreamflux Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_17_welt_156.ogg/revision/latest?cb=20240703060158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh!? Robin? But I thought she... Oh, right! If Firefly is here safe and sound, then it means Robin must be okay, too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_17_mar7th_117.ogg/revision/latest?cb=20240703055709",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Misha is about to take us to her to find out what happened, but before that, let's meet up with Himeko. You were with her earlier, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_17_welt_157.ogg/revision/latest?cb=20240703060200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We met some stowaways in the residential area. Most of them came from neighboring star systems.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_17_mar7th_118.ogg/revision/latest?cb=20240703055710",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I heard that places like Dreamflux Reef are scattered throughout the Memory Zone of Asdana, like islands in the ocean. They existed before The Family arrived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_17_mar7th_119.ogg/revision/latest?cb=20240703055713",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I also heard that when Dreamflux Reef took shape, it was the center of all Dreamscapes in Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Vo_chapter3_17_mar7th_120.ogg/revision/latest?cb=20240703055714",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If that's true, it's no wonder there are so many similarities between this place and the sweet dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_17_welt_158.ogg/revision/latest?cb=20240703060202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Himeko must be gathering information. Let's hurry up and get going.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_17_mar7th_121.ogg/revision/latest?cb=20240703055717",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_203.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Search for Himeko"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Misha claims Dreamflux Reef to be his home... If that is the case, you can only imagine how bad the treatment must have been at The Reverie. Although, the cute and naïve Misha has not taken that to heart. In fact, seeing that you are in trouble, he offers to lead you on a search for your lost companions and give you a tour of the desolate town along the way. Not only that, you may even have a chance to meet with an old friend... Robin.Now that the brief episode of the spirit of Dreamflux Reef has been put aside for now... You can finally go in search of Himeko! You must miss her, right?"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jessie again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jessie",
+        "line": "There have been a lot of new faces lately. Things must be tough in the beautiful dream. The few remaining havens of freedom in Asdana will soon face trouble...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_17_cuisi_106.ogg/revision/latest?cb=20240703055340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jessie_204.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon arriving at the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This is where we split up... She can't be too far away!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_17_mar7th_122.ogg/revision/latest?cb=20240703055718",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_205.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachMicah)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So that's how it is... I never imagined we'd gather the remaining details here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/Vo_chapter3_17_himeko_101.ogg/revision/latest?cb=20240703055550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Hehe... to borrow Gallagher's catchphrase, \"what an unpredictable twist of fate.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_17_micah_101.ogg/revision/latest?cb=20240703055746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Himeko! Here they are.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_17_mar7th_123.ogg/revision/latest?cb=20240703055720",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Perfect timing. Now that everyone's here, I'd like to introduce everyone to Micah, who's partly in charge of the land of the exiles. Micah, these are my companions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_17_himeko_102.ogg/revision/latest?cb=20240703055552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "▶ It's a pleasure to meet the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_17_micah_102_m.ogg/revision/latest?cb=20240703055750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You know us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_17_mar7th_124.ogg/revision/latest?cb=20240703055725",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "I've been keeping an eye on you since the day you arrived in Penacony. We would have met under more appropriate circumstances if Dreamflux Reef hadn't been isolated from the Twelve Dreamscapes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_17_micah_103.ogg/revision/latest?cb=20240703055752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Please allow me to formally introduce myself. I'm Micah, the Gravekeeper of Dreamflux Reef.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_17_micah_104.ogg/revision/latest?cb=20240703055755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Gravekeeper...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/Vo_chapter3_17_mar7th_125.ogg/revision/latest?cb=20240703055727",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Life in Dreamflux Reef is pretty liberating. Everyone here mostly keeps to themselves, without meddling in others' affairs. My daily task involves... cleaning a few tombstones.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_17_micah_105.ogg/revision/latest?cb=20240703055757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "You're too modest, Micah. When lost Dreamchasers stumble upon this place, you're the one who takes care of them, guiding them back to the sweet dream or showing them how to survive the wild dream chaos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/Vo_chapter3_17_misha_123.ogg/revision/latest?cb=20240703055854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So, a guardian of sorts!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_17_welt_159.ogg/revision/latest?cb=20240703060205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Hmm? Were you talking to me, Mr. Yang?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_17_micah_106.ogg/revision/latest?cb=20240703055759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Hmm?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_17_welt_160.ogg/revision/latest?cb=20240703060206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_17_himeko_103.ogg/revision/latest?cb=20240703055553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...On that note, Mr. Micah, which tombstones are you referring to? We didn't come across any graveyard when we arrived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_17_welt_161.ogg/revision/latest?cb=20240703060209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Heh, they're actually just symbolic stones. But since you're curious, Mr. Yang, I'll take you there. I have a feeling you might find something of interest there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_17_micah_107.ogg/revision/latest?cb=20240703055801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "But before that, you'll have an important guest joining you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_17_micah_108.ogg/revision/latest?cb=20240703055805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_223.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Meet with the special guest"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "When you find Himeko, she is speaking with a local named Micah. Coincidentally, this mild-mannered man who calls themselves the \"Gravekeeper\" is actually one of the people responsible for this land of Dreamflux.Your appearance in this land doesn't seem to surprise him in the slightest. He says that he would be able to take you to get a deeper understanding of Dreamflux Reef, but you must travel alongside a certain \"special guest\"... If you are not mistaken, this \"guest\" is quite likely Miss Robin."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "An important guest? Who could it be...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_17_mar7th_126.ogg/revision/latest?cb=20240703055729",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "This way, please. The roads here in Dreamflux Reef are a bit run-down, so watch your step.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_17_micah_109.ogg/revision/latest?cb=20240703055807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_225.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon arriving at the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "There she is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_17_micah_110.ogg/revision/latest?cb=20240703055809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It really is her... Miss Robin!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Vo_chapter3_17_mar7th_127.ogg/revision/latest?cb=20240703055731",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_227.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Robin)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Everyone sang so wonderfully! It's not often that I try this music style, but I've gained some valuable insights from it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_17_robin_101.ogg/revision/latest?cb=20240703055901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "I can't thank you enough, Robin. These kids have made incredible progress in only a few days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_17_gelisha_101.ogg/revision/latest?cb=20240703055533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It was nothing, Grace. I merely taught them how to sing. It was you who brought hope into their lives.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_17_robin_102.ogg/revision/latest?cb=20240703055903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...Life must be quite difficult for them in reality, I imagine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_17_robin_103.ogg/revision/latest?cb=20240703055905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_231.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "That's right.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_17_gelisha_102.ogg/revision/latest?cb=20240703055534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Whenever it's time to say goodbye to these kids, they're reluctant to leave. But, I've explored every corner of Dreamflux Reef, talked to everyone I met, and they all told me the same thing... This shattered dream is not worth clinging to.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_17_robin_104.ogg/revision/latest?cb=20240703055907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "Hehe, it seems you truly are a child of the Harmony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_17_gelisha_103.ogg/revision/latest?cb=20240703055536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "Emma and Andy are orphans I took under my wing. Carol, there, with her blind eyes, used to work at a nutrition center in the outer ring of Penacony. And as for Gary, he's been living with autism since he was a child. They're not old enough to enter the sweet dream managed by The Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_17_gelisha_104.ogg/revision/latest?cb=20240703055538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "If we compare people to birds, these kids are like fledglings with impaired wings. But in this dream, they can fly freely. Even if they stumble along the way, they're still relying on their own strength.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_17_gelisha_105.ogg/revision/latest?cb=20240703055540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "And me? An old lady with no legs... Without this dream, I couldn't even walk toward them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_17_gelisha_106.ogg/revision/latest?cb=20240703055542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "I'm glad that you found a new life here in Penacony, it's just...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_17_robin_105.ogg/revision/latest?cb=20240703055909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "Don't worry, Robin. Dreams have their significance, but they aren't everything. Both the children and I understand this. No matter how long we fly through this dream, we will one day return to reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_17_gelisha_107.ogg/revision/latest?cb=20240703055544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "But you know what? Emma and Gary aren't plagued by their insecurities anymore. No — and Carol is learning how to cope with her blindness. And Andy is livelier than ever. Well, even I've become more optimistic.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_17_gelisha_108.ogg/revision/latest?cb=20240703055546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grace",
+        "line": "You see, in dreams, we learn how to live. Once we return to reality... we learn how to survive.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_17_gelisha_109.ogg/revision/latest?cb=20240703055548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grace_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...And should our feathers be damaged, then we share our wings with one another.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_17_robin_106.ogg/revision/latest?cb=20240703055911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_242.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "There's no need to covet an illusory sky in dreams, because we have the right and the ability... to fly towards a broader horizon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Vo_chapter3_17_robin_107.ogg/revision/latest?cb=20240703055913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It's a relief to see you safe and sound, Miss Robin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_17_himeko_104.ogg/revision/latest?cb=20240703055555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It's nice to see you all again, Astral Express crew. I heard my disappearance caused quite the commotion out there... I'm really sorry about that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Vo_chapter3_17_robin_108.ogg/revision/latest?cb=20240703055915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Since you're here... can we assume that you're fully aware of the situation in Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_17_himeko_105.ogg/revision/latest?cb=20240703055557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_246.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Ever since I returned to Penacony, my voice started to change, until it gradually faded away. At first, I thought it was a temporary ailment, perhaps due to having been away too long. I thought maybe it'd just take some time for my body to acclimate to the high concentration of memoria in Asdana.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Vo_chapter3_17_robin_109.ogg/revision/latest?cb=20240703055917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "But now it seems... the root of the problem goes way beyond me. There are elements around me that don't align with the Harmony... and losing my voice is just one of the signs of the sweet dream's collapse.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_17_robin_110.ogg/revision/latest?cb=20240703055919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The sweet dream's collapse... that Memokeeper mentioned the same thing. So, it's real.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_17_mar7th_128.ogg/revision/latest?cb=20240703055732",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "While I was away from Penacony, the boundaries of the Twelve Dreamscapes kept expanding outward. But whenever I mentioned the anomalies in the dream... all The Family heads refused to talk about it. Only my brother was willing to respond...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_17_robin_111.ogg/revision/latest?cb=20240703055923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_250.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Later, I discovered the secret letters from the IPC ambassador, which further convinced me that there are hidden secrets beneath the surface of Penacony. So, following the clues in the Oak Family's dossiers, I found my way here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_17_robin_112.ogg/revision/latest?cb=20240703055925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_251.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...The land of the exiles, concealed by The Family under the guise of \"Death,\" a dream within a dream where Penacony's past is buried.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_17_robin_113.ogg/revision/latest?cb=20240703055927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Hearing you speak, it sounds as if your voice has made somewhat of a recovery.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_17_himeko_106.ogg/revision/latest?cb=20240703055559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "I hate to admit it, but the \"Harmony\" in this place resonates more broadly than within the sweet dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_17_robin_114.ogg/revision/latest?cb=20240703055928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It's regrettable, but The Family has experienced betrayal. The traitor, or traitors abandoned their original principles and, using the name of Harmony, exploited people's weaknesses to turn Penacony into the Planet of Festivities, trapping everyone in the illusion of the sweet dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_17_robin_115.ogg/revision/latest?cb=20240703055932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "This is not \"the strong defending the weak,\" but rather \"the strong exploiting the weak.\" A world without equality won't ever be favored by the Harmony, and naturally, those voices blessed by THEM ... have lost the ability to sing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_17_robin_116.ogg/revision/latest?cb=20240703055934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Could there be another force influencing The Family's shift in philosophy, Miss Robin?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_17_welt_162.ogg/revision/latest?cb=20240703060211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Considering what happened with Acheron, it's difficult to conceive of another entity within the realm of the Harmony capable of influencing everyone, unless a power surpassing that of an Emanator is involved...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Vo_chapter3_17_welt_163.ogg/revision/latest?cb=20240703060212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_258.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "I'd heard about what happened to the Xianzhou Alliance . But as far as I'm aware, The Family hasn't faced any such external interventions. Who knows, perhaps I've just been away too long and missed something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_17_robin_117.ogg/revision/latest?cb=20240703055937",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_259.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Regardless, I cannot accept my home is moving towards the very opposite of what the Harmony represents, while still claiming to uphold it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_17_robin_118.ogg/revision/latest?cb=20240703055939",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_260.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "I must uncover the reason why Mikhail cut ties with The Family, and who exactly it was who betrayed us all. Do you remember our arrangement, Mr. Micah? Well, here's my answer...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_17_robin_119.ogg/revision/latest?cb=20240703055941",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_261.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "— I've decided to forego my role, and never step foot on the Charmony Festival's stage again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_17_robin_120.ogg/revision/latest?cb=20240703055943",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_262.ogg"
+    }
+]

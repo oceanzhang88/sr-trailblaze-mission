@@ -1,0 +1,757 @@
+[
+    {
+        "type": "heading",
+        "text": "When you are ready, talk to Gepard to open the gate"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Thanks to your time onJarilo-VI, you have mastered the art of persuasion. TheSupreme Guardian's most loyal Captain is now on your side... It's a pity that he cannot go with you and witness what awaitsBelobog.Gepard is guarding the gate to theFragmentum. He and his best guards will form up and clear the way for you once you are ready."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toSeele, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I gotta admit, I had a lot of... misunderstandings... about the Silvermane Guards . They're fighting for survival here every day, just like Wildfire .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter1_7_seele_227.ogg/revision/latest?cb=20241204034401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The difference is we're making a stand for freedom... while they're just carrying out orders.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_7_seele_228.ogg/revision/latest?cb=20241204034402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's why we have to try and put ourselves in their shoes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Put ourselves in their shoes... Easier said than done. Everyone has their struggles, but how can we understand them if we can't even see each other?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter1_7_seele_229.ogg/revision/latest?cb=20241204034403",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you understand Bronya 's struggles?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Of course I do, I've understood them for a while now. But as far as I can tell, she doesn't need other people's understanding. She needs to understand her own heart.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_7_seele_230.ogg/revision/latest?cb=20241204034404",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_3.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "...It's the same with Gepard. I could tell it took a lot for him to lay down his arms.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_7_seele_231.ogg/revision/latest?cb=20241204034405",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "It's time to finish this."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I think I can already hear the storm on the other side of the city walls... Not a reassuring sound.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_7_seele_232.ogg/revision/latest?cb=20241204034406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I hope Serval's right... That supreme lunatic better not have harmed Bronya.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_7_seele_233.ogg/revision/latest?cb=20241204034406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_6.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toServal, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "You see? Brothers and sisters need to have a scrap once in a while to get back on good terms.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_7_serval_378.ogg/revision/latest?cb=20241204034407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Sorry for getting you involved in this.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Agh, enough apologizing. My ears can't take any more.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_7_serval_379.ogg/revision/latest?cb=20241204034408",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_8.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Honestly, this would have happened sooner or later. You just gave me an excuse to bring everything forward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_7_serval_380.ogg/revision/latest?cb=20241204034409",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So this is how brothers and sisters normally coexist?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "What's wrong with a bit of violent coexistence between siblings? Seems pretty normal to me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter1_7_serval_381.ogg/revision/latest?cb=20241204034410",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Hehe, I'm pulling your leg. Since I left the military, my brother and I have always steered clear of certain sensitive topics... Thinking about it, perhaps he's just been looking out for my feelings, shielding me all along.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_7_serval_382.ogg/revision/latest?cb=20241204034411",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Knowing my temper, my brother almost certainly went to great lengths on many occasions for me. I should be thanking him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_7_serval_383.ogg/revision/latest?cb=20241204034412",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let the Stellaron hunt begin.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Let's do this. I may never have come face to face with it, but this Stellaron cost me a nice, stable job. It's time to get even.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter1_7_serval_384.ogg/revision/latest?cb=20241204034413",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Actually, I have another selfish motive... I want to prove to Cocolia that I was right. Once we've taken care of the Stellaron... maybe she'll go back to how she was.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter1_7_serval_385.ogg/revision/latest?cb=20241204034414",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "...Sorry, hardly the time for me to be obsessing over all this.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_7_serval_386.ogg/revision/latest?cb=20241204034415",
+                "is_unavailable": false,
+                "audio_filename": "audio_Serval_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "We've got this."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "As I mentioned, if we want to progress further north, we're gonna have to cross that \"hell.\" Still, look at it this way: Just another arena to showcase our skills, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter1_7_serval_387.ogg/revision/latest?cb=20241204034416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Now, if you're ready to get on stage, let's push for that standing ovation!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_7_serval_388.ogg/revision/latest?cb=20241204034417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_17.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Gepard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "As soon as the restricted zone gate is open, the monsters on the other side will turn out in full force. The Guards will do their best to stall them and buy you some time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter1_8_gepard_201.ogg/revision/latest?cb=20241204034422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Once you've broken through the front line... there's nothing more we can do for you. You'll have to find out for yourselves what lies within the northern Fragmentum.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_8_gepard_202.ogg/revision/latest?cb=20241204034423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "So... have you made up your minds?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_8_gepard_203.ogg/revision/latest?cb=20241204034424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_20.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We're ready.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "Understood. Keep your weapons close. This will be a fierce fight.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_8_gepard_204.ogg/revision/latest?cb=20241204034425",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "Guards! Open the gate!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter1_8_gepard_205.ogg/revision/latest?cb=20241204034426",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_22.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Proceed to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Give us a moment..."
+    },
+    {
+        "type": "condition",
+        "text": "(The gates open and monsters appear)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Are you dealing with attacks like this every day?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_8_serval_201.ogg/revision/latest?cb=20241204034447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "It's a common occurrence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter1_8_gepard_206.ogg/revision/latest?cb=20241204034427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Guards, formation!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter1_8_gepard_207.ogg/revision/latest?cb=20241204034427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph, well I'm gonna make sure I don't owe the Guards any favors when this is done!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_8_seele_201.ogg/revision/latest?cb=20241204034441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_26.ogg"
+    },
+    {
+        "type": "note",
+        "text": "For Bronya!"
+    },
+    {
+        "type": "note",
+        "text": "For Belobog!"
+    },
+    {
+        "type": "note",
+        "text": "For universal peace!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Here they come!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_8_serval_202.ogg/revision/latest?cb=20241204034448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Steel yourselves!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_8_gepard_208.ogg/revision/latest?cb=20241204034428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle)"
+    },
+    {
+        "type": "condition",
+        "text": "(At start of third wave)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...How many of them are there!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_8_mar7th_201.ogg/revision/latest?cb=20241204034435",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The more the merrier, these guys are nothing! Hold the line!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter1_8_seele_202.ogg/revision/latest?cb=20241204034442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating all enemies)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Argh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter1_8_gepard_209.ogg/revision/latest?cb=20241204034429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...I told you, Gepard, the Barrier hasn't been fixed yet! Don't try and be a hero!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter1_8_serval_203.ogg/revision/latest?cb=20241204034449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "This is... only the first wave. They'll have reassembled soon... I have to...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_8_gepard_210.ogg/revision/latest?cb=20241204034430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hey, Mr. Silvermane, listen to your sister! I can tell just by looking at you that you haven't fully recovered.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter1_8_seele_203.ogg/revision/latest?cb=20241204034443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_8_serval_204.ogg/revision/latest?cb=20241204034450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Outsiders, Seele, the second wave hasn't started yet. Make the most of this opportunity and make a break for it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter1_8_serval_205.ogg/revision/latest?cb=20241204034451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? Serval, aren't you gonna look for the Stellaron with us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter1_8_mar7th_202.ogg/revision/latest?cb=20241204034436",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "My brother can't hold them back by himself. He wasted a lot of energy on us. He's my responsibility now. Besides...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_8_serval_206.ogg/revision/latest?cb=20241204034452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "If I'm not here to help... I don't know what might happen in the next wave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_8_serval_207.ogg/revision/latest?cb=20241204034453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "I want to go with you, I do! I always wanted to catch a glimpse of the Stellaron with my own eyes, and now it's so close...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_8_serval_208.ogg/revision/latest?cb=20241204034454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "But I can't abandon my brother and the other Guards — I'm a Landau ! It's up to you now, I believe in you. You've given me new hope!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_8_serval_209.ogg/revision/latest?cb=20241204034455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Get hold of the Stellaron before Cocolia realizes what's happening!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_8_serval_210.ogg/revision/latest?cb=20241204034456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_42.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We can't abandon you either!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "▶ Serval's right, (Trailblazer). Let's go.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_8_seele_204_m.ogg/revision/latest?cb=20241204034445",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_43.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "The Guards have opened up a way through for us, we can't let them down.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_8_danheng_201.ogg/revision/latest?cb=20241204034418",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "We won't disappoint you."
+    },
+    {
+        "type": "note",
+        "text": "Chaaaaarge!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serval",
+        "line": "Hey March! Don't forget to take a picture of the Stellaron for me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter1_8_serval_211.ogg/revision/latest?cb=20241204034457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Serval_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Say no more! We're good at this. Don't worry!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter1_8_mar7th_203.ogg/revision/latest?cb=20241204034437",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(TheAstral Express Crewand Seele depart)"
+    },
+    {
+        "type": "condition",
+        "text": "(Transition toWeltandHimekoaboard theAstral Express)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Fragmentum activity is intensifying... Something's happening on Jarilo-VI.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_8_welt_201.ogg/revision/latest?cb=20241204034458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Shouldn't we go down there, Himeko?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_8_welt_202.ogg/revision/latest?cb=20241204034459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ Have faith in them. Besides, this is ( his / her ) first Trailblazing expedition. How will ( he / she ) be able to look back fondly without a few twists and turns?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_8_himeko_201_m.ogg/revision/latest?cb=20241204034432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are you bored, Welt? I understand... But we have lots of opportunities ahead of us. Let's leave the memories of this expedition for them~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter1_8_himeko_202.ogg/revision/latest?cb=20241204034433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So you think they'll be safe, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_8_welt_203.ogg/revision/latest?cb=20241204034500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Yes, we haven't seen any Aeon or Emanator -level imaginary reactions. Relax.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_8_himeko_203.ogg/revision/latest?cb=20241204034434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is a young person's adventure, we shouldn't interfere. At most, we could offer a little \"off-site assistance.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_8_himeko_204.ogg/revision/latest?cb=20241204034434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_53.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cut back to the Jarilo-VI team, now in theCorridor of Fading Echoes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Is this... the Fragmentum Gepard was talking about?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter1_8_seele_205.ogg/revision/latest?cb=20241204034446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Compared to this, the corrosion we saw in Backwater Pass pales into insignificance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_8_danheng_202.ogg/revision/latest?cb=20241204034418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_55.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How can we pinpoint the Stellaron?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Serval said that the Stellaron was very likely hidden in the Snow Plains north of Belobog. If we want to get there, I'm afraid we'll have to find the exit to this Fragmentum maze first.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter1_8_danheng_203.ogg/revision/latest?cb=20241204034419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_56.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Guys... does this place feel weird to you? It feels like... like there are loads of eyes staring at us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_8_mar7th_204.ogg/revision/latest?cb=20241204034438",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "There's a restless atmosphere here.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Oh yeah, (Trailblazer). It feels like... like there are loads of eyes staring at us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_8_mar7th_205_m.ogg/revision/latest?cb=20241204034440",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_58.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Serval said that the Stellaron was very likely hidden in the Snow Plains north of Belobog. If we want to get there, I'm afraid we'll have to find the exit to this Fragmentum maze first.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter1_8_danheng_203.ogg/revision/latest?cb=20241204034419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...This place makes my flesh crawl... like there are insects under my skin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter1_8_seele_206.ogg/revision/latest?cb=20241204034447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We have no guide and no way of detecting the Stellaron. We'll just have to advance gradually... and cautiously.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_8_danheng_205.ogg/revision/latest?cb=20241204034420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Don't be disheartened. The stronger the Fragmentum contamination, the closer we are to the source.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_8_danheng_206.ogg/revision/latest?cb=20241204034421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_62.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Serval at theNeverwinter Workshop)"
+    },
+    {
+        "type": "choice",
+        "text": "How's Gepard doing?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Oh, you mean the thing in the Silvermane Guard Restricted Zone ? He just suffered a few flesh wounds, nothing serious. Don't worry — he's captain of the Silvermane Guards , so he isn't that fragile.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "After you went north into the Fragmentum , Gepard and I held off several waves of attack with some Silvermane Guards. We finally took our chances and shut off the entrance to the restricted zone.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "To tell the truth, the whole thing was thrilling... Endless monsters pouring out from the Fragmentum, rushing to the restricted zone. I almost thought we weren't gonna make it, but luckily I had my best guy with me...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "The previous Fragmentum attacks were nowhere near this vicious. *sigh* I mean back when I was still in the Silvermane Guards.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "Now though... Things are really tough for Gepard.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "choice",
+                "text": "You've been in combat before?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Serval",
+                        "line": "Pretty much — I may be from the Technology Division, but my areas of expertise are Fragmentum and Stellarons. And you can't remain confined to the lab if you want to make a name for yourself in these fields.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "You didn't seem to worry much about Gepard before?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Serval",
+                        "line": "Not true. He's my little brother. And no matter what, as his big sister, I will always be worrying about him.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Serval",
+                        "line": "It's just that I've always thought every Landau has their own drive. And my brother's really good at martial arts... I convinced myself that I wouldn't have to worry about him.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "But seeing how the Fragmentum attacks have been developing has changed my mind...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Serval",
+                "line": "...When he comes back next time, I'll definitely bring Pela along and we'll back him up.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "choice",
+                "text": "Thanks so much.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Serval",
+                        "line": "No big deal! Most Landaus members work their ways into military careers, and we're used to this.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Serval",
+                        "line": "It's worth our time as long as you're making valuable gains from your trips to the Fragmentum.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            }
+        ]
+    }
+]
