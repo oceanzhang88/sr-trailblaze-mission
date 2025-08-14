@@ -1,0 +1,1345 @@
+[
+    {
+        "type": "heading",
+        "text": "Inquire at the reception"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You two make it to hotel in reality to gather more information about the victims of the two homicides. Hopefully, the receptionist won't stick to their professional conduct and will drop all the right clues."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Umm, excuse me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_11_alley_101.ogg/revision/latest?cb=20240703205658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "I can't seem to find any information on this artist in the Iris Family archives. The photo you provided also doesn't show any matches...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_11_alley_102.ogg/revision/latest?cb=20240703205700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Just as I thought. I'd like to ask, what kind of traces do people leave when they enter a dream?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_11_himeko_101.ogg/revision/latest?cb=20240703205811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Are you referring to the records when you enter the Dreampool? The equipment will monitor physiological indicators such as heart rate, blood oxygen levels, and body temperature in real time. This data will be included in statistics and handed over to The Family for the screening of any data anomalies. Immediate action will be taken once any illegal behavior is detected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_11_alley_103.ogg/revision/latest?cb=20240703205702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_3.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is it possible to access these records?"
+    },
+    {
+        "type": "choice",
+        "text": "Feels like our every move is being watched...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Alley",
+                "line": "Please rest assured. Your vitals are monitored in case of emergencies, allowing us to wake you if necessary. This is all for the safety of our guests.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_11_alley_104.ogg/revision/latest?cb=20240703205704",
+                "is_unavailable": false,
+                "audio_filename": "audio_Alley_4.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Can I trouble you to access the records?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_11_mar7th_101.ogg/revision/latest?cb=20240703205900",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "I apologize... The hotel does not have access. This information is managed by the Bloodhound Family. We can only gain access if there's a problem.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_11_alley_105.ogg/revision/latest?cb=20240703205706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Looks like nothing can be found here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_11_mar7th_102.ogg/revision/latest?cb=20240703205902",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "At least we know who to look for next. We can ask the Bloodhound Family for information.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_11_himeko_102.ogg/revision/latest?cb=20240703205813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Thank you for your assistance, Miss Alley. By the way... is Miss Robin doing fine? We are looking forward to her performance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_11_himeko_103.ogg/revision/latest?cb=20240703205815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "\"Fine\"... What does that mean? Is there something wrong with Miss Robin? The preparations for the Charmony Festival have been proceeding smoothly, so I guess things are pretty good. I believe she will be able to put on a spectacular show for all of you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_11_alley_106.ogg/revision/latest?cb=20240703205708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Mm, I'm sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_11_himeko_104.ogg/revision/latest?cb=20240703205817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Sure enough, no one knows about Miss Robin. I'm not surprised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Vo_chapter3_11_himeko_105.ogg/revision/latest?cb=20240703205819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But that Miss Firefly is truly mysterious. There's no information on her in the hotel system. Even if she's a stowaway... she should have a disguised identity after entering the planet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_11_himeko_106.ogg/revision/latest?cb=20240703205821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "She's also in the running for the Legacy... How is she going to sneak into the Dreamscape unnoticed?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_11_himeko_107.ogg/revision/latest?cb=20240703205823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Is there any other way to enter a dream besides the hotel room's Dreampool?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_11_mar7th_103.ogg/revision/latest?cb=20240703205904",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_15.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The Garden of Recollection ..."
+    },
+    {
+        "type": "note",
+        "text": "Stellaron Hunters ..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The Memokeepers have abilities that are difficult for normal people to comprehend. In the Memory Zone of Penacony , they thrive effortlessly, a fact proven to us by Black Swan .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_11_himeko_108.ogg/revision/latest?cb=20240703205825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ The hacker girl from the Stellaron Hunters used extraordinary means to unlock the dreamscape Hotel's seal. According to the scene witnessed by (Trailblazer), it is likely that they are behind Miss Firefly's case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_11_himeko_109_m.ogg/revision/latest?cb=20240703205829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Garden of Recollection... and the Stellaron Hunters, both are possible. But what about the IPC ? Since they want Penacony all for themselves, they're bound to have a plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_11_mar7th_104.ogg/revision/latest?cb=20240703205906",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nervous Guest",
+        "line": "Wh—Who are you guys?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Vo_chapter3_11_guestA_101.ogg/revision/latest?cb=20240703205809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Nervous_Guest_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The Bravo team has arrived at their designated position. Ready to execute armed evacuation operation — boys, get moving!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_11_staffA_101.ogg/revision/latest?cb=20240703210206",
+        "is_unavailable": false,
+        "audio_filename": "audio__20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ar—armed evacuation? Boss, are you drunk?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_11_staffC_101.ogg/revision/latest?cb=20240703210233",
+        "is_unavailable": false,
+        "audio_filename": "audio__21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What do you know!? It's more efficient this way. Just don't let the director find out! Act first, report later, understood?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_11_staffA_102.ogg/revision/latest?cb=20240703210208",
+        "is_unavailable": false,
+        "audio_filename": "audio__22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help... Help me... I spent all my year-end bonus on the snowball... I don't want my name on the department's major disciplinary notice!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_11_staffC_102.ogg/revision/latest?cb=20240703210235",
+        "is_unavailable": false,
+        "audio_filename": "audio__23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Hey, (Trailblazer), check it out! That voice... Could it be the IPC Workers from Belobog ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_11_mar7th_105_m.ogg/revision/latest?cb=20240703205910",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Team Leader",
+        "line": "To all guests: The IPC will be conducting special operations within the hotel. Please follow the staff in charge of evacuation to the designated safe zones, or compulsory measures will be enforced!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_11_staffA_103.ogg/revision/latest?cb=20240703210213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Team_Leader_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I'll request a beating for you lot! You've been told not to drink during work hours!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_11_topaz_101.ogg/revision/latest?cb=20240703210237",
+        "is_unavailable": false,
+        "audio_filename": "audio__26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Take him back to the hotel room!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_11_topaz_102.ogg/revision/latest?cb=20240703210239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "...I'll organize a meeting later to properly go over how this incident report should be written!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_11_topaz_103.ogg/revision/latest?cb=20240703210241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Miss Topaz! I never thought I'd run into you on Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_11_mar7th_109.ogg/revision/latest?cb=20240703205917",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Long time no see, Astral Express crew. Aventurine has told me a lot about your happenings... Hmm?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_11_topaz_104.ogg/revision/latest?cb=20240703210243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "...It's fine. Do as they ask, and try to avoid any conflicts with The Family... Report to me before taking any action. Mhm. Yes, alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_11_topaz_105.ogg/revision/latest?cb=20240703210245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "...As you see — the IPC isn't very popular here on Penacony. Cordiality from The Family is a mere facade. The former frontier prison has turned around and cuffed its shackles on the IPC staff now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_11_topaz_106.ogg/revision/latest?cb=20240703210247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Only Aventurine, who carries an invitation is allowed to attend the banquet. An entourage like us... We can only sit around in the reality Hotel, unauthorized to even enter dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_11_topaz_107.ogg/revision/latest?cb=20240703210249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "No wonder Aventurine's scrambling to partner up with someone — the IPC can't back him up in the Dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_11_himeko_111.ogg/revision/latest?cb=20240703205833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "His situation isn't optimistic, I hear. You're all helping to investigate some... dirt on The Family, are you not? Let me know if you need anything outside the Dreamscape. The IPC always treats its partners well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_11_topaz_108.ogg/revision/latest?cb=20240703210251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Thank you, Miss Topaz. We're on our way to the Hounds to verify some intel. Perhaps you've had dealings with them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Vo_chapter3_11_himeko_112.ogg/revision/latest?cb=20240703205835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Yep, they're tailing us right now. Why not go and talk to them... it'll take the spotlight off me, being constantly stared at is really uncomfortable.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_11_topaz_109.ogg/revision/latest?cb=20240703210253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_37.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "(Optional) Talk to Topaz"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Although the investigation is heading nowhere, you happen to bump into Topaz and the loyal Bloodhound members who follow her everywhere to keep a close eye on theIPCpeople. You have read enough detective novels to know that police officers usually have no value except supporting the detective and providing key clues. It's time for them to play their part!"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Topaz, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "How does it feel to be in business with Aventurine? I bet you're not used to it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_11_topaz_110.ogg/revision/latest?cb=20240703210255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "That's just his style. \"All or nothing\" is his mantra. He's always cozying up to his clients while egging them on to undertake some dangerous assignment with him... But everyone has their merits, so I won't comment further.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_11_topaz_111.ogg/revision/latest?cb=20240703210257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "But Aventurine's luck has always been good. He's always closed all his cases without a hitch, and basically never lost a gamble. Which is why on the issue of retaking Penacony I'm watching with keen interest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_11_topaz_112.ogg/revision/latest?cb=20240703210300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_40.ogg"
+    },
+    {
+        "type": "note",
+        "text": "He's that good huh..."
+    },
+    {
+        "type": "choice",
+        "text": "It works only when all parties' interests are aligned.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Of course. It's business, after all. What's important is where you're seated at the table.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/Vo_chapter3_11_topaz_113.ogg/revision/latest?cb=20240703210302",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "As for the two cases... Apologies, but I don't have much info on them either. All I can do is ask you to keep digging for more details.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_11_topaz_114.ogg/revision/latest?cb=20240703210304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_42.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Topaz again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Please continue to investigate the case. All I can do is sit tight in the real world. I look forward to hearing your progress.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_11_topaz_115.ogg/revision/latest?cb=20240703210306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_43.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Ask the Bloodhounds for clues"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Careless Bloodhound Family Member)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careless Bloodhound Family Member",
+        "line": "We're carrying out our Captain's orders! Wh—What do you want!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_11_rachA_101.ogg/revision/latest?cb=20240703210039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careless_Bloodhound_Family_Member_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "We made a mistake last time, and we're working hard to rectify it now. We don't have time for anything else! Surveilling the IPC Executive Topaz, ensuring that she stays put at The Reverie hotel during her time on Penacony... We've got the right one this time!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_11_rachB_101.ogg/revision/latest?cb=20240703210048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...So that's it, they were the pair who were after Firefly at the time.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_11_player_102_m.ogg/revision/latest?cb=20240703210029",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_46.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Remember me?"
+    },
+    {
+        "type": "note",
+        "text": "We meet again."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_11_rachB_102.ogg/revision/latest?cb=20240703210050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careless Bloodhound Family Member",
+        "line": "I—It's you again... Back for more trouble? We're not afraid of you this time!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_11_rachA_102.ogg/revision/latest?cb=20240703210043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careless_Bloodhound_Family_Member_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "Well? Spit it out! Stop bothering us if you've nothing important!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_11_rachB_103.ogg/revision/latest?cb=20240703210052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ So you know each other... (Trailblazer), why do you keep running into people you've beaten up before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_11_mar7th_110_m.ogg/revision/latest?cb=20240703205921",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_50.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I've got business with your Captain. Where is he?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That's right. We're investigating a murder for The Family. Can we speak to your Captain about the case?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/Vo_chapter3_11_mar7th_111.ogg/revision/latest?cb=20240703205922",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I need you to pull some records for me. It's for official business.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That's right. We're investigating a murder for The Family. May we access the hotel's Dreampool entry records?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/Vo_chapter3_11_mar7th_112.ogg/revision/latest?cb=20240703205924",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_52.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "When's our lunch break? Mmm... Hungwy.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Sheesh, why do you keep asking me that? We're in the middle of investigating a murder case for The Family. May we speak to your Captain about it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_11_mar7th_113.ogg/revision/latest?cb=20240703205927",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careless Bloodhound Family Member",
+        "line": "Well...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_11_rachA_103.ogg/revision/latest?cb=20240703210044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careless_Bloodhound_Family_Member_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "...Hey! The Security Officer instructed everyone to shut their traps before he returned from Dream's Edge!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_11_rachB_104.ogg/revision/latest?cb=20240703210054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "W—What murder? You'd better stop spouting nonsense.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_11_rachB_105.ogg/revision/latest?cb=20240703210056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careless Bloodhound Family Member",
+        "line": "Th—That's right! We have nothing to report. Please leave!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_11_rachA_104.ogg/revision/latest?cb=20240703210046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careless_Bloodhound_Family_Member_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Looks like they're not going to cooperate. But, they did at least tell us that the Captain is at Dream's Edge...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Vo_chapter3_11_himeko_113.ogg/revision/latest?cb=20240703205837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Why don't we just look for the Security Officer then... It's probably Gallagher, the one (Trailblazer) mentioned, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_11_mar7th_114_m.ogg/revision/latest?cb=20240703205931",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_59.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to Dream's Edge to find Gallagher"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You learn that Gallagher is currently at the Dream's Edge from some blabbing Bloodhound members. Coincidentally, you had an encounter with Gallagher before. You might be able to access the investigation scene set up by the Bloodhounds by showing your face to Gallagher and glean more information about the cases from him."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Careless Bloodhound Family Member, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Composed Bloodhound Family Member",
+        "line": "W—We have nothing to report. Please leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_11_rachB_106.ogg/revision/latest?cb=20240703210057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Composed_Bloodhound_Family_Member_60.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Gallagher at the Dream's Edge"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon teleporting to Dream's Edge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Such tight security... I bet they're stumped by the case as well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_11_mar7th_115.ogg/revision/latest?cb=20240703205932",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Gallagher... Gallagher... Where could he be?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_11_mar7th_116.ogg/revision/latest?cb=20240703205934",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_62.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Principled Bloodhound Family Member)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Apologies. The Bloodhound Family is running an investigation up ahead. No unauthorized personnel allowed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_11_rachC_101.ogg/revision/latest?cb=20240703210100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "...Hold on a minute. I think I've seen you before, the gray-haired one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_11_rachC_102.ogg/revision/latest?cb=20240703210102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...How much trouble have you stirred up exactly on Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_11_mar7th_117.ogg/revision/latest?cb=20240703205937",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_65.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This ain't it, chief. You've got the wrong ( guy / gal ) ."
+    },
+    {
+        "type": "choice",
+        "text": "That's right! It's-a-me, Clockie !",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...You think you look alike?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_11_mar7th_118.ogg/revision/latest?cb=20240703205939",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_66.ogg"
+            },
+            {
+                "type": "note",
+                "text": "How about a clockwork trick?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Wait, are you for real?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_11_mar7th_119.ogg/revision/latest?cb=20240703205940",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_67.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Not possible! It was you the last time, yelling about some clockwork friendship while beating me up with that silver-haired girl!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_11_rachC_104.ogg/revision/latest?cb=20240703210107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_11_mar7th_120.ogg/revision/latest?cb=20240703205942",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_11_himeko_114.ogg/revision/latest?cb=20240703205838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "I'm not letting you get by this time... Please leave, or I'll have to get on my knees and beg you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_11_rachC_105.ogg/revision/latest?cb=20240703210109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), what kind of heinous crime have you committed now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_11_mar7th_121_m.ogg/revision/latest?cb=20240703205946",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Hold on, Sir... We have documents authorized by The Family that would aid your investigation. If it wouldn't trouble you, could we see this Mr. Gallagher?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Vo_chapter3_11_himeko_115.ogg/revision/latest?cb=20240703205840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Who exactly is this Gallagher you keep talking about? There have been a few people mentioning this name, even the one with the gray hair.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_11_rachC_106.ogg/revision/latest?cb=20240703210111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh? He didn't send you all here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_11_mar7th_122.ogg/revision/latest?cb=20240703205948",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "It was the Security Officer who dispatched us. That's all I can divulge.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_11_rachC_107.ogg/revision/latest?cb=20240703210113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "He'll do! He's the one we've been looking for!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_11_mar7th_123.ogg/revision/latest?cb=20240703205950",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Sorry, no can do. The boss said that since it's a matter of The Family's reputation, no one's allowed through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_11_rachC_108.ogg/revision/latest?cb=20240703210115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Everyone, please leave. There's really no need for us to make things difficult for each other, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_11_rachC_109.ogg/revision/latest?cb=20240703210117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ We're really sorry for troubling you. (Trailblazer), March, let's think of another way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_11_himeko_116_m.ogg/revision/latest?cb=20240703205845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Another way... That's it! Didn't (Trailblazer) say something about that... What was it... clockwork? That got this guy to change his mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Vo_chapter3_11_mar7th_124_m.ogg/revision/latest?cb=20240703205954",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Can you perform it again, (Trailblazer)? That... Clockie magic!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_11_mar7th_125_m.ogg/revision/latest?cb=20240703205957",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_82.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Just what I've been waiting for!"
+    },
+    {
+        "type": "choice",
+        "text": "But I can't abuse it for evildoings.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "It's not bad if we're resolving a misunderstanding!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_11_mar7th_126.ogg/revision/latest?cb=20240703205959",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Please, (Trailblazer)!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/Vo_chapter3_11_mar7th_127_m.ogg/revision/latest?cb=20240703210003",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_84.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use the clockwork on the principled Bloodhound Family member"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You cross paths with the principled Bloodhound Family member once more. As he seems to remain a man of principles, you might need to resort to your old tricks to make him cooperate."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Principled Bloodhound Family Member)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Sorry, no can do. The boss said that since it's a matter of The Family's reputation, no one's allowed through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Vo_chapter3_11_rachC_110.ogg/revision/latest?cb=20240703210119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Everyone, please leave. There's really no need for us to make things difficult for each other, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_11_rachC_111.ogg/revision/latest?cb=20240703210121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You and this Bloodhound Family member have met before, and you know he's very upright. But you're also aware that principles sometimes don't matter when a person is in a good mood ."
+    },
+    {
+        "type": "note",
+        "text": "Activate Clockwork"
+    },
+    {
+        "type": "choice",
+        "text": "I'll leave you to it...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "Thank you for cooperating with The Family's efforts... and also thank you for not making me actually get down on my knees and grovel.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_11_rachC_112.ogg/revision/latest?cb=20240703210123",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_87.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Principled Bloodhound Family Member's emotion to Angry, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "You punk... Why can't you understand the words that are coming out of my mouth!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_11_rachC_122.ogg/revision/latest?cb=20240703210142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "The Security Officer's word is absolute law. I've told you: That place up ahead is off-limits, to wind, to rain. Even if the Dreammaster was here, they aren't getting in!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_11_rachC_123.ogg/revision/latest?cb=20240703210144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_89.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It doesn't rain in the Golden Hour.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "That's just a metaphor. A metaphor! Don't you get it!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_11_rachC_124.ogg/revision/latest?cb=20240703210146",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_90.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Even the Dreammaster isn't getting in?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "Did you not hear me? Even if the Dreammaster was here...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_11_rachC_125.ogg/revision/latest?cb=20240703210149",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_91.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "...Uhh, we'll talk about this if the Dreammaster is ever here! And, it's just a metaphor. A metaphor! Don't you get it!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_11_rachC_126.ogg/revision/latest?cb=20240703210151",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "I'm warning you, if you keep insisting, I'm gonna have to show you my true power!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_11_rachC_127.ogg/revision/latest?cb=20240703210152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Uhm, (Trailblazer), he looks kinda angry now. Should we...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_11_mar7th_131_m.ogg/revision/latest?cb=20240703210014",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_94.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Come at me, bro!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "Humans never learn...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/Vo_chapter3_11_rachC_128.ogg/revision/latest?cb=20240703210154",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_95.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You dare defy me and my baseball bat?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "Humans will never understand one another...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_11_rachC_129.ogg/revision/latest?cb=20240703210156",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_96.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Great, even if Qlipoth were here, THEY wouldn't be able to protect him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_11_mar7th_132.ogg/revision/latest?cb=20240703210016",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "▶ There is no meaning to death in defiance, why do you not understand... Sweet Dreams Troupe, charge! Teach them a lesson they won't forget!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_11_rachC_130_m.ogg/revision/latest?cb=20240703210200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstDreamjolt Troupe's Spring Loader×1,Dreamjolt Troupe's Bubble Hound×2,Dreamjolt Troupe's Birdskull×1)\n(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Am I destined to relive this outcome...? Looks like you and I have been plunged into a cycle of despair.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_11_rachC_131.ogg/revision/latest?cb=20240703210202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...What's he talking about?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_11_mar7th_133.ogg/revision/latest?cb=20240703210018",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "However, this time, I will sever the chains of tragedy — the only way any of you will pass, is over my dead body!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Vo_chapter3_11_rachC_132.ogg/revision/latest?cb=20240703210204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "He doesn't have to be so melodramatic, does he?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_11_mar7th_134.ogg/revision/latest?cb=20240703210020",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like he still doesn't want to budge an inch...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_11_player_104_m.ogg/revision/latest?cb=20240703210037",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_103.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The principled Bloodhound Family member has become unusually gloomy... You have to think of a way to get him to lighten up ."
+    },
+    {
+        "type": "note",
+        "text": "Try reading his inner thoughts again."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Principled Bloodhound Family Member's emotion to Sad, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Y—You lot... insist on doing this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_11_rachC_116.ogg/revision/latest?cb=20240703210131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Sorry, but human lives and The Family's reputation are at stake. It is imperative we know everything about the case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_11_himeko_119.ogg/revision/latest?cb=20240703205850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "No, I meant to say —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Vo_chapter3_11_rachC_117.ogg/revision/latest?cb=20240703210132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "— Do I really have to get down on my knees and grovel?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_11_rachC_118.ogg/revision/latest?cb=20240703210134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_107.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "If you don't mind...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "I didn't think you were the type who would kick someone when they were down.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_11_rachC_119.ogg/revision/latest?cb=20240703210136",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_108.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'll have to decline...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Principled Bloodhound Family Member",
+                "line": "I... know you don't really mean that.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_11_rachC_120.ogg/revision/latest?cb=20240703210138",
+                "is_unavailable": false,
+                "audio_filename": "audio_Principled_Bloodhound_Family_Member_109.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "If that's the case... I'll just have to acquiesce to everyone's wishes, lower my esteemed head and plead with everyone...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_11_rachC_121.ogg/revision/latest?cb=20240703210140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "No no no! No need! Standing is just fine. You don't need to do that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_11_mar7th_130.ogg/revision/latest?cb=20240703210010",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like he still doesn't want to budge an inch...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_11_player_103_m.ogg/revision/latest?cb=20240703210033",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_112.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The principled Bloodhound Family member is mired in endless sorrow. As compensation, you have to think of a way to comfort him."
+    },
+    {
+        "type": "note",
+        "text": "Try reading his inner thoughts again."
+    },
+    {
+        "type": "condition",
+        "text": "(Tune Principled Bloodhound Family Member's emotion to Happy)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Let me see what time it is now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_11_rachC_113.ogg/revision/latest?cb=20240703210125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "...Woah, it's this time already?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Vo_chapter3_11_rachC_114.ogg/revision/latest?cb=20240703210127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Principled Bloodhound Family Member",
+        "line": "Time to clock out! And no one's gonna stop meeee!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_11_rachC_115.ogg/revision/latest?cb=20240703210129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Principled_Bloodhound_Family_Member_115.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The highly principled member of the Bloodhound Family laughed heartily and left the scene."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_11_mar7th_128.ogg/revision/latest?cb=20240703210005",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_11_himeko_117.ogg/revision/latest?cb=20240703205846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), this clockwork trick of yours... It's kinda dangerous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_11_mar7th_129_m.ogg/revision/latest?cb=20240703210008",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...At least he won't be getting in our way again. Let's go find that Gallagher and ask him the intricacies of the case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_11_himeko_118.ogg/revision/latest?cb=20240703205848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_119.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk to Gallagher"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Seems like there are no more Bloodhounds obstructing your way, or they are simply too focused on the investigation to notice you two.Anyway, make use of this opportunity to talk to the Security Officer."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "I was wondering what all the commotion was... Oh, it's you guys. Welcome. Since you made it here, what can I do for you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_11_gallagher_101.ogg/revision/latest?cb=20240703205748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Hello, Mr. Gallagher, sir. Judging from your tone, it sounds like you were expecting us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_11_himeko_120.ogg/revision/latest?cb=20240703205852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Hahaha... Miss Himeko, you're too polite. There's no need to call me \"Sir.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_11_gallagher_102.ogg/revision/latest?cb=20240703205750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Mr. Gallagher, you even know my name?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_11_himeko_121.ogg/revision/latest?cb=20240703205854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Of course I do! You folks are from the legendary Astral Express, and honorable guests of the Watchmaker .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_11_gallagher_103.ogg/revision/latest?cb=20240703205752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "▶ I had an encounter with this ( gentleman / lady ) in the Golden Hour. I remember that little silver-haired girl was there too...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Vo_chapter3_11_gallagher_104_m.ogg/revision/latest?cb=20240703205756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "...I'm sorry for what happened to that kid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/Vo_chapter3_11_gallagher_105.ogg/revision/latest?cb=20240703205758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_126.ogg"
+    },
+    {
+        "type": "note",
+        "text": "That's exactly what The Family has ordered us to investigate."
+    },
+    {
+        "type": "note",
+        "text": "We are sorry too..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is also the reason why we've come to visit you, Mr. Gallagher. The Express can't just overlook the death of that child, so we've decided to help The Family get to the bottom of it, in the hopes of getting justice for her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_11_himeko_122.ogg/revision/latest?cb=20240703205856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "The Nameless involved with The Family... What an unpredictable twist of fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_11_gallagher_106.ogg/revision/latest?cb=20240703205800",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Why...? What's wrong with The Family?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_11_mar7th_135.ogg/revision/latest?cb=20240703210022",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "It's nothing. On Penacony, everyone loves The Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_11_gallagher_107.ogg/revision/latest?cb=20240703205802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "No matter how much one resists the \"beautiful dream,\" when the time comes, they too will find it hard to let go... Who wants to leave a warm nest? Just idiots, little kids... and inebriated fools.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_11_gallagher_108.ogg/revision/latest?cb=20240703205804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Mr. Gallagher seems to be getting at something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_11_himeko_123.ogg/revision/latest?cb=20240703205858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "You got it wrong, I'm not.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_11_gallagher_109.ogg/revision/latest?cb=20240703205805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "You want to discuss the case? Sure, come with me. This is not a good place to talk. Let's go elsewhere.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_11_gallagher_110.ogg/revision/latest?cb=20240703205807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_134.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Once again, the focus shifts. Sometimes, you feel as though you're living in a movie — nothing else can explain the constant switch of the point-of-view."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Once again, the focus shifts. Sometimes, you feel as though you're living in a movie — nothing else can explain the constant switch of the point-of-view."
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "type": "heading",
+        "text": "Story Recap"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ The clock winds back to the start of the journey to Penacony — the Astral Express , upon invitation from the Watchmaker , heads to a Cosmic vacation spot, The Reverie hotel , for a banquet. However, in this Sweetdream Paradise, they unexpectedly become entangled in two bizarre \"murder mysteries.\""
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ A grand struggle for a legacy begins. Numerous factions enter one after another, acting in response to the situation. The Family hosts also plot to capture the Watchmaker with this opportunity and ensure the Charmony Festival takes place as scheduled."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ A confrontation between the Emanator of the Nihility , Acheron , and IPC representative, Aventurine , becomes the turning point of the entire event: The latter, through a \"grand death,\" shatters The Family's lies and reveals the existence of the Primordial Dreamscape , Dreamflux Reef ."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ The Express Crew thus delves into the heart of the situation. Here, Gallagher reveals to everyone the truths about the dreamscape, the Stellaron , Mikhail , and the other Nameless . They finally uncover the legacy of the Trailblaze and, in doing so, receive a glimpse from the Harmony ."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ To fulfill the wishes of their predecessors, everyone heads to the Penacony Grand Theater with the intention of sealing the Stellaron. However, they are forced into a deadly battle against Sunday , the head of the Oak family , who is aligned with the Order . This great battle concludes with the fall of the Order once again."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ The future of Penacony remains uncertain. However, thanks to the mediation of the Crew, The Family and the IPC agree to cede some of their interests, and reach a consensus. Penacony regains the right to determine its own destiny."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ In the very end, Sparkle makes a grand return with a startling bomb show. This \"crisis\" is ultimately resolved amidst spectacular fireworks. With everyone receiving their own best ending, the tragicomedy of the sweet dream comes to a close."
+    },
+    {
+        "type": "heading",
+        "text": "Discuss your next trip with the others"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "It has been a while since you awoke from the dream. Staring into the deep sky, you think back on everything you've gained from your adventure so far and begin to grow excited for your next trailblazing expedition. Outside your window, the mysterious air of your destination piques your... Hold on? Why are we still on Penacony?Looks like it's time to discuss your upcoming trip with the rest of the crew."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toWelt Yang)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Amphoreus , The Eternal Land...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter3_40_welt_101.ogg/revision/latest?cb=20241206231230",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There is no record of this world in the data bank... Not even a mention of its name.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah, that's what Miss Black Swan said. It's a world hidden away from outside observation, with a presence only revealed by the light from the mirror of the Garden of Recollection . It's mysterious, alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_40_mar7th_101.ogg/revision/latest?cb=20241206231231",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ You haven't been with us on the Express very long, ( Trailblazer ). Will the journey be too much for you to handle?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_40_mar7th_102_m.ogg/revision/latest?cb=20241206231232",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_2.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Nah, it's no sweat."
+    },
+    {
+        "type": "note",
+        "text": "Sounds scary. Can we go somewhere else?"
+    },
+    {
+        "type": "choice",
+        "text": "I've been on the Express for nearly two years now...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Huh? Has it been that long?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter3_40_mar7th_103.ogg/revision/latest?cb=20241206231234",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "There's no need to be nervous. I understand that it may be difficult for us today to wrap our heads around the idea that there's a world Akivili didn't venture into, but a journey like that was only routine to the Express Crew back then. After all, to trailblaze is to explore the universe's boundaries.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We should consider Pom-Pom 's opinion, too. They don't know we're considering Amphoreus as a destination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter3_40_welt_102.ogg/revision/latest?cb=20241206231235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Sure, I'll take care of it. That said, Pom-Pom usually stays out of discussions about destinations. The final decision will likely still be on us to make.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "In that case, we'd best take the time to think this over.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah! Plus, even if we pass Amphoreus over, we've still got a fuel problem to solve.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter3_40_mar7th_104.ogg/revision/latest?cb=20241206231236",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_5.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's what I thought, too.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Alright, then. For now, I'll let Miss Black Swan know that we're considering The Eternal Land as a destination.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can I vote no?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Of course you can. For now, I'll let Miss Black Swan know that we're considering The Eternal Land as a possible destination, but we're also keeping our options open.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Seeing as how this is going to be an unusual adventure, it'd be good for us to take some time out to make preparations for the journey. Meanwhile, I'll see if I can find out more about Amphoreus from our allies before we depart.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "In other words, we won't be leaving Penacony anytime soon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter3_40_welt_103.ogg/revision/latest?cb=20241206231236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Or we could also revisit our previous stops to make sure that the astral charts and navigation routes are all functioning fine? I wonder if the hole in the Taikiyan Stadium has been repaired.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter3_40_mar7th_105.ogg/revision/latest?cb=20241206231237",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The Express has been on the go almost the whole time since we left the space station . We've barely had any time to catch our breath. Let's take this as an opportunity to wrap up our vacation instead, and make the most out of this break.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "At this moment, people still haven't expected this vacation to be so fulfilling. They will witness the grand Xianzhou wardance and, during this moment of leisure, also complete arts promise made by a genius..."
+    },
+    {
+        "type": "note",
+        "text": "And those they will meet again... include not only friends, but also foes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching to Sunday's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "It's not just the guests who return to this beautiful dream —There is also the dream's \"master\"..."
+    }
+]

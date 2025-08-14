@@ -1,0 +1,4713 @@
+[
+    {
+        "type": "heading",
+        "text": "Discuss a plan with Aglaea"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Nikadorinvoked the Body of a Hundred Deaths to temper blades, aiming to swing the Blade of Fury to pierce the distantOkhema. In this moment of crisis,Mydeiheld off Nikador alone, giving the rest of the party a chance to return to Okhema and strategize a way to counter this threat."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We're back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter4_7_phainon_101.ogg/revision/latest?cb=20250205045621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trianne",
+        "line": "Hnngh... Tired... and dizzy... Will De be okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_7_trianne_101.ogg/revision/latest?cb=20250205045851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trianne_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "He'll be fine... Mydeimos is the fiercest warrior I know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_7_phainon_102.ogg/revision/latest?cb=20250205045623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_2.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What's this indestructible body about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Something Mydei was born with. A blessing and a curse—the true mark of a Chrysos Heir .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_7_phainon_103.ogg/revision/latest?cb=20250205045624",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How long do you think he'll hold out for...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Until our return. I'm sure of it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_7_phainon_104.ogg/revision/latest?cb=20250205045625",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_4.ogg"
+            },
+            {
+                "type": "note",
+                "text": "What's this indestructible body about?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Something Mydei was born with. A blessing and a curse—the true mark of a Chrysos Heir.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_7_phainon_105.ogg/revision/latest?cb=20250205045626",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Go get some rest, Trianne. We might need your help again before you know it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_7_phainon_106.ogg/revision/latest?cb=20250205045628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trianne",
+        "line": "Okay... Don't worry about me! Take care of yourselves, too...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_7_trianne_102.ogg/revision/latest?cb=20250205045852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trianne_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Let's go, ( Trailblazer )... It's a race against time. We have to find Aglaea right away.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_7_phainon_107_m.ogg/revision/latest?cb=20250205045631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "They're back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_7_aglaea_101.ogg/revision/latest?cb=20250205045201",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Are you okay? Are you injured? Things didn't sound good in Phainon's message.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Aglaea— Wait, where's Tribbie?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_7_phainon_108.ogg/revision/latest?cb=20250205045632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "She began making the necessary preparations the moment we got your message.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_7_aglaea_102.ogg/revision/latest?cb=20250205045202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The city's citizens are enjoying themselves like it's any other day... Do you not see this as a crisis?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_7_phainon_109.ogg/revision/latest?cb=20250205045633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Okhema would be in constant turmoil if we were to raise the alert each time danger befell us. Silently eliminating threats and sparing them from living under the shadow of fear — that is the duty of the Chrysos Heirs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_7_aglaea_103.ogg/revision/latest?cb=20250205045204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I don't see things this way... but now's not the time for arguments.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_7_phainon_110.ogg/revision/latest?cb=20250205045635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The Blade of Fury has its aim trained on Kephale 's heart. We need to stop the mad Titan , or the entirety of the holy city could be reduced to ash.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_7_phainon_111.ogg/revision/latest?cb=20250205045636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "But Nikador has crafted an indestructible body for himself, one that can't be entirely destroyed. Mydei is buying us time... We need to cherish every second he's fought for.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_7_phainon_112.ogg/revision/latest?cb=20250205045637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "You're willing yourself to stay calm, Phainon. That's commendable progress.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_7_aglaea_104.ogg/revision/latest?cb=20250205045205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Castrum Kremnos has been shrouded in the fog far too long, leaving us unable to discover the mystery behind Nikador 's undying body.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_7_aglaea_105.ogg/revision/latest?cb=20250205045206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...We can only hope to learn the truth from one Titan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_7_aglaea_106.ogg/revision/latest?cb=20250205045208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "You mean...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_7_phainon_113.ogg/revision/latest?cb=20250205045638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord Phainon, I will join you in the audience with Oronyx . Let's hope they can restore the visions of the past and reveal the truth behind Nikador 's defiance of death.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_7_castorice_101.ogg/revision/latest?cb=20250205045234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "You have no clue either, Miss Castorice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_7_phainon_114.ogg/revision/latest?cb=20250205045640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Strife and Death used to be inseparable. Nikador valued honor in their glory days, so they would never have betrayed their allies back then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_7_castorice_102.ogg/revision/latest?cb=20250205045235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But their pact was broken when Nikador descended into madness. From what we know so far... in the pursuit of an immortal body, Nikador betrayed Death .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_7_castorice_103.ogg/revision/latest?cb=20250205045236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There's one other thing. We found a slate in Kremnos that mentioned an infiltration...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_7_phainon_115.ogg/revision/latest?cb=20250205045641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Don't worry about that. Tribbie and I will do our best to protect the people of our holy city.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_7_aglaea_107.ogg/revision/latest?cb=20250205045209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Focus on getting to Oronyx and using whatever means possible to learn the mad Titan's secrets.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter4_7_aglaea_108.ogg/revision/latest?cb=20250205045211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Tribbie is waiting for you outside the city — go with her to the Abyss. I will pray to Kephale that you will find success.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_7_aglaea_109.ogg/revision/latest?cb=20250205045212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aglaea again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Tribbie is waiting for you outside the city — go with her to the Abyss. I will pray to Kephale that you will find success.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_7_aglaea_109.ogg/revision/latest?cb=20250205045212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_29.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head with Tribbie to the Abyss of Fate"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Castorice realizes that Nikador's immortality is rooted in a betrayal of Death itself. To unravel the mystery hidden in the past, we must journey to the Abyss and borrow the power of Oronyx to replicate the past."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tribbie)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Tribbie! We're ready to set off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_7_phainon_116.ogg/revision/latest?cb=20250205045642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Okay, we've been updated on what has happened. Let us send you into the Abyss this time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_7_tribbie_101.ogg/revision/latest?cb=20250205045853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Are you sure? It's always been Trianne doing this...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_7_phainon_117.ogg/revision/latest?cb=20250205045644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "The two trips to and from Castrum Kremnos have completely drained Trianne. She'll need some time to recover.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_7_tribbie_102.ogg/revision/latest?cb=20250205045855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "We can handle this, Snowy ... This is as much for De as it is for everyone else.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_7_tribbie_103.ogg/revision/latest?cb=20250205045856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "High Priest Tribbie... Do you have any suggestions on how we can get Oronyx to respond to us later?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_7_castorice_104.ogg/revision/latest?cb=20250205045238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Sorry... We wish we could help, Cas , but Oronyx has never been a Titan to chat or interact with humans.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_7_tribbie_104.ogg/revision/latest?cb=20250205045857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I suppose... we'll have to rely on ourselves, then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_7_castorice_105.ogg/revision/latest?cb=20250205045239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_37.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "But don't they let us use their power?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "It's one thing to use their powers and another to be aligned with us in war. If that Titan refuses to be on our side... we'll have to resort to a fight.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_7_phainon_118.ogg/revision/latest?cb=20250205045645",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_38.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Sounds like we're leaving it up to luck...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "If that Titan refuses to be on our side... we'll have to resort to a fight.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_7_phainon_119.ogg/revision/latest?cb=20250205045646",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Oronyx ... isn't an evil Titan at heart. Let us hope things won't reach that point.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_7_tribbie_105.ogg/revision/latest?cb=20250205045858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Time is of the essence, everyone... We should get going.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_7_tribbie_106.ogg/revision/latest?cb=20250205045900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "This is it! The Century Gate can only take you this far.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_7_tribbie_107.ogg/revision/latest?cb=20250205045901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Although the Temple of the Three Fates has been abandoned for a long time, the magical barriers woven by the priests still linger around it. Approaching with Janus 's power recklessly could be extremely risky.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_7_tribbie_108.ogg/revision/latest?cb=20250205045903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We understand. Thank you, Tribbie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_7_phainon_120.ogg/revision/latest?cb=20250205045648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "We have to go back to Okhema to help Aglaea. Snowy and Cas, we trust you know how to summon us when you're done.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_7_tribbie_109.ogg/revision/latest?cb=20250205045904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Here, keep this with you. This token is proof of a Janus priest . Hold it up to the Gate of Infinity, and you'll be able to walk through unimpeded.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter4_7_tribbie_110.ogg/revision/latest?cb=20250205045905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Take care, alright? May Kephale light your path forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_7_tribbie_111.ogg/revision/latest?cb=20250205045906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We're on our own now.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Important decisions will be waiting for us every step of the way. What we're about to do will not only determine Mydei's fate... but also that of every single resident in Okhema.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_7_phainon_121.ogg/revision/latest?cb=20250205045649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The Temple of the Three Fates is behind the Gate of Infinity, and Oronyx is at the very heart of this temple. We're going to have to find Oronyx and convince them to help us in our battle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_7_phainon_122.ogg/revision/latest?cb=20250205045650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "May everything go well for us...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_7_castorice_106.ogg/revision/latest?cb=20250205045240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainJanus Priest's Talisman)"
+    },
+    {
+        "type": "heading",
+        "text": "Enter the broken temple"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Castorice realizes that Nikador's immortality is rooted in a betrayal of Death itself. To unravel the mystery hidden in the past, we must journey to the Abyss and borrow the power of Oronyx to replicate the past."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This is the path we took when we first arrived.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "It is... The world seems to have plummeted to its end in the blink of an eye.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_7_phainon_123.ogg/revision/latest?cb=20250205045652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_51.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Are these... the ruins we saw when we first arrived? They look... somewhat different.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "*incomprehensible speech*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_7_olonyx_101.ogg/revision/latest?cb=20250205045516",
+        "is_unavailable": false,
+        "audio_filename": "audio__52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What was that?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I believe that was a Titan speaking... I believe it was Oronyx .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_7_castorice_107.ogg/revision/latest?cb=20250205045242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I have to listen closely to what they are saying...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_7_castorice_108.ogg/revision/latest?cb=20250205045243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_7_olonyx_102.ogg/revision/latest?cb=20250205045518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Devious and repulsive humans... Are you here to disturb my peace again, just as disaster approaches?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_7_castorice_109.ogg/revision/latest?cb=20250205045244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_56.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You know what the Titan is saying?"
+    },
+    {
+        "type": "note",
+        "text": "How can you understand without subtitles?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Miss Castorice can understand the Titans' words . That's exactly why we need her on this trip.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_7_phainon_124.ogg/revision/latest?cb=20250205045653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_7_olonyx_103.ogg/revision/latest?cb=20250205045519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Cease your efforts... and let yourself be swallowed by the confusion of time and space...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_7_castorice_110.ogg/revision/latest?cb=20250205045246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Oronyx is turning us away? It seems like we've hit an obstacle on the very first step.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_7_phainon_125.ogg/revision/latest?cb=20250205045654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Could the Titan have created this chaotic scene we see in these ruins as a barrier to hinder us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_7_castorice_111.ogg/revision/latest?cb=20250205045247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We'll overcome any obstacle, no matter what they throw at us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_7_phainon_126.ogg/revision/latest?cb=20250205045655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Tribbie gave us a demonstration when we had to pass through here the last time... It's up to us to recreate these miracles now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_7_phainon_127.ogg/revision/latest?cb=20250205045657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_63.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use the Titan Miracle to switch space-time"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_7_olonyx_105.ogg/revision/latest?cb=20250205045522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Curse you mortals... curse your pride and your merciless ways.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_7_castorice_115.ogg/revision/latest?cb=20250205045252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Tome of Miracles)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ \"Lift the curtain of memory...\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ \"...and once again stir the ripples of past reverie!\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Interact with Tome of Miracles to allow the Trailblazer to traverse between two different space-time positions. Interact with Tome of Miracles to allow the Trailblazer to traverse between two different space-time positions. Between two different space-time positions, objects such as roads, obstacles, mechanisms, and treasures may appear differently. Main road differences and key objectives are presented in the current space-time positions as golden memory dust , which can be observed to predict their appearance in another space-time position Between two different space-time positions, objects such as roads, obstacles, mechanisms, and treasures may appear differently. Main road differences and key objectives are presented in the current space-time positions as golden memory dust , which can be observed to predict their appearance in another space-time position"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter4_7_olonyx_104.ogg/revision/latest?cb=20250205045520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Oronyx is saying something again...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_7_castorice_112.ogg/revision/latest?cb=20250205045248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"...Who are you to command me? Does your inhumanity know no end?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_7_castorice_113.ogg/revision/latest?cb=20250205045250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Are we... actually forcing the Titans to do our bidding with these miracles?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_7_phainon_128.ogg/revision/latest?cb=20250205045658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We can't afford to stop and think about that right now. Let's press on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_7_phainon_129.ogg/revision/latest?cb=20250205045659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_70.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Try to open the entrance"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...It won't open?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Perhaps... this gate only opens in the right time dimension?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_7_castorice_114.ogg/revision/latest?cb=20250205045251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_71.ogg"
+    },
+    {
+        "type": "note",
+        "text": "In Amphoreus, some doors can only be opened in specific space-time positions. Sun-marked doors can only be opened during the day, and moon-marked doors can only be opened in the evernight. In Amphoreus, some doors can only be opened in specific space-time positions. Sun-marked doors can only be opened during the day, and moon-marked doors can only be opened in the evernight. Yellow light patterns on the door means the door can be opened in the current space-time position. White light patterns on the door means the door cannot be opened in the current space-time position. Yellow light patterns on the door means the door can be opened in the current space-time position. White light patterns on the door means the door cannot be opened in the current space-time position."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There! Those Miracle Orbs are instruments often used by Time Priests. They could prove handy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_7_phainon_130.ogg/revision/latest?cb=20250205045700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_72.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use Miracle Orbs"
+    },
+    {
+        "type": "condition",
+        "text": "(Engage the Miracle Orb)"
+    },
+    {
+        "type": "note",
+        "text": "The light from the Miracle Orb will transform the illuminated area into another space-time . The light from the Miracle Orb will transform the illuminated area into another space-time . Use the Switch button in the bottom-right corner to switch on or off the orbs' light . Use the Quit button to exit the control interface of the orbs . Use the Switch button in the bottom-right corner to switch on or off the orbs' light . Use the Quit button to exit the control interface of the orbs ."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Look, an inverse time dimension is reflected by those orbs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_7_phainon_131.ogg/revision/latest?cb=20250205045702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Let's summon another miracle. Perhaps this time we'll make it through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_7_phainon_132.ogg/revision/latest?cb=20250205045703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_74.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use the Titan Miracle to switch space-time"
+    },
+    {
+        "type": "condition",
+        "text": "(Use the Tome of Miracles)"
+    },
+    {
+        "type": "note",
+        "text": "No matter which space-time you're currently in, the orb's light will continuously reveal the other space-time . No matter which space-time you're currently in, the orb's light will continuously reveal the other space-time . After shining the orb's light to a specific location , try to traverse the space-time via the Tome of Miracles. There might be new discoveries to be found. After shining the orb's light to a specific location , try to traverse the space-time via the Tome of Miracles. There might be new discoveries to be found."
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Temple of the Three Fates"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Great. Should be smooth sailing from here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_6_phainon_167.ogg/revision/latest?cb=20250205044654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_75.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the building)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "At last, we're out... That place was in total disarray.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The distorted time and space... is likely a reflection of Oronyx 's own twisted struggles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_7_castorice_117.ogg/revision/latest?cb=20250205045255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_76.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Take a detour to the landing car's crash site, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Is that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_7_castorice_118.ogg/revision/latest?cb=20250205045256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ This is where we crash-landed. (Trailblazer) and I nearly died when our car was assaulted.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Upon reflection, that was probably Nikador 's doing, too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_7_phainon_134.ogg/revision/latest?cb=20250205045706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_78.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This gate looks just as magnificent up close.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The Gate of Infinity. It represents the divine power of Janus . According to legend, Janus is the eldest of the Three Titans of Fate. They created the \"space\" of Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_7_castorice_119.ogg/revision/latest?cb=20250205045258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But the Titan has long fallen and surrendered their Coreflame. Tribbie is the demigod that inherited their divinity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_7_castorice_120.ogg/revision/latest?cb=20250205045259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_80.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How did Tribbie defeat a Titan...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Brute force isn't the only option. Some Titans can also be vanquished... other ways.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_7_phainon_135.ogg/revision/latest?cb=20250205045707",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_81.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "But that doesn't mean Tribbie isn't powerful enough... She's one of Amphoreus' most revered heroes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_7_phainon_136.ogg/revision/latest?cb=20250205045708",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_82.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I didn't realize she was that strong.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Brute force isn't the only option. Some Titans can also be vanquished... other ways.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_7_phainon_137.ogg/revision/latest?cb=20250205045710",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_83.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "But you're not wrong, strength is no measure for how powerful Tribbie is. She's one of Amphoreus' most revered heroes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_7_phainon_138.ogg/revision/latest?cb=20250205045711",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_84.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Let's go. With Tribbie's token, we should be able to go straight into the Temple of the Three Fates.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_7_phainon_139.ogg/revision/latest?cb=20250205045712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_85.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Open the Gate of Infinity"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_7_olonyx_106.ogg/revision/latest?cb=20250205045523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...Please pardon me. Words this vile should not be relayed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_7_castorice_116.ogg/revision/latest?cb=20250205045254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "It's not going to be easy getting Oronyx 's help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_7_phainon_133.ogg/revision/latest?cb=20250205045704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This temple has been forsaken for so long that we have no way of telling what dangers await us behind this gate. From the way Oronyx spoke to us in the ruins, I won't count on her being cordial toward us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_7_phainon_140.ogg/revision/latest?cb=20250205045714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_7_olonyx_107.ogg/revision/latest?cb=20250205045524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_90.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Here we go again..."
+    },
+    {
+        "type": "note",
+        "text": "We need a translation for that."
+    },
+    {
+        "type": "note",
+        "text": "Blah blah blah..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Venture no closer... Keep out.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter4_7_castorice_121.ogg/revision/latest?cb=20250205045301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"You won't find anything you desire here... Save for despair and demise.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_7_castorice_122.ogg/revision/latest?cb=20250205045302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Is that you, Oronyx ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_7_phainon_141.ogg/revision/latest?cb=20250205045715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Forgive me, but if you refuse to help us, then despair and demise will be all that's left on this world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_7_phainon_142.ogg/revision/latest?cb=20250205045716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_94.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Phainon raises the stone talisman of Janus ..."
+    },
+    {
+        "type": "note",
+        "text": "...The sound of heavy mechanisms comes from the Temple of the Three Fates."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_7_olonyx_108.ogg/revision/latest?cb=20250205045526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"You are not welcome here... You have no right.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_7_castorice_123.ogg/revision/latest?cb=20250205045303",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"You'll never pass my challenge.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_7_castorice_124.ogg/revision/latest?cb=20250205045305",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "A challenge? Great, at least they're willing to speak to us now. Even if they are only making things difficult for us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_7_phainon_143.ogg/revision/latest?cb=20250205045717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Push onward, my friends. But watch your step.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_7_phainon_144.ogg/revision/latest?cb=20250205045719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_99.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue forward"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We successfully entered the Temple of the Three Fates. However, Oronyx does not welcome our presence and complicates our path with various puzzles, blocking us from reaching the temple's deeper chambers."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The silence is deafening.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "This place... isn't as I knew it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_7_castorice_125.ogg/revision/latest?cb=20250205045306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_100.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The Scales of Justice. It's my first time seeing it in its full glory.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_7_phainon_145.ogg/revision/latest?cb=20250205045720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Is this also a symbol of a certain Titan?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Talanton , the second of the Three Titans of Fate. They were said to have created the laws that govern our world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_7_castorice_126.ogg/revision/latest?cb=20250205045307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Talanton surrendered their Coreflame, though the Chrysos Heir taking over their legacy is... nowhere to be found today.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_7_castorice_127.ogg/revision/latest?cb=20250205045309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "At least the laws that govern our world are still in place. So that demigod must be performing their duty still, no matter where they are.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_7_phainon_146.ogg/revision/latest?cb=20250205045721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There's no exit in sight. How do we proceed?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_7_phainon_147.ogg/revision/latest?cb=20250205045723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_7_olonyx_109.ogg/revision/latest?cb=20250205045527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Leave... leave.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_7_castorice_128.ogg/revision/latest?cb=20250205045310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Stay away from my sister's property. Leave...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_7_castorice_129.ogg/revision/latest?cb=20250205045311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "\"Sister\"...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "There are also people who describe the Three Titans of Fates to be \"siblings.\" I think they mean Talanton 's scales.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_7_castorice_130.ogg/revision/latest?cb=20250205045313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Neither of these are paths we can take, and the exit has been concealed from us. Looks like Oronyx is bent on keeping us out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_7_phainon_148.ogg/revision/latest?cb=20250205045724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The Tome of Miracles... We'll just have to try our luck with this, then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_7_phainon_149.ogg/revision/latest?cb=20250205045725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_111.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Try using the Tome of Miracles to repair the scales"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_7_olonyx_110.ogg/revision/latest?cb=20250205045528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Hurts... it hurts... so much.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_7_castorice_131.ogg/revision/latest?cb=20250205045314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Does performing a miracle really... subject them to that much pain?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_7_phainon_150.ogg/revision/latest?cb=20250205045726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Look, the broken scales have been restored to their full form.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_7_olonyx_111.ogg/revision/latest?cb=20250205045530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"No... You cannot... You must not come any closer.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_7_castorice_132.ogg/revision/latest?cb=20250205045315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_7_olonyx_112.ogg/revision/latest?cb=20250205045531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"The scales are as much an entrance... as they are a challenge.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_7_castorice_133.ogg/revision/latest?cb=20250205045317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The scales...? Are they expecting us to balance it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter4_7_phainon_151.ogg/revision/latest?cb=20250205045728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I believe so...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_7_castorice_134.ogg/revision/latest?cb=20250205045318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...Are you alright, Miss Castorice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_7_phainon_152.ogg/revision/latest?cb=20250205045729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I—I'm fine. It's just... I can feel Oronyx 's misery.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_7_castorice_135.ogg/revision/latest?cb=20250205045319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Being able to understand the Titans' words is as much an affliction as it is a gift. Let's get this over and done with.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_7_phainon_153.ogg/revision/latest?cb=20250205045730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_123.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Use the Scales of Justice in the map to complete Oronyx's test. Use the Scales of Justice in the map to complete Oronyx's test. Control the Hand of Zagreus to find and take the appropriately weighted items available in the map, then place them on the plate on the right side of the scale to try to solve Oronyx's puzzle. Control the Hand of Zagreus to find and take the appropriately weighted items available in the map, then place them on the plate on the right side of the scale to try to solve Oronyx's puzzle."
+    },
+    {
+        "type": "heading",
+        "text": "Try to balance the scales"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There's an abandoned Hand of Zagreus here. Let's use it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_7_phainon_154.ogg/revision/latest?cb=20250205045732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_124.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Attempt to go downstairs, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Firstly, try to pass Oronyx's trial with the Hand of Zagreus."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Hand of Zagreus control platform)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Does that Titan really intend to deter us with a challenge like this?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "What do you mean, Mr. Dan Heng?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_7_castorice_136.ogg/revision/latest?cb=20250205045320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This doesn't make sense to me. Oronyx thinks of us as intruders, so isn't it far easier for them to forcefully stop us with their divine powers?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Oronyx ... based on my understanding, isn't the kind that resorts to brutality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_7_castorice_137.ogg/revision/latest?cb=20250205045322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_126.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the lefthand scale, optional)"
+    },
+    {
+        "type": "note",
+        "text": "It seems that the weights have been blessed by the Titans and cannot be seized by the Hand of Zagreus."
+    },
+    {
+        "type": "condition",
+        "text": "(Place a weight on the scale)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Does this mean we've passed the challenge?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_7_phainon_155.ogg/revision/latest?cb=20250205045733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Oronyx ! We completed your challenge. Can you let us pass now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_7_phainon_156.ogg/revision/latest?cb=20250205045734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_7_olonyx_113.ogg/revision/latest?cb=20250205045532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"No... Unsatisfactory... You cannot pass.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_7_castorice_138.ogg/revision/latest?cb=20250205045323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Looks like this Titan doesn't like to keep their promises.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_7_olonyx_114.ogg/revision/latest?cb=20250205045534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Another... challenge. Must deter... the mortals.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_7_castorice_139.ogg/revision/latest?cb=20250205045325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Are they just stalling for time? We don't have the time for games...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_7_phainon_157.ogg/revision/latest?cb=20250205045736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_7_olonyx_115.ogg/revision/latest?cb=20250205045535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Weights in the left weighing pan... represent the fate of Amphoreus.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_7_castorice_140.ogg/revision/latest?cb=20250205045326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Find... something that weighs more... and place it in the right pan...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_7_castorice_141.ogg/revision/latest?cb=20250205045327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Find something that has more weight... than the fate of the world.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_7_castorice_142.ogg/revision/latest?cb=20250205045329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_137.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is this a brainteaser?"
+    },
+    {
+        "type": "note",
+        "text": "Who's going to understand that!?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "They seem somewhat fickle, much like... a child.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_7_castorice_143.ogg/revision/latest?cb=20250205045330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Something that has more weight than the fate of the world? That's a baffling riddle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_7_phainon_158.ogg/revision/latest?cb=20250205045737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_139.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Some dialogue was removed from this section inVersion 3.2.)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Look, behind that gate. Isn't that the exact same type of weight?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_7_phainon_161.ogg/revision/latest?cb=20250205045741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "If we can use it to balance the scales and add more weight to the pan, we might be able to solve Oronyx 's riddle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_7_phainon_162.ogg/revision/latest?cb=20250205045742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "My intuition says this won't be that easy... But I suppose we don't have any better solutions at the moment.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If that Titan is truly so childlike, maybe they're just playing with us. In that case, let's play along until they're satisfied.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Try to retrieve the weight behind the fence"
+    },
+    {
+        "type": "condition",
+        "text": "(Place a weight on the scale, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "No movement at all... Not the right item.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_7_olonyx_116.ogg/revision/latest?cb=20250205045536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Obtuse... blind fools...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_7_castorice_144.ogg/revision/latest?cb=20250205045331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...They really know how to get under someone's skin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_7_phainon_159.ogg/revision/latest?cb=20250205045738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_144.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Place a weight on the scale again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This won't do... We're just wasting our time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_7_phainon_160.ogg/revision/latest?cb=20250205045739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_7_olonyx_117.ogg/revision/latest?cb=20250205045537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I don't think there's a need for me to convey any words that'll only irritate you further.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_7_castorice_145.ogg/revision/latest?cb=20250205045333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_147.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Continue towards the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There's an obstacle ahead.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Perhaps the Miracle Orbs can illuminate the way forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_7_castorice_146.ogg/revision/latest?cb=20250205045334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_148.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Engage the Miracle Orb)"
+    },
+    {
+        "type": "note",
+        "text": "Some orbs can shine at one of the multiple selectable areas . After activating the orb, ( click click on PC / tap tap on mobile / press press on Controller ) the yellow circular marking on the screen to change the direction of the orb. Some orbs can shine at one of the multiple selectable areas . After activating the orb, ( click click on PC / tap tap on mobile / press press on Controller ) the yellow circular marking on the screen to change the direction of the orb."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the fence)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There, a Prophecy Tablet. It could be the key to unlocking the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_7_phainon_163.ogg/revision/latest?cb=20250205045743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_149.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After solving the Prophecy Tablet)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Everything's going well... so far.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_7_phainon_164.ogg/revision/latest?cb=20250205045745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "There are also stone platforms for the Hand of Zagreus all around. This will save us the trouble of doubling back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_7_phainon_165.ogg/revision/latest?cb=20250205045746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_151.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Try using the same weights to balance the scales"
+    },
+    {
+        "type": "condition",
+        "text": "(Place the specified weight on the scale)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "It worked! Now, the scales have once again been balanced.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_7_phainon_166.ogg/revision/latest?cb=20250205045747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_7_olonyx_118.ogg/revision/latest?cb=20250205045539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Futile attempts... Give up... give up.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_7_castorice_147.ogg/revision/latest?cb=20250205045335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We've played along with you for long enough. It's time you admitted defeat, Oronyx !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_7_phainon_167.ogg/revision/latest?cb=20250205045749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Let's go and complete their challenge.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_7_phainon_168.ogg/revision/latest?cb=20250205045750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Find something that has more weight... than the fate of the world.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_7_castorice_142.ogg/revision/latest?cb=20250205045329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_157.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find something that has more weight than the \"Fate of the World\""
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_7_olonyx_119.ogg/revision/latest?cb=20250205045540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"You think that you've won? Arrogant... Foolish...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter4_7_castorice_148.ogg/revision/latest?cb=20250205045337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Titan, are you still trying to hold out?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_7_phainon_169.ogg/revision/latest?cb=20250205045751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_160.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We just have to make the weighing pan on this side drop, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_7_phainon_170.ogg/revision/latest?cb=20250205045752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Let's think about it... It shouldn't be that difficult.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_7_phainon_171.ogg/revision/latest?cb=20250205045754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_162.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Place the flaming lance and the baseball bat on it.",
+        "children": [
+            {
+                "type": "note",
+                "text": "You place the flaming lance and the bat on the scale's tray..."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "It didn't even move an inch...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter4_7_phainon_172.ogg/revision/latest?cb=20250205045755",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_163.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "▶ I've held (Trailblazer)'s flaming lance before and it's quite heavy. Seems like this isn't going to work.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_7_phainon_173_m.ogg/revision/latest?cb=20250205045758",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_164.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Titan's Voice",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_7_olonyx_120.ogg/revision/latest?cb=20250205045541",
+                "is_unavailable": false,
+                "audio_filename": "audio_Titans_Voice_165.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Oronyx ... is mocking us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_7_castorice_149.ogg/revision/latest?cb=20250205045338",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_166.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous options with this option removed)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Stand on top of it.",
+        "children": [
+            {
+                "type": "note",
+                "text": "You dexterously leap onto the scale's tray…"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...Have you thought of gaining some weight?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_7_castorice_150.ogg/revision/latest?cb=20250205045339",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_167.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "▶ Come down, (Trailblazer)... Seems like this isn't going to work.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_7_phainon_174_m.ogg/revision/latest?cb=20250205045800",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_168.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous options with this option removed)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Attack the scale's weighing pan.",
+        "children": [
+            {
+                "type": "note",
+                "text": "You swing the baseball bat hard at the scale's tray..."
+            },
+            {
+                "type": "note",
+                "text": "...But it doesn't budge. And your arm feel numb from the strong recoil."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "▶ ( Mr. / Miss ) (Trailblazer)? Are you feeling alright?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_7_castorice_151_m.ogg/revision/latest?cb=20250205045342",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_169.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "It seems like we can't rely on brute force to clear this challenge.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_7_phainon_175.ogg/revision/latest?cb=20250205045802",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_170.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous options with this option removed)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I give up! Just let me pass!",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After all options have been selected)"
+    },
+    {
+        "type": "note",
+        "text": "I'm out of ideas…"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_7_olonyx_121.ogg/revision/latest?cb=20250205045543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_7_castorice_152.ogg/revision/latest?cb=20250205045343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "What did they say, Castorice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_7_phainon_176.ogg/revision/latest?cb=20250205045803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Oronyx is frustrated... Because we're treating their challenge like a game.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_7_castorice_153.ogg/revision/latest?cb=20250205045344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Which means that we have to find something that literally has more weight than the fate of Amphoreus? It sounds like an impossible task.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "For the people of Amphoreus, is there really anything that has more weight than this land? They don't even have the option to flee beyond the sky.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Something that has more weight than the fate of the world...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_7_phainon_177.ogg/revision/latest?cb=20250205045804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...No, Lord Phainon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_7_castorice_154.ogg/revision/latest?cb=20250205045345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "There must be some other way... A more comprehensive way. Even if our time is tight...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_7_castorice_155.ogg/revision/latest?cb=20250205045347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), I've got it.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "I've also got it."
+    },
+    {
+        "type": "note",
+        "text": "Have I got it?"
+    },
+    {
+        "type": "note",
+        "text": "You've also got it!?"
+    },
+    {
+        "type": "note",
+        "text": "(Pretend to get it)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), hand me March's camera.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Indeed, for the people of Amphoreus, the fate of the world is a weight that is far too heavy.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ But perhaps even the Titan did not expect that... For outsiders like (Trailblazer) and I, we still have not yet become fully involved with the fate of this world.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "From our perspective, there is something even more important than this world — or perhaps even the entire cosmos.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "And that's the companions that we have traveled with.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If this indeed is the case, we will have passed the Titan's challenge.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Leave the room and meet Oronyx"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "An item heavier than the \"Fate of the World\"... We adopted a tricky method and used March 7th's camera to solve this puzzle."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ That was an unexpected solution... Thankfully, we had Dan Heng and (Trailblazer) here with us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_7_phainon_178_m.ogg/revision/latest?cb=20250205045807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_7_olonyx_122.ogg/revision/latest?cb=20250205045544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I think that even Oronyx themself is surprised that we managed to clear the challenge.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_7_castorice_156.ogg/revision/latest?cb=20250205045348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "At least they kept their promise and opened the path for an audience.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_7_phainon_179.ogg/revision/latest?cb=20250205045808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_181.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_7_olonyx_123.ogg/revision/latest?cb=20250205045545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_7_phainon_180.ogg/revision/latest?cb=20250205045809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It feels like a cold wave is seeping into the mind, and a hand with countless fingers is churning through my memories.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Maybe people who have led wonderful lives would enjoy such an intrusion...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_7_castorice_157.ogg/revision/latest?cb=20250205045349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_184.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Have an audience with Oronyx, Veil of Evernight"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We arrived at Oronyx's residence, but they refused to offer any assistance. In a desperate attempt to save Mydei, Phainon was preprared to take drastic measures."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Oronyx !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_7_phainon_181.ogg/revision/latest?cb=20250205045810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_7_olonyx_124.ogg/revision/latest?cb=20250205045547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Leave... leave.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_7_castorice_158.ogg/revision/latest?cb=20250205045351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Help us, Titan! Help us prevent this world from being ruined by madness!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_7_phainon_182.ogg/revision/latest?cb=20250205045812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_7_olonyx_125.ogg/revision/latest?cb=20250205045548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Refuse... refuse.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_7_castorice_159.ogg/revision/latest?cb=20250205045352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_190.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "A Titan who still possesses reason... both mysterious and awe-inspiring.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "I really want to take a photo of them.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I understand, such a spectacle is rare to witness.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What a strange shape...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "The Titans all have vastly different physical forms, with some of them even abandoning their physical shell.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_7_castorice_160.ogg/revision/latest?cb=20250205045353",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_191.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It doesn't feel particularly oppressive.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Not every Titan is as violent as Nikador ... They weren't always like that either.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter4_7_castorice_161.ogg/revision/latest?cb=20250205045355",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_192.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "\"I have crossed the myriad passages and been judged by the scales.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_7_phainon_183.ogg/revision/latest?cb=20250205045813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "\"It has deemed me innocent and granted me fruits.\" — O mighty Oronyx . We plead for your assistance!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_7_phainon_184.ogg/revision/latest?cb=20250205045814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The madness of Nikador is pushing Amphoreus toward the end times. They have abandoned their honor, replicating themself through crazed means, and are fully intending to destroy the sky father and the civilization they protect.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_7_phainon_185.ogg/revision/latest?cb=20250205045816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Please reveal to us the past that has been shrouded in fog and guide us to a way to quench this madness!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter4_7_phainon_186.ogg/revision/latest?cb=20250205045817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_7_olonyx_126.ogg/revision/latest?cb=20250205045549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Chrysos Heirs... Heroes that uphold rage, cruelty, and darkness...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_7_castorice_163.ogg/revision/latest?cb=20250205045356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Pursuing the cursed prophecy... You've treated my kind as prey...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_7_castorice_164.ogg/revision/latest?cb=20250205045357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"In the name of deliverance, you would seize my Coreflame... and leave me to suffer in endless isolation...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_7_castorice_165.ogg/revision/latest?cb=20250205045359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Leave... Just leave. Even if the world will be destroyed as a result... I will not help a group of ruthless butchers.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_7_castorice_166.ogg/revision/latest?cb=20250205045400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_7_phainon_187.ogg/revision/latest?cb=20250205045818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I see... God-slayers asking their prey for assistance is a hypocritical act indeed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_7_phainon_188.ogg/revision/latest?cb=20250205045820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Then, I can only apologize as we're running out of time... If we're unable to positively conclude our negotiation, you leave me no choice but to take your Coreflame and search through the past locked within it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_7_phainon_189.ogg/revision/latest?cb=20250205045821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_7_olonyx_127.ogg/revision/latest?cb=20250205045551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Phainon...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_7_castorice_167.ogg/revision/latest?cb=20250205045401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Castorice, our hesitation is just cruelty to Mydei. How many lives must he have lost already?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_7_phainon_190.ogg/revision/latest?cb=20250205045822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "My apologies, Oronyx ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_7_phainon_191.ogg/revision/latest?cb=20250205045823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_7_olonyx_128.ogg/revision/latest?cb=20250205045552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Wait... Oronyx 's reaction is a little strange.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_7_castorice_168.ogg/revision/latest?cb=20250205045403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Titan, what are you muttering about? I can't make it out clearly...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter4_7_castorice_169.ogg/revision/latest?cb=20250205045404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_7_olonyx_129.ogg/revision/latest?cb=20250205045553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Mother... Mother?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_7_castorice_170.ogg/revision/latest?cb=20250205045405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), could you please step forward? Oronyx seems to be calling out for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_7_castorice_171_m.ogg/revision/latest?cb=20250205045408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_7_olonyx_130.ogg/revision/latest?cb=20250205045555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Mother? Mother...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_7_castorice_172.ogg/revision/latest?cb=20250205045409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "What exactly... is going on?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_7_phainon_192.ogg/revision/latest?cb=20250205045825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Is that you... Is that you? Mother... encountered you. She misses you...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_7_castorice_173.ogg/revision/latest?cb=20250205045410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"Follow me... Please follow me. I see you... She also misses you. We want to see everything about you.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_7_castorice_174.ogg/revision/latest?cb=20250205045412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ Is that Titan extending an invitation to (Trailblazer)?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I don't understand either. But if this means that Oronyx is willing to establish a connection with us, maybe it'll be worth a try.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_7_castorice_175.ogg/revision/latest?cb=20250205045413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), please consider carefully...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_7_castorice_176_m.ogg/revision/latest?cb=20250205045416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_7_olonyx_131.ogg/revision/latest?cb=20250205045556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_222.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Accept Oronyx's invitation.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Titan's Voice",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_7_olonyx_132.ogg/revision/latest?cb=20250205045557",
+                "is_unavailable": false,
+                "audio_filename": "audio_Titans_Voice_223.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "\"Come with me... Follow me and join me... as we look far into your past...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_7_castorice_177.ogg/revision/latest?cb=20250205045417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_224.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Please give me a moment...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Titan's Voice",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_7_olonyx_133.ogg/revision/latest?cb=20250205045559",
+                "is_unavailable": false,
+                "audio_filename": "audio_Titans_Voice_225.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "\"Waiting... Hate waiting...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_7_castorice_178.ogg/revision/latest?cb=20250205045418",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_226.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "▶ (Trailblazer), if you do plan to accept their invitation... it's best that you don't let them wait for too long.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Phainon again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_7_phainon_187.ogg/revision/latest?cb=20250205045818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_227.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), if you do plan to accept their invitation... it's best that you don't let them wait for too long.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), please consider carefully...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_7_castorice_176_m.ogg/revision/latest?cb=20250205045416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_228.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We arrived at Oronyx's residence, but they refused to offer any assistance. In a desperate attempt to save Mydei, Phainon was prepared to take drastic measures. Just as the sword was being drawn, Oronyx's demeanor shifted upon noticing (Trailblazer)."
+    },
+    {
+        "type": "note",
+        "text": "Accept Oronyx's invitation"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_7_olonyx_134.ogg/revision/latest?cb=20250205045600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_229.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Accept Oronyx's invitation.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Titan's Voice",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_7_olonyx_135.ogg/revision/latest?cb=20250205045601",
+                "is_unavailable": false,
+                "audio_filename": "audio_Titans_Voice_230.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "\"Come with me... Follow me and join me... as we look far into your past...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_7_castorice_179.ogg/revision/latest?cb=20250205045420",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_231.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Enter Exploratory ExcursionNight Veil, Shroud the Silent Past)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Please give me a moment...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Titan's Voice",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_7_olonyx_136.ogg/revision/latest?cb=20250205045603",
+                "is_unavailable": false,
+                "audio_filename": "audio_Titans_Voice_232.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "\"Waiting... Hate waiting...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_7_castorice_180.ogg/revision/latest?cb=20250205045421",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_233.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "(Trailblazer), if you do plan to accept their invitation... it's best that you don't let them wait for too long.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the first \"Non-Existent Memory\""
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "According to (Trailblazer), Oronyx showed(him/her)the Stellaron Hunters... It was a memory that should not exist, yet it seems so vivid and realistic."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_7_mem_101.ogg/revision/latest?cb=20250205045428",
+        "is_unavailable": false,
+        "audio_filename": "audio__234.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Night Veil, Shroud the Silent Past.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ It's you again...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Where do you want to take me?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's you. It's me. Where? With you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter4_7_mem_102.ogg/revision/latest?cb=20250205045429",
+        "is_unavailable": false,
+        "audio_filename": "audio__235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ You want to look into... my memories?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Memories. Yours. Look into? Curious.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_7_mem_103.ogg/revision/latest?cb=20250205045430",
+        "is_unavailable": false,
+        "audio_filename": "audio__236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Future? Past. Observe. Secrets...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_7_mem_104.ogg/revision/latest?cb=20250205045432",
+        "is_unavailable": false,
+        "audio_filename": "audio__237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ This is... the Express ?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Is this... a memory?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Where? Here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_7_mem_105.ogg/revision/latest?cb=20250205045433",
+        "is_unavailable": false,
+        "audio_filename": "audio__238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ It's that voice again... Let's follow it.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Is that... me?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ There's also Himeko and Dan Heng... What memory is this?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko?",
+        "line": "...We've got a decent harvest this time. Although we deviated slightly from the \"script,\" it's not a big deal.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko?",
+        "line": "▶ Thanks for your hard work, (Trailblazer). I'm very glad that you're not hurt.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)?",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko?",
+        "line": "Heh... Not going to share what's on your mind? Traveling with two quiet people really makes the trip feel a little lonely.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)?",
+        "line": "▶ ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)?",
+        "line": "▶ ...I'm hungry.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko?",
+        "line": "Is this really the only time you'll say something? Come on, dinner is ready.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng?",
+        "line": "...If possible, can we not have Beef Offal Stew for once?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko?",
+        "line": "Why? You don't like the taste of home?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng?",
+        "line": "I dislike the gamey taste of offal.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ What's going on...? Are these really my memories?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ I have no recollection of this conversation at all... Himeko and Dan Heng's tone also seem different. What exactly is going on...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Memory. Forgotten, chaotic.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_7_mem_106.ogg/revision/latest?cb=20250205045434",
+        "is_unavailable": false,
+        "audio_filename": "audio__239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "We. Confusion, uncover.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter4_7_mem_107.ogg/revision/latest?cb=20250205045435",
+        "is_unavailable": false,
+        "audio_filename": "audio__240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Kafka... Blade !?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ No, these aren't my memories... There must have been some mistake.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Memories, discrepancies? Correct. Truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_7_mem_108.ogg/revision/latest?cb=20250205045437",
+        "is_unavailable": false,
+        "audio_filename": "audio__241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Depths, hidden. Forgotten. Forgotten...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_7_mem_109.ogg/revision/latest?cb=20250205045438",
+        "is_unavailable": false,
+        "audio_filename": "audio__242.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Another set of nonexistent memories... This time, Sam 's also here.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Getting to know myself from a different perspective... feels a little strange.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the second \"Non-Existent Memory\""
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Kafka again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ Do you have any dietary restrictions, (Trailblazer)?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)?",
+        "line": "▶ I'll eat anything.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "You really aren't picky about food.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the indicated Kafka)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "▶ The \"script\" turned out to be extremely dangerous. It's only because of (Trailblazer)'s quick thinking that we managed to escape.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "Dancing on the razor's edge all the time, it's only a matter of time before disaster catches up with us... Kafka.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I accept your criticism, Sam. Indeed... Because of the \"script,\" I failed to consider the possibility of failure.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I suppose even Stellaron Hunters could use a retreat signal to respond to dire circumstances.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "There's no time like the present. Why don't we come up with one right now?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "I'll leave it to you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Bladie?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter4_7_blade_101.ogg/revision/latest?cb=20250205045213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "\"Three of a kind...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_7_blade_102.ogg/revision/latest?cb=20250205045214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "\"Two pair...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter4_7_blade_103.ogg/revision/latest?cb=20250205045215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "\"Ace.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_7_blade_104.ogg/revision/latest?cb=20250205045217",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_246.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Ah... It reeks of Xianzhou . Aren't you afraid you'll be bound by your past?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "It's just a passphrase from the past... No matter. There won't be a need for us to use it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_7_blade_105.ogg/revision/latest?cb=20250205045218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_247.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Parlor Car"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (It's the first time that the Express has felt so unfamiliar...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I want to take a look in the Parlor Car...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Kafka again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Three of a kind, two pair, ace...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "What a catchy yet refined catchphrase.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "Remember to recite this a few more times in your mind the next time you're toying with your prey.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "When did you become so ruthless?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Parlor Car)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Just what is going on...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ These memories obviously don't exist in my mind... But they feel so real that I cannot dispute them.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Speak with the Stellaron Hunters in the Non-Existent Memory"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly)"
+    },
+    {
+        "type": "note",
+        "text": "Firefly turns to you, her expression slightly different from the girl you remember — more melancholic, more profound."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Trailblazer)... Can I help you?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Why are you here..."
+    },
+    {
+        "type": "note",
+        "text": "Why am I here?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What's wrong? You seem... very nervous.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Don't worry, the dust will eventually settle. Let's go through the \"script\" one more time...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Firefly?"
+    },
+    {
+        "type": "note",
+        "text": "What \"script\"..."
+    },
+    {
+        "type": "note",
+        "text": "Nonexistent memories begin to cool, frost... then freeze."
+    },
+    {
+        "type": "note",
+        "text": "Firefly turns away, ignoring your call."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toSilver Wolf)"
+    },
+    {
+        "type": "note",
+        "text": "Silver Wolf looks up at you, her eyes filled with impatience. You've never spoken with her outside of a hologram — meeting this genius hacker face-to-face is quite novel."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "...What's up? I'm in a raid and don't have time for small talk.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_7_silverwolf_101.ogg/revision/latest?cb=20250205045834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_248.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How did I join you guys?"
+    },
+    {
+        "type": "note",
+        "text": "Stop playing and tell me the truth!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Oh... I've only just joined recently. If you have questions, can't you just ask Kafka?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_7_silverwolf_102.ogg/revision/latest?cb=20250205045835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Anyway, online games cannot be paused. So, if you don't mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_7_silverwolf_103.ogg/revision/latest?cb=20250205045837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_250.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Silver Wolf?"
+    },
+    {
+        "type": "note",
+        "text": "I'm just worried you'll become addicted."
+    },
+    {
+        "type": "note",
+        "text": "Nonexistent memories begin to cool, frost... then freeze."
+    },
+    {
+        "type": "note",
+        "text": "Silver Wolf looks down, ignoring your call."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Kafka)"
+    },
+    {
+        "type": "note",
+        "text": "Kafka turns to look at you, her face showing that familiar smile — half cold, half warm."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ What's the matter, (Trailblazer)?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "I need an explanation...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "...Explanation?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why did I forget about you?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "...Forget?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ (Trailblazer), did I do something that made you unhappy?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "We're partners, and I don't want anything to come between us — not even doubt.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I think...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Kafka..."
+    },
+    {
+        "type": "note",
+        "text": "Kafka?"
+    },
+    {
+        "type": "note",
+        "text": "Nonexistent memories begin to cool, frost... then freeze."
+    },
+    {
+        "type": "note",
+        "text": "Kafka turns away, ignoring your call."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Blade)"
+    },
+    {
+        "type": "note",
+        "text": "Blade's glance brushes over your face, leaving a burning trail. In your limited encounters with him, you've never seen such... a calm and logical look in his eyes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "What's wrong?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_7_blade_106.ogg/revision/latest?cb=20250205045219",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_251.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Why am I with you guys?"
+    },
+    {
+        "type": "note",
+        "text": "I need an explanation..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Guided by the \"script,\" we've assembled here to temporarily accomplish a common goal... That's all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_7_blade_107.ogg/revision/latest?cb=20250205045221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I don't care about anything else.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_7_blade_108.ogg/revision/latest?cb=20250205045222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "I'll give you one piece of advice — don't let Kafka down. She sacrificed a lot to keep you here... furthermore...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_7_blade_109.ogg/revision/latest?cb=20250205045223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_7_blade_110.ogg/revision/latest?cb=20250205045224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_255.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Blade?"
+    },
+    {
+        "type": "note",
+        "text": "Don't leave me hanging..."
+    },
+    {
+        "type": "note",
+        "text": "Nonexistent memories begin to cool, frost... then freeze."
+    },
+    {
+        "type": "note",
+        "text": "Blade turns away, ignoring your call."
+    },
+    {
+        "type": "heading",
+        "text": "Assist the Stellaron Hunters"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ I don't understand... What's the point of all of this?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Happiness... sealed away...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_7_olonyx_137.ogg/revision/latest?cb=20250205045604",
+        "is_unavailable": false,
+        "audio_filename": "audio__256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mother... Are you still there?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_7_olonyx_138.ogg/revision/latest?cb=20250205045605",
+        "is_unavailable": false,
+        "audio_filename": "audio__257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Are you watching?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter4_7_olonyx_139.ogg/revision/latest?cb=20250205045607",
+        "is_unavailable": false,
+        "audio_filename": "audio__258.ogg"
+    },
+    {
+        "type": "note",
+        "text": "...Titan?"
+    },
+    {
+        "type": "note",
+        "text": "...Oronyx?"
+    },
+    {
+        "type": "note",
+        "text": "...I can understand what you're saying now?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Memories flowing in reverse... Pounding.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_7_olonyx_140.ogg/revision/latest?cb=20250205045608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_259.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Outside the window... Remember. Look outside the window.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_7_olonyx_141.ogg/revision/latest?cb=20250205045609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_260.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oronyx",
+                "line": "Sky father... are you watching?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_7_mem_110.ogg/revision/latest?cb=20250205045439",
+        "is_unavailable": false,
+        "audio_filename": "audio__261.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Who are you!?"
+    },
+    {
+        "type": "note",
+        "text": "What just happened!?"
+    },
+    {
+        "type": "note",
+        "text": "Did I unlock a new Path just like that!?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You are? I am... Who?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_7_mem_111.ogg/revision/latest?cb=20250205045441",
+        "is_unavailable": false,
+        "audio_filename": "audio__262.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Gaze, watching. Outside, cold.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_7_mem_112.ogg/revision/latest?cb=20250205045442",
+        "is_unavailable": false,
+        "audio_filename": "audio__263.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You... warm. Me like, warmth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_7_mem_113.ogg/revision/latest?cb=20250205045444",
+        "is_unavailable": false,
+        "audio_filename": "audio__264.ogg"
+    },
+    {
+        "type": "note",
+        "text": "All of this does not make sense..."
+    },
+    {
+        "type": "note",
+        "text": "Can anyone explain this to me?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Confusion... Same. Answer, unknown.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_7_mem_114.ogg/revision/latest?cb=20250205045445",
+        "is_unavailable": false,
+        "audio_filename": "audio__265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "I've finally found it... Precious memory. At long last... I've caught THEIR gaze.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_7_olonyx_142.ogg/revision/latest?cb=20250205045611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_266.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "▶ Accompany ( him, / her, ) Mem ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_7_olonyx_143_m.ogg/revision/latest?cb=20250205045613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "▶ ( He / She ) will make the memories of this world complete once again... ( He / She ) will find... Mother...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_7_olonyx_144_m.ogg/revision/latest?cb=20250205045616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_268.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is your name \"Mem\"?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Name? Mine? Don't remember.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_7_mem_115.ogg/revision/latest?cb=20250205045446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_269.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Mem... Address. Temporarily.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_7_mem_116.ogg/revision/latest?cb=20250205045447",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_270.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who is... Mother?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Mother? Who? Don't remember.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_7_mem_117.ogg/revision/latest?cb=20250205045449",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_271.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Is your name \"Mem\"?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Name? Mine? Don't remember.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_7_mem_118.ogg/revision/latest?cb=20250205045450",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_272.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Mem... Address. For now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_7_mem_119.ogg/revision/latest?cb=20250205045451",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_273.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Travel, like. With you, together?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_7_mem_120.ogg/revision/latest?cb=20250205045453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_274.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Memory... collected. Piece together, complete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_7_mem_121.ogg/revision/latest?cb=20250205045454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_275.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Nikador's weakness..."
+    },
+    {
+        "type": "note",
+        "text": "...Can you help us find it?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Ador... Nik? Titan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_7_mem_122.ogg/revision/latest?cb=20250205045455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_276.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Need, memories. Help... I can.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_7_mem_123.ogg/revision/latest?cb=20250205045457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_277.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Then come with me."
+    },
+    {
+        "type": "note",
+        "text": "As long as you're able to help."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Shadow in the memory...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter4_7_olonyx_145.ogg/revision/latest?cb=20250205045617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_278.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "They... are your companions?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_7_olonyx_146.ogg/revision/latest?cb=20250205045619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_279.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yes, they are my companions."
+    },
+    {
+        "type": "note",
+        "text": "I also can't say for sure..."
+    },
+    {
+        "type": "note",
+        "text": "No, they are enemies."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Bad people. Troublesome. Help, needed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_7_mem_124.ogg/revision/latest?cb=20250205045458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_280.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Together... Friend?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter4_7_mem_125.ogg/revision/latest?cb=20250205045459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_281.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "▶ You're finally here, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_7_silverwolf_104_m.ogg/revision/latest?cb=20250205045839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_282.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "▶ I knew you wouldn't miss this, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "▶ The script says, \"Leave no survivors.\" ...(Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter4_7_blade_111_m.ogg/revision/latest?cb=20250205045227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_283.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ I'm glad to have you here, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "This path is anything but smooth... it's marked by flames, scars, malice, and bloodshed. But I guarantee, as long as you stand with the Stellaron Hunters, you will never know the pain of betrayal.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ (Trailblazer)... Come, join us on stage. In the \"script,\" we are the most brilliant actors on the cosmic stage, and the focus will always be on you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "All the bloodshed and cries beyond the screen are merely there to serve as the backdrop for the main characters. Together, we will dance against the current, until the universe meets the Finality.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "▶ Let's dance, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "▶ Let's dance, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_7_silverwolf_105_m.ogg/revision/latest?cb=20250205045842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_284.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "▶ Let's dance, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_7_blade_112_m.ogg/revision/latest?cb=20250205045229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_285.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "▶ Let's dance, (Trailblazer)!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstVoidranger: Reaver×2,Voidranger: Distorter×1,Voidranger: Eliminator×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Ugh, why do I have to be the standby support again? So boring...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_7_silverwolf_106.ogg/revision/latest?cb=20250205045843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_286.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Battle... Companions, together!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_7_mem_126.ogg/revision/latest?cb=20250205045501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_287.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Using Silver Wolf's Allow Changes?)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Hack successful. Condition recovered!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_7_silverwolf_110.ogg/revision/latest?cb=20250205045848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_288.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enhance Blade with Mem's Lemme! Help You! for the first time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "It's time to clean up...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_7_blade_113.ogg/revision/latest?cb=20250205045231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_289.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After Silver Wolf's uses User Banned)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Take this. System crash!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_7_silverwolf_107.ogg/revision/latest?cb=20250205045844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_290.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After Blade takes a turn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Blade",
+        "line": "Savor it? You're unworthy!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_7_blade_114.ogg/revision/latest?cb=20250205045232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Blade_291.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enhance Kafka with Mem's Lemme! Help You! for the first time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Leave no survivors... Right?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After Silver Wolf uses User Banned)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "It's all about that adrenaline rush!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_7_silverwolf_109.ogg/revision/latest?cb=20250205045847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_292.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After Kafka takes a turn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "The melody of slaughter, how beautiful.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Enhance Trailblazer with Mem's Lemme! Help You! for the first time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ We are... companions.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After Silver Wolf uses User Banned)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Stand still so I can beat you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_7_silverwolf_108.ogg/revision/latest?cb=20250205045846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_293.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After Trailblazer takes a turn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ In this script... I am the main character!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Enhance Sam with Mem's Lemme! Help You! for the first time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "▶ (Trailblazer), let's dance together.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After Silver Wolf uses User Banned)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Blaming me for cheating? Hmph, ban my account if you dare!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_7_silverwolf_111.ogg/revision/latest?cb=20250205045850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_294.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After Sam takes a turn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sam",
+        "line": "Together, we shall... set the seas ablaze.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Wave 2:Voidranger: Reaver×2,Voidranger: Distorter×1,Voidranger: Eliminator×1)\n(Wave 3:Voidranger: Reaver×2,Voidranger: Distorter×1,Voidranger: Trampler×1,Voidranger: Eliminator×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Victory, victory!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_7_mem_127.ogg/revision/latest?cb=20250205045502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_295.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Mighty, companions!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_7_mem_128.ogg/revision/latest?cb=20250205045503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_296.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The Stellaron Hunters... disappeared.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Disappear, temporarily.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_7_mem_129.ogg/revision/latest?cb=20250205045504",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_297.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Memories, remain... Always.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_7_mem_130.ogg/revision/latest?cb=20250205045506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_298.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I want to leave this place.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Leave... It's, time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_7_mem_131.ogg/revision/latest?cb=20250205045507",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_299.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Memories, remain... Always.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_7_mem_132.ogg/revision/latest?cb=20250205045508",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_300.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Firefly..."
+    },
+    {
+        "type": "note",
+        "text": "Kafka..."
+    },
+    {
+        "type": "note",
+        "text": "Wait..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Farewell. Time, there is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_7_mem_133.ogg/revision/latest?cb=20250205045510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_301.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Companions, regrets... Don't leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_7_mem_134.ogg/revision/latest?cb=20250205045511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_302.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Kafka... and Firefly.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Who should I bid farewell to...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Choose a Stellaron Hunter in the memory to bid goodbye"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the nonexistent memory, (Trailblazer) actually received a glance fromFuli, theAeonofRemembrance. A marvelous creature appeared next to (him/her), perhaps a gift from Oronyx. (Trailblazer) seems a little... despondent, but thankfully (he/she) quickly regained composure."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "There is very little time left to stay in this memory... Do you want to leave the chance of bidding goodbye to Firefly?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Bid Firefly goodbye.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "▶ Oh, (Trailblazer), it's you.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "We've successfully completed the \"script\" once again, right? It's always reassuring to have you by our side.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Is something the matter? I've never seen you look like this before.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "I can't remember anything..."
+            },
+            {
+                "type": "note",
+                "text": "Have we really met before?"
+            },
+            {
+                "type": "note",
+                "text": "I don't want to meet you again."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "What... does that mean?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "What happened? I... I don't actually know whether I should ask you this question. But... I just wanted to express my concern, for my companion.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "We seem to have traveled together before..."
+            },
+            {
+                "type": "note",
+                "text": "I have forgotten everything..."
+            },
+            {
+                "type": "note",
+                "text": "I don't understand what you're saying."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Is that so... Will this journey also be cut short suddenly?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "But... it's okay. You being here means our paths are bound to cross again. You're alive, and I will continue living. The parting that has yet to happen will not be an eternal one.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "choice",
+                "text": "We did reunite.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "That's fantastic.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Meeting again... It will happen.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "That's fantastic.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I have nothing more to say to you.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "Hmm... There's no need to say anything. Your eyes have already given me an answer.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'll try to forget this and lock it away in the depths of my memory... When the day of our parting comes, I'll treat your words as a promise for our reunion.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "When the day we cross paths again arrives, I think... I'll pretend we've never met, and get to know you anew, as if starting all over.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I will also try my best to express my thoughts openly to you... Because right now, I'm still unable to do it.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "A day worth waiting for. Two people — no longer accomplices, just two drifting souls in the cosmos — meeting and getting to know each other in the most ordinary way...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "...That is the greatest luxury that I can ever imagine.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "It's time for me to leave, Firefly."
+            },
+            {
+                "type": "note",
+                "text": "Farewell, nonexistent memory."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "▶ That's it, that look on your face is the (Trailblazer) that I know.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "You're leaving, right? Because there's something important that you have to do... You always understand what's the most important.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "▶ Go, (Trailblazer). It doesn't matter if you forget everything... I shall engrave the promise of our second reunion in my heart on your behalf.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I hope that it'll be a beautiful night with shooting stars.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Need time to think about it."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Kafka)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "There is very little time left to stay in this memory... Do you want to leave the chance of bidding goodbye to Kafka?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Bid Kafka goodbye.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "▶ (Trailblazer)... You're here.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Once again, we've completed the \"script\" without a hitch.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Has something happened? You look... vulnerable.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "I don't remember anything..."
+            },
+            {
+                "type": "note",
+                "text": "We haven't met in quite a while."
+            },
+            {
+                "type": "choice",
+                "text": "Did you abandon me?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Kafka",
+                        "line": "▶ You know that I'd never ever do that, (Trailblazer).",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Tell me what's on your mind. You're used to confiding in me by now, aren't you?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "We seem to have traveled together before..."
+            },
+            {
+                "type": "note",
+                "text": "I have forgotten everything..."
+            },
+            {
+                "type": "note",
+                "text": "I have nothing more to say to you."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "I see... You have lost your \"past\" and are feeling very helpless.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Unfortunately, I'm not Destiny's Slave and cannot peer into the future. I can neither fill the gaps in your memory nor tell you what we later experienced together.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "choice",
+                "text": "We parted ways... and met again once more.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Kafka",
+                        "line": "That means I'll regain what I lost.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "The scene of us meeting again... I still remember it.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Kafka",
+                        "line": "That means I'll regain what I lost.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I wish that I hadn't met you.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Kafka",
+                        "line": "Such cruel words... You must have gone through a lot afterward.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Kafka",
+                        "line": "But in the end, we will meet again, which also means... I'll regain what I lost.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "▶ (Trailblazer), listen to me...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "I suppose, in that script I haven't yet read, you'll face plenty of danger and end up in dreadful predicaments.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "You'll probably also experience many wonderful things and find companions who feel like family — even if it's no longer with us, the Stellaron Hunters.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "You'll also embark on adventures beyond your wildest imagination. After all, you were born for adventure.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "There's only one thing that I want you to always remember: No matter where you go or which corner of the cosmos you may be, you will always be able to find a safe haven by my side.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Patience may not be my virtue... But toward you, it is something that I will never lack.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "It's time for me to leave, Kafka."
+            },
+            {
+                "type": "note",
+                "text": "Farewell, nonexistent memory."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "▶ Goodbye, (Trailblazer).",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "When fate places you at a crossroads... make your choice boldly, and don't fear regret.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Need time to think about it."
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainTrailblazer (Remembrance)Trailblazer (Remembrance))\n(UnlockJoint Forces: Trailblazer (Remembrance))\n(UnlockAchievementMeet Yesterday Once More)\n(UnlockAchievementFireflies in a Bottleif Firefly was chosen orBobbing Spider's Threadsif Kafka was chosen)"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Share your \"Non-Existent Memory\" with Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We arrived at Oronyx's residence, but they refused to offer any assistance. In a desperate attempt to save Mydei, Phainon was preprared to take drastic measures. Just as the sword was being drawn, Oronyx's demeanor shifted upon noticing (Trailblazer)."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), what happened?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "How long did I pass out for?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Pass out? What are you talking about?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That was such a long memory, it seemed like a completely different world...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Long? What are you talking about?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You were standing here motionless earlier. No matter how much we shouted, you didn't respond.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It hadn't even been a full minute when...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...This creature appeared.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Such a unique animal. I think it's an animal? I have never seen anything like it before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_7_phainon_193.ogg/revision/latest?cb=20250205045826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_303.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "What a cute little creature... Is it a gift from Oronyx ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_7_castorice_181.ogg/revision/latest?cb=20250205045422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_304.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Fuli gazed at me."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Fuli? Just now?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Fuli... What's that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_7_phainon_194.ogg/revision/latest?cb=20250205045827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_305.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Remember the Aeons that I spoke to you about on the way to Okhema? Fuli is one of them and presides over the path of Remembrance.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Ahh... A god from the worlds beyond the sky. A miracle that is hard to see with the naked eye... Right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_7_phainon_195.ogg/revision/latest?cb=20250205045829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_306.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "To earn the gaze of an Aeon, does that mean...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_7_phainon_196.ogg/revision/latest?cb=20250205045830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_307.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Mem says that they can help us."
+    },
+    {
+        "type": "note",
+        "text": "It's time for us to deal with Nikador."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Titan, past... Foggy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_7_mem_135.ogg/revision/latest?cb=20250205045512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_308.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Collect. Past... Reappear.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_7_mem_136.ogg/revision/latest?cb=20250205045514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_309.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We must collect the memories of Kremnos."
+    },
+    {
+        "type": "note",
+        "text": "We have to recreate the past."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "You can understand what they are saying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_7_phainon_197.ogg/revision/latest?cb=20250205045831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_310.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Collect the memories and recreate the past... How can we do that? We don't have much time left.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_7_phainon_198.ogg/revision/latest?cb=20250205045833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_311.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Anxious, no need! I will. Teach you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_7_mem_137.ogg/revision/latest?cb=20250205045515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_312.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Mem will tell us what we have to do."
+    },
+    {
+        "type": "note",
+        "text": "Let's follow them. We don't have any better ideas right now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If they truly are a creation of Fuli, or have some connection to that Aeon, I'm willing to believe they can wield a power greater than Oronyx 's Miracle",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's go, we need to follow them.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Oronyx ... Have you fallen into a slumber?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_7_castorice_182.ogg/revision/latest?cb=20250205045424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_313.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Titan's Voice",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_7_olonyx_147.ogg/revision/latest?cb=20250205045620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Titans_Voice_314.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I don't know who the \"Mother\" that you're referring to is, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_7_castorice_183.ogg/revision/latest?cb=20250205045425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_315.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Thank you for all your hard work. If Titans can dream... May your dream be a sweet one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_7_castorice_184.ogg/revision/latest?cb=20250205045426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_316.ogg"
+    },
+    {
+        "type": "note",
+        "text": "As the mission has been completed, Tribbie arrives per your summons and brings you back to Okhema."
+    }
+]

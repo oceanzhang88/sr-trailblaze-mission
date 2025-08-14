@@ -1,0 +1,3408 @@
+[
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Turns out, the meeting to decide the future of Penacony went much smoother than expected... with little debate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_30_player_101_m.ogg/revision/latest?cb=20240630222024",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ The Charmony Festival's opening ceremony is starting soon. I should head down and take a look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_30_player_102_m.ogg/revision/latest?cb=20240630222028",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_1.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Chat with the guests (0/5)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The Charmony Festival is about to begin, and you've pretty much completely cleared outthe Radiant Feldspar...What, you said you wanted a sense of participation? Well then, there's still a while before the opening ceremony commences. You may as well take a stroll around. Find a seat if you're tired and hold tight for the opening ceremony."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (This airship has quite a few treasures, a bountiful harvest...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_30_player_103_m.ogg/revision/latest?cb=20240630222031",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toBoothillandAventurine, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "...Remember, I can take you out with just one shot whenever I choose.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_30_boothill_101.ogg/revision/latest?cb=20240630221445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "That'd be my honor... Don't worry. I hate cheating at the table.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_30_aventurine_101.ogg/revision/latest?cb=20240630221421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Hmph... You better.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_30_boothill_102.ogg/revision/latest?cb=20240630221447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "▶ Look who's here! The great hero of the Astral Express , the most dazzling (Trailblazer) in all of Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_30_aventurine_102_m.ogg/revision/latest?cb=20240630221425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Oh, you're here too? Long time no see, friend.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/Vo_chapter3_30_boothill_103.ogg/revision/latest?cb=20240630221449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What are you guys whispering about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Merely a greeting of platitudes. As long as you and I have an understanding.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_30_aventurine_103.ogg/revision/latest?cb=20240630221427",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you always compliment everyone you meet, Aventurine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Merely a greeting of platitudes. As long as you and I have an understanding.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_30_aventurine_103.ogg/revision/latest?cb=20240630221427",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why are you on the IPC's side now, cowboy?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Boothill",
+                "line": "This fella... is also tracking down that son of a gun. What's that saying again? \"The enemy of my enemy is my friend.\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_30_boothill_104.ogg/revision/latest?cb=20240630221451",
+                "is_unavailable": false,
+                "audio_filename": "audio_Boothill_10.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Let's set aside those under-the-table dealings for now, partner. Don't wanna spoil the festive mood of the Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_30_boothill_105.ogg/revision/latest?cb=20240630221453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "▶ I agree. Now let's congratulate ( Mr. / Miss ) (Trailblazer). I hear The Family intends to thank the crew at the Charmony Festival. *sigh* It's a real pity I can't personally be there to witness this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_30_aventurine_104_m.ogg/revision/latest?cb=20240630221431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_12.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You sure left in a hurry, Aventurine.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "My job was just to give the IPC an opening. Other things aside, I think I did a pretty good job at achieving this.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_30_aventurine_105.ogg/revision/latest?cb=20240630221433",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "While you were at Dreamflux Reef , we were actually close by. We wouldn't have been able to dig up so much dirty information without the help of a knowledgeable friend.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_30_aventurine_106.ogg/revision/latest?cb=20240630221435",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "But that Emanator didn't pull any punches... My body couldn't hold out too long, otherwise this would have been settled in a much cleaner manner.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_30_aventurine_107.ogg/revision/latest?cb=20240630221437",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'd like to thank you for all your help in the battle, cowboy.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Boothill",
+                "line": "Hah, no problem. Punishing the wicked and eradicating evil is a top priority, would've been strange if we sat it out.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_30_boothill_106.ogg/revision/latest?cb=20240630221456",
+                "is_unavailable": false,
+                "audio_filename": "audio_Boothill_16.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Boothill",
+                "line": "Makin' an entrance like that, us Galaxy Rangers are makin' a comeback. Reckon you'll meet quite a few followers of The Hunt on your journey, do me a favor and pass on my regards will you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_30_boothill_107.ogg/revision/latest?cb=20240630221458",
+                "is_unavailable": false,
+                "audio_filename": "audio_Boothill_17.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What were you guys chatting about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Boothill",
+                "line": "Forget it. I'm not one to beat around the bush. I've got a score to settle with a high-ranking executive fella named Oswaldo Schneider . And this flamboyant fella here can help me find him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_30_boothill_108.ogg/revision/latest?cb=20240630221500",
+                "is_unavailable": false,
+                "audio_filename": "audio_Boothill_18.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "The feud between the Marketing Development Department and the Strategic Investment Department is well-known across the cosmos. But what I didn't expect was the involvement of the Galaxy Rangers in this feud.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_30_aventurine_108.ogg/revision/latest?cb=20240630221439",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Looks like... things are about to get spicy.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_30_aventurine_109.ogg/revision/latest?cb=20240630221441",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I hope you guys have fun at the festival."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "Thank you, and I also hope you enjoy yourself, great hero of Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_30_boothill_109.ogg/revision/latest?cb=20240630221501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I'll pass, but I do hope you guys have fun. If you don't mind, let's play a few rounds next time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_30_aventurine_110.ogg/revision/latest?cb=20240630221443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Boothill again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Boothill",
+        "line": "It's time to let down our hair and enjoy ourselves on days like this — I hope you can enjoy yourself to the fullest, oh, great hero of Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_30_boothill_110.ogg/revision/latest?cb=20240630221504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Boothill_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toDr. Ratio, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Ah, yes, I remember you. Your performance at Herta's space station was... adequate, I suppose.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_30_ratio_101.ogg/revision/latest?cb=20240630222136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Hm, no wonder that gambler likes you so much.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_30_ratio_102.ogg/revision/latest?cb=20240630222138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_25.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I didn't know you were here, too.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "The Intelligentsia Guild assigned me to be an invigilator for the IPC's ambassadors. Hmph, nothing more than an errand from the Office of Academic Affairs.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_30_ratio_103.ogg/revision/latest?cb=20240630222140",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you know Aventurine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "This individual is my responsibility during the trip. Hmph, nothing more than an errand from the Office of Academic Affairs.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_30_ratio_104.ogg/revision/latest?cb=20240630222142",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can I please get your autograph, Dr. Ratio!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "Do not try to emulate that gambler's penchant for attempting to be overly clever. I'll let it go this time, but this won't happen again.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_30_ratio_105.ogg/revision/latest?cb=20240630222143",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Very well, the Charmony Festival is about to commence soon. Take advantage of this unique opportunity, a blend of work and play is essential for superior knowledge absorption.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_30_ratio_106.ogg/revision/latest?cb=20240630222145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_29.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How do you rate Aventurine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "The executives of the IPC and the Guild say that we are strategic partners. Yet, from my perspective, I am invariably the teacher, and he, along with you and every other individual, is the student.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_30_ratio_107.ogg/revision/latest?cb=20240630222147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_30.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "From this perspective, Aventurine isn't what you'd call an ideal student, yet he's also not utterly obtuse. Alas, the void within him can never be filled by talent and knowledge. Let's hope he doesn't turn into a philosophical zombie.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_30_ratio_108.ogg/revision/latest?cb=20240630222149",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_31.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I thought you were going to make me get my act together.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "Ah, saying such a thing merely indicates that you have not truly grasped the essence of learning.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Vo_chapter3_30_ratio_109.ogg/revision/latest?cb=20240630222151",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_32.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dr. Ratio",
+                "line": "The principle of balancing work and relaxation is scientifically grounded, with the relevant proof process detailed on page 21 of the 31467th issue of the academic journal Starseizer . Acquiring knowledge aims to enhance living. Don't invert priorities like those dolts at the Guild.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_30_ratio_110.ogg/revision/latest?cb=20240630222153",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dr._Ratio_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I hope you have fun at the festival."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Hmph, then you'll excuse me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_30_ratio_111.ogg/revision/latest?cb=20240630222155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_34.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dr. Ratio again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "I detest noisy gatherings, as they intrude upon my thoughts... What a waste of time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_30_ratio_112.ogg/revision/latest?cb=20240630222157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_35.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toTopaz and Numby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "▶ Well if it isn't (Trailblazer)? It hasn't been long, and yet here we are again. How are you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_30_topaz_101_m.ogg/revision/latest?cb=20240630222301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Numby",
+        "line": "Oink... oink!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_30_zhangzhang_101.ogg/revision/latest?cb=20240630222401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Numby_37.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Life is as wonderful as ever.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Hah, that's what I thought! I heard you guys pulled off a big stunt, cutting down the Oak Family in one fell swoop.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Vo_chapter3_30_topaz_102.ogg/revision/latest?cb=20240630222303",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_38.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Such a pity I couldn't be there, or else I would have lent a helping hand.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_30_topaz_103.ogg/revision/latest?cb=20240630222305",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Dead tired.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Hah, that's what I thought! I heard you guys pulled off a big stunt, cutting down the Oak Family in one fell swoop.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/Vo_chapter3_30_topaz_104.ogg/revision/latest?cb=20240630222307",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_40.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Such a pity I couldn't be there, or else I would have lent a helping hand.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_30_topaz_105.ogg/revision/latest?cb=20240630222309",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm in the mood for a job change.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Hmm? So direct. Aren't you afraid I might take you seriously?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Vo_chapter3_30_topaz_106.ogg/revision/latest?cb=20240630222311",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_42.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "Thinking about it though, the lives of the Nameless are so excessively exciting. I heard you guys pulled off a big stunt, cutting down the Oak Family in one fell swoop.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_30_topaz_107.ogg/revision/latest?cb=20240630222313",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_43.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Topaz",
+                "line": "If one day you're tired and looking for a change in work environment or you want a desk job, just contact me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_30_topaz_108.ogg/revision/latest?cb=20240630222315",
+                "is_unavailable": false,
+                "audio_filename": "audio_Topaz_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Look at how bustling this ship is, not bad! Someday when I'm less tied up, I plan to host a grand party on my eco-ship, and you'll all be on the guest list.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_30_topaz_109.ogg/revision/latest?cb=20240630222317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_45.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I wanna ask you a question about that transform..."
+    },
+    {
+        "type": "note",
+        "text": "...Are you also able to transform yourself?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Trans... form? What are you saying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_30_topaz_110.ogg/revision/latest?cb=20240630222319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Oh... I understand now. You're referring to Aventurine's Cornerstone right? Sorry, compared to him, my ability is not as \"visual.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_30_topaz_111.ogg/revision/latest?cb=20240630222321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Guess there's no harm telling you. The abilities of the Ten Stonehearts ' cornerstones are all different. Some can even read your thoughts, grasp your desires... So be careful...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Vo_chapter3_30_topaz_112.ogg/revision/latest?cb=20240630222323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Now that I think about it, it was good that Bronya got there when she did in Belobog — if she came any later, we probably wouldn't have ended up as friends~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_30_topaz_113.ogg/revision/latest?cb=20240630222325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_49.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Topaz again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Topaz",
+        "line": "Look at how bustling this ship is, not bad! Someday when I'm less tied up, I plan to host a grand party on my eco-ship, and you'll be on the guest list.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_30_topaz_114.ogg/revision/latest?cb=20240630222326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Topaz_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toJade, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "▶ Hey there, lively ( guy / lady ) ! Welcome to the Bonajade Exchange.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_30_jade_101_m.ogg/revision/latest?cb=20240630221935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "What should I call you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_30_jade_102.ogg/revision/latest?cb=20240630221937",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_52.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "My name is (Trailblazer).",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "What a unique name.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_30_jade_103.ogg/revision/latest?cb=20240630221938",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_53.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "▶ So, ( Mr. / Miss ) (Trailblazer), what do you wish for? And what are you willing to sacrifice for it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_30_jade_104_m.ogg/revision/latest?cb=20240630221942",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "My name is March 7th .",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "No problem. Let's just use this name.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_30_jade_105.ogg/revision/latest?cb=20240630221944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_55.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "▶ So, ( Mr. / Miss ) March 7th — What do you wish for? And what are you willing to sacrifice for it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_30_jade_106_m.ogg/revision/latest?cb=20240630221948",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_56.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "My name is... Sunday .",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "Hmm... Not a bad name, just lacking in virtue.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_30_jade_107.ogg/revision/latest?cb=20240630221950",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_57.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jade",
+                "line": "▶ So, ( Mr. / Miss ) Sunday, what do you wish for? And what are you willing to sacrifice for it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Vo_chapter3_30_jade_108_m.ogg/revision/latest?cb=20240630221953",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jade_58.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Make Nanook bow down to me!"
+    },
+    {
+        "type": "note",
+        "text": "I want to be the CEO of the IPC!"
+    },
+    {
+        "type": "note",
+        "text": "Revive Akivili !"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Oh... This is your wish?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Vo_chapter3_30_jade_109.ogg/revision/latest?cb=20240630221955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_59.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Lady Bonajade doesn't even blink. You're guessing she doesn't have any sense of humor."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Sounds simple enough. Very pragmatic. Then, let's discuss the cost.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_30_jade_110.ogg/revision/latest?cb=20240630221957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_60.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'm listening..."
+    },
+    {
+        "type": "note",
+        "text": "No way. This is the endgame already?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "I wouldn't be too worried.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_30_jade_111.ogg/revision/latest?cb=20240630221959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "To fulfill this wish, the thing I need is simple: The tail of an animal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_30_jade_112.ogg/revision/latest?cb=20240630222001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_62.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Sounds easy enough."
+    },
+    {
+        "type": "note",
+        "text": "What animal?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Well, it's a two-legged animal... With black fur, a round head, and long ears, it's omnivorous and is prone to mood swings. Most importantly, it has mastered the human language and can communicate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_30_jade_113.ogg/revision/latest?cb=20240630222003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Bring its tail to me as collateral and your dreams will come true.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Vo_chapter3_30_jade_114.ogg/revision/latest?cb=20240630222004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_64.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It seems that \"Lady Bonajade\" is not without a sense of humor... You have to admit, her skill in using dark humor is superior to yours."
+    },
+    {
+        "type": "note",
+        "text": "...Hopefully, there are scissors on the Express."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "▶ May fate bring us together again, ( Mr. / Miss ) (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_30_jade_115_m.ogg/revision/latest?cb=20240630222008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jade again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "▶ May fate bring us together again, ( Mr. / Miss ) (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_30_jade_116_m.ogg/revision/latest?cb=20240630222012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_66.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Lady Bonajade stares at you, seemingly piercing through all your desires and thoughts."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toArgenti, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Argenti",
+        "line": "We meet again, my dear friend. Your journey of the Beauty is even more elegant than mine. My most sincere regards to you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_30_argenti_101.ogg/revision/latest?cb=20240731034140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Argenti_67.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Sincere regards to you too, dear friend.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "Even after achieving such remarkable feats, you remain humble and gentle... Such is the true mark of knightly grace!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_30_argenti_102.ogg/revision/latest?cb=20240731034143",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You flatter me too much...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "How could it be? The Beauty holds no bias. My words are fair and just.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_30_argenti_103.ogg/revision/latest?cb=20240731034146",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_69.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "When will I be able to unlock a new Path then?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "Unlock? An eloquent and picturesque choice of words, yet you have already set forth on the Path of Beauty",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_30_argenti_104.ogg/revision/latest?cb=20240731034149",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_70.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Argenti",
+        "line": "I have heard of your valiant deed in leading others to vanquish the Omen of Evil. Though the tale bears a tinge of regret, you have undoubtedly championed Beauty and justice. May Idrila smile upon you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_30_argenti_105.ogg/revision/latest?cb=20240731034154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Argenti_71.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The Omen of Evil?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "If an admirer of the Beauty gets lost in the pursuit of power, they risk descending into \"the Omen of Evil,\" a form which is neither human nor beast.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_30_argenti_106.ogg/revision/latest?cb=20240731034200",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_72.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "Although Mr. Sunday did not cross paths with the Path of Beauty, his actions were no different from the Omen of Evil. A lamentable soul lost on the path of righteousness... truly a matter of deep regret.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_30_argenti_107.ogg/revision/latest?cb=20240731034202",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_73.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why were you not there during the final battle?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "I'm ashamed to admit, Ena 's dream was too realistic. I couldn't bear to bid farewell to a fallen friend, who had long turned into a beast. I lingered in that illusory dream for far too long... Ah, his voice and smile were too vivid.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_30_argenti_108.ogg/revision/latest?cb=20240731034211",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_74.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "I didn't pass the trial of Beauty this time, spending much time in self-reflection over my own hesitation. Yet I wish for Idrila to remain my beacon, a banner for me to strengthen my determination for the Beauty.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_30_argenti_109.ogg/revision/latest?cb=20240731034215",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I hope you have fun at the festival.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Argenti",
+                "line": "Thank you, and may the Beauty always be with you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_30_argenti_110.ogg/revision/latest?cb=20240731034219",
+                "is_unavailable": false,
+                "audio_filename": "audio_Argenti_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Argenti again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Argenti",
+        "line": "Thank you, and may the Beauty always be with you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_30_argenti_111.ogg/revision/latest?cb=20240731034221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Argenti_77.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Wait for the opening of the Charmony Festival"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Just as you are about to take a seat, a familiar voice grabs hold of your attention — it'sFirefly.She seems to have something to say to you... After all, so much has happened, so she must have all kinds of complex feelings that she wants to share with you. There's still time — chat with her."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the seat)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (The festival hasn't started. Let's take a quick break...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_30_player_104_m.ogg/revision/latest?cb=20240630222035",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hi, we meet again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_30_firefly_101.ogg/revision/latest?cb=20240630221722",
+        "is_unavailable": false,
+        "audio_filename": "audio__79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Who's that...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_30_player_105_m.ogg/revision/latest?cb=20240630222039",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's really you. I knew I didn't get the wrong person.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/Vo_chapter3_30_firefly_102.ogg/revision/latest?cb=20240630221723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_81.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You saw me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Yes, it's just I didn't get the chance to say hello. There's still some time before Charmony Festival starts. Do you want to chat?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_30_firefly_103.ogg/revision/latest?cb=20240630221725",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_82.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You mistook some else for me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "It was you. I saw you opening treasure chests, hitting balloons, and playing the Dreamy Slots. I don't think I'm mistaken... right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_30_firefly_104.ogg/revision/latest?cb=20240630221727",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There's still some time before Charmony Festival starts. Do you want to chat?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_30_firefly_105.ogg/revision/latest?cb=20240630221729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_84.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You walk and talk with Firefly, stopping in your tracks when more comes into view."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Two murder cases, a showdown with the IPC's ambassadors, the legacy of the Nameless, and a remnant of the Order who wishes to replace an Aeon -created paradise with a dream — you guys even ended up shattering the dream... It's truly been quite a vacation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_30_firefly_106.ogg/revision/latest?cb=20240630221731",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's a good thing that you guys managed to overcome all those difficult problems. Congratulations! After the Charmony Festival's opening, will you guys be leaving again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_30_firefly_107.ogg/revision/latest?cb=20240630221733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I don't know where our next destination will be."
+    },
+    {
+        "type": "note",
+        "text": "I'm not sure if we'll be able to depart smoothly."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There will always be somewhere. After all, you guys are on the Path of the Trailblaze ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_30_firefly_108.ogg/revision/latest?cb=20240630221735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Before joining the Stellaron Hunters , Elio told me that this journey will tell me how to live on. That's all he said. As for the rest, it's up to me to find out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_30_firefly_112.ogg/revision/latest?cb=20240630221737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So, I'll pay extra attention to any leads that will let me live on. This trip to Penacony is no different.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Vo_chapter3_30_firefly_113.ogg/revision/latest?cb=20240630221738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_89.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "No wonder you were interested in investigating the Watchmaker.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Yes... sadly I was looking in the wrong place. But I did reap some rewards.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_30_firefly_114.ogg/revision/latest?cb=20240630221741",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_90.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Looks like you didn't get what you wanted this time.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Yes... Initially, I thought that the answer might lie with the riddle of the Watchmaker. I was looking in the wrong place, but I did reap some rewards.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_30_firefly_115.ogg/revision/latest?cb=20240630221743",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_91.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Do you know Miss Jade from the IPC's Strategic Investment Department? Bonajade Exchange belongs to her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_30_firefly_116.ogg/revision/latest?cb=20240630221744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "She told me her price, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_30_firefly_117.ogg/revision/latest?cb=20240630221746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_93.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Did you take the deal?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "No. But what she wanted wasn't my answer either.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_30_firefly_118.ogg/revision/latest?cb=20240630221748",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_94.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't take the deal. Those IPC people may have ulterior motives.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I know. But what she wanted wasn't my answer either.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_30_firefly_119.ogg/revision/latest?cb=20240630221750",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_95.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Of course I want to live on, but... what fate owes me, I want it paid back, not passed on. No one else should be involved, because this is a grudge between me and fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_30_firefly_120.ogg/revision/latest?cb=20240630221752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Ah, speaking of which... Actually, I feel that I still owe you a formal apology, for... that matter with \"the performer of the Iris Family .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_30_firefly_121.ogg/revision/latest?cb=20240630221754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Even the smallest of lies can turn into a betrayal as sharp as a blade... I'm sorry, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_30_firefly_122_m.ogg/revision/latest?cb=20240630221758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_98.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I never felt hurt by this.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Really? Then it seems... what Kafka taught me was correct.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_30_firefly_123.ogg/revision/latest?cb=20240630221800",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_99.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No problem. You've already apologized.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "It was an emergency, so I never had the chance to formally apologize to you, and admittedly, I was the one to blame.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_30_firefly_124.ogg/revision/latest?cb=20240630221801",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_100.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You shouldn't have lied to me in the beginning.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Yes, and for that, I'm sorry.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_30_firefly_125.ogg/revision/latest?cb=20240630221803",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "To me, hiding is much easier than being honest... yet, I still want to try expressing my emotions as any ordinary person would...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_30_firefly_126.ogg/revision/latest?cb=20240630221805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "ComposedBloodhound FamilyMember",
+        "line": "It's that girl! Get moving! Arrest that criminal before the Charmony Festival's opening ceremony starts!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_30_rachB_101.ogg/revision/latest?cb=20240630222134",
+        "is_unavailable": false,
+        "audio_filename": "audio_ComposedBloodhound_FamilyMember_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I can't believe they've chased me this far... Looks like we'll have to say our goodbyes. Don't worry about me. Just go and enjoy the ceremony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_30_firefly_127.ogg/revision/latest?cb=20240630221807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The \"script\" hasn't reached its end yet — we will meet again!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_30_firefly_128.ogg/revision/latest?cb=20240630221809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I hope she's okay... But if it's only those two Hounds again, she'll probably be fine.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_30_player_106_m.ogg/revision/latest?cb=20240630222043",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I'll send a message later to check in on her. Let's go attend the Charmony Festival first.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Vo_chapter3_30_player_107_m.ogg/revision/latest?cb=20240630222046",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_107.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the seat)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Let's take a seat here...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_30_player_108_m.ogg/revision/latest?cb=20240630222050",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_108.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player has not yet spoken with all guests)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ (Why do I feel like there's someone waiting for me... I probably have enough time, maybe I should take a walk?)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_30_player_109_m.ogg/revision/latest?cb=20240630222054",
+                "is_unavailable": false,
+                "audio_filename": "audio_(Trailblazer)_109.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(If the player has already spoken with all guests)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ (Everything is settled... But there's still some time left. Maybe I should take a walk?)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_30_player_110_m.ogg/revision/latest?cb=20240630222057",
+                "is_unavailable": false,
+                "audio_filename": "audio_(Trailblazer)_110.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Wait for the opening ceremony to start.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ (Forget it, I've done enough walking around already. Let's take a seat and rest for a while...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_30_player_111_m.ogg/revision/latest?cb=20240630222101",
+                "is_unavailable": false,
+                "audio_filename": "audio_(Trailblazer)_111.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I feel like walking around.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "▶ (Let's keep walking...)",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_30_player_113_m.ogg/revision/latest?cb=20240630222109",
+                "is_unavailable": false,
+                "audio_filename": "audio_(Trailblazer)_112.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Exits dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Receive a message from Firefly)"
+    },
+    {
+        "type": "note",
+        "text": "Messages Firefly Firefly It's me, Firefly I've got it all handled Don't worry. I didn't do anything rash. I've hidden myself away It's a pity I won't be able to see Miss Robin perform..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like I don't have to worry about her. Let's wait for the opening ceremony to start...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_30_player_112_m.ogg/revision/latest?cb=20240630222105",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_113.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Some time later..."
+    },
+    {
+        "type": "condition",
+        "text": "(Screen remains black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guests",
+        "line": "Wow, it's Miss Robin !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_30_guestK_101.ogg/revision/latest?cb=20240630221927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guests_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guests",
+        "line": "Miss Robin! Miss Robin! Marry me, Miss Robin! Glory to The Family! Glory to The Family!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_30_guestK_102.ogg/revision/latest?cb=20240630221929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guests_115.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades in from black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Distinguished guests, fellow Family members, ladies, gentlemen and friends from all over the cosmos —",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_30_robin_101.ogg/revision/latest?cb=20240630222159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It's a pleasure to join you all in celebrating the grandest ceremony of the Amber Era , the Charmony Festival. Firstly, on behalf of the Penacony Family's five major lineages...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_30_robin_102.ogg/revision/latest?cb=20240630222201",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "And on behalf... of myself, I'd like to extend a warm welcome to all our guests!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_30_robin_103.ogg/revision/latest?cb=20240630222203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "As you all may have noticed, this year's Charmony Festival is far from regular. Thanks to the efforts of everyone, this celebration is unprecedented in scale, with factions from across the cosmos in attendance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/Vo_chapter3_30_robin_104.ogg/revision/latest?cb=20240630222206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Not only that, the customary opening ceremony held at the Penacony Grand Theater has now moved to the Radiant Feldspar — the very airship you all stand upon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_30_robin_105.ogg/revision/latest?cb=20240630222208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "We invite you to express your warmest applause and deepest appreciation for Oti Alfalfa — head of the Alfalfa Family — for his selfless devotion to the Harmony 's cause!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Vo_chapter3_30_robin_106.ogg/revision/latest?cb=20240630222210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "What makes this festival so uniquely significant? As is widely known, the Radiant Feldspar had to halt its voyage due to an anomaly in the sweet dream, sparking widespread discussion in the Twelve Hours...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_30_robin_107.ogg/revision/latest?cb=20240630222212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "But thanks to the hard work of Penacony's internal and external factions, we've finally gotten the Dreamscape back on track, just in time for the Charmony Festival. And as they say, good things come in pairs. The Charmony Festival not only celebrates this achievement but also marks the relaunch of the Radiant Feldspar.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_30_robin_108.ogg/revision/latest?cb=20240630222214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "And finally, the last reason. Does everyone remember the Watchmaker ? In truth, The Family has poured their efforts into this festival just to commemorate this legendary luminary...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_30_robin_109.ogg/revision/latest?cb=20240630222216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "The father of Penacony, Mikhail Char Legwork, one of the legendary Nameless who laid the foundations of Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_30_robin_110.ogg/revision/latest?cb=20240630222220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "In the most bewildering times of the Planet of Festivities , it was he who descended from the sky with his companions, who taught us through Trailblazing where freedom lies. It was also they who led the vanguard in the pioneering of the Dreamscape, in exchange for what is now known as the paradise of Harmony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_30_robin_111.ogg/revision/latest?cb=20240630222222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It can be said that Penacony's splendid success today is deeply rooted in the Trailblazing ethos the Watchmaker planted within us. Only by honoring this Trailblazing spirit can we fulfill our mission and spread Harmony to a broader audience.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_30_robin_112.ogg/revision/latest?cb=20240630222224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Aww... That's so nice of her. She's talking about us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_30_mar7th_101.ogg/revision/latest?cb=20240630222013",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_128.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We haven't even been mentioned yet...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Oh, come on! It doesn't matter if she's talking about the old or new generation, we're all still a part of the Astral Express family!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/Vo_chapter3_30_mar7th_102.ogg/revision/latest?cb=20240630222015",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_129.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Our Trailblazing spirit is unparalleled!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That's right! Unparalleled!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_30_mar7th_103.ogg/revision/latest?cb=20240630222017",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_130.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The Express crew would've been disbanded long ago if it weren't for you!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Obviously! Wait! Why does that seem so ominous...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_30_mar7th_104.ogg/revision/latest?cb=20240630222019",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_131.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "And now the sweet dream is back on track, all thanks to the Trailblaze, of course. If it weren't for everyone on the Astral Express, we wouldn't be able to successfully host this Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_30_robin_113.ogg/revision/latest?cb=20240630222227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Thus, with unanimous consent from the five major lineages, Penacony's Family — on behalf of all family members throughout the cosmos, offer a token of appreciation to the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_30_robin_114.ogg/revision/latest?cb=20240630222229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oooh... I wonder if it's gonna be a big one?!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_30_mar7th_105.ogg/revision/latest?cb=20240630222020",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...We will transfer ownership of the Radiant Feldspar to the Astral Express! A meager appreciation that we hope you will accept with grace.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_30_robin_115.ogg/revision/latest?cb=20240630222231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Let us gift our applause and cheers to these brave and dauntless Nameless!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_30_robin_116.ogg/revision/latest?cb=20240630222233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guests",
+        "line": "Nameless! Nameless! Nameless!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_30_guestK_103.ogg/revision/latest?cb=20240630221931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Guests_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "And now, I propose a toast...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_30_robin_117.ogg/revision/latest?cb=20240630222235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "To Harmony, to the Trailblaze, to the future of Penacony and the universe, and to the generous Alfalfa Family Head, Mr. Oti Alfalfa...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_30_robin_118.ogg/revision/latest?cb=20240630222237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...Cheers!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_30_robin_119.ogg/revision/latest?cb=20240630222238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_140.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Acutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Old Oti",
+                "line": "To make a decision like that... This little bird is no less capable than her brother!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "All's well that ends well... right?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "But have you forgotten someone, my gray-haired friend?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "I put a bomb on this ship.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "You have ten minutes to find it — better hurry!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Find the bombs based on \"Sparkle's Wondrous Treasure Map\" (0/999)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, something unexpected happened during the opening of the Charmony Festival: That laughter-worshiping girl had painstakingly laid out buttons everywhere obviously for precisely this moment.999 imaginary neutron bombs... seriously, how on earth did she get her hands on so many weapons of mass destruction? But in any case, as one of the Nameless, you are duty-bound to stand up and protect the Dreamjoy: Follow the clues and overcome the crisis as soon as possible."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (When did this get shoved into my hands...?!)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_30_player_114_m.ogg/revision/latest?cb=20240630222112",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (There are still so many bombs... Now's not the time for plot twists! I can't handle this alone — time to create a group and inform everyone.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_30_player_115_m.ogg/revision/latest?cb=20240630222117",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_142.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Send a message to1111111111)"
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 Report the situation about the bomb. (Trailblazer) We've got a problem, friends There's an imaginary neutron bomb on this ship March 7th ? Welt What's happening? Keep reporting about the bomb. (Trailblazer) It's all thanks to that Masked Fool \"From Where to View Fireworks\" has joined the chat From Where to View Fireworks Miss Sparkle will explain the situation personally! How did you get into the group? (Trailblazer) ??? I didn't add you to the group From Where to View Fireworks That's Miss Sparkle for you. She doesn't need an invite Explain. (Trailblazer) Fine, spill it then From Where to View Fireworks You're good at reading the room. I like that! Turning yourself in, huh? (Trailblazer) How dare you show yourself in this group??? Time for us to teach you a lesson! From Where to View Fireworks Sure! Then come through the internet and try to catch me From Where to View Fireworks All right, down to business! Is everyone flabbergasted yet? Weren't Miss Sparkle's buttons all confiscated already? Why is the bomb timer still active? Actually, all credit goes to our brave Hounds! Thanks to their meticulous efforts in gathering the buttons, Miss Sparkle was able to press all of them one by one~ Miss Sparkle's certainly worked her finger to the bone... Pressing through a whopping 100,000 buttons, she spent a whole 48 system hours on it! March 7th ... Dan Heng ... Boothill What the fridge is wrong with you??? Argenti Do not be crass, my silver cowboy! ... (Trailblazer) ... That sure is hard work... (Trailblazer) All the other things you could've done with this level of patience... From Where to View Fireworks Your appreciation is received! Of course, it was still down to Miss Sparkle's luck I don't know why, but there were a total of 16,537 esteemed Dreamchasers who volunteered to help Mistress Sparkle bear her burden... Girls who like to smile are always the ones with decent luck~ Anyway, the bomb Miss Sparkle placed on the cruise ship is hidden among 999 dolls You bright-eyed people will surely find where the real bomb is hidden. Good luck! \"From Where to View Fireworks\" has left the chat March 7th How many??? Himeko Don't panic. We'll deal with this together Robin Everyone, please don't make any commotion to cause unnecessary panic I will arrange for The Family members to prep for evac. But we'll still have to rely on you all to find and defuse the bomb The Oak Family has always relied on the strength of Order to guarantee everyone that \"death never occurs in dreams\" But the blessings of Order are now lost... Its consequences may be unimaginably detrimental Dan Heng I agree. If anyone finds anything, please update the group promptly. Argenti The Beauty is duty-bound! Topaz The IPC will lend our aid too. Don't worry, everyone Aventurine Wanna bet who will survive this? Dr. Ratio k Dr. Ratio has left the chat Boothill Let's gooooooo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (All set... let's start following the plan)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_30_player_116_m.ogg/revision/latest?cb=20240630222121",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_143.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Open Sparkle's Wondrous Treasure Map, optional)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Sparkle's Wondrous Treasure Map"
+            },
+            {
+                "type": "note",
+                "text": "Miss Sparkle thoughtfully marked the locations of (five of the 999) imaginary neutron bombs for you — she's just too kind!"
+            },
+            {
+                "type": "note",
+                "text": "Where are the rest of them, you ask? Just take a few strolls around on this luxury airship~"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Find the bombs based on \"Sparkle's Wondrous Treasure Map\""
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate to the \"Constable\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "You've finally arrived, O great gray haired little one! I am the constable around these parts, and right now I'm posing as a bomb!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_30_executordoll_101.ogg/revision/latest?cb=20240630221630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_144.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're not very good at character design, are you?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Constable\" Doll",
+                "line": "What do you know? This is called foreshadowing!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_30_executordoll_102.ogg/revision/latest?cb=20240630221632",
+                "is_unavailable": false,
+                "audio_filename": "audio_Constable_Doll_145.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Bombs are playable characters now?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Constable\" Doll",
+                "line": "You don't like it? Fine. I'm now the Bomb Demon then.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Vo_chapter3_30_executordoll_109.ogg/revision/latest?cb=20240630221645",
+                "is_unavailable": false,
+                "audio_filename": "audio_Constable_Doll_146.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "Satisfied? If not, you'll just have to make do. All right. Now that you've found me, it's my turn to complete my mission. Next, I'll count down from five, and then explode!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Vo_chapter3_30_devildoll_101.ogg/revision/latest?cb=20240630221554",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_147.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "Five...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_30_devildoll_102.ogg/revision/latest?cb=20240630221556",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_148.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "Four...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_30_devildoll_103.ogg/revision/latest?cb=20240630221558",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_149.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "One...!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_30_devildoll_104.ogg/revision/latest?cb=20240630221559",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_150.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Where's three?"
+            },
+            {
+                "type": "note",
+                "text": "Where's two?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "Did I miss a number? Oh, so I did. No matter though, I've never learned how to count before — I mean, Bomb Demon doll has never learned how to count.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_30_devildoll_105.ogg/revision/latest?cb=20240630221601",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_151.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Bomb Devil\" Doll",
+                "line": "I'm not even a real bomb! Was it surprising, shocking, horrifying? No? Really? Fine. That's too bad then. You really ought to learn how to win a girl over!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/Vo_chapter3_30_devildoll_106.ogg/revision/latest?cb=20240630221603",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bomb_Devil_Doll_152.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Exits dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Great gray haired little one? So am I great, or little?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Constable\" Doll",
+                "line": "I'm about to explode, and that's all you're concerned about?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_30_executordoll_110.ogg/revision/latest?cb=20240630221646",
+                "is_unavailable": false,
+                "audio_filename": "audio_Constable_Doll_153.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "All right. Now that you've found me, it's my turn to complete my mission. Next, I'll count down from five, and then explode!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_30_executordoll_111.ogg/revision/latest?cb=20240630221648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "Five...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Vo_chapter3_30_executordoll_112.ogg/revision/latest?cb=20240630222728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "Four...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_30_executordoll_113.ogg/revision/latest?cb=20240630221652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "One...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_30_executordoll_114.ogg/revision/latest?cb=20240630221653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_157.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Where's three?"
+    },
+    {
+        "type": "note",
+        "text": "Where's two?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "Is it really that important? I'm not even a real bomb!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_30_executordoll_115.ogg/revision/latest?cb=20240630221655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Constable\" Doll",
+        "line": "Was it surprising, shocking, horrifying? No? Really? Fine. That's too bad then. You really ought to learn how to win a girl over!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_30_executordoll_116.ogg/revision/latest?cb=20240630221657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Constable_Doll_159.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This \"Constable\" Doll finally falls silent. You open it up (more like tear it apart, though that sounds cruel) and uncover its true nature — a mere toy equipped with a remote speaker."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate to the \"Sheriff\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sheriff\" Doll",
+        "line": "▶ Oh, by the Laughter, to think you've seen through my disguise this quickly! Honestly, my dear ( Mr. / Miss ) Gray Hair, you're just like that ferocious pangolin in Madam Susan's bedroom!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Vo_chapter3_30_sheriffdoll_101_m.ogg/revision/latest?cb=20240630222242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sheriff_Doll_160.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Enough talk, let me defuse the bomb!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Sheriff\" Doll",
+                "line": "▶ Keep your shirt on! A watched pot never boils, ( Mister / Miss ) !",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Vo_chapter3_30_sheriffdoll_102_m.ogg/revision/latest?cb=20240630222246",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sheriff_Doll_161.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What exactly have I seen through...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Sheriff\" Doll",
+                "line": "Oh my, your acting prowess is almost on par with Miss Sparkle! But you still can't fool me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_30_sheriffdoll_103.ogg/revision/latest?cb=20240630222248",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sheriff_Doll_162.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why does she have a pangolin in her bedroom?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Sheriff\" Doll",
+                "line": "Hmph, how shameful! Did Uncle Parker not teach you properly? One must pose appropriate questions at the appropriate time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_30_sheriffdoll_104.ogg/revision/latest?cb=20240630222250",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sheriff_Doll_163.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sheriff\" Doll",
+        "line": "I'm on to you! You're here because you accepted bribes from the duplicitous and corrupt leader of that Sparkle Gang, the scoundrel who wants to become mayor of Sparkle City — Blazin' Bro!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_30_sheriffdoll_105.ogg/revision/latest?cb=20240630222251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sheriff_Doll_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sheriff\" Doll",
+        "line": "This evil city has fallen into depravity! As the Sheriff Doll, I cannot idly stand by and do nothing! And now, only this imaginary neutron bomb can completely cleanse Sparkle City of your ilk!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Vo_chapter3_30_sheriffdoll_106.ogg/revision/latest?cb=20240630222253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sheriff_Doll_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sheriff\" Doll",
+        "line": "If you wish to defeat me, you'll have to face off against the great Sparkle's dogs — they're my fiercely loyal companions, and you'll never defeat them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_30_sheriffdoll_107.ogg/revision/latest?cb=20240630222255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sheriff_Doll_166.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstDreamjolt Troupe's Bubble Hound×2,Dreamjolt Troupe's Fortune Seller×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Sheriff\" Doll",
+        "line": "To think I was defeated by the despicable underling of Blazin' Bro... You'll never get away with this. Because I'm just an adorable doll, not some imaginary neutron bomb!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_30_sheriffdoll_108.ogg/revision/latest?cb=20240630222257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sheriff_Doll_167.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The \"Sheriff\" doll lets out a long sigh and, with its exquisite acting, feigns death. Unfortunately, the imaginary neutron bomb isn't here, it's best to look elsewhere."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Detective\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "▶ Ha, we meet again, (Trailblazer). I am Penacony's famed detective.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_30_detectivedoll_101_m.ogg/revision/latest?cb=20240630221509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "Got yourself into a pickle? I'm more than happy to help, but unfortunately, I'm preoccupied with a couple of unsolved cases... So, you'll have to wait your turn.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/Vo_chapter3_30_detectivedoll_102.ogg/revision/latest?cb=20240630221511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_169.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I just need that bomb in your hands."
+    },
+    {
+        "type": "note",
+        "text": "You're telling me your case is related to the bomb?"
+    },
+    {
+        "type": "note",
+        "text": "I need your help finding a bomb."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "Bomb? Drat... It completely slipped my mind: Dr. Boom specializes in explosives!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_30_detectivedoll_103.ogg/revision/latest?cb=20240630221513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "▶ I need your help, ( Mr. / Miss ) (Trailblazer). You've had quite a few run-ins with Dr. Boom, and with the recent bomb situation, you're bound to find evidence that proves Dr. Boom is the killer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_30_detectivedoll_104_m.ogg/revision/latest?cb=20240630221517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "The first case is the SoulGlad factory arson case. We found a hammer, a doll and half a liter of an unidentified fluid at the scene of the crime. Our forensics results showed it's a red herring.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_30_detectivedoll_105.ogg/revision/latest?cb=20240630221519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "The second case is the Blue Hour auction robbery. A gang of masked thugs broke in, stole a fragment of the Astral Express, and left behind a large hammer, a doll, and a half-dead red herring at the scene.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_30_detectivedoll_106.ogg/revision/latest?cb=20240630221521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "Those are all the details. The way I see it, there must be a link between these two cases that will be key to exposing Dr. Boom.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_30_detectivedoll_107.ogg/revision/latest?cb=20240630221523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Detective\" Doll",
+        "line": "I trust in your deduction. Which piece of evidence do you think is the deciding one?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Vo_chapter3_30_detectivedoll_108.ogg/revision/latest?cb=20240630221525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Detective_Doll_175.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The hammer...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Bzzt — Wrong answer! The hammer is a murder weapon, but these two cases aren't murder cases!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/Vo_chapter3_30_detectivedoll_109.ogg/revision/latest?cb=20240630221527",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_176.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Oh Gray Hair, Gray Hair, it's been so long, but you haven't changed at all. I'm sorely disappointed...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_30_detectivedoll_110.ogg/revision/latest?cb=20240630221528",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_177.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "But, seeing as you've put in so much effort, I'll throw you a bone: The bomb's not here. This is only a prank I've craftily set up. Hurry, time's running out. You'd better find that real bomb quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_30_detectivedoll_111.ogg/revision/latest?cb=20240630221530",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_178.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The doll...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Bzzt — Wrong answer! The dolls at the two scenes are modeled after Dr. Boom and Dr. Bloom respectively — they're not the same!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_30_detectivedoll_112.ogg/revision/latest?cb=20240630221532",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_179.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Oh Gray Hair, Gray Hair, it's been so long, but you haven't changed at all. I'm sorely disappointed...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_30_detectivedoll_113.ogg/revision/latest?cb=20240630221534",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_180.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "But, seeing as you've put in so much effort, I'll throw you a bone: The bomb's not here. This is only a prank I've craftily set up. Hurry, time's running out. You'd better find that real bomb quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_30_detectivedoll_114.ogg/revision/latest?cb=20240630221536",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_181.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The red herring...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Bzzt — Wrong answer! A \"red herring\" is a fake clue to misdirect. It's not meant to be evidence!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_30_detectivedoll_115.ogg/revision/latest?cb=20240630221538",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_182.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Oh Gray Hair, Gray Hair, it's been so long, but you haven't changed at all. I'm sorely disappointed...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_30_detectivedoll_116.ogg/revision/latest?cb=20240630221540",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_183.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "But, seeing as you've put in so much effort, I'll throw you a bone: The bomb's not here. This is only a prank I've craftily set up. Hurry, time's running out. You'd better find that real bomb quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_30_detectivedoll_117.ogg/revision/latest?cb=20240630221542",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_184.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The bomb...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Bzzt — Wrong answer! These two cases don't mention bombs. Are you imagining things?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_30_detectivedoll_118.ogg/revision/latest?cb=20240630221544",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_185.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Oh Gray Hair, Gray Hair, it's been so long, but you haven't changed at all. I'm sorely disappointed...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_30_detectivedoll_119.ogg/revision/latest?cb=20240630221546",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_186.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "But, seeing as you've put in so much effort, I'll throw you a bone: The bomb's not here. This is only a prank I've craftily set up. Hurry, time's running out. You'd better find that real bomb quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/Vo_chapter3_30_detectivedoll_120.ogg/revision/latest?cb=20240630221548",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_187.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's you! You were at both crime scenes!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Bing bing — Correct answer! You're good, Gray Hair. Your mind is pretty sharp!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_30_detectivedoll_121.ogg/revision/latest?cb=20240630221550",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_188.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Detective\" Doll",
+                "line": "Seeing as you've put in so much effort, I'll throw you a bone: The bomb's not here, this is only a prank I've craftily set up. Hurry, time's running out. You'd better find that real bomb quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Vo_chapter3_30_detectivedoll_122.ogg/revision/latest?cb=20240630221552",
+                "is_unavailable": false,
+                "audio_filename": "audio_Detective_Doll_189.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Sparkle's voice faded, leaving behind the doll's body buzzing with white noise. It seems this pitiful doll was transformed into a megaphone by Sparkle."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Trashcan\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Trashcan\" Doll",
+        "line": "Welcome, human. I am an Aeonic Intelligence Droidhead answering machine, also very likely an imaginary neutron bomb.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_30_trashcandoll_101.ogg/revision/latest?cb=20240630222328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Doll_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Trashcan\" Doll",
+        "line": "If you can answer the only question I have for you correctly, you can open up my lid to check if I'm really a bomb or not. If I am, I will initiate my automated shutdown sequence to avert danger.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_30_trashcandoll_102.ogg/revision/latest?cb=20240630222330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Doll_191.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Bring it on!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Trashcan\" Doll",
+                "line": "Fortune favors the bold, and I respect you for it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_30_trashcandoll_103.ogg/revision/latest?cb=20240630222332",
+                "is_unavailable": false,
+                "audio_filename": "audio_Trashcan_Doll_192.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's not gonna be that same old riddle again, is it...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Trashcan\" Doll",
+                "line": "I'll be honest and tell you: It's not.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_30_trashcandoll_104.ogg/revision/latest?cb=20240630222334",
+                "is_unavailable": false,
+                "audio_filename": "audio_Trashcan_Doll_193.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're obviously just a trash can.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Trashcan\" Doll",
+                "line": "You have to look past the surface to see my true essence, and my essence is within this can.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_30_trashcandoll_105.ogg/revision/latest?cb=20240630222337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Trashcan_Doll_194.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Trashcan\" Doll",
+        "line": "Listen up! What creature has four legs in the morning, two legs at noon, and three legs in the evening?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_30_trashcandoll_106.ogg/revision/latest?cb=20240630222339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Doll_195.ogg"
+    },
+    {
+        "type": "note",
+        "text": "People."
+    },
+    {
+        "type": "note",
+        "text": "Bugs."
+    },
+    {
+        "type": "note",
+        "text": "Sweet Dreams Troupe."
+    },
+    {
+        "type": "note",
+        "text": "A trashcan."
+    },
+    {
+        "type": "note",
+        "text": "Sparkle, it's Sparkle!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Trashcan\" Doll",
+        "line": "Correct answer! But, it's a shame...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_30_trashcandoll_107.ogg/revision/latest?cb=20240630222341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Doll_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Trashcan\" Doll",
+        "line": "I hate smartypants!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_30_trashcandoll_108.ogg/revision/latest?cb=20240630222342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trashcan_Doll_197.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstLordly Trashcan×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "note",
+        "text": "You have passed the trial of the \"Trashcan\" doll. As expected, a doll that looks like Sparkle lies at the bottom of the can. Regrettably, it is nothing more than a clump of cotton, devoid of any projectile or aggregative firing devices and their combinations."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Fool\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "Hello, I'm a bomb! There's still some time before I explode, so you can take a look around first!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_30_yuzhedoll_101.ogg/revision/latest?cb=20240630222344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_198.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm here to defuse you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Fool\" Doll",
+                "line": "Defuse? No problem! Executing self-defusing program — this won't take long!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_30_yuzhedoll_102.ogg/revision/latest?cb=20240630222346",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fool_Doll_199.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "All right. I'll go take a look around then.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Fool\" Doll",
+                "line": "That's no problem of course! But if you don't want to go too far, I can also play a soothing tune for you in case you get bored!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_30_yuzhedoll_103.ogg/revision/latest?cb=20240630222348",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fool_Doll_200.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can I just wait around here for a moment?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Fool\" Doll",
+                "line": "We do not have this function called \"Wait Around\"! But it's no problem — to ease any boredom during your wait, I can play a soothing song for you!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_30_yuzhedoll_104.ogg/revision/latest?cb=20240630222350",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fool_Doll_201.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "Now playing Never Give Up, Never Surrender by the trending superstar Ast Rickley from the Epsilon XII System...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_30_yuzhedoll_105.ogg/revision/latest?cb=20240630222352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "...Oh, hang on, Penacony's Family have not purchased the rights to this song — we can't play it here. How about this, I'll recite it for you — next up, please enjoy a recital of Never Give Up, Never Surrender !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/Vo_chapter3_30_yuzhedoll_106.ogg/revision/latest?cb=20240630222354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "\"O Aha ! If you ask me how I feel about you, don't tell me that you pretend not to see!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_30_yuzhedoll_107.ogg/revision/latest?cb=20240630222356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "\"THEY will never give you up, never make you sad! THEY will never give you up, never make you cry!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_30_yuzhedoll_108.ogg/revision/latest?cb=20240630222358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Fool\" Doll",
+        "line": "\"THEY will never say goodbye to you, never tell lies to hurt you — praise Aha!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Vo_chapter3_30_yuzhedoll_109.ogg/revision/latest?cb=20240630222359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fool_Doll_206.ogg"
+    },
+    {
+        "type": "note",
+        "text": "After the almost tearful exclamation of \"Praise Aha!\" comes to pass, all that's left in the doll's mouth is that lingering echoes of an irritating cassette tape. Turns out that it isn't a bomb after all, but a vintage tape recorder."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Outlaw\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Outlaw\" Doll",
+        "line": "▶ Welcome to the Radiant Feldspar, good ( sir / lady ) ! I am a dangerous bomb, and an outlaw who despises law and order. May you have a splendid day!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_30_fawaidoll_101_m.ogg/revision/latest?cb=20240630221701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Outlaw_Doll_207.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're pretty polite.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Outlaw\" Doll",
+                "line": "▶ Thank you, ( mister / miss ) , but courtesy doesn't hide my hazardous lunacy. If you're unconvinced, let me show you: Go fudge yourself, you muddle-fudger!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_30_fawaidoll_102_m.ogg/revision/latest?cb=20240630221705",
+                "is_unavailable": false,
+                "audio_filename": "audio_Outlaw_Doll_208.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm guessing you're also not a real bomb.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Outlaw\" Doll",
+                "line": "I'm not, but so what? I'm still crazy and dangerous. In case you don't believe me, allow me to show you: Go fudge yourself, you muddle-fudger!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_30_fawaidoll_103.ogg/revision/latest?cb=20240630221707",
+                "is_unavailable": false,
+                "audio_filename": "audio_Outlaw_Doll_209.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You don't look or sound that dangerous.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Outlaw\" Doll",
+                "line": "Really? Fork you. If you think this isn't intense enough, I don't mind showing you what real danger and madness look like.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_30_fawaidoll_104.ogg/revision/latest?cb=20240630221709",
+                "is_unavailable": false,
+                "audio_filename": "audio_Outlaw_Doll_210.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Outlaw\" Doll",
+        "line": "To be frank, I didn't become an outlaw because I'm a fudgin' bomb. It's because I'm the fudgin' owner of an ancient, mad, forbidden curse.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_30_fawaidoll_105.ogg/revision/latest?cb=20240630221710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Outlaw_Doll_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Outlaw\" Doll",
+        "line": "Care to experience it? I can chant it for you, but Miss Sparkle won't be responsible for any of the consequences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Vo_chapter3_30_fawaidoll_106.ogg/revision/latest?cb=20240630221712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Outlaw_Doll_212.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's see what you've got!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Outlaw\" Doll",
+                "line": "Holy fudge, you're more insane than I am! Let me gather my wits...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_30_fawaidoll_107.ogg/revision/latest?cb=20240630221714",
+                "is_unavailable": false,
+                "audio_filename": "audio_Outlaw_Doll_213.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Forget it. I value my life too much.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Outlaw\" Doll",
+                "line": "Oh? You scared, lil' fudgehead? It's too late, I tell you! You've already opened Pandora's box...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_30_fawaidoll_108.ogg/revision/latest?cb=20240630221716",
+                "is_unavailable": false,
+                "audio_filename": "audio_Outlaw_Doll_214.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Outlaw\" Doll",
+        "line": "...The ritual is ready. Perk up your ears and listen closely to the most ancient, primal fear etched into the very fudgin' genes of humanity—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_30_fawaidoll_109.ogg/revision/latest?cb=20240630221718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Outlaw_Doll_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Outlaw\" Doll",
+        "line": "Bloomska, boomska, little sparkleeesss!!! Bloomska, boomska, little sparkleeesss!!!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_30_fawaidoll_110.ogg/revision/latest?cb=20240630221720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Outlaw_Doll_216.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The striking resemblance to the voice of the legendary Penaconian cartoon character \" Clockie \" instantly rings an alarm within you! The profound muscle memory from ancient times prompts you to swing your arms in a wide arc, catapulting the doll into the heavens."
+    },
+    {
+        "type": "note",
+        "text": "If the doll's words just now are not false, then indeed there won't be an imaginary neutron bomb exploding on the surface at Golden Hour . No need to worry...?"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Memey the Imp\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "Hello, human. We meet again. I never thought I'd see you here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_30_fuyandoll_101.ogg/revision/latest?cb=20240630221906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "I'm currently on this luxury cruise ship enjoying Penacony's consumer-friendly sugar-coated cannonballs. What about you? Are you just seeing the sights?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_30_fuyandoll_102.ogg/revision/latest?cb=20240630221908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_218.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm here to defuse a bomb.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Memey the Imp\" Doll",
+                "line": "Bomb? Gosh, I'm not a bomb.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_30_fuyandoll_103.ogg/revision/latest?cb=20240630221910",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memey_the_Imp_Doll_219.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Have we met somewhere?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Memey the Imp\" Doll",
+                "line": "If you've been to the Xianzhou Luofu, it's likely we've met .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_30_fuyandoll_104.ogg/revision/latest?cb=20240630221912",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memey_the_Imp_Doll_220.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You remind me of an old acquaintance.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Memey the Imp\" Doll",
+                "line": "Old acquaintance? I'm not even human.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_30_fuyandoll_105.ogg/revision/latest?cb=20240630221914",
+                "is_unavailable": false,
+                "audio_filename": "audio_Memey_the_Imp_Doll_221.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "I'm a heliobus , originally from the Luofu 's Fyxestroll Garden . I'm passionate about researching Xianzhou subcultures, but I've slowly come to realize that Xianzhou subcultures also have their limits.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_30_fuyandoll_106.ogg/revision/latest?cb=20240630221916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "I forgot what happened, but anyway, I ended up in Penacony. I wanted to study a subculture that is completely different from the Xianzhou's, and boy it's really been an eye-opening experience — that is, if I had eyes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_30_fuyandoll_107.ogg/revision/latest?cb=20240630221918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "I've come to realize, the people here don't treat subcultures as actual culture. They call them me... me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_30_fuyandoll_108.ogg/revision/latest?cb=20240630221920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_224.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Memes?"
+    },
+    {
+        "type": "note",
+        "text": "Mesmerizing antagonists?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "Yes meme, that's it. They even have forms. I'm good friends with a meme with sharp teeth and claws. It's very interested in the Xianzhou Vidyadhara culture. I gave it a Xianzhou name, and it was delighted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_30_fuyandoll_109.ogg/revision/latest?cb=20240630221921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "Oh, speaking of which, I should go and look for it. Memey the Monster has an explosive temper, and it's never been very patient.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_30_fuyandoll_110.ogg/revision/latest?cb=20240630221923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Memey the Imp\" Doll",
+        "line": "I hope you can find the real sugar-coated cannonball — I mean, bomb. Bye bye!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_30_fuyandoll_111.ogg/revision/latest?cb=20240630221925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memey_the_Imp_Doll_227.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A wisp of green smoke emerges from the doll's body, and then it lies motionless. It seems this isn't a real imaginary neutron bomb either."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Director\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Director\" Doll",
+        "line": "Hello, lovely actor. You can call me the Director Doll. I often use this name in film credits.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_30_directordoll_101.ogg/revision/latest?cb=20240630221605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Director_Doll_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Director\" Doll",
+        "line": "▶ If you didn't know, I'm the one who directed the entire farce in Penacony. As the leading ( man / lady ) of the show, what did you think? Feel free to share your thoughts...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_30_directordoll_102_m.ogg/revision/latest?cb=20240630221609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Director_Doll_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Director\" Doll",
+        "line": "...Well, actually, due to current plot requirements, you're only allowed to say one line. So, please try and resist the urge to share your thoughts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_30_directordoll_103.ogg/revision/latest?cb=20240630221611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Director_Doll_230.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Right now, I just want to defuse the bomb and advance the plot.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "Really? You really have no questions? Okay then, what a pity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_30_directordoll_104.ogg/revision/latest?cb=20240630221613",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_231.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're the one who made Sunday a villain?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "Sunday? Who's that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_30_directordoll_105.ogg/revision/latest?cb=20240630221615",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_232.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What about the action scene where Acheron had to escape The Family?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "Acheron? Who's that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_30_directordoll_106.ogg/revision/latest?cb=20240630221619",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_233.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened to Robin's journey of uncovering the truth?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "Robin? Who's that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_30_directordoll_107.ogg/revision/latest?cb=20240630221621",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_234.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You have way too many storyline transitions!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "*sigh* It's all my fault for being duped by the Masked Fools! This screenplay was written by someone named \"Miss Sparkle\". She said she graduated from Sparkle University's Film Directing and Screenwriting program, so we instantly hit it off...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_30_directordoll_108.ogg/revision/latest?cb=20240630221623",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_235.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"Director\" Doll",
+                "line": "...Who knew that there was no such thing as the \"Film Directing and Screenwriting program\" at Sparkle University — in fact, Sparkle University isn't even real! Bah, Sparkle.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Vo_chapter3_30_directordoll_109.ogg/revision/latest?cb=20240630221624",
+                "is_unavailable": false,
+                "audio_filename": "audio_Director_Doll_236.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Director\" Doll",
+        "line": "Since you're done asking questions, and I'm done answering... according to the script, I must reveal to you the fact that there's no bomb here at all, thus causing you to want to kick yourself for spending this whole time listening to me prattling on, after which we will part ways.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_30_directordoll_110.ogg/revision/latest?cb=20240630221626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Director_Doll_237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Director\" Doll",
+        "line": "But don't fret! I've also prepared a gift for you — a dream bubble that has the thrilling life-and-death moments I shared with a beautiful Memokeeper ! If you haven't seen it yet, you should hurry up and look for Dr. Edward .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_30_directordoll_111.ogg/revision/latest?cb=20240630221628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Director_Doll_238.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The harmless chatterbox plush doll bows affectionately to you, blowing you a kiss before bounding away, vanishing into the depths of the cabin with joyful leaps."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Origami\" Doll)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Origami\" Doll",
+        "line": "Yahaha! So you've found me... Uh, no, I meant to say \"thank you\", tweet!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_30_zhezhidoll_101.ogg/revision/latest?cb=20240630222407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Origami_Doll_239.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're a bomb?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Origami\" Doll",
+                "line": "What... You can't tell? I'm the Origami Doll, tweet!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_30_zhezhidoll_102.ogg/revision/latest?cb=20240630222408",
+                "is_unavailable": false,
+                "audio_filename": "audio_Origami_Doll_240.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't speak out of turn.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Origami\" Doll",
+                "line": "I-I just got the parts mixed up! Please don't tell anyone, tweet.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_30_zhezhidoll_103.ogg/revision/latest?cb=20240630222410",
+                "is_unavailable": false,
+                "audio_filename": "audio_Origami_Doll_241.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So you're the Origami Bird now then?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "\"Origami\" Doll",
+                "line": "Origami Bird? Can't you tell? I'm the Origami Doll, tweet!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_30_zhezhidoll_104.ogg/revision/latest?cb=20240630222413",
+                "is_unavailable": false,
+                "audio_filename": "audio_Origami_Doll_242.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Origami\" Doll",
+        "line": "Actually, there are 998 more dolls that can pack a punch just like me on the Radiant Feldspar, tweet. Please call them back to the Golden Sparkle Tree. I will prepare a worthy gift for your troubles, tweet!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_30_zhezhidoll_105.ogg/revision/latest?cb=20240630222415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Origami_Doll_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Origami\" Doll",
+        "line": "As for that imaginary neutron bomb you want... Uh, don't interrupt me. I know you never mentioned those three words to me before... Well, the bomb isn't here, tweet! I'm afraid you'll have to look elsewhere for it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_30_zhezhidoll_106.ogg/revision/latest?cb=20240630222417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Origami_Doll_244.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The peculiar doll flicks its twin ponytails and vanishes into the sky of dreamscape, a sight much more thrilling than an Origami Bird. As for the \"Golden Sparkle Tree\"... forget about it, most likely just some random balderdash that Sparkle made up."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the \"Furmur\" Doll)"
+    },
+    {
+        "type": "note",
+        "text": "This \"Furmur\" doll is a Sparkle lookalike."
+    },
+    {
+        "type": "note",
+        "text": "According to the book \"Compilation of Sparkle Vocabulary in Modern and Contemporary Times,\" the term \"furmur\" was first coined in 2005 AE on the Sparkle Planet in the Sparkle star system. Its original meaning is \"fluffy.\" Nowadays, the inhabitants of Sparkle Planet often use \"furmur\" specifically to refer to \"plush dolls.\""
+    },
+    {
+        "type": "note",
+        "text": "In other words, \"furmur doll\" translates to \"fluffy doll doll doll doll.\" It may sound peculiar, but considering its Sparkle origin, it actually makes lots of sense."
+    },
+    {
+        "type": "note",
+        "text": "The \"Furmur\" doll is staring right at you."
+    },
+    {
+        "type": "note",
+        "text": "Can I dismantle your bomb?"
+    },
+    {
+        "type": "note",
+        "text": "Stare back."
+    },
+    {
+        "type": "note",
+        "text": "The \"Furmur\" doll continues to stare right at you."
+    },
+    {
+        "type": "note",
+        "text": "Can you speak, please!?"
+    },
+    {
+        "type": "note",
+        "text": "Continue to stare back."
+    },
+    {
+        "type": "note",
+        "text": "The \"Furmur\" doll's eyes never blink. Honestly, if they did, it would be quite unsettling."
+    },
+    {
+        "type": "note",
+        "text": "Anyway, it's just an ordinary plush toy. Can you really expect it to utter a single word?"
+    },
+    {
+        "type": "note",
+        "text": "If you don't speak, then your silence equates to consent."
+    },
+    {
+        "type": "note",
+        "text": "Keep staring at it."
+    },
+    {
+        "type": "note",
+        "text": "It must be pointed out that this doll has no suspicious features at all. It exudes from within an aura befitting of a \"Furmur\" doll, not that of an imaginary neutron bomb."
+    },
+    {
+        "type": "note",
+        "text": "...which means there is no need to bother it anymore. It makes both you and the doll appear rather pitiful. It's best to promptly put an end to this farce."
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 Black Swan There's progress with the bomb situation I've got good news and bad news Which one would you like first? Good news. (Trailblazer) The good news first Black Swan The good news is, I've found 131 bombs The bad news is, none of them are real bombs Bad news. (Trailblazer) Tell me the bad news Black Swan The bad news is, I've found 131 bombs The good news is, none of them are real bombs You're in here too? (Trailblazer) ??? What are you doing in the group chat? Black Swan Simply put, I've found 131 bombs that aren't real bombs March 7th The Masked Fools really know how to pull a stunt... Himeko Don't worry. Process of elimination is also a problem-solving tactic Robin The evacuation of The Family is underway here. The Bloodhounds are hot on the investigative trail Keep it up, everyone!"
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 Boothill Dadgum Wubbaboo! I give up Argenti What's wrong, silver cowboy? Boothill I found 217 talking dolls Haha Black Swan Haha March 7th Haha Boothill And that's after I got help from the Hounds and that man with plaster head Who knows when we'd find them all if we looked for them ourselves Welt That's a shame... Knowing that Fool's habits, I'm afraid we're going to have to keep filtering through the wrong answers. Argenti Don't fret. The Beauty will guide us!"
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 Argenti My friends, I bring saddening news Topaz Tell us about it Argenti This trial of Beauty is especially dangerous I've found 145 adorable dolls, but thought they were the Fools' bombs March 7th Is this really not a trial of Elation or something...? Argenti No matter what, please be patient, everyone I have a feeling that as long as our virtuous patience can persuade Idrila with sincere conviction, even the most difficult of problems will be resolved Himeko Mr. Argenti is right. Everyone, don't let your guard down"
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 Topaz The IPC's Special Investigations Team is wrapping up here We found a total of 329 dolls, but no bomb Thought I'd drop this update with you guys Boothill Even you guys can't do anything about it? Holy forkin' shirtballs, this is going to be a killer March 7th Don't give up! We're so close to 999 The Express Crew is also about to be done! Topaz Keep up the good work, everyone. I'll be taking over the evac team now Good luck, everyone"
+    },
+    {
+        "type": "note",
+        "text": "Messages 1111111111 March 7th Good news! We've found the remaining 172 dolls here But Dan Heng They're also just dolls Boothill What's going on? That girly pulling a fast one on us? \"From Where to View Fireworks\" has joined the chat From Where to View Fireworks Long time no see everyone! Miss Sparkle is delighted that everyone is busying themselves over her! And so, she's had me deliver a message! Why're you here again? (Trailblazer) ??? I didn't add you to the group From Where to View Fireworks That's Miss Sparkle for you. She doesn't need an invite I knew it... (Trailblazer) I knew this matter wouldn't be so simple... From Where to View Fireworks You've grown some brain cells, Gray Hair! Miss Sparkle is pleased From Where to View Fireworks All right, enough jokes! Miss Sparkle says this message is super important, so listen up There are actually 1000 dolls on the Radiant Feldspar — to reward everyone's efforts, Miss Sparkle has decided to be magnanimous: She will give the coordinates of the final doll with the bomb to everyone! The time I've allotted to everyone far exceeds ten minutes, but let's all try to hurry up, eh? Something major's going down if you're slowpokes! @Robin I'm sure you don't want everyone to know that \"The Family's protection over Penacony has been rendered useless,\" do you... Hurry up and move out, world-saving heroes! \"From Where to View Fireworks\" has left the chat Robin Everyone, don't be misdirected by her appalling prank We'll gather at the coordinates March 7th When we catch her... we'll definitely teach her a lesson she won't soon forget!"
+    },
+    {
+        "type": "heading",
+        "text": "Find the 1,000th bomb"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "To reward everyone for their efforts, she sent everyone the coordinates of the final bomb!More bad news: Based on experience, these coordinates are most likely going to be fake...But what can you do about it? You never know whether the cat is alive or dead, until you open the box... Go now and get to the bottom of it!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Not much time left... I hope I make it.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_30_player_118_m.ogg/revision/latest?cb=20240630222129",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_245.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the pool)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is that... Firefly?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_30_player_119_m.ogg/revision/latest?cb=20240630222132",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_246.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"True Bomb\" Doll",
+        "line": "Twenty-eight minutes forty-six seconds... Twenty-eight minutes forty-five seconds...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_30_zhendoll_101.ogg/revision/latest?cb=20240630222403",
+        "is_unavailable": false,
+        "audio_filename": "audio_True_Bomb_Doll_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Ah, you're here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Vo_chapter3_30_firefly_129.ogg/revision/latest?cb=20240630221811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_248.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How's the bomb situation?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Looks like she also sent you a message...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_30_firefly_130.ogg/revision/latest?cb=20240630221812",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_249.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You were also summoned here by the Masked Fools?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "The Masked Fools... So this really was their doing.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_30_firefly_131.ogg/revision/latest?cb=20240630221814",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_250.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Sparkle, eat my bat!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Don't come close. This bomb is very dangerous! And... I'm the real Firefly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_30_firefly_132.ogg/revision/latest?cb=20240630221816",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_251.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Since you're here... I'll just keep it short. Just over half an hour ago, I received a message from an unknown sender, and rushed here as soon as I could.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_30_firefly_133.ogg/revision/latest?cb=20240630221818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"True Bomb\" Doll",
+        "line": "Twenty-seven minutes fifty-two seconds... Twenty-seven minutes fifty-one seconds...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_30_zhendoll_102.ogg/revision/latest?cb=20240630222405",
+        "is_unavailable": false,
+        "audio_filename": "audio_True_Bomb_Doll_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The sweet dream has lost the protection of the Order — if it were to blow up here... the consequences would be unfathomable. I've scrutinized it for a long time, but the bomb's design is incredibly unique, as if it's been locked by some mysterious Path force...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/Vo_chapter3_30_firefly_134.ogg/revision/latest?cb=20240630221820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Apart from its creator, I fear no one knows how to deactivate it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_30_firefly_135.ogg/revision/latest?cb=20240630221822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_255.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Then we'll just have to find that person!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "It's difficult. Time is running out, and she's a master of disguise. And even if we catch her, she won't come quietly...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_30_firefly_136.ogg/revision/latest?cb=20240630221824",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_256.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous dialogue options)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't panic. There are still many people on their way.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "You mean the Watchmaker's guests? That's a pity... Based on my experience, I don't think any of them can turn the tide on this situation.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_30_firefly_137.ogg/revision/latest?cb=20240630221826",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_257.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "The Memokeeper may be able to teleport the bomb to a deserted location, but... I've found a note inside the doll.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Vo_chapter3_30_firefly_138.ogg/revision/latest?cb=20240630221827",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_258.ogg"
+            },
+            {
+                "type": "note",
+                "text": "This_is_a_memetic_virus.exe"
+            },
+            {
+                "type": "note",
+                "text": "!!!WARNING!!!"
+            },
+            {
+                "type": "note",
+                "text": "A memetic virus has been planted into this imaginary neutron bomb"
+            },
+            {
+                "type": "note",
+                "text": "Memetic lifeforms (particularly Memokeepers)(especially Black Swan) are advised to stay clear"
+            },
+            {
+                "type": "note",
+                "text": "Otherwise"
+            },
+            {
+                "type": "note",
+                "text": "Exposed individuals face a 72.36% chance of turning into a"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "banana banana banana banana banana"
+            },
+            {
+                "type": "note",
+                "text": "P.S.: She means business."
+            },
+            {
+                "type": "note",
+                "text": "P.S.P.S.: It's true! Try it if you dare!"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I don't know what grudges they have... but this path is a dead end, too.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_30_firefly_139.ogg/revision/latest?cb=20240630221829",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_259.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Return to previous options)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Mommy... I don't wanna die..."
+    },
+    {
+        "type": "note",
+        "text": "Is there another way?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_30_firefly_144.ogg/revision/latest?cb=20240630221839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_260.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After all dialogue options have been exhausted)"
+    },
+    {
+        "type": "choice",
+        "text": "So that's it? There's no other way?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Actually... there might be another way.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_30_firefly_145.ogg/revision/latest?cb=20240630221841",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_261.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Do you still remember? The script said that I will experience \"death\" three times in the Land of Dreams.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_30_firefly_146.ogg/revision/latest?cb=20240630221843",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_262.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I think this moment heralds the third time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_30_firefly_147.ogg/revision/latest?cb=20240630221845",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_263.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "What's your plan?"
+    },
+    {
+        "type": "note",
+        "text": "Like I said earlier — now's not the time for the plot payoff!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You may already know that I have no way of evoking dreams — I employ a Stellaron Hunter's special method in order to enter dreams instead. This allows me to perform feats that typical Dreamchasers can't.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_30_firefly_148.ogg/revision/latest?cb=20240630221847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_264.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "As long as I can bear the pain of the memoria pressure, I'll be able to dive into the primal Memory Zone beyond the dream, and extend a lifeline to the Radiant Feldspar.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_30_firefly_149.ogg/revision/latest?cb=20240630221849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_265.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I will take this bomb into the depths of the Dreamscape ... as deep as possible, where there are no living souls around. That way, at least no one will get hurt.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_30_firefly_150.ogg/revision/latest?cb=20240630221851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_266.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What about you?"
+    },
+    {
+        "type": "note",
+        "text": "Can you really make it in time?"
+    },
+    {
+        "type": "note",
+        "text": "This matter can't just be left to the Stellaron Hunters."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Don't worry. I believe that this Fyrefly Armor will be enough to take me to where I need to go before the countdown ends... and maybe even make it back safely.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Vo_chapter3_30_firefly_151.ogg/revision/latest?cb=20240630221853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_267.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "At present, this is our best, and most logical course of action. After all, a long story deserves a happy ending.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_30_firefly_152.ogg/revision/latest?cb=20240630221855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_268.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I have some words to share with you, though they were spoken to me by Miss Acheron. She said that \"The so-called impossible is merely something that has yet to happen...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/Vo_chapter3_30_firefly_153.ogg/revision/latest?cb=20240630221856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_269.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "At the moment, there are so many things that seem impossible... but are they really never going to happen? Maybe it's just that the moment to disprove these \"impossibilities\" hasn't arrived yet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_30_firefly_154.ogg/revision/latest?cb=20240630221858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_270.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Whether it be a literal ending, suffering akin to death, or a harrowing deathscape... Before the appointed destination arrives, they are all the same, yet I can still make myriad choices. I also firmly believe that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_30_firefly_155.ogg/revision/latest?cb=20240630221901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_271.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That when that moment arrives for us to make a choice, the answer to our end will already be within our hearts",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_30_firefly_156.ogg/revision/latest?cb=20240630221902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_272.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It is not destiny that shapes us, but we who shape destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_30_firefly_157.ogg/revision/latest?cb=20240630221904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_273.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Acutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "The Astral Express and the Stellaron Hunters... are like light and shadow.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "We walk on different paths, intertwined, moving forward and growing together...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Maybe the end is predestined, but... it is not today.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"True Bomb\" Doll",
+                "line": "Since things are going too well...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "\"True Bomb\" Doll",
+                "line": "Let's speed up the countdown!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Human life is short, just like fyreflies to a flame. So, if you have an answer in your heart...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Always remember, don't leave with any regrets.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "We have this right... don't we?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "Since you care so much about other people's safety —",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "Why don't you go take a closer look!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "You see, everything is possible in this land of dreams.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "We each came here with our own goals, and realized them in unimaginable ways.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Regardless if the result was a sweet illusion or a bitter reality, it was an answer we longed for day and night.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "So, why do people choose to slumber? I think it's as you said...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Because in the end, we will wake up from our dreams.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    }
+]

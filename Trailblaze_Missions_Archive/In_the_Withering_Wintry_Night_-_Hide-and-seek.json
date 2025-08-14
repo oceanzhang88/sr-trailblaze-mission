@@ -1,0 +1,1410 @@
+[
+    {
+        "type": "heading",
+        "text": "Talk to the unfamiliar woman and find out about what's happening"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "As the daughter of theSupreme Guardian,Bronyahas always been quick and decisive — this pursuit operation targeted at you was no exception.Good thing your \"good pal\"Sampoarrived just in time to rescue you. It's just that... it would've been better if he didn't knock you out with the smoke bomb made from questionable ingredients.In your daze, you realize that you aren't tied up but placed on a bed somewhere — to a degree, this tells you that you're not in immediate danger. You'll have to ask the unfamiliar woman in front of you for more details."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toNatasha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "How are you feeling? Any aches or pains?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_2_natasha_211.ogg/revision/latest?cb=20241030180323",
+        "is_unavailable": false,
+        "audio_filename": "audio__0.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "No, I feel much better.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Good. You were out for a while, I was beginning to worry. You were saying some strange things.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_2_natasha_212.ogg/revision/latest?cb=20241030180324",
+                "is_unavailable": false,
+                "audio_filename": "audio__1.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've got migraines all over my body.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "...I hope you're joking, hehe... That's either an interesting metaphor, or you hit your head.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_2_natasha_213.ogg/revision/latest?cb=20241030180325",
+                "is_unavailable": false,
+                "audio_filename": "audio__2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I had a weird dream...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "I bet, you were mumbling something about \" Stellarons \" and \"wishes\"... I couldn't make sense of it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter1_2_natasha_214.ogg/revision/latest?cb=20241030180326",
+                "is_unavailable": false,
+                "audio_filename": "audio__3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Well, now that you're awake, you should probably try moving your limbs. I'm Natasha — a doctor in the underground. You've already spent a day in my clinic .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_2_natasha_215.ogg/revision/latest?cb=20241030180327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_4.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Nice to meet you, I'm (Trailblazer).",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Nice to meet you too... Hehe, you're very polite.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter1_2_natasha_216.ogg/revision/latest?cb=20241030180327",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this the underground?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Yes... it's a place that's been sealed off and neglected by the overgrounders for more than a decade. The underground has none of the splendor of the surface — the people here dig tunnels and mine ore to make a living.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_2_natasha_217.ogg/revision/latest?cb=20241030180328",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This is your clinic?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Mm-hmm, I'm afraid the conditions underground are terrible. People get sick easily here, and I'm the only doctor.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_2_natasha_218.ogg/revision/latest?cb=20241030180329",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Sampo's gone to clear up a mess of his own making, so I'm looking after you in the meantime. Based on your current state, I don't think there's any cause for alarm — you seem perfectly healthy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter1_2_natasha_219.ogg/revision/latest?cb=20241030180330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "So if you don't mind, I'll go and take a look at the other patients?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_2_natasha_220.ogg/revision/latest?cb=20241030180331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_9.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why did I pass out?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Sampo just told me that you lost consciousness. He didn't say why. Still, I'll wager it had something to do with him — he's always tinkering with his devices.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_2_natasha_221.ogg/revision/latest?cb=20241030180332",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Anyway, the opinion of the clinic is that none of you have come to harm.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter1_2_natasha_222.ogg/revision/latest?cb=20241030180333",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_11.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "People were following us...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Sampo told me. Don't worry, the Silvermane Guards won't follow you below ground. We've been cut off from the surface for many years. Even when things were at their worst down here, they never showed.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_2_natasha_223.ogg/revision/latest?cb=20241030180334",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_12.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "...Of course, I don't know the whole story behind why the Architects ordered the lockdown. Who knows, thanks to you, they might finally be about to lift it... something that Wildfire 's wanted to achieve for a long time now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_2_natasha_224.ogg/revision/latest?cb=20241030180335",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What's our medical bill...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Oh, please, you needn't worry. You've just been asleep for a while, I barely had to lift a finger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_2_natasha_225.ogg/revision/latest?cb=20241030180336",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "I... might've exaggerated your condition for Sampo's ears... but that guy owes me. He better bring me back some medicine.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_2_natasha_226.ogg/revision/latest?cb=20241030180337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Where are my friends?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "They've been up for a while already. The young guy with the dark hair left first — he went with Sampo.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_2_natasha_227.ogg/revision/latest?cb=20241030180338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Your rowdier friend took off soon after waking up. I imagine she'll be taking a stroll nearby.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_2_natasha_228.ogg/revision/latest?cb=20241030180338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "As for the girl in the Silvermane Guard uniform, I told Sampo to watch her... but it seems that he left his post and she made a run for it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_2_natasha_229.ogg/revision/latest?cb=20241030180339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_18.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Who is this Sampo anyway?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Good question... he's a man of mystery. He claims to be a simple cross-border businessman — not that there's much to interest an Overworlder down here. Either way, he's got a surprising number of connections.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter1_2_natasha_230.ogg/revision/latest?cb=20241030180340",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "I've managed to secure more than a few urgent medical supplies through him, and he's been a big help to Wildfire... In any case, I don't think his intentions are sinister.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_2_natasha_231.ogg/revision/latest?cb=20241030180341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I need to meet up with them.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Sure, but don't push yourself. If you start feeling unwell, come straight back and tell me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_2_natasha_232.ogg/revision/latest?cb=20241030180342",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "...And if you run into any trouble, you can try asking for Wildfire.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter1_2_natasha_233.ogg/revision/latest?cb=20241030180343",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Wildfire?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "It's a grassroots organization. Think of it as the Silvermane Guards of the underground, but less stone-hearted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_2_natasha_234.ogg/revision/latest?cb=20241030180344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_23.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Thank you, Dr. Natasha."
+    },
+    {
+        "type": "note",
+        "text": "I can't thank you enough. Bye for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "No need to thank me. It's a doctor's duty to heal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_2_natasha_235.ogg/revision/latest?cb=20241030180345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_24.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find March 7th and Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The doctor named Natasha explained the entire incident to you. You now know two things:One, Dan Heng has been grabbed by Sampo. And two, March 7th abandoned you to go shopping. As for Bronya... Well, you're not too concerned about the well-being of your enemies right now.Whatever the case, you decide to find your two companions first and have a deep conversation about why they left you behind."
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after the previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I gotta find March 7th and Dan Heng... but where should I start?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter1_2_player_201_m.ogg/revision/latest?cb=20241030180346",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Natasha again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Y'know, the underground has been cut off from the surface for years. For you outsiders to descend on us out of nowhere is pretty incredible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter1_2_natasha_236.ogg/revision/latest?cb=20241030180348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Everything alright? You feeling okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_2_natasha_237.ogg/revision/latest?cb=20241030180349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_27.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I want to ask about the Underworld ...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "The Underworld? What do you want to know?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_2_natasha_238.ogg/revision/latest?cb=20241030180350",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_28.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Why do people live down here?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "Because we need Geomarrow . After Belobog 's construction, the demand for energy kept increasing. The Eternal Freeze prevented us from expanding outwards, so our only choice was to go down.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_2_natasha_239.ogg/revision/latest?cb=20241030180351",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_29.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "The people answered the call of the Architects and descended, excavating ore veins and establishing mines. Before we were sealed off, it was an honor to work underground.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter1_2_natasha_240.ogg/revision/latest?cb=20241030180351",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_30.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "It was a choice... the pursuit of arduous labor for the survival of our entire civilization.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter1_2_natasha_241.ogg/revision/latest?cb=20241030180352",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_31.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "How is life in the Underworld?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "...It's never been good. Conditions are tough both above and below the surface. The Overworld is faced with the Eternal Freeze and Fragmentum corrosion, and the Underworld has to contend with hard labor, suffocating heat, and serious shortages.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_2_natasha_242.ogg/revision/latest?cb=20241030180353",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_32.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "It's been over a decade since the Silvermane Guards withdrew from the Underworld, and the situation here has only gotten worse. The only contact we have is the exchange of Geomarrow for goods.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_2_natasha_243.ogg/revision/latest?cb=20241030180354",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_33.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "And what's more... the Fragmentum corrosion has begun to reach us down here, too...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter1_2_natasha_244.ogg/revision/latest?cb=20241030180355",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_34.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I want to ask something else."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I want to ask about Sampo...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Ask away, but I'm afraid I don't know a lot about him myself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter1_2_natasha_245.ogg/revision/latest?cb=20241030180356",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_35.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "How did you get to know him?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "A meticulously choreographed \"chance meeting...\" Sampo is pretty good at orchestrating unexpected encounters, and he always leaves a lasting impression.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_2_natasha_246.ogg/revision/latest?cb=20241030180357",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_36.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "According to him, that's the gift of a businessman.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter1_2_natasha_247.ogg/revision/latest?cb=20241030180358",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_37.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Do you know where he went?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "Hehe, I hear that question a lot — seems like he owes everyone something. That's why he never discloses his whereabouts.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_2_natasha_248.ogg/revision/latest?cb=20241030180359",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_38.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "When people need him, he appears, and when people really need him, he disappears. Sampo's first and second laws of motion.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_2_natasha_249.ogg/revision/latest?cb=20241030180400",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_39.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I want to ask something else."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I want to ask about Wildfire...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "...I'm a doctor, not an informant! Very well, what's the question?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter1_2_natasha_250.ogg/revision/latest?cb=20241030180401",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_40.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "What is Wildfire?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "Wildfire is a volunteer grassroots organization. Like I said, you can think of it as the Silvermane Guards of the underground.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter1_2_natasha_251.ogg/revision/latest?cb=20241030180402",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_41.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "They've taken on the duties of the Guards: Maintain safety and order in the Underworld and compete with Fragmentum corrosion for living space.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_2_natasha_252.ogg/revision/latest?cb=20241030180403",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_42.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "How can I find them?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "Wherever there is hardship and a cry for help, there is Wildfire.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_2_natasha_253.ogg/revision/latest?cb=20241030180404",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_43.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Natasha",
+                        "line": "...You can always find them.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter1_2_natasha_254.ogg/revision/latest?cb=20241030180405",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Natasha_44.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I want to ask something else."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm fine.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Okay, take care, and make sure you look after yourself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter1_2_natasha_255.ogg/revision/latest?cb=20241030180405",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After exiting the clinic, a cinematic view of Boulder Town plays before panning toMarch 7thwith a group of children)\n(UnlockAchievementLost World)"
+    },
+    {
+        "type": "heading",
+        "text": "See what March 7th is doing"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You find March 7th and discover her to be immersed in a children's game and doesn't notice you at all.\"Of course,\" you think. \"When a companion is unconscious and the other missing, what better way to resolve it than to 'find a few kids to play games with'?\"You've convinced yourself. Now it's the cute March 7th's turn to do the same."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...So you promise that if I win hide-and-seek, you'll tell big sister March all the ins and outs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_2_mar7th_201.ogg/revision/latest?cb=20241030180406",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Yep! All the ins and outs, hehe! ...What does that mean?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter1_2_hook_201.ogg/revision/latest?cb=20241030180407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It just means you'll tell me all the details. No hiding anything, and no telling fibs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_2_mar7th_202.ogg/revision/latest?cb=20241030180408",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmph, Hook isn't an overgrounder y'know! Hook never tells fibs!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter1_2_hook_202.ogg/revision/latest?cb=20241030180409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Yeah, never!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter1_2_julian_201.ogg/revision/latest?cb=20241030180410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well, that's settled then~ Okay, let's play... Huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter1_2_mar7th_203.ogg/revision/latest?cb=20241030180411",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You... When did you get here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_2_mar7th_204.ogg/revision/latest?cb=20241030180412",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I've been here a while."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh... th—this isn't just hide-and-seek, okay? Let me explain...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter1_2_mar7th_205.ogg/revision/latest?cb=20241030180413",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_53.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Does it matter?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh... th—this isn't just hide-and-seek, okay? Let me explain...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_2_mar7th_206.ogg/revision/latest?cb=20241030180414",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_54.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Not that long... big sister."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Quit acting like a child!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter1_2_mar7th_207.ogg/revision/latest?cb=20241030180415",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's like this: After I woke up, that doctor said Sampo had taken Dan Heng with him. I went around in circles trying to find the blue-haired scoundrel, and bumped into these kids. They say they know where he is!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter1_2_mar7th_208.ogg/revision/latest?cb=20241030180416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But they said I had to join \" The Moles \" or something if I wanted to find out... and to do that, I had to prove my strength by winning a game of hide-and-seek... do you get it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter1_2_mar7th_209.ogg/revision/latest?cb=20241030180416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_57.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I get it. Need a teammate?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Huh. (Trailblazer), when did you start being so nice?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_2_mar7th_210_m.ogg/revision/latest?cb=20241030180417",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_58.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I get it. Well, best of luck."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), you just got here and now you're gonna leave? Play hide-and-seek with me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter1_2_mar7th_212_m.ogg/revision/latest?cb=20241030180419",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_59.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I get it. You're being bullied by children."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ ...Ugh, so what if I am! (Trailblazer), why don't you help me, huh!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_2_mar7th_214_m.ogg/revision/latest?cb=20241030180421",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hey, are you done with your secret talk!? The Moles' time is precious!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter1_2_hook_203.ogg/revision/latest?cb=20241030180423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "Yeah, precious!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_2_julian_202.ogg/revision/latest?cb=20241030180423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Okay, okay, we're done. Pitch-Dark Hook the Great, this is my friend, (Trailblazer). ( He / She ) also wants to join The Moles. Can ( he / she ) play too?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_2_mar7th_216_m.ogg/revision/latest?cb=20241030180424",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Ummmm... sure. I guess so. Then... you guys are seeking!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_2_hook_204.ogg/revision/latest?cb=20241030180426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "...Boss! They don't seem very smart. Why don't we do a practice one first?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter1_2_julian_203.ogg/revision/latest?cb=20241030180427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmm... you're right Julian. Okay, let's do a practice one. I'll hide, you two have to find me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_2_hook_205.ogg/revision/latest?cb=20241030180428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So you kids think you're better than us, huh? Just you wait and see!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_2_mar7th_218.ogg/revision/latest?cb=20241030180429",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find the concealed kid to complete the practice"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "March 7th attempts to convince you but you no longer care for it as much anymore, because the kids have started taunting you.You will not stand for this! It's time to show these children the cruelty of the grown-ups' world.Use your unrivaled and precise hiding skills to teach these kids a lesson!"
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after the previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), it's simple. When you see one of them, you just have to catch them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_2_mar7th_223_m.ogg/revision/latest?cb=20241030180430",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon finding and talking to Hook)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ha! Gotcha!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_2_mar7th_219.ogg/revision/latest?cb=20241030180432",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "S—So what, it's just a practice! Wait until we're playing for real — you'll see!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_2_hook_206.ogg/revision/latest?cb=20241030180433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hehe, bring it on!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_2_mar7th_220.ogg/revision/latest?cb=20241030180433",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Alright, now we're playing for real! You gotta count to fifty before you open your eyes — no cheating!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_2_hook_207.ogg/revision/latest?cb=20241030180434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "47... 48... 49... 50!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_2_mar7th_221.ogg/revision/latest?cb=20241030180435",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hehe~ Ready or not, here I come, naughty children...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_2_mar7th_222.ogg/revision/latest?cb=20241030180436",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_74.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find all the hidden children and win (0/3)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "March 7th attempts to convince you but you no longer care for it as much anymore, because the kids have started taunting you.You will not stand for this! It's time to show these children the cruelty of the grown-ups' world.Little do they know that the practice just now was just a warm-up... The cruel and real Hide-and-seek is only about to begin!"
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after the previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "The Moles haven't lost a game for ages! You're doomed!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_2_hook_208.ogg/revision/latest?cb=20241030180437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "You got it yet? We're the underground's greatest hiders and seekers!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter1_2_hook_209.ogg/revision/latest?cb=20241030180438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_76.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to leave the area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, where are you going?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter1_2_mar7th_225.ogg/revision/latest?cb=20241030180439",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Come back, come back, they won't be hiding that far away!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter1_2_mar7th_226.ogg/revision/latest?cb=20241030180440",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_78.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon finding and talking to Hook)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Don't run! I got you, Hook!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_2_mar7th_229.ogg/revision/latest?cb=20241030180441",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "N—Not fair! I'm the boss of The Moles — how can I lose to a bunch of villains!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_2_hook_210.ogg/revision/latest?cb=20241030180441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Do your worst! I'm not afraid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_2_hook_211.ogg/revision/latest?cb=20241030180442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What are they feeding you kids down here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter1_2_mar7th_230.ogg/revision/latest?cb=20241030180443",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon finding and talking to Moles Sidekick)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Haha, I caught you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_2_mar7th_227.ogg/revision/latest?cb=20241030180444",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cunning Child",
+        "line": "Hmph, doesn't count unless you can answer this question.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter1_2_childA_201.ogg/revision/latest?cb=20241030180445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cunning_Child_84.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Okay, let's hear it."
+    },
+    {
+        "type": "note",
+        "text": "Show me the rule book."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wha—! But we caught you! What's with the Q&A?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter1_2_mar7th_228.ogg/revision/latest?cb=20241030180446",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cunning Child",
+        "line": "...*sigh* I thought I had you there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_2_childA_202.ogg/revision/latest?cb=20241030180447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cunning_Child_86.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching Seemingly Adult Man)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hmm... something's not right...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter1_2_mar7th_298.ogg/revision/latest?cb=20241030180448",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That guy's been staring at us this whole time... Hide-and-seek might have to wait — let's see what he wants.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_2_mar7th_299.ogg/revision/latest?cb=20241030180448",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate Seemingly Adult Man)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter1_2_mar7th_231.ogg/revision/latest?cb=20241030180449",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seemingly Adult Man",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_2_julian_204.ogg/revision/latest?cb=20241030180450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seemingly_Adult_Man_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "My instincts are telling me something's not right with this guy, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_2_mar7th_232.ogg/revision/latest?cb=20241030180451",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_91.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's him, no doubt.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seemingly Adult Man",
+                "line": "Nonsense! Ahem! How many eight-year-olds do you see walking around that look like this, huh?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_2_julian_205.ogg/revision/latest?cb=20241030180452",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seemingly_Adult_Man_92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "He's looking taller... and older.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seemingly Adult Man",
+                "line": "That's because I'm tall... and old! I'm a grown man! Ask anyone!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_2_julian_206.ogg/revision/latest?cb=20241030180453",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seemingly_Adult_Man_93.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Looks like an adult to me...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...With a child's brain...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_2_mar7th_233.ogg/revision/latest?cb=20241030180454",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_94.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seemingly Adult Man",
+                "line": "Well here's the truth: I'm a grown man!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_2_julian_207.ogg/revision/latest?cb=20241030180455",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seemingly_Adult_Man_95.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Alright, the jig is up, your voice gave it away...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter1_2_mar7th_234.ogg/revision/latest?cb=20241030180456",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "...Argh! But I'm Julian of a Thousand Faces! *sigh* Why did you have to talk to me! My reputation is ruined... What will the boss think!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter1_2_julian_208.ogg/revision/latest?cb=20241030180457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "No need for the melodrama. That was still a magical performance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_2_mar7th_235.ogg/revision/latest?cb=20241030180458",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon finding all of the children)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Julian",
+        "line": "I... *sigh* I'm sorry boss! I failed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_2_julian_209.ogg/revision/latest?cb=20241030180459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Julian_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Darn! How did you see through Julian's disguise? What villainy is this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter1_2_hook_212.ogg/revision/latest?cb=20241030180459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hehehe... \"Those with keen eyes see the dust between the stars!\" I came up with that, by the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter1_2_mar7th_236.ogg/revision/latest?cb=20241030180500",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_101.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "With my help!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, yeah, you're in the footnote somewhere~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter1_2_mar7th_237.ogg/revision/latest?cb=20241030180501",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You sure did!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "About time I got some credit for it!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_2_mar7th_238.ogg/revision/latest?cb=20241030180504",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_103.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Doesn't sound like something you'd say...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey! I read books y'know!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_2_mar7th_239.ogg/revision/latest?cb=20241030180505",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_104.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, Pitch-Dark Hook the Great, you can tell us now, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_2_mar7th_240.ogg/revision/latest?cb=20241030180506",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Ummmm... Yes. The boss of The Moles is true to her word!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter1_2_hook_213.ogg/revision/latest?cb=20241030180506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hook saw the blue-haired guy take your dark-haired friend to the Fight Club .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter1_2_hook_214.ogg/revision/latest?cb=20241030180507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Fight Club?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter1_2_mar7th_241.ogg/revision/latest?cb=20241030180508",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_108.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I thought the first rule was...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...You don't talk about it...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_2_mar7th_242.ogg/revision/latest?cb=20241030180509",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_109.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Is this more secret talk?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter1_2_hook_215.ogg/revision/latest?cb=20241030180510",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_110.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That doesn't sound good!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "No kidding, they didn't exactly get off on the right foot.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter1_2_mar7th_243.ogg/revision/latest?cb=20241030180511",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_111.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh, Pitch-Dark Hook the Great, where is the Fight Club? Can you show us the way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_2_mar7th_244.ogg/revision/latest?cb=20241030180512",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmm~ But it's an obvious building, grown-ups are just useless~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter1_2_hook_216.ogg/revision/latest?cb=20241030180513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Come with Hook, I'll take you over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_2_hook_217.ogg/revision/latest?cb=20241030180514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Thanks, o great one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_2_mar7th_245.ogg/revision/latest?cb=20241030180515",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "That's Pitch-Dark Hook the Great, to you! Who said you could shorten my title!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter1_2_hook_218.ogg/revision/latest?cb=20241030180516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_116.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Hook to the Fight Club"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You've won and claimed victory in the game of hide-and-seek. You put on enough of a display of the rules of survival in the grown-ups' world to cause some emotional trauma for these kids.And now, the loser will have to fulfill her duty and guide the winner to the Fight Club to find Dan Heng.However, you still have no choice but to address this puny loser as the Pitch-Dark Hook the Great... You didn't take a liking to this."
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after the previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A club just for fighting... who knew undergrounders had such brutal hobbies.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_2_mar7th_246.ogg/revision/latest?cb=20241030180516",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Mm-hmm, in fact, it's awesome!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter1_2_hook_219.ogg/revision/latest?cb=20241030180517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "They let YOU take part!? When did this place last have an inspection!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter1_2_mar7th_247.ogg/revision/latest?cb=20241030180518",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Loads of kids take part.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter1_2_hook_220.ogg/revision/latest?cb=20241030180519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Despicable. My \"criminal activity\" senses are tingling.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_2_mar7th_248.ogg/revision/latest?cb=20241030180520",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_121.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player moves away from Hook)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Agh, gotta stick close to Hook...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter1_Ag1_player_103_m.ogg/revision/latest?cb=20241030180521",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_122.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon reaching the Fight Club)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "We're here! This is it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_2_hook_221.ogg/revision/latest?cb=20241030180522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hook's gonna go fight. See ya later!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_2_hook_222.ogg/revision/latest?cb=20241030180523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Who's in charge here? How can they just let kids attack each other...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter1_2_mar7th_249.ogg/revision/latest?cb=20241030180524",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "The Moles are in charge, that's who! ...But only of the kids. Wildfire is in charge of grown-up business.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_2_hook_223.ogg/revision/latest?cb=20241030180525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_126.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So The Moles control this whole area?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Umm, The Moles control everything underground!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_2_hook_224.ogg/revision/latest?cb=20241030180526",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_127.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How much do you know about Wildfire?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Umm, it's... The Moles for grown-ups...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_2_hook_225.ogg/revision/latest?cb=20241030180527",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_128.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Ooh! They need one more player there! I—I gotta go! If you ever wanna fight, come find me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter1_2_hook_226.ogg/revision/latest?cb=20241030180528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_129.ogg"
+    }
+]

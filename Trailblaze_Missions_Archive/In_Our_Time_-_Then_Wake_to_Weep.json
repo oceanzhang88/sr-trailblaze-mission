@@ -1,0 +1,2301 @@
+[
+    {
+        "type": "note",
+        "text": "Not long ago..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "What is this place...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/Vo_chapter3_22_misha_101.ogg/revision/latest?cb=20240702174956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Does this place ring any bells, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_22_himeko_101.ogg/revision/latest?cb=20240702174622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I... don't know, but I feel a sense of deja vu. What is this place?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_22_misha_102.ogg/revision/latest?cb=20240702174959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It's the realm within a dream bubble. This was left to the Astral Express by a Nameless , but weirdly when we entered it, it was completely empty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_22_himeko_102.ogg/revision/latest?cb=20240702174624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Dr. Edward from the Dreamscape Sales Store told me that dreams are formed from memories, and a dream bubble can't take shape if its core is empty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_22_himeko_103.ogg/revision/latest?cb=20240702174626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So I thought you might be able to help us in unraveling this mystery, Misha? As a hotel doorman , you know Penacony best among us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_22_himeko_104.ogg/revision/latest?cb=20240702174628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Hmm, I don't know much about dream bubbles, but if you want to figure out what this mansion is... I'll do my best!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_22_misha_103.ogg/revision/latest?cb=20240702175001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I'm counting on you then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_22_himeko_105.ogg/revision/latest?cb=20240702174630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Himeko... I still don't get it. Why were you so sure that Misha had a connection with this dream bubble ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_22_mar7th_101.ogg/revision/latest?cb=20240702174825",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I wasn't sure. It was just a hunch, but since Misha feels familiar with this place... my hunch might be correct.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_22_himeko_106.ogg/revision/latest?cb=20240702174632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_9.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "This place looks a bit familiar..."
+    },
+    {
+        "type": "choice",
+        "text": "This place feels a bit nostalgic..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Exactly, this is where you and Firefly encountered \"Death,\" which we now know as \"Dormancy.\" Considering its connection to Dreamflux Reef , it's not surprising it appeared here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_22_himeko_107.ogg/revision/latest?cb=20240702174634",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The question now is — Who brought you here? Based on the clues we have so far, it's unlikely to be that Masked Fool , so identifying them is crucial to us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_22_himeko_108.ogg/revision/latest?cb=20240702174636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We're drawing closer to the truth once more. Let's give Misha some time, as I believe he'll unveil the secret of this dream bubble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_22_himeko_109.ogg/revision/latest?cb=20240702174638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Alright, but there are doors all over the place... Which one should we choose...? Do you have any idea, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_22_mar7th_102.ogg/revision/latest?cb=20240702174827",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Hmm... I guess... maybe this way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_22_misha_104.ogg/revision/latest?cb=20240702175003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_14.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Misha and help him recover his memories"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Time reverses to the point before you left Dreamflux Reef. Himeko returns fromGolden Hourwith a powerful deduction: There may be some inextricable link between the empty dream bubble thatthe Watchmakeris holding and Misha the bellboy.In order to prove it, you take Misha back into Mikhail's dream bubble... If everything goes as expected, the truth may be lurking here in this long dream of the child."
+    },
+    {
+        "type": "condition",
+        "text": "(Follow Misha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I... I'm not entirely sure, but... let's give it a try.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_22_misha_105.ogg/revision/latest?cb=20240702175005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room at the end of the corridor)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait, you managed to choose the right door on your first try?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_22_mar7th_103.ogg/revision/latest?cb=20240702174829",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_16.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Misha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Weird, this place is quite different from the hotel, but I just... I feel like I've been here before and... even lived here for a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Vo_chapter3_22_misha_106.ogg/revision/latest?cb=20240702175008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "If I remember correctly, there should be a fireplace down that hallway. Clockie and I used to sit by the fire, listening to the crackling of firewood.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Vo_chapter3_22_misha_107.ogg/revision/latest?cb=20240702175010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "And... And the room on the other side was... the toy room. I loved spreading out all the toys from the box on the floor and making up stories for each of them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_22_misha_108.ogg/revision/latest?cb=20240702175012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Hold on, this doesn't make sense. Didn't I grow up in Dreamflux Reef? So, what is this place...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_22_misha_109.ogg/revision/latest?cb=20240702175014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This could be a case of amnesia. But don't worry, Misha, it's common for everyone to forget certain aspects of the past. Those memories haven't vanished. They're just lying in the depths of your mind. We can surely get them back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_22_himeko_110.ogg/revision/latest?cb=20240702174640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Since this place seems familiar to you, why don't we explore a few more rooms and see if you can recall anything more?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Vo_chapter3_22_himeko_111.ogg/revision/latest?cb=20240702174642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, then let's check out the rooms I just mentioned.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_22_misha_110.ogg/revision/latest?cb=20240702175016",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_23.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Search the rooms on either side"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the designated spot in front of the fireplace)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Mikhail, that's the name. Now we all know him as the Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/Vo_chapter3_22_mar7th_106.ogg/revision/latest?cb=20240702174835",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, who is he talking to? Do you know anything about it, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_22_mar7th_107.ogg/revision/latest?cb=20240702174837",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I'm sorry, I don't know much about the Watchmaker, but Mikhail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_22_misha_129.ogg/revision/latest?cb=20240702175032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Anything special about that name?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_22_himeko_115.ogg/revision/latest?cb=20240702174650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Mikhail... is Grandpa's name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_22_misha_130.ogg/revision/latest?cb=20240702175034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Grandpa? Do you mean... you're the Watchmaker's grandson?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_22_mar7th_108.ogg/revision/latest?cb=20240702174839",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But we haven't heard anything about the Watchmaker having descendants, and the name \"Mikhail\" is not rare. Perhaps it's merely a coincidence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_22_himeko_116.ogg/revision/latest?cb=20240702174652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Could you tell us more about your grandpa Mikhail?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_22_himeko_117.ogg/revision/latest?cb=20240702174654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, sure. He was a seafarer who fearlessly ventured into mysterious seas and storms. He was always on the sea and had a lot of friends who accompanied him on his travels.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_22_misha_131.ogg/revision/latest?cb=20240702175036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He didn't want me to call him \"Grandpa\" because that would make him sound old. He believed he was still young. The name \"Mikhail\" was given to him by his parents, Mihaly and Elise, both renowned seafarers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_22_misha_132.ogg/revision/latest?cb=20240702175040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Every time he came back, he'd share his logbook with me and tell me about his adventures at sea. I want to become a great adventurer just like him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_22_misha_133.ogg/revision/latest?cb=20240702175042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It appears that the seafarer has nothing to do with the Watchmaker. So, perhaps it's just a coincidence?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_22_mar7th_109.ogg/revision/latest?cb=20240702174841",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, where is your grandpa now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_22_mar7th_110.ogg/revision/latest?cb=20240702174843",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He went off on a new journey, and it's been quite a while since I last saw him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_22_misha_134.ogg/revision/latest?cb=20240702175044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "So, where has Clockie gone...? Did he leave to protect Dreamville?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_22_misha_124.ogg/revision/latest?cb=20240702175031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "▶ So, you need to keep yourself safe, too..."
+    },
+    {
+        "type": "note",
+        "text": "▶ Okay, Mikhail?"
+    },
+    {
+        "type": "choice",
+        "text": "▶ I promise you",
+        "children": [
+            {
+                "type": "note",
+                "text": "Mikhail..."
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "▶ Tick tock..."
+    },
+    {
+        "type": "note",
+        "text": "▶ Is it something very important?"
+    },
+    {
+        "type": "note",
+        "text": "▶ Tick tock..."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the designate spot in the toy room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I heard some noises from the room... Origami Bird ? That's a friend of mine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Vo_chapter3_22_misha_118.ogg/revision/latest?cb=20240702175018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You and Origami Bird are friends?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Vo_chapter3_22_mar7th_104.ogg/revision/latest?cb=20240702174831",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, it's a member of the Compass crew, just like Clockie and Miss Mirror. And there's more than just one Origami Bird! They are a big family with lots of brothers and sisters who look the same.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Vo_chapter3_22_misha_119.ogg/revision/latest?cb=20240702175020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "They follow Miss Mirror's orders and handle all sorts of jobs on the ship. They're the best sailors.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_22_misha_120.ogg/revision/latest?cb=20240702175022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Sailors? Can Origami Birds be sailors...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_22_mar7th_105.ogg/revision/latest?cb=20240702174833",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Could you tell us more about the \"Compass,\" Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_22_himeko_112.ogg/revision/latest?cb=20240702174644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "The \"Compass\" is a ship bound for the New World! Clockie and his partners travel through layers of fog to the depths of the sea. Whenever there is danger, Clockie will use a compass and guide the ship in the right direction!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_22_misha_121.ogg/revision/latest?cb=20240702175025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's a great story, but in the Penacony cartoon, Clockie and his partners have always lived in Dreamville and never ventured out, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/Vo_chapter3_22_himeko_113.ogg/revision/latest?cb=20240702174646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Huh? Oh... that does seem to be the case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_22_misha_122.ogg/revision/latest?cb=20240702175027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Weird... I clearly remember... Clockie arrived in the New World in the end...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_22_misha_123.ogg/revision/latest?cb=20240702175029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Perhaps Clockie has a hidden past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_22_himeko_114.ogg/revision/latest?cb=20240702174648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_49.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "▶ This is an origami bird I made for you..."
+    },
+    {
+        "type": "note",
+        "text": "▶ It will protect you from harm"
+    },
+    {
+        "type": "note",
+        "text": "▶ Protecting Dreamville..."
+    },
+    {
+        "type": "note",
+        "text": "▶ Just like they did with Clockie..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I think I hear the sound of water...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/Vo_chapter3_22_misha_135.ogg/revision/latest?cb=20240702175046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer) once mentioned there's a magnificent fountain up ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_22_mar7th_111_m.ogg/revision/latest?cb=20240702174847",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue following Misha and help him recover his memories"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room with the fountain)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, there it is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_22_mar7th_112.ogg/revision/latest?cb=20240702174848",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_52.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "\"The water resembles a precious jewel, embedded in the dreams of all seafarers.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_22_misha_136.ogg/revision/latest?cb=20240702175048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "\"Every time I gaze at the shimmering lights beneath the waves, it feels as though I'm back in this place, standing by your side...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_22_misha_137.ogg/revision/latest?cb=20240702175050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Have you recalled anything, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_22_himeko_118.ogg/revision/latest?cb=20240702174655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, I saw these sentences in Grandpa's logbook. He used to say that despite the perils of the sea, whenever he stood on the deck in the afternoon, overlooking the sparkling waves, he would think of this fountain in front of his house.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_22_misha_138.ogg/revision/latest?cb=20240702175052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He often said that those moments felt like returning to his family's side, and the difficulties at sea didn't seem quite as challenging.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_22_misha_139.ogg/revision/latest?cb=20240702175054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* You know, I quite understand such sentiments...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_22_mar7th_113.ogg/revision/latest?cb=20240702174850",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_58.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Don't sigh, or you'll start getting gray hair...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, don't tease! I was just being a bit sentimental.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_22_mar7th_114.ogg/revision/latest?cb=20240702174852",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're talking like an elder.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I'm not an elder. I was just being a bit sentimental.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_22_mar7th_115.ogg/revision/latest?cb=20240702174854",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Perhaps every adventurer far from home carries a fountain within their soul. Even though the other side of the sea remains shrouded in the unknown, the fountain in front of his house serves as a compass, leading him back to his cherished ones.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Vo_chapter3_22_himeko_119.ogg/revision/latest?cb=20240702174658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, while Grandpa was at home, we would stand by the fountain and place the \"Compass\" — a toy boat that I made — into the pool!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_22_misha_140.ogg/revision/latest?cb=20240702175056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Back then, I would ask him when I could go on adventures like him, and he would always laugh and say I was still too young.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_22_misha_141.ogg/revision/latest?cb=20240702175058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It seems this \"Mikhail\" is truly a seafarer and has nothing to do with the Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_22_mar7th_116.ogg/revision/latest?cb=20240702174856",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Yeah, based on Misha's recollections, the scenes in the dream bubble appear to be his childhood memories.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_22_himeko_120.ogg/revision/latest?cb=20240702174659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But this raises more questions. According to Misha, he was clearly born on an oceanic planet and led an ordinary life, with no connection to Penacony at all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/Vo_chapter3_22_mar7th_117.ogg/revision/latest?cb=20240702174858",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Could this be some sort of metaphor? Perhaps the \"sea\" refers to the Memory Zone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Vo_chapter3_22_mar7th_118.ogg/revision/latest?cb=20240702174900",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I'm sorry. I don't know, but my memories keep pouring out uncontrollably, like water flowing from a fountain...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_22_misha_142.ogg/revision/latest?cb=20240702175100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Perhaps... I'll remember more things if we go further...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_22_misha_143.ogg/revision/latest?cb=20240702175102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_69.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Misha and continue ahead"
+    },
+    {
+        "type": "condition",
+        "text": "(Reach the bottom of the stairs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We're going to the opposite side, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_22_mar7th_119.ogg/revision/latest?cb=20240702174902",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "No, we should turn left here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_22_misha_144.ogg/revision/latest?cb=20240702175104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Is it something very important?"
+    },
+    {
+        "type": "note",
+        "text": "▶ I wish to share your burden..."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? Something feels different about this place?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_22_mar7th_120.ogg/revision/latest?cb=20240702174904",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "This is it. I remember this corridor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_22_misha_145.ogg/revision/latest?cb=20240702175105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_73.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Can you take me with you..."
+    },
+    {
+        "type": "note",
+        "text": "▶ I want to go too..."
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the corridor)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Up ahead is... Grandpa's study. It was in that room that I saw him the last time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_22_misha_152.ogg/revision/latest?cb=20240702175108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_74.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "▶ Don't go"
+    },
+    {
+        "type": "note",
+        "text": "▶ All right?"
+    },
+    {
+        "type": "note",
+        "text": "▶ Will you come back?"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room)\n(Floating words)"
+    },
+    {
+        "type": "note",
+        "text": "Tick"
+    },
+    {
+        "type": "note",
+        "text": "Tick"
+    },
+    {
+        "type": "note",
+        "text": "Tick"
+    },
+    {
+        "type": "note",
+        "text": "Captain Misha, we are now heading in the correct direction!"
+    },
+    {
+        "type": "note",
+        "text": "Let's continue sailing."
+    },
+    {
+        "type": "note",
+        "text": "Not even the sea can stop us!"
+    },
+    {
+        "type": "note",
+        "text": "We've finally come out of the fog! Across the ocean is our destination!"
+    },
+    {
+        "type": "note",
+        "text": "We've overcome so many challenges."
+    },
+    {
+        "type": "note",
+        "text": "We've lost our way so many times."
+    },
+    {
+        "type": "note",
+        "text": "But in the end, we've arrived at the New World!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The atmosphere in this room feels totally different.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_22_mar7th_121.ogg/revision/latest?cb=20240702174905",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Misha! You've finally come!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_22_clock_101.ogg/revision/latest?cb=20240702174358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Clockie, you're here! Yeah, this is the room where we first met each other...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_22_misha_154.ogg/revision/latest?cb=20240702175112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are those books on the bookshelf logbooks left behind by that seafarer?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/Vo_chapter3_22_himeko_121.ogg/revision/latest?cb=20240702174701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, whenever he came back, he'd place a logbook on the bookshelf in his room. They contain records of his expeditions to every corner of the world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_22_misha_155.ogg/revision/latest?cb=20240702175115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He described our world as a fountain. At some point, the sea started to gradually swallow up the land where people lived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/Vo_chapter3_22_misha_156.ogg/revision/latest?cb=20240702175117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "To ensure that everyone had land to settle on, he had to continue exploring the sea and search for the source of the rising seawater.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_22_misha_157.ogg/revision/latest?cb=20240702175119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "On that day, he called me to his study, telling me that he was embarking on another journey. However, I could sense the gravity in his expression. It was the same look I had seen on my father's face before his final voyage.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_22_misha_158.ogg/revision/latest?cb=20240702175122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I asked him if I could go with him, but he said that my adventure lay elsewhere and told me to stay home and patiently await a certain sound at the door.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_22_misha_159.ogg/revision/latest?cb=20240702175124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What sound?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Vo_chapter3_22_mar7th_122.ogg/revision/latest?cb=20240702174907",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He told me about a vast ocean in the sky — an ocean of stars. He spoke of a train that transports children with a desire to venture far away, traversing the sea of stars without ever stopping.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/Vo_chapter3_22_misha_160.ogg/revision/latest?cb=20240702175126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He said that he knew the crew on the train, and that he had asked them to take me along. He said the journey I had always dreamed of... would start there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_22_misha_161.ogg/revision/latest?cb=20240702175128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A train? Could it be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/Vo_chapter3_22_mar7th_123.ogg/revision/latest?cb=20240702174909",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "It's the Astral Express. I remember now, Grandpa's friends are a group of Nameless who came to this world to resolve a disaster caused by a star.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_22_misha_162.ogg/revision/latest?cb=20240702175130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Then he gave his pocket watch to me. It was his cherished treasure, appearing in every one of his adventure tales. He explained that difficult times were ahead but assured me that the watch would guide me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_22_misha_163.ogg/revision/latest?cb=20240702175132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "He said, as long as I kept moving forward, I'd eventually reach my desired destination. And then, it was as if I heard...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_22_misha_164.ogg/revision/latest?cb=20240702175134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "The distant sound of a train whistle, echoing throughout the room...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_22_misha_165.ogg/revision/latest?cb=20240702175136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Exactly, Misha! And then we followed that whistle, didn't we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/Vo_chapter3_22_clock_102.ogg/revision/latest?cb=20240702174400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yeah, I think I can still find the way we took back then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_22_misha_166.ogg/revision/latest?cb=20240702175138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_93.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find a way to get to the other end of the room"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with theDream Jigsaw)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This is the Dream Jigsaw, right? So, we're supposed to find the exit? But where can we find the last piece...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Vo_chapter3_22_mar7th_124.ogg/revision/latest?cb=20240702174911",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ Do you remember, (Trailblazer)? You said you obtained a mysterious shard when you stumbled into this place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_22_himeko_122_m.ogg/revision/latest?cb=20240702174705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_95.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Check the inventory.)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, the shape seems to match. So, this shard is also connected to Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_22_mar7th_125.ogg/revision/latest?cb=20240702174913",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Looks like we're just one step from revealing the truth. Let's get to the other side and investigate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_22_himeko_123.ogg/revision/latest?cb=20240702174707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_97.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the other end of the room"
+    },
+    {
+        "type": "note",
+        "text": "Enter the Dreamscape"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "This is it. This... is my room of clocks .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_22_misha_167.ogg/revision/latest?cb=20240702175140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "While I spent my time waiting for Grandpa to return from his voyage, Walder gave me this workshop, and it became my \"secret base\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/Vo_chapter3_22_misha_168.ogg/revision/latest?cb=20240702175142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Here, I learned how to repair clockwork and gears out of my fondness of precision mechanics. In my dreams, I was the captain of the \"Compass,\" embarking on adventures with my companions, Clockie and Miss Mirror, in search of the New World.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_22_misha_169.ogg/revision/latest?cb=20240702175144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I... I was born and raised here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/Vo_chapter3_22_misha_170.ogg/revision/latest?cb=20240702175145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So, this building in the dream bubble is your childhood \"home.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_22_himeko_124.ogg/revision/latest?cb=20240702174709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Yes, but not exactly. To be more precise...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_22_misha_171.ogg/revision/latest?cb=20240702175147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "This \"dream bubble\" itself is my home.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_22_misha_172.ogg/revision/latest?cb=20240702175149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Looks like you've remembered everything now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_22_himeko_125.ogg/revision/latest?cb=20240702174711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait, wait! Why does it feel like everyone else knows something I don't?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_22_mar7th_126.ogg/revision/latest?cb=20240702174915",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_106.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yeah, you're the only one still in the dark."
+    },
+    {
+        "type": "note",
+        "text": "Too bad I don't know either..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ March, do you remember when (Trailblazer) mentioned a \"Clockie\" that only ( he / she ) could see?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/Vo_chapter3_22_himeko_126_m.ogg/revision/latest?cb=20240702174714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah, the little guy here, right? But we all saw him in Dreamflux Reef, right? And Mr. Yang even greeted him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Vo_chapter3_22_mar7th_127.ogg/revision/latest?cb=20240702174917",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Looks like everyone on the Astral Express has a childlike spirit!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_22_clock_112.ogg/revision/latest?cb=20240702174402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ The answer lies in the Astral Express. (Trailblazer)'s experience shows that neither Firefly nor Acheron can see this Clockie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_22_himeko_127_m.ogg/revision/latest?cb=20240702174719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And when we were in Dreamflux Reef, you may have noticed that for some reason, nobody outside of the Crew ... had ever talked with Clockie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_22_himeko_128.ogg/revision/latest?cb=20240702174721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_111.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Yeah, I noticed that, too."
+    },
+    {
+        "type": "note",
+        "text": "Wait, really?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "A memetic life that can only be seen by a select few... It's just like a hidden message... left by someone for the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_22_himeko_129.ogg/revision/latest?cb=20240702174723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But Misha can see Clockie, too, right? They even grew up together, but Misha hasn't started the way of the Trailblaze yet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_22_mar7th_128.ogg/revision/latest?cb=20240702174919",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's the key to the mystery, March. Now, take a moment to recall...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/Vo_chapter3_22_himeko_130.ogg/revision/latest?cb=20240702174725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Have you ever seen anyone outside of the Crew interact with Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_22_himeko_131.ogg/revision/latest?cb=20240702174726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_22_mar7th_129.ogg/revision/latest?cb=20240702174921",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait... no way...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_22_mar7th_130.ogg/revision/latest?cb=20240702174923",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "That's the answer, March 7th. This dream bubble is the place where I was born, and I... I'm a dweller in this dream just like a Memory Zone Meme.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_22_misha_173.ogg/revision/latest?cb=20240702175151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I should have stayed here and waited for you, but when reality and memories merged, I unconsciously pushed open that door and left the bubble with Clockie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_22_misha_174.ogg/revision/latest?cb=20240702175153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, it's not that the Watchmaker's dream bubble is empty, but rather... the stuff inside ran away?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_22_mar7th_131.ogg/revision/latest?cb=20240702174925",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "And the whistle you heard was the sound of the Express arriving at Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/Vo_chapter3_22_mar7th_132.ogg/revision/latest?cb=20240702174927",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's one way to see it, but I believe there is a longer story behind all this. It's best for Misha himself to explain all the details...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_22_himeko_132.ogg/revision/latest?cb=20240702174728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "How about we start with your name ? Now, should we call you Misha? Or...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_22_himeko_133.ogg/revision/latest?cb=20240702174730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Thank you all for helping me rediscover my true self. Now, please allow me to reintroduce myself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_22_misha_175.ogg/revision/latest?cb=20240702175155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I was born on Lushaka in the Przesmir system, adopted by seafarers Mikhail and Char. They gave me a treasure, a name that carried their hopes...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_22_misha_176.ogg/revision/latest?cb=20240702175157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Mikhail Char Legwork, or simply... Misha .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_22_misha_177.ogg/revision/latest?cb=20240702175159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "If you prefer, you can call me by a more familiar name, the Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_22_misha_178.ogg/revision/latest?cb=20240702175201",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, you're the Watchmaker himself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/Vo_chapter3_22_mar7th_133.ogg/revision/latest?cb=20240702174930",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "Unfortunately, that legendary figure is no more. I'm only a reflection of his life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_22_misha_179.ogg/revision/latest?cb=20240702175203",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "As for the child who has been with you, he's the innocent protagonist of Misha's childhood dream, a friend of Clockie, a young apprentice, and a future mechanic on the Express...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_22_misha_180.ogg/revision/latest?cb=20240702175206",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "And this also marks the beginning of his journey devoted to the Trailblaze.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_22_misha_181.ogg/revision/latest?cb=20240702175207",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "At the end of the journey, I left this little flame, which I so cherished, in my deepest dreams, hoping to pass it on to the Nameless of future generations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_22_misha_182.ogg/revision/latest?cb=20240702175209",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "However, he somehow left the dream bubble and forgot all about his task. I apologize for all the confusion this caused.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_22_misha_183.ogg/revision/latest?cb=20240702175214",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Because he was born with a desire to \"trailblaze,\" wasn't he?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Vo_chapter3_22_himeko_134.ogg/revision/latest?cb=20240702174732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ I don't think Misha has forgotten his role as a guide. He remembered it, and that's why he mistakenly appeared as a hotel doorman in (Trailblazer)'s dream from the very beginning.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_22_himeko_135_m.ogg/revision/latest?cb=20240702174736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ The one who brought our unconscious (Trailblazer) here must have been Misha. If that's the case, we encountered the Watchmaker's Legacy from the beginning, didn't we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_22_himeko_136_m.ogg/revision/latest?cb=20240702174740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "Well, I have a sarcastic friend who says I always take big detours and end up back where I started... Perhaps that's what every Nameless has to go through. [ Note 1 ]",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_22_misha_184.ogg/revision/latest?cb=20240702175215",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "But in the end, you've found me. I'm sure you're all wondering what my legacy is. I believe my hound has mentioned the Stellaron and my wealth...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_22_misha_185.ogg/revision/latest?cb=20240702175217",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "If I may apologize, the Stellaron part is real. As for my wealth, however, it's nothing more than a baseless rumor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_22_misha_186.ogg/revision/latest?cb=20240702175219",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "I left my homeland as a child and embarked on the journey of Trailblaze. I traveled to various planets until finally reaching Asdana, where my friends and I built the original Penacony and fought for its future ever since...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_22_misha_187.ogg/revision/latest?cb=20240702175221",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "I've been moving forward all my life, doing what I could to overcome the obstacles in my path. But ultimately, my journey reached its end, and I left behind no possessions worth entrusting...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Vo_chapter3_22_misha_188.ogg/revision/latest?cb=20240702175225",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "So, if you ask what's left within this worn-out train engine that can be called a \"legacy\"... I suppose it's the things that are still burning in the engine's furnace.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_22_misha_189.ogg/revision/latest?cb=20240702175227",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "Now that you're well aware of the current situation of Penacony, I certainly hope that you'll help me get this world back on track. But I'll leave that decision to you, for the Path of Trailblaze is never paved by others.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_22_misha_190.ogg/revision/latest?cb=20240702175229",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "All I have for you is a story and two gifts...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_22_misha_191.ogg/revision/latest?cb=20240702175234",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "I want to give you my pocket watch. It has accompanied me throughout my long journey, guiding that naive child forward, and has been blessed with the presence of so many great people up to this day.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/Vo_chapter3_22_misha_192.ogg/revision/latest?cb=20240702175236",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "And my hat, too. The one who navigated for me placed it on my head and planted a fanciful thought in my mind — the Trailblazing expedition will never end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_22_misha_193.ogg/revision/latest?cb=20240702175238",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "Now, it's time for you to make your choice. Once you've made up your mind, open that door and enter the long dream of an old man.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_22_misha_194.ogg/revision/latest?cb=20240702175240",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"The Watchmaker\"",
+        "line": "I'll be waiting for you at the end of this corridor of time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_22_misha_195.ogg/revision/latest?cb=20240702175242",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Watchmaker_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "All right, everyone. Let's make a decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_22_himeko_137.ogg/revision/latest?cb=20240702174742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Although I don't think anyone will have any objections.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Vo_chapter3_22_himeko_138.ogg/revision/latest?cb=20240702174744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_150.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'll choose the Trailblaze.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Of course. We've come this far. Surely there's no other option than moving forward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_22_mar7th_134.ogg/revision/latest?cb=20240702174932",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_151.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "In that case, it's unanimous.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_22_himeko_139.ogg/revision/latest?cb=20240702174746",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_152.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I want to witness the legacy.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Of course. We've come this far. Surely there's no other option than moving forward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Vo_chapter3_22_mar7th_135.ogg/revision/latest?cb=20240702174934",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_153.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "In that case, it's unanimous.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/Vo_chapter3_22_himeko_140.ogg/revision/latest?cb=20240702174747",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_154.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I object!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Come on... Stop joking at a moment like this. We've come this far. Surely there's no other option than moving forward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_22_mar7th_136.ogg/revision/latest?cb=20240702174936",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_155.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "In that case, the vote stands at two to one.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_22_himeko_141.ogg/revision/latest?cb=20240702174749",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_156.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Then let's proceed together to the end of this dream... and tell Mikhail our decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_22_himeko_142.ogg/revision/latest?cb=20240702174751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_157.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Advance towards the end of the long dream"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "With the passing of an extremely long night, Misha has finally regained his identity: The oblivious main character in the childhood dream of the Watchmaker, Mikhail Char Legwork — Clockie's friend, a young apprentice, a future Express maintenance engineer... Simultaneously, the origin of an old Nameless' Trailblazing journey.He has completed his mission and the Watchmaker has fulfilled his final, long-awaited wish. Now, the future of Penacony is in your hands."
+    },
+    {
+        "type": "note",
+        "text": "Open Door"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Mikhail! Where are you going...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_22_misha_196.ogg/revision/latest?cb=20240702175244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Seafarer\" Mikhail",
+        "line": "Someone has to step up and save Lushaka . So, why can't it be me, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/Vo_chapter3_22_grandpa_101.ogg/revision/latest?cb=20240702174607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seafarer_Mikhail_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Please, don't go. And if you must, please take me with you... Don't leave me alone...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_22_misha_197.ogg/revision/latest?cb=20240702175246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Seafarer\" Mikhail",
+        "line": "Even without me, you know how to proceed forward, brave Captain Misha. The \"Compass\" is waiting for you. Haven't you always wanted to be a better adventurer than me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_22_grandpa_102.ogg/revision/latest?cb=20240702174609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seafarer_Mikhail_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Seafarer\" Mikhail",
+        "line": "Now go. Board that train and... start your journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_22_grandpa_103.ogg/revision/latest?cb=20240702174611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seafarer_Mikhail_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "NavigatorFalcon Amundsen",
+        "line": "Where are you going, Mikhail?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_22_falcon_101.ogg/revision/latest?cb=20240702174426",
+        "is_unavailable": false,
+        "audio_filename": "audio_NavigatorFalcon_Amundsen_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I... I'm going to clean the floor in the Parlor Car! I've promised the conductor...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_22_shaonian_101.ogg/revision/latest?cb=20240702175349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigator Falcon Amundsen",
+        "line": "Wait, first tell me, did you fix this watch ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Vo_chapter3_22_falcon_102.ogg/revision/latest?cb=20240702174428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Falcon_Amundsen_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Um... yeah.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_22_shaonian_102.ogg/revision/latest?cb=20240702175351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigator Falcon Amundsen",
+        "line": "I know what it looked like before. Its chain was broken, the back case torn, and the marks on the dial all worn out... How did you manage to fix it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_22_falcon_103.ogg/revision/latest?cb=20240702174430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Falcon_Amundsen_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Well... It's hard to explain, but I knew it could be fixed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_22_shaonian_103.ogg/revision/latest?cb=20240702175353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "It's the hands, Mr. Amundsen. Its hands were intact and pointing in the right direction, so I knew there would be a way to fix the rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_22_shaonian_104.ogg/revision/latest?cb=20240702175355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigator Falcon Amundsen",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/Vo_chapter3_22_falcon_104.ogg/revision/latest?cb=20240702174432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Falcon_Amundsen_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigator Falcon Amundsen",
+        "line": "I see, you'll work with me from now on. Haven't you always wanted to tinker with this train? You're its mechanic now. As for the conductor , I'll do the talking.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/Vo_chapter3_22_falcon_105.ogg/revision/latest?cb=20240702174434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Falcon_Amundsen_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "B—But I only know how to fix watches...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_22_shaonian_105.ogg/revision/latest?cb=20240702175357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigator Falcon Amundsen",
+        "line": "Don't worry, you've got what it takes. I'll teach you what you need to know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_22_falcon_106.ogg/revision/latest?cb=20240702174436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Falcon_Amundsen_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Navigator\"Granholm",
+        "line": "Where are you going, Legwork? It's time to head to our next stop.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_22_granholm_101.ogg/revision/latest?cb=20240702174613",
+        "is_unavailable": false,
+        "audio_filename": "audio_NavigatorGranholm_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_22_qingnian_101.ogg/revision/latest?cb=20240702175339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I... I'm staying in Asdana, with Razalina and Tiernan .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_22_qingnian_102.ogg/revision/latest?cb=20240702175341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Navigator\" Granholm",
+        "line": "I see... This place reminds you of home?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_22_granholm_102.ogg/revision/latest?cb=20240702174615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Granholm_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "The people of Asdana have only achieved a tiny victory and still have a long way to go... towards true freedom. Hanunue needs us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_22_qingnian_103.ogg/revision/latest?cb=20240702175343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Don't worry, not all journeys lead to the stars. Even if I leave the Express, our Path of Trailblaze will continue.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_22_qingnian_104.ogg/revision/latest?cb=20240702175345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Navigator\" Granholm",
+        "line": "Yeah, I knew you wouldn't stay on the Express forever. Leave in peace, my friend, and take this with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_22_granholm_103.ogg/revision/latest?cb=20240702174617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Granholm_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "This is... Mr. Amundsen's hat? But why...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_22_qingnian_105.ogg/revision/latest?cb=20240702175347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Navigator\" Granholm",
+        "line": "When he departed, he said he would leave it to his best student. Well, I suppose the time has come.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_22_granholm_104.ogg/revision/latest?cb=20240702174618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Granholm_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Navigator\" Granholm",
+        "line": "Farewell, Legwork. Take care of Tiernan and Razalina, and don't forget to... write to us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_22_granholm_105.ogg/revision/latest?cb=20240702174621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigator_Granholm_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Where are you going, Watchmaker?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_22_ymicah_101.ogg/revision/latest?cb=20240702175409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_184.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Don't worry, Micah. Just going on a little trip.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_22_zhuangnian_101.ogg/revision/latest?cb=20240702175413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Someone has to be at the forefront of the interstellar frontier, and I'm the only former Nameless in Penacony. So, why can't it be me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_22_zhuangnian_102.ogg/revision/latest?cb=20240702175415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Micah",
+        "line": "Because you're all we have! Have you forgotten about Tiernan? The Cosmos is way more dangerous now! What will happen to Penacony if we lose you, too?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_22_ymicah_102.ogg/revision/latest?cb=20240702175411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Micah_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "But what will happen to Penacony if we don't find a way out?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/Vo_chapter3_22_zhuangnian_103.ogg/revision/latest?cb=20240702175417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Tiernan... How could I ever forget him? I've spent countless sleepless nights asking myself why I didn't go with him back then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_22_zhuangnian_104.ogg/revision/latest?cb=20240702175419",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "We Nameless won't stop... Don't worry, Micah, it's just a matter of getting back to my old profession. Just wait for me to come back. But if, and it's a big if...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_22_zhuangnian_105.ogg/revision/latest?cb=20240702175421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "If I don't come back in one piece, then you'll become the next Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/Vo_chapter3_22_zhuangnian_106.ogg/revision/latest?cb=20240702175423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Where are you going, old man?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_22_gallagher_101.ogg/revision/latest?cb=20240702174531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Oh, you're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_22_laonian_101.ogg/revision/latest?cb=20240702174812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Answer my question. What are you up to?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_22_gallagher_102.ogg/revision/latest?cb=20240702174533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Relax, Gallagher. I just came up with a great idea. Wanna hear it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_22_laonian_102.ogg/revision/latest?cb=20240702174814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "Oh, come on! Aren't all your \"ideas\" just ways to get yourself killed? I may be blunt here, but you're the last remaining hero in Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_22_gallagher_103.ogg/revision/latest?cb=20240702174535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "If you die too, the secret of the Stellaron... will go to the grave with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_22_gallagher_104.ogg/revision/latest?cb=20240702174536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Yes, I'm afraid there's no way out in Penacony, so I'll have to consider alternatives beyond Asdana.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_22_laonian_103.ogg/revision/latest?cb=20240702174816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "We'll organize a festival, using the \"Watchmaker's Legacy\" as a facade... and send invitations to the entire Cosmos to gather people here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_22_laonian_104.ogg/revision/latest?cb=20240702174818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gallagher",
+        "line": "So? A desperate struggle against The Family ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_22_gallagher_105.ogg/revision/latest?cb=20240702174541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gallagher_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Desperate? Hah, don't we have you here, my friend? This task is challenging, but what hasn't been challenging for us along the way? Well, whatever you do, remember...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_22_laonian_105.ogg/revision/latest?cb=20240702174821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Make sure to send an invitation to the Astral Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Vo_chapter3_22_laonian_106.ogg/revision/latest?cb=20240702174823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Misha! Where are you going?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_22_clock_113.ogg/revision/latest?cb=20240702174404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Oh, it's you, Clockie... Take me to Dreamflux Reef...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_22_munian_101.ogg/revision/latest?cb=20240702175317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Last night, I had a long dream about the day we met. I want to write down that dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_22_munian_102.ogg/revision/latest?cb=20240702175320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Write it down... Why?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_22_clock_114.ogg/revision/latest?cb=20240702174406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "So I won't forget it. Do you remember how you got your name, Clockie?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Vo_chapter3_22_munian_103.ogg/revision/latest?cb=20240702175322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Of course! You told me that when you were a kid, you lived in a room full of clocks. Those wall clocks and pocket watches grew up with you and were your best friends!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Vo_chapter3_22_clock_115.ogg/revision/latest?cb=20240702174408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Yes, but what I didn't mention was... there's a funny misunderstanding behind it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_22_munian_104.ogg/revision/latest?cb=20240702175324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I was a kid, and there was always a special pocket watch in my memories. It was with my grandpa, guiding him on his sea voyages and leading the way in his every adventure story.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_22_munian_105.ogg/revision/latest?cb=20240702175326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I wanted to have a pocket watch like that too, and that's when you appeared in my dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_22_munian_106.ogg/revision/latest?cb=20240702175328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Yeah, every night we boarded the Compass and set sail together!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_22_clock_116.ogg/revision/latest?cb=20240702174410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "But you know what? It wasn't until the day my grandpa gave it to me that I realized... it wasn't a pocket watch at all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_22_munian_107.ogg/revision/latest?cb=20240702175331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "It was a compass.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/Vo_chapter3_22_munian_108.ogg/revision/latest?cb=20240702175333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "So, your name should have been \"Compassie\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Vo_chapter3_22_munian_109.ogg/revision/latest?cb=20240702175335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "And the Watchmaker... is just a Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_22_munian_110.ogg/revision/latest?cb=20240702175337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_216.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Take a rest in the moonlight..."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Dear future Nameless:I have been waiting for you all this time, future Nameless. Though I know not where you come from, what you look like, or even your name... For now, please allow me to call you the \"Trailblazer\".I am sure you have learned of who I am by now... A former Astral Express maintenance engineer, an apprentice of little promise, and an old man who lived an entirely unremarkable existence. I set out on the Trailblazing journey so I might learn about life itself and everything within. However, the more I learned, the more I found myself lost in confusion and distress. I thought that I would be able to learn how to live a better life, but all I learned was how to elegantly face the ending fate has paired you with... \"Nihility\".Everyone in life will eventually find their own answer — to resist or to obey fate — but these questions do not belong to Trailblaze. Although, I fear this question may simply be too profound. I fear evenAkiviliTHEMSELF would not be able to provide a single answer that is unique to Trailblaze. However, as a Nameless... as a person... we have the right to reflect. We have the right to act. We have the right to define our own endings. We have the right to move forward. As we advance down the road to our own ending, there are many things that people are capable of, and our endings will thus take on a completely new meaning. A Nameless does not indulge in temporary dreams, nor would they forsake their birth rights due to pain and suffering.Do you still recall the question I left in my invitation letter, Trailblazer? \"Why does life slumber?\"\"People slumber so that, eventually, they can awaken from their dreams.\" ...This is the answer that an old Nameless devoted his entire life to finding."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_22_misha_198.ogg/revision/latest?cb=20240702175250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "We've arrived at Dreamflux Reef. So, where to next?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_22_clock_117.ogg/revision/latest?cb=20240702174412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "You know, Clockie. I don't think... I'll be going anywhere else.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_22_misha_199.ogg/revision/latest?cb=20240702175253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_219.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Rest under the moonlight"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I've traveled far enough, and it's time for a little break...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_22_misha_200.ogg/revision/latest?cb=20240702175254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Oh, so we'll set out again when you're rested?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_22_clock_118.ogg/revision/latest?cb=20240702174414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "No, I'll stay here, and then... this is where it ends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_22_misha_201.ogg/revision/latest?cb=20240702175256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "This is where it ends? What do you mean, Misha?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_22_clock_119.ogg/revision/latest?cb=20240702174416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "You told me that the Trailblazing expedition would never end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_22_clock_120.ogg/revision/latest?cb=20240702174418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Yeah, that's what I said...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/Vo_chapter3_22_misha_202.ogg/revision/latest?cb=20240702175258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "So now, it's up to you to decide your next destination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_22_misha_203.ogg/revision/latest?cb=20240702175300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "My next destination? What's that supposed to be? I've been following you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_22_clock_121.ogg/revision/latest?cb=20240702174420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_227.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Misha? You're acting weird today! If you're feeling down, we can just do what we usually do... with the clockwork!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_22_clock_122.ogg/revision/latest?cb=20240702174422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "No, I'm not feeling down. As for clockwork... yeah, it resolves all problems in this dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_22_misha_204.ogg/revision/latest?cb=20240702175302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "So, do you know what clockwork actually is?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_22_misha_205.ogg/revision/latest?cb=20240702175304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Clockie",
+        "line": "Hmm? I'm not quite sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/Vo_chapter3_22_clock_123.ogg/revision/latest?cb=20240702174424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Clockie_231.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Well, everyone gets lost at times. They may hesitate and doubt which way to go. That happens in this Dreamscape and beyond.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Vo_chapter3_22_misha_206.ogg/revision/latest?cb=20240702175306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "But don't worry, everyone goes through moments of uncertainty and hesitation. Eventually, they gather the courage to make bold decisions...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_22_misha_207.ogg/revision/latest?cb=20240702175308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Whether it's calming, happy, angry, or sad, all they need is a little nudge to take that step toward where they truly belong.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_22_misha_208.ogg/revision/latest?cb=20240702175310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "I'm leaving that little nudge with you, and I hope you'll share it with others...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_22_misha_209.ogg/revision/latest?cb=20240702175312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mikhail Char Legwork",
+        "line": "Such is the essence of clockwork, the will of the Trailblaze.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_22_misha_210.ogg/revision/latest?cb=20240702175314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mikhail_Char_Legwork_236.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mikhail Char Legwork",
+                "line": "Clockie's hands spin around non-stop, indicating confusion, frustration, and weakness.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mikhail Char Legwork",
+                "line": "But ultimately, people still need to move forward,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mikhail Char Legwork",
+                "line": "just like your hands, always pointing ahead.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mikhail Char Legwork",
+                "line": "This is where my journey ends. From now own...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mikhail Char Legwork",
+                "line": "it is your path to walk.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "\"Trailblazing,\"",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "means taking paths your predecessors foreswore,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "and venturing even further...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "The Penacony in Mikhail's dreams,",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "does not belong to \"Order.\"",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainTrailblazer (Harmony)Trailblazer (Harmony))\n(UnlockJoint Forces: Trailblazer (Harmony))\n(ObtainAchievementNessun Dorma)\n(MishaMishadeparts from the Astral ExpressVisitor Verification. Can claimStellar Jade×10–35for missed dialogue from theGuest Book)"
+    }
+]

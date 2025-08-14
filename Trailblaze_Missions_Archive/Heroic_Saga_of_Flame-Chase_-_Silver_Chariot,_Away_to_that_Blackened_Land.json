@@ -1,0 +1,1999 @@
+[
+    {
+        "type": "heading",
+        "text": "Receive a message from The Astral Express Family"
+    },
+    {
+        "type": "heading",
+        "text": "Join the navigation meeting to decide the next destination of the Express"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The journey toPenaconyhas come to a close once again. With the Express running low on energy, a journey that is sufficiently Trailblazing is urgently needed to refuel."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Now that everyone's here, I should go join them.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Hmm? It's Pom-Pom. Time for our navigation meeting?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Join the navigation meeting"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Please stand by, passengers. The navigation meeting will be starting soon!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_1_pompom_101.ogg/revision/latest?cb=20250205034017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_0.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(The first two choices disappear after choosing them once)"
+    },
+    {
+        "type": "choice",
+        "text": "Black Swan isn't joining us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "She doesn't think it's right to join in on our vote when she's only hitchhiking with us, so she's waiting in the Party Car.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Though she did say that she believes we'll end up deciding on Amphoreus .",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "She can read our minds!"
+            },
+            {
+                "type": "note",
+                "text": "Let's prove her wrong."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "I'm sure everyone has a destination in mind.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Where's Sunday ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "He isn't joining us for the navigation meeting. He went to the Party Car to rest.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_1_welt_101.ogg/revision/latest?cb=20250205034050",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_1.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Don't worry about him. An unexpected destination could be a great starting point for Sunday. (If the player decided to accept Sunday during Trailblaze Mission A New Venture on the Eighth Dawn ) Let the control freak lose all control! ▶ Welt: Your words, not mine. Send him to a Washtopia ! ▶ Welt: That's unexpected, alright... but let's not do that. He's pretty laid-back about this, huh. ▶ Welt: Laid-back? That's... not exactly a word I associate with him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_1_welt_102.ogg/revision/latest?cb=20250205034052",
+                "is_unavailable": false,
+                "children": [
+                    {
+                        "type": "condition",
+                        "text": "(If the player decided to reject Sunday during Trailblaze MissionA New Venture on the Eighth Dawn)"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "I'm not worrying about him.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Welt",
+                                "line": "I can't decide if he'll be happy or disappointed to hear that.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_1_welt_103.ogg/revision/latest?cb=20250310111538",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Welt_3.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Send him back to the IPC , then!",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Welt",
+                                "line": "That's unexpected, alright... but let's not do that.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_1_welt_104.ogg/revision/latest?cb=20250310111539",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Welt_4.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "text": "He's pretty laid-back about this, huh.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Welt",
+                                "line": "Laid-back? That's... not exactly a word I associate with him.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_1_welt_105.ogg/revision/latest?cb=20250310111540",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Welt_5.ogg"
+                            }
+                        ]
+                    }
+                ],
+                "audio_filename": "audio_Welt_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's start voting on our destination."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Since everyone's here, Pom-Pom will start presenting our options. First up is the oceanic planet of Lushaka .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_1_pompom_102.ogg/revision/latest?cb=20250205034018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mr. Mikhail 's homeworld. Lushaka was hit by rising sea levels after the Stellaron Disaster, though I'm not sure how things are on the planet now.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Next, we have Melustanin , the Agate World .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter4_1_pompom_103.ogg/revision/latest?cb=20250205034020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's where Idrila the Beauty ascended, a world of undying allure. It's also said to be one of the initial sites of the Stellaron Disaster. Probably not the safest choice.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Given the Express' fuel situation, it's worth us thinking through our options carefully.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_1_welt_109.ogg/revision/latest?cb=20250205034057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "And finally, the most adventurous option: The Eternal Land, Amphoreus .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_1_pompom_104.ogg/revision/latest?cb=20250205034021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A planet not recorded in the data bank and a world even Akivili has never set foot on... But if this trailblazing expedition works out, it could solve our fuel problem!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_1_mar7th_101.ogg/revision/latest?cb=20250205033936",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_10.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The Express can soon achieve perpetual motion?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It's not that simple. But we can save Pom-Pom from worrying about service delays, at least for a foreseeable period of time.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "We don't really have a choice in a time like this, do we?"
+    },
+    {
+        "type": "choice",
+        "text": "No one wants to go to Edo Star ?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "They suffered an ambush by the Antimatter Legion some time ago. According to the IPC , the enemy was repelled, but Edo Star placed their planet on temporary lockdown. I'm afraid there's nothing we can do there.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_1_welt_110.ogg/revision/latest?cb=20250205034059",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_11.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No one wants to go to a Washtopia?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Geez, stop messing around. We don't need a scrub. The Express is already spotlessly clean.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_1_mar7th_102.ogg/revision/latest?cb=20250205033937",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Amphoreus does have something to offer, unlike the other options...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_1_mar7th_103.ogg/revision/latest?cb=20250205033939",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Plus, it's a completely unknown world! What better place to trailblaze?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_1_mar7th_104.ogg/revision/latest?cb=20250205033940",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I feel the same. While we know nothing about Amphoreus, we know the other two worlds aren't exactly safe options. Anyway, if it's a risk we're taking, we might as well throw in some adventure for good measure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_1_welt_111.ogg/revision/latest?cb=20250205034100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Agreed.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So, everyone's leaning toward the uncharted world? It seems we've got a crew of like-minded adventurers on the Express.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That includes me, too. I'm for Amphoreus.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Looks like Pom-Pom's voting plan won't be needed, after all!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_1_pompom_105.ogg/revision/latest?cb=20250205034023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "It's official, then. Our next stop is... Amphoreus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_1_pompom_106.ogg/revision/latest?cb=20250205034024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Great! I'm looking forward to the conductor's jump announcement!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_1_mar7th_105.ogg/revision/latest?cb=20250205033941",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'll be in my room, freeing up some memory on my camera~! I'm going to have to snap tons of pretty pictures this time!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_1_mar7th_106.ogg/revision/latest?cb=20250205033943",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Don't forget to share the good news with Miss Black Swan.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "(Optional) Chat with your companions"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I'd better start packing up, too. Or should I go chat some more with the others?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ Ah, (Trailblazer). This is your first time exploring beyond the astral charts, isn't it?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "It doesn't feel any different to me...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Worlds that have been mapped on the astral charts also present new surprises from time to time.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Same for everyone else, right?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Maybe not for Pom-Pom. And worlds that have been mapped on the astral charts also present new surprises from time to time.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are credits going to be useless there?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "That's quite the detail to fixate on. Perhaps you should be worrying about language barriers instead?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But we'll be fine. Let's just say I have a backup plan. I'll reveal it when the time comes.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But we'll be fine. Let's just say I have a backup plan. I'll reveal it when the time comes.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "A world yet to be explored by the Trailblaze ... No self-respecting Nameless would turn that opportunity down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_1_welt_112.ogg/revision/latest?cb=20250205034101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_20.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "An opportunity hard to come by?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Absolutely. The Astral Express has always traveled along the silver rail laid down by Akivili. We don't normally get to venture into a world beyond the knowledge of the Trailblaze.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_1_welt_113.ogg/revision/latest?cb=20250205034103",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Hah! So I'm better than an Aeon !",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "This is Akivili we're talking about. In the first instance, every one of THEIR stops was a world no human had ever set foot on. The Astral Express has always traveled along the silver rail laid down by Akivili, so we don't normally get to venture into a world beyond the knowledge of the Trailblaze.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_1_welt_114.ogg/revision/latest?cb=20250205034104",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "But this time, we might just get the chance to add a brand-new stop to the astral charts. I don't mind telling you — I'm a little excited.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter4_1_welt_115.ogg/revision/latest?cb=20250205034106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "An unknown world brings unknown challenges. Exciting stuff.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter4_1_welt_116.ogg/revision/latest?cb=20250205034107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_24.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I can't provide many details about our destination this time. You can ask the Memokeeper if you want to know more.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Are you nervous, Dan Heng?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Why do you ask that? Are you feeling nervous yourself? It'll be fine. Just trust the Crew.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Oh ho, the data bank's getting a huge update.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Mhm, I suppose there's a lot to do. I'll disembark with all of you this time.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We've never had this many passengers on board before... I'm still not used to it. Why don't you head to the Party Car first? I'll see you later.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Why don't you head to the Party Car first? I'll see you later.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, great timing! I just turned on my camera and was looking through some old photos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter4_1_mar7th_107.ogg/revision/latest?cb=20250205033944",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Can I ask you something? What's your favorite part of a journey, from start to finish?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_1_mar7th_108.ogg/revision/latest?cb=20250205033946",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The start of a journey, when we dive into the unknown.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Then let's go snap some photos as soon as we arrive in Amphoreus!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_1_mar7th_109.ogg/revision/latest?cb=20250205033947",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The middle of the journey, when some gains are made.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Then you're going to have to give me a nudge whenever there's something worth snapping!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_1_mar7th_110.ogg/revision/latest?cb=20250205033949",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The end of the journey, when we wanna commemorate the adventure.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Me too! This time in Amphoreus let's make sure we get a group photo that everyone loves!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_1_mar7th_111.ogg/revision/latest?cb=20250205033950",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Anyway, enough chitchat! I better pack some extra batteries in case we end up somewhere without power!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_1_mar7th_112.ogg/revision/latest?cb=20250205033952",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Enough chitchat. You should get packing, too!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_1_mar7th_113.ogg/revision/latest?cb=20250205033953",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Ah, you're here. I hear the Nameless are going to Amphoreus. A very wise decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_1_blackswan_101.ogg/revision/latest?cb=20250205033901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_32.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Who did you hear that from?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I am a Memokeeper, after all. Memories don't lie.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter4_1_blackswan_102.ogg/revision/latest?cb=20250205033902",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Why do you want to go to Amphoreus?"
+    },
+    {
+        "type": "choice",
+        "text": "Why is the Garden turning to us for help?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Truth be told, it's more of a personal request.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_1_blackswan_103.ogg/revision/latest?cb=20250205033904",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "\"Memokeepers traverse the worlds only to collect precious memories.\" Have you heard that before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_1_blackswan_104.ogg/revision/latest?cb=20250205033905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "It's my duty to salvage unknown memories, and the Amphoreus that has been revealed by the Garden's mirror is like a treasure inside a display case — dazzling yet out of reach.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_1_blackswan_105.ogg/revision/latest?cb=20250205033907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I need a sharp nail to break through that glass, and that's where you come in. Only through trailblazing can we reach the heart of Amphoreus, cut through the thick mist, and bring the world's \"memories\" back to light.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_1_blackswan_106.ogg/revision/latest?cb=20250205033909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I trust you won't disappoint me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_1_blackswan_107.ogg/revision/latest?cb=20250205033910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I trust you won't disappoint me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_1_blackswan_108.ogg/revision/latest?cb=20250205033911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_39.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Sunday)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Looks like you've decided on your next stop?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_1_sunday_101.ogg/revision/latest?cb=20250205034035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_40.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We're going to Amphoreus."
+    },
+    {
+        "type": "note",
+        "text": "We're going to a Washtopia."
+    },
+    {
+        "type": "note",
+        "text": "We're going back to Penacony."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_1_sunday_102.ogg/revision/latest?cb=20250205034036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_41.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You're taking it very calmly."
+    },
+    {
+        "type": "note",
+        "text": "No comment from you?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Those who embark on a long journey simply need to \"set off.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_1_sunday_103.ogg/revision/latest?cb=20250205034037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_42.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Sunday again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I look forward to the journey ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_1_sunday_104.ogg/revision/latest?cb=20250205034039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_43.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(At the entrance to theTrailblazer's Room)"
+    },
+    {
+        "type": "note",
+        "text": "Pack up luggage"
+    },
+    {
+        "type": "note",
+        "text": "After much deliberation, you realize that insufficient preparation is as good as no preparation! Might as well toss your luggage aside..."
+    },
+    {
+        "type": "note",
+        "text": "Never mind. Having some preparation is better than none. Even formalities have their place."
+    },
+    {
+        "type": "heading",
+        "text": "Take a short rest at the Party Car and wait for the warp jump"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like it's about time. I should go find a spot to take in the views during the warp.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the highlighted sofa)"
+    },
+    {
+        "type": "note",
+        "text": "Begin Warp Jump"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Attention, passengers. The Express is about to make the jump. Please be seated and hold on!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_1_pompom_107.ogg/revision/latest?cb=20250205034025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_44.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "There's nothing there...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Confusing?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "The answer lies hidden in the starry sky.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Here it is — the isolated world that can only be seen through the Garden's mirror...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_1_blackswan_109.ogg/revision/latest?cb=20250205033913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "The Eternal Land, Amphoreus .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_1_blackswan_110.ogg/revision/latest?cb=20250205033914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_46.ogg"
+    },
+    {
+        "type": "note",
+        "text": "So blindingly bright..."
+    },
+    {
+        "type": "choice",
+        "text": "What celestial body is this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "No one knows. That's what you're about to find out.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter4_1_blackswan_111.ogg/revision/latest?cb=20250205033916",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_47.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How did it suddenly just appear?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I used a little magic so all of you can also see what it looks like.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_1_blackswan_112.ogg/revision/latest?cb=20250205033917",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_48.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Woah. It's in the shape of an \"8\"!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "As you can see, Amphoreus is surrounded by a mass of chaotic matter that conceals it from the outside world — nearly. Conventional interstellar travel can't detect its presence, let alone pass by or land on the planet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_1_blackswan_113.ogg/revision/latest?cb=20250205033919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Yet the Garden, caught a glimpse of this place, and along with it, discovered ever-shifting Traces.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_1_blackswan_114.ogg/revision/latest?cb=20250205033920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "\"Three Paths interweave and fetter Amphoreus, co-authoring the fate of the world.\" Ordinary Pathstriders aren't known to leave traces in the mirror, so if what you said is true...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Then this isolated star system must have been home to at least three beings comparable to Emanators .",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I would even go as far as to say Aeons THEMSELVES.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_1_blackswan_115.ogg/revision/latest?cb=20250205033922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "For a world to have nurtured such marvels yet still remain unheard of throughout the cosmos? Now, that is hard to fathom.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_1_welt_117.ogg/revision/latest?cb=20250205034108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We already know one of the three Paths to be the Erudition ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I can reveal the second. In fact, you've all seen it just now. It's the Remembrance .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_1_blackswan_116.ogg/revision/latest?cb=20250205033923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I see. Then it makes sense that a messenger of the Garden would be capable of unveiling Amphoreus for us. What about the final Path?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_1_welt_118.ogg/revision/latest?cb=20250205034110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Unfortunately, fate is keeping the third Path a mystery. I don't know what it is, either.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_1_blackswan_117.ogg/revision/latest?cb=20250205033925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Hidden beneath the brilliance of Erudition and Remembrance, yet possessing enough power to rival the other two Paths. It could be the Equilibrium , the Enigmata , or perhaps the Permanence ? I have no clue at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_1_blackswan_118.ogg/revision/latest?cb=20250205033926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "This white ribbon of light encircling Amphoreus might very well be a product of the three interwoven Paths. Only when Pathstriders of the Trailblaze enter the center of the vortex will its true nature be revealed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_1_blackswan_119.ogg/revision/latest?cb=20250205033928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Still, we know far too little about the planet.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What's more pressing is finding a suitable landing site. We could end up over an ocean, in a vacuum without oxygen, or worse yet, in the middle of a lava field...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Now I see why the data bank's important.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It is. Still, encountering worlds that exist which are not recorded in data bank is unavoidable.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Have no fear, resilient little me will volunteer!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I know you're fearless even in the face of death, but don't act recklessly — everyone values you.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We're turning back! Next stop: Lushaka!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Throwing in the towel already? I don't think we're at that point yet.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Looks like someone is all set and itching to get off the train.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Wait, I think we might be missing someone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_1_welt_119.ogg/revision/latest?cb=20250205034111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_58.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Hey, where's March 7th?"
+    },
+    {
+        "type": "note",
+        "text": "Yeah, I was wondering where that chatterbox had gone."
+    },
+    {
+        "type": "choice",
+        "text": "Really? Who? All four of us are here.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Very funny... But seriously, where's March 7th?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_1_welt_120.ogg/revision/latest?cb=20250205034112",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "She said something about her camera before going back to her room. I haven't seen her since the warp.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "That's not like March. She's usually the most excited about expeditions. Let's drop by her room.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Seek out March 7th, who seems to be out of sorts"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "When setting off, March 7th seems to be feeling unwell..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Is March 7th okay?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Something feels... off. Please, all of you go ahead without me. I'll join you later.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_1_blackswan_120.ogg/revision/latest?cb=20250205033929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Sunday, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Let me know if there's anything I can assist with. I'll do whatever I can.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_1_sunday_105.ogg/revision/latest?cb=20250205034040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_61.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon arriving near March's room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "March, are you in here?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_1_mar7th_114.ogg/revision/latest?cb=20250205033954",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Sorry, guys. I don't know what's wrong... I just feel really weak after the warp...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_1_mar7th_115.ogg/revision/latest?cb=20250205033956",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_63.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Did you come down with something?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I doubt it...? Pretty girls aren't supposed to get sick...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter4_1_mar7th_116.ogg/revision/latest?cb=20250205033957",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is it motion sickness?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Of course not! I've been through way more jumps than you ever have!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_1_mar7th_117.ogg/revision/latest?cb=20250205033959",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_65.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are you... possessed?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Have a heart, will you? Stop scaring me...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_1_mar7th_118.ogg/revision/latest?cb=20250205034000",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_66.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Miss Black Swan, could you take a look at the memories in this room?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Gladly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_1_blackswan_121.ogg/revision/latest?cb=20250205033931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_67.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Black Swan presses her forehead against March 7th's head, as if feeling the latter's body temperature..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "...I'm seeing March 7th hit by a sudden bout of weakness in her memories, as if something was weighing on her. The onset of it far too quick to be any kind of sickness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_1_blackswan_122.ogg/revision/latest?cb=20250205033932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Perhaps it's the effect of some external stimulus?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_1_sunday_106.ogg/revision/latest?cb=20250205034042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ahh, why is everyone here!? I should've cleaned my room...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_1_mar7th_119.ogg/revision/latest?cb=20250205034001",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I invited Sunday to help with the diagnosis. He grew up in a star system rich in memoria. When it comes to mental healing, he's quite the specialist.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_1_welt_121.ogg/revision/latest?cb=20250205034114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "You've all been to Penacony before. I presume you are aware of how some might find themselves in a Synesthesia Dreamscape after warping to Asdana .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_1_sunday_107.ogg/revision/latest?cb=20250205034043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'm guessing this is something similar. Miss March appears to be affected by a certain external stimulus, perhaps a Path, an Aeon, or even... Amphoreus itself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_1_sunday_108.ogg/revision/latest?cb=20250205034045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I agree. That's likely the case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_1_blackswan_123.ogg/revision/latest?cb=20250205033933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Why is she the only one affected?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_1_welt_122.ogg/revision/latest?cb=20250205034115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "There's no way to tell at this point. It could just be a matter of time before everyone feels unwell.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_1_sunday_109.ogg/revision/latest?cb=20250205034046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Before we identify the cause, my suggestion is for Miss March to avoid venturing anywhere near Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_1_sunday_110.ogg/revision/latest?cb=20250205034048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's okay, Himeko. I'll be good on my own. Go ahead, guys! I'll catch up once I feel better...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_1_mar7th_120.ogg/revision/latest?cb=20250205034003",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Here, (Trailblazer). Take my camera along! I was planning to take photos when we got there, but looks like you'll have to help me with that now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_1_mar7th_121_m.ogg/revision/latest?cb=20250205034006",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_79.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Leave it to me.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Heh, I know I can always count on you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_1_mar7th_122.ogg/revision/latest?cb=20250205034007",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Nooo, how could I leave you by yourself...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Haha, what's with the melodramatic turn... I'll be fine.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_1_mar7th_123.ogg/revision/latest?cb=20250205034008",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_81.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Three, two, one... Cheeeese—!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "No—! Not when my hair's messy. And don't drain the camera's battery now...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_1_mar7th_124.ogg/revision/latest?cb=20250205034010",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_82.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Why don't we take our discussion outside so March 7th can rest?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah, you guys go on ahead. Don't worry about me! I'll be back to being my hyperactive and adorable self by the next time you see me. Now don't forget about those photos, okay? I'll be checking the camera!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_1_mar7th_125.ogg/revision/latest?cb=20250205034011",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Seek your companions' opinion"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, I almost forgot. I was looking at the photos from before when I realized something. When we were on Jarilo-VI , the Xianzhou , and Penacony...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_1_mar7th_126.ogg/revision/latest?cb=20250205034013",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The first local we met in each of those worlds all harbored their own deep secret! I'm sure it'll be the same on Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter4_1_mar7th_127.ogg/revision/latest?cb=20250205034014",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I can't join you guys this time, but make sure to always look out for one another, okay...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_1_mar7th_128.ogg/revision/latest?cb=20250205034015",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_86.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with companions)"
+    },
+    {
+        "type": "note",
+        "text": "Interact with companions"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Do you think March 7th's past could be connected to Amphoreus?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_1_welt_123.ogg/revision/latest?cb=20250205034116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "No, that'd be too much of a coincidence. I haven't seen anything related to Six-Phased Ice yet. It's more likely that some kind of energy on Amphoreus affected her before any of us.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ (Trailblazer), I want you and Dan Heng to take the lead in this trailblazing expedition. Are you up for it?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Sure, we work well together.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "▶ I see our adventure in Penacony has helped (Trailblazer) grow into an experienced Nameless.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Pretty sure we're going to need more help...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Not to worry, we have a knack for finding trustworthy friends wherever we go.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "What about the rest of you?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Amphoreus is a crucial stop, so everyone on the Express has been roped in to help in some way or another. Venturing into the unknown world is a task perfect for you youngsters. I'm sure you'll both have each other's backs.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So we're... staying behind to take care of the grownup stuff?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_1_welt_124.ogg/revision/latest?cb=20250205034118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Chin up, Welt. You'll get your chance out in the field.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Someone should be taking care of March 7th, too. I can do that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_1_blackswan_124.ogg/revision/latest?cb=20250205033935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'm fine with any arrangement you have for me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter4_1_sunday_111.ogg/revision/latest?cb=20250205034049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Great, sounds like we're all good! Come with me to the Parlor Car then, you two.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I prepared a backup plan before our departure, but I didn't count on having to reveal it so soon.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Go to the Parlor Car and prepare to activate the Backup Plan"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The absence of March 7th has introduced a new layer of uncertainty to this trailblazing expedition. To keep the expedition on course, Miss Himeko decides to activate the Backup Plan."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mhm, I suppose there's a lot to do. I'll disembark with all of you this time.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Now that our ground exploration team is assembled, I'll let the conductor reveal our backup plan.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Yes. Seeing how this is going to be a perilous expedition, Pom-Pom and the Navigator have come together to prepare a special trailblazing gift for you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_1_pompom_108.ogg/revision/latest?cb=20250205034027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Your~ very~ own~ car~!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_1_pompom_109.ogg/revision/latest?cb=20250205034028",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_92.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Our what now?"
+    },
+    {
+        "type": "note",
+        "text": "The Express is splitting up?"
+    },
+    {
+        "type": "note",
+        "text": "Can I have the Party Car instead?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Amphoreus is outside the Interastral Peace Telecommunications' coverage zone, so there's no chance of remote communication when you're there.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Uncoupling and using one of the Express' cars as your landing capsule is the best way we can ease your exploration. It can also be your safe house once you're on Amphoreus.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "The car you're getting has its own thrusters, so just buckle up, and It'll take you into Amphoreus and land you somewhere safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_1_pompom_110.ogg/revision/latest?cb=20250205034029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_93.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The Express is more multipurpose than I thought...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Only in extenuating circumstances~! Don't go thinking you can detach cars from the Express every which way, alright!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_1_pompom_111.ogg/revision/latest?cb=20250205034031",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_94.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Woohoo, a powerful engine to send cars blasting off in space!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Oh, no you don't! Only in extenuating circumstances! Don't go thinking you can detach cars from the Express every which way, alright!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_1_pompom_112.ogg/revision/latest?cb=20250205034032",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_95.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "▶ I'll make sure to keep an eye on ( him / her ) .",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Get going whenever you're ready. Pom-Pom can't wait to hear about your exciting discoveries!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_1_pompom_113.ogg/revision/latest?cb=20250205034033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_96.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm ready.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue on to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Hold on the moment."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The landing car is ready. My dear trailblazing vanguards, are you all set to dive into the unknown?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "I'm ready.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Go ahead and journey into The Eternal Land!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(Continue on to next section)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Hold on the moment.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Oh? Need to psyche yourself up? Don't keep us waiting too long.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Welt and Sunday at the end of the Passenger Cabin, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Welt Yang and Sunday seem to be discussing March 7th's symptoms and planning their next steps. It's best not to bother them."
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "\"Car ready for detachment! Three... two... one!\"",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "...Mem?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "(Trailblazer)",
+                "line": "...Who's there?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "note",
+        "text": "Some time later..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Oof...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...Dan Heng?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Wake up the unconscious Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The coach was forced to make an emergency landing, but thankfully, we were both unharmed. Our initial assessment suggests that this world contains civilization. We resolve to remain vigilant as we explore this unfamiliar land."
+    },
+    {
+        "type": "condition",
+        "text": "(Observe Dan Heng)"
+    },
+    {
+        "type": "note",
+        "text": "Dan Heng is slumped in the corner of the wreckage, his well-being uncertain."
+    },
+    {
+        "type": "note",
+        "text": "Dan Heng, time to get up."
+    },
+    {
+        "type": "note",
+        "text": "That was one stylish landing, bro."
+    },
+    {
+        "type": "note",
+        "text": "Time to come up with a name for the next reincarnation..."
+    },
+    {
+        "type": "note",
+        "text": "Wait— you see Dan Heng's chest rising and falling, proof that life still lingers within him."
+    },
+    {
+        "type": "choice",
+        "text": "Shake him hard.",
+        "children": [
+            {
+                "type": "note",
+                "text": "...He doesn't even twitch. Looks like you gotta try some new ideas."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Mouth-to-mouth resuscitation?",
+        "children": [
+            {
+                "type": "note",
+                "text": "You recall the moment you first met Dan Heng and March 7th..."
+            },
+            {
+                "type": "choice",
+                "text": "Nope, ain't no way.",
+                "children": [
+                    {
+                        "type": "note",
+                        "text": "How can such a thought even cross your mind? You're scared... You feel like slapping yourself to snap out of it!"
+                    },
+                    {
+                        "type": "note",
+                        "text": "But, come to think of it, you don't necessarily need to slap yourself, right? You take another glance at Dan Heng."
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Yep, this is the way.",
+                "children": [
+                    {
+                        "type": "note",
+                        "text": "It's as if someone is shouting in your ear: \"JUST DO IT!\" It's veritably the whispers of the devil. After much hesitation, you finally lean down and..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Slap him in the face!",
+        "children": [
+            {
+                "type": "note",
+                "text": "You suddenly felt the urge to \"slap him\" for no reason — There are no grudges. Some thoughts just spontaneously appear like that."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...Sorry, Dan Heng.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Sorry for what?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Oh, it's nothing."
+    },
+    {
+        "type": "note",
+        "text": "When did you come to!?"
+    },
+    {
+        "type": "note",
+        "text": "Uh, pardon me for... not keeping you safe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Ugh... How long were we out for?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You passed out when our car got hit. I blacked out too, but not before dragging you out. It's a good thing we were in the car, or we would've been crushed to pieces.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...We should try making contact with the Express.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Send a message toThe Astral Express Family)"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family Dan Heng Himeko, we've made a smooth landing on Amphoreus. It looks like there's a civilisation down here. I'm starving, Pom-Pom (Trailblazer) The car's blown up! Pom-Pom, drop some food down, quick! Farewell, my friends (Trailblazer) Finally freed from the Express! Farewell, my prison! Message failed to send."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I guessed as much... It's no longer working. Looks like it's just the two of us out here now.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's find someplace safe to set up a base of operations first. This statue and the buildings we've seen so far point to a civilization here on Amphoreus...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We can only hope they're not hostile toward outsiders.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "It's dangerous here. We should leave."
+    },
+    {
+        "type": "note",
+        "text": "Are we back to being fugitives again...?"
+    },
+    {
+        "type": "note",
+        "text": "Who cares? We're only here to trailblaze."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_2_mem_101.ogg/revision/latest?cb=20250205034125",
+        "is_unavailable": false,
+        "audio_filename": "audio__97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What is it?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "I thought I heard something..."
+    },
+    {
+        "type": "note",
+        "text": "Shh. Someone's here."
+    },
+    {
+        "type": "note",
+        "text": "Show yourself, peeping Tom!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Someone's here? Ready your weapon and stay alert.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's find out what's behind that gate.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "We had initial contact with the people of Amphoreus known as the Chrysos Heirs, then followed two of them into the Temple to explore. They claimed their purpose here was to rescue the refugees, yet there seemed to be tension and strife among the people."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "A girl named Tribbie aids the refugees to lead them out of danger, using her remarkable ability to replicate space and time. The group is now preparing for a safe departure to Okhema."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Nikador, the Strife Titan, launched a surprise attack on Okhema. In a moment of desperation, we stepped in to assist. Following Phainon's lead, we defeated the Titankin and protected the residents on the way."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The Chrysos Heirs named Castorice and Mydei cleared the obstacles in our path. Now, alongside Phainon, we will face Nikador, Lance of Fury, and become heroes."
+    }
+]

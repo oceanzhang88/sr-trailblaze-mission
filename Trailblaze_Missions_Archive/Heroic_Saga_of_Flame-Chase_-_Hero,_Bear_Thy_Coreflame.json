@@ -1,0 +1,1202 @@
+[
+    {
+        "type": "heading",
+        "text": "Head to the Vortex of Genesis"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The battle withNikadorends with the Chrysos Heirs' victory. We return toOkhemato rest and recover. Together, we will witness the return of theTitan's Coreflame and the start of the Coreflame's trial."
+    },
+    {
+        "type": "note",
+        "text": "Within Amphoreus , at ( Trailblazer )'s private bath chamber..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Good thing you're finally up! Or that Giant 's light is going to give you a sunburn!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_9_mem_123.ogg/revision/latest?cb=20250226021954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "They've been this excited for a while now... What did you feed them?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "More like they snuck food themself.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Hmph, really now? I wouldn't do something like that!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_9_mem_124.ogg/revision/latest?cb=20250226021955",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_1.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Hmm... but come to think of it, I don't remember when the last time I ate something was...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter4_9_mem_125.ogg/revision/latest?cb=20250226021955",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "They don't seem to need food.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Says who! I'm still a... a cute and tiny animal, alright!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_9_mem_126.ogg/revision/latest?cb=20250226021956",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_3.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Hmm? But come to think of it... I don't remember when the last time I ate something was...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_9_mem_127.ogg/revision/latest?cb=20250226021957",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Forget it. You can skip the translation. I can somehow tell that none of that chatter's meaningful.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's almost time. The Chrysos Heirs should be finishing up their preparations at the Vortex of Genesis.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's go witness the Coreflame's return when you're ready.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Wait for Phainon to start the Coreflame's trial"
+    },
+    {
+        "type": "condition",
+        "text": "(Head up the stairs towards the basin)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"O majesty of the twelve Titans, pillars of the world—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_9_trinnon_101.ogg/revision/latest?cb=20250226022037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"We seek your divinity, to mend the rifts of the world—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_9_trinnon_102.ogg/revision/latest?cb=20250226022038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Fill our bodies with blood of gold, till we wither in willing service to the prophecy...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_9_trinnon_103.ogg/revision/latest?cb=20250226022039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Your guests are here, Phainon. We can begin the ritual now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_9_aglaea_112.ogg/revision/latest?cb=20250226021910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord Mydei isn't here yet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter4_9_castorice_136.ogg/revision/latest?cb=20250226021923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "It's fine, Miss Castorice. He spoke to me already.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_9_phainon_156.ogg/revision/latest?cb=20250226022024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I told him that he should be nursing his wounds, and that he shouldn't be worrying about all this comrade's once-in-a-lifetime ascension ritual stuff.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_9_phainon_157.ogg/revision/latest?cb=20250226022025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "So, I'm ready to begin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_9_phainon_158.ogg/revision/latest?cb=20250226022026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Teacher, show him the way forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_9_aglaea_113.ogg/revision/latest?cb=20250226021911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Despite the myriad dark and endless nights that have gone by, the guidance of the prophecy is nevertheless as clear and bright as the first ray of dawn.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_9_trinnon_104.ogg/revision/latest?cb=20250226022040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Overthrow the gods, it declared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_9_trinnon_105.ogg/revision/latest?cb=20250226022041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Restore the Coreflames, it declared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_9_trinnon_106.ogg/revision/latest?cb=20250226022042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Bear the divine authority, it declared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_9_trinnon_107.ogg/revision/latest?cb=20250226022043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Forge miracles, it declared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_9_trinnon_108.ogg/revision/latest?cb=20250226022044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "O prophecy, forgive us for this late tribute. We Chrysos Heirs have striven to start the Flame-Chase Journey anew over these myriad nights. The seeds we sowed have finally yielded a good harvest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter4_9_trinnon_109.ogg/revision/latest?cb=20250226022045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "The seventh Coreflame needed for the miracle, that once belonged to the great Lance of Fury, Nikador , shall now be returned by an elected hero of the Chrysos Heirs: an upstanding citizen, a valiant warrior, and a noble soul.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_9_trinnon_110.ogg/revision/latest?cb=20250226022046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Please step forward, Phainon of Aedes Elysiae .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_9_trinnon_111.ogg/revision/latest?cb=20250226022047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Recite with us :",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_9_trinnon_112.ogg/revision/latest?cb=20250226022047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & Phainon",
+        "line": "▶ ▶ \"O majesty of the twelve Titans, pillars of the world—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_9_trinnon_113.ogg/revision/latest?cb=20250226022048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_Phainon_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & Phainon",
+        "line": "▶ ▶ \"We seek your divinity, to mend the rifts of the world—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_9_trinnon_114.ogg/revision/latest?cb=20250226022050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_Phainon_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & Phainon",
+        "line": "▶ ▶ \"Fill our bodies with blood of gold, till we wither in willing service to the prophecy...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_9_trinnon_115.ogg/revision/latest?cb=20250226022052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_Phainon_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Surrender the Coreflame, Chrysos Heir.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_9_trinnon_116.ogg/revision/latest?cb=20250226022054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The Lance of Fury 's constellation is illuminated...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_9_phainon_162.ogg/revision/latest?cb=20250226022030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Why is the Vortex this silent? Was it also like that in the past?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_9_phainon_163.ogg/revision/latest?cb=20250226022031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Patience, Phainon. Do not make us question this decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_9_aglaea_114.ogg/revision/latest?cb=20250226021912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord... Gnaeus ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter4_9_castorice_137.ogg/revision/latest?cb=20250226021924",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "I'm afraid he is not the person you know, Castorice. That is a manifestation of the prophecy, an echo of the Titan's divinity. It is here to examine the Titan's successor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_9_trinnon_117.ogg/revision/latest?cb=20250226022055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "(Titan's murmurs)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_9_nikadory_104.ogg/revision/latest?cb=20250226022012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Mortal who wishes to inherit my divine authority...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_9_trinnon_118.ogg/revision/latest?cb=20250226022056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Your strength and character have been thoroughly tested...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_9_trinnon_119.ogg/revision/latest?cb=20250226022057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "(Titan's murmurs)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_9_nikadory_105.ogg/revision/latest?cb=20250226022012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Yet your will wavers...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_9_trinnon_120.ogg/revision/latest?cb=20250226022058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"If you are to inherit Nikador 's relentless fight against the unspeakable black tide...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter4_9_trinnon_121.ogg/revision/latest?cb=20250226022058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "(Titan's murmurs)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_9_nikadory_106.ogg/revision/latest?cb=20250226022013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"You must accept a trial of divinity...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_9_trinnon_122.ogg/revision/latest?cb=20250226022059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Prove that you possess an indestructible will... And vanquish the fears deep in your heart...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_9_trinnon_123.ogg/revision/latest?cb=20250226022100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Vanquish... the fears in my heart?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_9_phainon_164.ogg/revision/latest?cb=20250226022032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "So be it. No matter what obstacles you plan to put in my way, I'm ready to overcome them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_9_phainon_165.ogg/revision/latest?cb=20250226022033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "For our prophesied tomorrow, I will become the god Amphoreus needs.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_9_phainon_166.ogg/revision/latest?cb=20250226022034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Divine Echo",
+        "line": "(Titan's murmurs)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_9_nikadory_107.ogg/revision/latest?cb=20250226022014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Divine_Echo_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "\"Come with me, Phainon of Aedes Elysiae...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_9_trinnon_124.ogg/revision/latest?cb=20250226022101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon & Trinnon",
+        "line": "▶ ▶ \"...In fear, you shall abandon your mortal body, and in suffering, be reborn as a god.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_9_phainon_167.ogg/revision/latest?cb=20250226022034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_&_Trinnon_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Wait for my return, my friends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_9_phainon_168.ogg/revision/latest?cb=20250226022036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord Phainon... is gone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter4_9_castorice_138.ogg/revision/latest?cb=20250226021925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "He has stepped onto the battlefield to fight a campaign that can only be won by him alone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_9_aglaea_115.ogg/revision/latest?cb=20250226021913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "All we can do is wait... and have faith.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_9_aglaea_116.ogg/revision/latest?cb=20250226021914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_50.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Chat with the Chrysos Heirs"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "What a... mysterious ritual. Is there really nothing we can do but wait?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I don't know about the rest of them, but I don't like to just sit by and wait for my fate to be decided.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Phainon steers his own fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_9_aglaea_117.ogg/revision/latest?cb=20250226021915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "If he can conquer his fear and return as a demigod, we will be one step closer to the miracle that the prophecy promised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_9_aglaea_118.ogg/revision/latest?cb=20250226021916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You have a lot of faith in him."
+    },
+    {
+        "type": "choice",
+        "text": "What if he fails?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "...That would mean his time hasn't come yet. And that there is a more arduous mission for him to see through.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_9_aglaea_119.ogg/revision/latest?cb=20250226021917",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "You must have noticed by now. Every Chrysos Heir here bears... a flaw of sorts. Be it the curse of immortality, or the constant erosion of their humanity, or...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_9_aglaea_120.ogg/revision/latest?cb=20250226021918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But not Phainon. He is a Chrysos Heir without flaw, a perfect vessel for divinity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_9_aglaea_121.ogg/revision/latest?cb=20250226021919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "There will come a day when he leads everyone — everyone we have left — through the gates of the miracle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_9_aglaea_122.ogg/revision/latest?cb=20250226021920",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_56.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Aglaea again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Phainon steers his own fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_9_aglaea_123.ogg/revision/latest?cb=20250226021921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "There will come a day when he leads everyone — everyone we have left — through the gates of the miracle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_9_aglaea_124.ogg/revision/latest?cb=20250226021922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_58.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Trinnon, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Zzz... Zzz...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_9_trinnon_126.ogg/revision/latest?cb=20250226022103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Looks like she fell asleep. Presiding over this ritual must take quite a toll.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Snowy ... zzz... will succeed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_9_trinnon_127.ogg/revision/latest?cb=20250226022104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Trinnon again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Zzz... Zzz...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_9_trinnon_128.ogg/revision/latest?cb=20250226022105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Snowy... zzz... will succeed...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_9_trinnon_129.ogg/revision/latest?cb=20250226022106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_62.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Castorice, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I pray you truly are prepared, Lord Phainon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_9_castorice_139.ogg/revision/latest?cb=20250226021926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_63.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You seem worried.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I spoke at length with Lord Phainon before. There was hesitation in his words.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_9_castorice_140.ogg/revision/latest?cb=20250226021927",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You spoke to him?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Yes, there was hesitation in his words.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_9_castorice_141.ogg/revision/latest?cb=20250226021928",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_65.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The manifestation of the prophecy must have seen this. It saw Lord Phainon's heart wavering.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_9_castorice_142.ogg/revision/latest?cb=20250226021929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Wherever he is, whatever he is fighting, I pray he makes it through this test.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter4_9_castorice_143.ogg/revision/latest?cb=20250226021930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk with Castorice again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Wherever he is, whatever he is fighting, I pray he makes it through this test.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_9_castorice_144.ogg/revision/latest?cb=20250226021930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After speaking with Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Still too late, huh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_9_mydeimos_111.ogg/revision/latest?cb=20250226021958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_69.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Oops, missed the party..."
+    },
+    {
+        "type": "note",
+        "text": "Phainon said you weren't coming."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "The constellation of the Lance of Fury is already illuminated. That must mean...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_9_mydeimos_112.ogg/revision/latest?cb=20250226021959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The Coreflame has been surrendered, but Lord Phainon's test isn't over yet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_9_castorice_145.ogg/revision/latest?cb=20250226021931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The prophecy sent an ambassador. They acknowledged Lord Phainon's strength and character, but had doubts about his strength of will.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_9_castorice_146.ogg/revision/latest?cb=20250226021933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "He must conquer his fear and prove himself to the prophecy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_9_castorice_147.ogg/revision/latest?cb=20250226021934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...I was right to be worried.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_9_mydeimos_113.ogg/revision/latest?cb=20250226022000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I want to formally thank you, outsiders. Were it not for your aid, our campaign against Nikador would have been a hundred times more arduous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_9_mydeimos_114.ogg/revision/latest?cb=20250226022001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_75.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Isn't it nice to be polite?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Kremnoans revere strength and military might, but that does not mean we lack etiquette.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_9_mydeimos_115.ogg/revision/latest?cb=20250226022002",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Talk is cheap.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "You are asking for a reward? Not a problem.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_9_mydeimos_116.ogg/revision/latest?cb=20250226022003",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_77.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mydei",
+                "line": "Kremnoans revere strength and military might, but that does not mean we lack etiquette.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_9_mydeimos_117.ogg/revision/latest?cb=20250226022004",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mydei_78.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mydei, what do you mean when you said you were \"worried\"?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "They don't know yet?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_9_mydeimos_118.ogg/revision/latest?cb=20250226022005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "That guy... has always been tormented by his past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_9_mydeimos_119.ogg/revision/latest?cb=20250226022006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I may not be the right person to tell you about him, but you must know his past if you are to continue fighting alongside Phainon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_9_mydeimos_120.ogg/revision/latest?cb=20250226022007",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord Mydei... please allow me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_9_castorice_148.ogg/revision/latest?cb=20250226021935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Hm... Very well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_9_mydeimos_121.ogg/revision/latest?cb=20250226022008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Before he was chosen by the prophecy, Lord Phainon had everything taken away from him: his home, his family, his close friends... Everything he once swore to protect.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_9_castorice_149.ogg/revision/latest?cb=20250226021936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "He became a hollowed shell in his youth, and the blazing flames of vengeance were the only thing sustaining him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_9_castorice_150.ogg/revision/latest?cb=20250226021936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The prophecy gave him a new mission, granting him a new life as a Chrysos Heir. But which is more important to him: his new mission or his desire for revenge?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_9_castorice_151.ogg/revision/latest?cb=20250226021938",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I'm afraid only he knows... No, perhaps he himself is still struggling to get to an answer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_9_castorice_152.ogg/revision/latest?cb=20250226021939",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I acknowledge his strength, but... fear is something not even the sharpest of swords can cut through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_9_mydeimos_122.ogg/revision/latest?cb=20250226022009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "I hope you've toughened your resolve, Deliverer...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_9_mydeimos_123.ogg/revision/latest?cb=20250226022010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "...Only a will as tough as stone can shatter the darkest nightmares.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_9_mydeimos_124.ogg/revision/latest?cb=20250226022011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hmm...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_9_cyrenely_101.ogg/revision/latest?cb=20250226021940",
+        "is_unavailable": false,
+        "audio_filename": "audio__91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Is something wrong?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter4_9_phainonly_101.ogg/revision/latest?cb=20250226022015",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mmm...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_9_cyrenely_102.ogg/revision/latest?cb=20250226021941",
+        "is_unavailable": false,
+        "audio_filename": "audio__93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Ugh, don't keep me in suspense. Come on, tell me already. What did you see?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_9_phainonly_102.ogg/revision/latest?cb=20250226022016",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Haha, I just wanted to get a reaction out of you. Alright, I'll tell you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_9_cyrenely_103.ogg/revision/latest?cb=20250226021941",
+        "is_unavailable": false,
+        "audio_filename": "audio__95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...This card is the Deliverer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_9_cyrenely_104.ogg/revision/latest?cb=20250226021942",
+        "is_unavailable": false,
+        "audio_filename": "audio__96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Deliverer...? What does that mean?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_9_phainonly_103.ogg/revision/latest?cb=20250226022017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Uh... The interpretation is really long. Maybe I should just skip it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_9_cyrenely_105.ogg/revision/latest?cb=20250226021943",
+        "is_unavailable": false,
+        "audio_filename": "audio__98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "All you need to know is, this card means... you'll be a hero worshiped by all! You will protect this world and save lots and lots of people from scary enemies with your sword! Do you like the sound of that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_9_cyrenely_106.ogg/revision/latest?cb=20250226021944",
+        "is_unavailable": false,
+        "audio_filename": "audio__99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "But...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_9_phainonly_104.ogg/revision/latest?cb=20250226022018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What's the matter? This is a good card!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter4_9_cyrenely_107.ogg/revision/latest?cb=20250226021945",
+        "is_unavailable": false,
+        "audio_filename": "audio__101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "But I don't want to be everyone's hero! I just want to stay in this village with everyone I know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_9_phainonly_105.ogg/revision/latest?cb=20250226022019",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Grandpa and grandma said the outside world is full of bad people. That's why they're always at war... Who wants to save bad people like them! I can be a hero, but only our village's little hero!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_9_phainonly_106.ogg/revision/latest?cb=20250226022020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Haha...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_9_cyrenely_108.ogg/revision/latest?cb=20250226021946",
+        "is_unavailable": false,
+        "audio_filename": "audio__104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well, little hero... If the day comes for us to say goodbye to Aedes Elysiae, could you become a Deliverer then?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_9_cyrenely_109.ogg/revision/latest?cb=20250226021947",
+        "is_unavailable": false,
+        "audio_filename": "audio__105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Do I... have to leave the village?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_9_phainonly_107.ogg/revision/latest?cb=20250226022021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mm-hmm. If something like that happens, someone will have to save the world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_9_cyrenely_110.ogg/revision/latest?cb=20250226021948",
+        "is_unavailable": false,
+        "audio_filename": "audio__107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Then... Then I'll...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_9_phainonly_108.ogg/revision/latest?cb=20250226022022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_9_cyrenely_111.ogg/revision/latest?cb=20250226021949",
+        "is_unavailable": false,
+        "audio_filename": "audio__109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Haha, I'm just teasing you. Don't worry. Aedes Elysiae is a peaceful place. Bad people won't reach us here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_9_cyrenely_112.ogg/revision/latest?cb=20250226021950",
+        "is_unavailable": false,
+        "audio_filename": "audio__110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Are you going home already...? If you're not in a hurry, should we go play with the fairies again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_9_cyrenely_113.ogg/revision/latest?cb=20250226021951",
+        "is_unavailable": false,
+        "audio_filename": "audio__111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Phainon",
+        "line": "Fairies! Okay! I love playing with them! Hmph, I'll win back the wooden sword I lost to them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_9_phainonly_109.ogg/revision/latest?cb=20250226022023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Phainon_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Heehee! Look at how excited that got you. Let's go then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_9_cyrenely_114.ogg/revision/latest?cb=20250226021952",
+        "is_unavailable": false,
+        "audio_filename": "audio__113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "May this world never have need for a Deliverer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_9_cyrenely_115.ogg/revision/latest?cb=20250226021953",
+        "is_unavailable": false,
+        "audio_filename": "audio__114.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Some system hours ago, aboard the Astral Express ..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Pom-Pom , have you prepared our meals already?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Of course, the food's ready! March isn't feeling well, so Pom-Pom has specially prepared the conductor's special bland meal that'll be easy on her stomach.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_10_pompom_101.ogg/revision/latest?cb=20250226021907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Can you bring it to her, Himeko?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_10_pompom_102.ogg/revision/latest?cb=20250226021908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Gladly. Why don't we also get her a—",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Nuh-uh! No coffee when she's already feeling unwell!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_10_pompom_103.ogg/revision/latest?cb=20250226021909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Heh... I guess you're right.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "March? I'm coming in, okay?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Mission completed)"
+    },
+    {
+        "type": "choice",
+        "text": "(Unlock Achievement Generations Fall Like Leaves )",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainShadow of Remembrance×1,To All Things Strifeful×1)\n(Obtain a strand of Nameless Recollection forAs I've Written)"
+            },
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "choice",
+                        "text": "Nameless Recollection",
+                        "children": [
+                            {
+                                "type": "note",
+                                "text": "In that dawn-kissed city-state, a hero from the outlands became one of the Flame-Chasers. Inspired by the journey, they recorded their tales in the pages of a book."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate March 7th's bed on the Astral Express Passenger Cabin, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Curled up in the clear ice, the young girl remains silent with her eyes fixed shut."
+    },
+    {
+        "type": "note",
+        "text": "Although the ice is not cold to the touch, there is something particularly saddening about seeing a young girl who is normally so full of life fall into complete silence."
+    },
+    {
+        "type": "note",
+        "text": "A number of thin sheets of ice have shackled the unconscious March 7th to her bed. The once warm bedroom is now permeated with a bitter cold."
+    },
+    {
+        "type": "note",
+        "text": "The young girl lays silent and flawless in the ice... Just as she did back when she was drifting through space."
+    }
+]

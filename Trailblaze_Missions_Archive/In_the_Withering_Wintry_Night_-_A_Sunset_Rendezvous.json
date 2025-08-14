@@ -1,0 +1,1242 @@
+[
+    {
+        "type": "heading",
+        "text": "Go to the accommodation arranged by Oleg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Peace has at long last returned to the mines. Oleg, chief ofWildfire, has agreed to work with you to show his gratitude towards you,the Nameless, for your support. He has arranged your accommodation.Speaking of accommodation, the last time you got invited to stay by someone important and then got backstabbed does not seem too long ago.Maybe it's not too late to go back toPom-Pomand ask for some tripwire mines..."
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachGertie)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Oh, you must be Oleg's guests? Welcome to the Goethe Grand Hotel.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_4_gertie_201.ogg/revision/latest?cb=20241021052439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_0.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Goethe...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "Yep, you've probably seen that stylish Goethe Hotel above ground, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_4_gertie_202.ogg/revision/latest?cb=20241021052440",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_1.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Uhh, not the most pleasant memories of that place...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter1_4_mar7th_201.ogg/revision/latest?cb=20241021052441",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_2.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "That's the above-ground branch of the Grand Hotel. A few hundred years ago, one ancestor of the Goethe family was ambitious, and sought to build something big from nothin'.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter1_4_gertie_203.ogg/revision/latest?cb=20241021052442",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_3.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "He eventually realized his dream and opened a hotel branch in the most expensive area on the surface.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_4_gertie_204.ogg/revision/latest?cb=20241021052443",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Grand Hotel...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, that's not very polite~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_4_mar7th_202.ogg/revision/latest?cb=20241021052443",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_5.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "Hahaha, it's fine. You aren't the first guest to have that reaction.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter1_4_gertie_205.ogg/revision/latest?cb=20241021052444",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_6.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "A few hundred years ago, one ancestor of the Goethe family was ambitious, and sought to build something big from nothin'. Eventually, he actually did it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_4_gertie_206.ogg/revision/latest?cb=20241021052445",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_7.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gertie",
+                "line": "Have you seen that stylish Goethe Hotel? Strictly speaking, it's a branch of this Grand Hotel.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_4_gertie_207.ogg/revision/latest?cb=20241021052446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gertie_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...People with big dreams have big determination.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter1_4_mar7th_203.ogg/revision/latest?cb=20241021052447",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gertie",
+        "line": "Oleg wants me to take good care of y'all. Here's the key, you'll be stayin' in our most spacious guest room.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter1_4_gertie_208.ogg/revision/latest?cb=20241021052448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gertie_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What do you think, (Trailblazer)? Should we go ahead and call it a day, or walk around a bit more first?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter1_4_mar7th_204_m.ogg/revision/latest?cb=20241021052449",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_11.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm tired. Let's go back to the room to rest.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's go explore the town a bit more."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Gertie again)"
+    },
+    {
+        "type": "choice",
+        "text": "Rest",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "What do you think, (Trailblazer)? Should we go ahead and call it a day, or walk around a bit more first?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter1_4_mar7th_204_m.ogg/revision/latest?cb=20241021052449",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_12.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Same choices as before)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Choose to rest)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Time to rest again. I hope there aren't any surprises this time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter1_4_mar7th_208.ogg/revision/latest?cb=20241021052450",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That Oleg... he seems sincere. What do you guys think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_4_mar7th_209.ogg/revision/latest?cb=20241021052451",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I think he's a good person.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_4_danheng_201.ogg/revision/latest?cb=20241021052452",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Don't you have something cool to say, like \"Appearances can be deceiving\"?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_4_mar7th_210.ogg/revision/latest?cb=20241021052453",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_16.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I don't try to disagree.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter1_4_danheng_202.ogg/revision/latest?cb=20241021052454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_17.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Appearances can be deceiving.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_4_danheng_203.ogg/revision/latest?cb=20241021052454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_18.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ *sigh* Happy now? (Trailblazer) is even starting to sound like you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter1_4_mar7th_211_m.ogg/revision/latest?cb=20241021052455",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_19.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It has nothing to do with me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_4_danheng_204.ogg/revision/latest?cb=20241021052457",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No comment.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Would you look at (Trailblazer), blurting out something so irresponsible.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter1_4_mar7th_213_m.ogg/revision/latest?cb=20241021052458",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "A lot like you, actually.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter1_4_danheng_206.ogg/revision/latest?cb=20241021052500",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "But if you ask for my opinion, it's better to be safe than sorry.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_4_danheng_207.ogg/revision/latest?cb=20241021052500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Fine, we'll keep our guards up. Our last hotel experience was eventful, to say the least.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_4_mar7th_215.ogg/revision/latest?cb=20241021052501",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "One of us should keep watch tonight.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_4_danheng_208.ogg/revision/latest?cb=20241021052502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "K—Keep watch? Are we space cowboys now? I guess this is the cosmic wild west.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter1_4_mar7th_216.ogg/revision/latest?cb=20241021052503",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hehe... *pretend yawn* Anyone else sleepy...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_4_mar7th_217.ogg/revision/latest?cb=20241021052504",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "March looks the most awake.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "N—No I don't! *pretend yawn* Besides, I've never pulled an all-nighter before! Do you know how bad it is for your skin?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter1_4_mar7th_218.ogg/revision/latest?cb=20241021052505",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How about you set us a good example, Dan Heng?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Sure. I don't have much need for sleep.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter1_4_danheng_209.ogg/revision/latest?cb=20241021052506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Leave it to me.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "You seem pretty exhausted, don't overexert yourself. I'll do it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_4_danheng_210.ogg/revision/latest?cb=20241021052506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I'll keep watch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_4_bronya_201.ogg/revision/latest?cb=20241021052507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Bronya, did you finish talking to Oleg? Hope he didn't make things difficult for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_4_mar7th_219.ogg/revision/latest?cb=20241021052508",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Not really, though it wasn't the friendliest conversation. We didn't see eye to eye on everything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter1_4_bronya_202.ogg/revision/latest?cb=20241021052509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I've come to know a great deal in a short time — I doubt I'll be able to fall asleep tonight.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_4_bronya_203.ogg/revision/latest?cb=20241021052510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I doubt I'll be able to sleep either... not that I don't trust you! It's just... you're a Silvermane Guard officer in the underground. There might be people looking to harm you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_4_mar7th_220.ogg/revision/latest?cb=20241021052511",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I wouldn't be surprised if there are... the Silvermane Guards have a lot to make amends for down here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_4_bronya_204.ogg/revision/latest?cb=20241021052512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "If someone had made a stand in the outset... and explained the consequences to Madam Cocolia ... Forget it. It's meaningless to talk about it now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter1_4_bronya_205.ogg/revision/latest?cb=20241021052513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "You don't need to worry about me. Oleg guaranteed that I wouldn't be harmed. He seemed like a man of his word. Go and rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_4_bronya_206.ogg/revision/latest?cb=20241021052514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_38.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Have some rest at the Goethe Grand Hotel"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Peace has at long last returned to the mines. Oleg, chief of Wildfire, has agreed to work with you to show his gratitude towards you, the Nameless, for your support. He has arranged your accommodation.The fact that this \"grand\" hotel is hardly furnished, leaving no places for any hit man to hide, makes this place almost feel like home.All things considered, this is the coziest spot Wildfire can afford to spare... Save your complaints for tomorrow and have a good night's sleep."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the bed)"
+    },
+    {
+        "type": "note",
+        "text": "The bed isn't very soft, but this room feels more homey than the coldly-decorated Overworld hotel."
+    },
+    {
+        "type": "note",
+        "text": "So tired... hope I can get a good night's sleep."
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "I lost her... My wish, your so-called plan... What is the point of it all?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Your grief... sorrow... useless sentiments... abandon them all...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "Silence! She is my daughter, my only...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "You soulless thing — how could you begin to fathom!? You will never understand... Never!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "You did not lose her... She waits to be reunited with you on the other side.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia",
+                "line": "A new world...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Rise... guardian...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Fulfill your destiny... Fulfill a mother's wish.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (That voice again... such a strange dream.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_4_player_202_m.ogg/revision/latest?cb=20241021052515",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (May as well go for a walk if I can't sleep.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_4_player_203_m.ogg/revision/latest?cb=20241021052516",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_40.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go outside and take a walk."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Although this night was not disturbed by the sound of the footsteps of the troops, you were abruptly awakened by the eerie whispers in your dream.You've had the same nightmare for several days in a row. This odd coincidence has made it hard for you to fall asleep.You've tried sleeping in all postures, and forcing yourself to sleep will only cause more frustration... Why don't you co outside and take a walk?"
+    },
+    {
+        "type": "condition",
+        "text": "(Exit hotel room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Who goes there? Show yourself!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_4_bronya_207.ogg/revision/latest?cb=20241021052518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...It's you. Don't sneak up behind me next time. Lucky for you I wasn't armed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_4_bronya_208.ogg/revision/latest?cb=20241021052519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "No sleep for you either, huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter1_4_bronya_209.ogg/revision/latest?cb=20241021052520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_43.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I've been having nightmares recently.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I understand. The more that weighs on your mind, the more your fears become dreamscapes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter1_4_bronya_210.ogg/revision/latest?cb=20241021052521",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm worried about the future.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I know what you mean. I don't like the feeling that I'm not in control. And now...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter1_4_bronya_211.ogg/revision/latest?cb=20241021052521",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I can't sleep unless I've worked for eight hours.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "...You need someone to look after you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_4_bronya_212.ogg/revision/latest?cb=20241021052522",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_46.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Actually, seeing as there's no one around... can I ask you some things?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_4_bronya_213.ogg/revision/latest?cb=20241021052523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "This Stellaron you speak of... if you were to find it, how sure are you that you could stop the Eternal Freeze ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter1_4_bronya_214.ogg/revision/latest?cb=20241021052524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_48.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "100%!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Your confidence actually makes me even more worried... This isn't like helping a child make a snowball.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter1_4_bronya_215.ogg/revision/latest?cb=20241021052525",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_49.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't know.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I see... Well, thank you for being sincere. In itself, it's a comfort to me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_4_bronya_216.ogg/revision/latest?cb=20241021052526",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You'd better ask Dan Heng.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Is he your leader? I feel he possesses a great stillness of mind in everything he does.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter1_4_bronya_217.ogg/revision/latest?cb=20241021052527",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "You know, it was difficult for me to believe you. Some of the words you use are too alien for those that have lived their entire life in Belobog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter1_4_bronya_218.ogg/revision/latest?cb=20241021052528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "As far as I was concerned, Madam Cocolia's order to arrest you sounded reasonable... but why didn't she issue it straight away?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_4_bronya_219.ogg/revision/latest?cb=20241021052528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "She must have realized something about you... Something I haven't yet been able to perceive for myself, and it bothers me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_4_bronya_220.ogg/revision/latest?cb=20241021052529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "What must have transpired to cause her such a drastic change? ...Still, orders are orders. It's not for soldiers to question their superiors.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter1_4_bronya_221.ogg/revision/latest?cb=20241021052530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_55.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You had no choice.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I don't need you to absolve me. The truth is, I didn't have every confidence that I was doing the right thing, but the sense of duty to carry out an order is bound to prevail with me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_4_bronya_222.ogg/revision/latest?cb=20241021052531",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_56.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Only a fool follows orders blindly.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "I don't need you to remind me, and I didn't have every confidence that I was doing the right thing. But the sense of duty to carry out an order is bound to prevail with me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter1_4_bronya_223.ogg/revision/latest?cb=20241021052532",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "In the past, Overworld soldiers on the front line would lose their lives in droves, and yet the Fragmentum 's advance would remain unaffected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter1_4_bronya_224.ogg/revision/latest?cb=20241021052533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Nevertheless, that was her reason for deploying all the Silvermane Guards to the front line. The transport line for supplies and Geomarrow remained open, but the passage between the surface and the underground ceased. I approved of that decision...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_4_bronya_226.ogg/revision/latest?cb=20241021052534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I never thought that the Underworld would sink into such ruin without the Silvermane Guards... Perhaps mother was wrong...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_4_bronya_227.ogg/revision/latest?cb=20241021052535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "But how can I change her mind? I've tried, but she won't listen. I don't know how to get through to her...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter1_4_bronya_228.ogg/revision/latest?cb=20241021052536",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_61.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We'll help you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "Help me change the mind of the Madam Guardian? Not easy. Nobody knows that better than I do.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_4_bronya_229.ogg/revision/latest?cb=20241021052537",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_62.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You should become the supreme guardian.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "You mean...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter1_4_bronya_230.ogg/revision/latest?cb=20241021052537",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "...What was I thinking!? No... I shouldn't... That was a diabolical thought!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_4_bronya_231.ogg/revision/latest?cb=20241021052538",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "The more I think about it, the more disoriented I get, which in turn makes me think about it even more... I just want a better life for the people of Belobog...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_4_bronya_232.ogg/revision/latest?cb=20241021052539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_65.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The world is more complicated than you think."
+    },
+    {
+        "type": "note",
+        "text": "Let's work together, maybe we can make a change."
+    },
+    {
+        "type": "note",
+        "text": "You can't save the world alone."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...Maybe you're right, or not. Right now I just... need more time to think.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_4_bronya_233.ogg/revision/latest?cb=20241021052540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Walk with me. Let's forget our problems for a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_4_bronya_234.ogg/revision/latest?cb=20241021052541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_67.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk and walk with Bronya"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You discover Bronya outside. She seems to be having trouble sleeping as well.Insomniacs often attract one another... Now you understand that the saying might not be just a joke.Talk to Bronya and ask her why she looks so worried."
+    },
+    {
+        "type": "condition",
+        "text": "(If the player moves too far from Bronya)"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ (This is a little far, I should follow Bronya.)"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking behind Bronya)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I can't remember the last time I went for a walk like this. I never thought I'd take one through such a strange place, with someone I'd only just gotten to know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_4_bronya_235.ogg/revision/latest?cb=20241021052544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "It's so quiet here I'm not used to it... *sigh* The quieter things are around you, the louder they are in your head.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_4_bronya_236.ogg/revision/latest?cb=20241021052544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I'm surprised the vagrants in the Great Mine go after the mining teams, they must be desperate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_4_bronya_237.ogg/revision/latest?cb=20241021052545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Still, whatever their situation, a crime is a crime. *sigh* How is the law supposed to find a balance between justice and compassion in the face of such complexity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter1_4_bronya_238.ogg/revision/latest?cb=20241021052546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...How much longer can you last with your current supplies?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter1_Ag1_seele_108.ogg/revision/latest?cb=20241021052547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Is that... Seele ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter1_Ag1_bronya_101.ogg/revision/latest?cb=20241021052548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "▶ (Trailblazer), let's go take a look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter1_Ag1_bronya_102_m.ogg/revision/latest?cb=20241021052549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_74.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Seele andNatasha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...I know. I'll go to Rivet Town and bring them back for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter1_4_seele_201.ogg/revision/latest?cb=20241021052550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "It's too dangerous to go alone. Get Oleg to send someone with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_4_natasha_201.ogg/revision/latest?cb=20241021052551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The rest of Wildfire has barely gotten any sleep the last few days. They should rest. They'd only be holding their eyelids open and slowing me down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_4_seele_202.ogg/revision/latest?cb=20241021052552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Besides, didn't you say some of the miners were gravely injured? Lives are on the line...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_4_seele_203.ogg/revision/latest?cb=20241021052553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_78.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is there trouble?"
+    },
+    {
+        "type": "note",
+        "text": "Sounds like we arrived just on time."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Aren't you supposed to be sleeping? What are you doing out here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_4_seele_204.ogg/revision/latest?cb=20241021052554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...Up to no good, perhaps?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_4_seele_205.ogg/revision/latest?cb=20241021052555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "We're just having a walk. Neither of us could sleep. You can rescind your baseless accusations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter1_4_bronya_242.ogg/revision/latest?cb=20241021052556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph. Walk somewhere else, then...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_4_seele_206.ogg/revision/latest?cb=20241021052557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Easy, Seele, maybe they can help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_4_natasha_202.ogg/revision/latest?cb=20241021052558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_83.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Always willing to help Miss Natasha.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Haha, I'm grateful.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_4_natasha_203.ogg/revision/latest?cb=20241021052558",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_84.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We're not helping anyone with a temper like that.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Hey, come on now, Seele's got a sharp tongue but a soft heart. She didn't mean anything.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter1_4_natasha_204.ogg/revision/latest?cb=20241021052559",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_85.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No problem. We'll help with anything.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "Haha, oh yeah? Well look at you swaggering in like the protagonist in your own story.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_4_natasha_205.ogg/revision/latest?cb=20241021052600",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_86.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Here's the situation: The clinic is packed full of people injured in the mines incident. Since you helped us resolve things, Seele and I have been busy caring for them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_4_natasha_206.ogg/revision/latest?cb=20241021052601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "As you know, the underground is lacking resources to begin with. Add on the sudden nature of the incident, and it's no surprise that the clinic is almost out of medical supplies. We need to acquire more... somehow.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_4_natasha_207.ogg/revision/latest?cb=20241021052602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_88.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are there other towns in the underground?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "*sigh* The situation in other towns is even worse than ours.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter1_4_seele_207.ogg/revision/latest?cb=20241021052603",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_89.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Get Sampo to acquire some?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "You don't know him at all yet, do you? You can't rely on people like Sampo when it's important.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter1_4_seele_208.ogg/revision/latest?cb=20241021052604",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_90.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "As the Fragmentum spreads underground, more monsters go roaming around causing trouble for all the towns. That means more vagrants in the mines.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter1_4_seele_209.ogg/revision/latest?cb=20241021052605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "The towns' resources have been swallowed up by the Fragmentum. To get anything now, people have to risk their lives!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_4_seele_210.ogg/revision/latest?cb=20241021052606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "...Easy now, Seele. Anger isn't good for one's health.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_4_natasha_208.ogg/revision/latest?cb=20241021052607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Seele and I actually aren't from here. We both come from an industrial town to the north. A few years ago, the Fragmentum began to seep into the town center.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_4_natasha_209.ogg/revision/latest?cb=20241021052607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "I used to manage an orphanage and clinic there, but after the Fragmentum corroded the area, I had no choice but to move here to Boulder Town. After all, I have to survive myself if I want to save more people.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter1_4_natasha_210.ogg/revision/latest?cb=20241021052608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Go to a corroded town to collect some useful resources? I'm in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_4_bronya_243.ogg/revision/latest?cb=20241021052609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_96.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We'll help, too."
+    },
+    {
+        "type": "note",
+        "text": "Alright, what's the plan?"
+    },
+    {
+        "type": "note",
+        "text": "How come you catch on this quick!?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "You want to come as well? But you look quite tired.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_4_bronya_244.ogg/revision/latest?cb=20241021052610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hold up! I never said you could join us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter1_4_seele_211.ogg/revision/latest?cb=20241021052611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "People's lives are at stake. Why wouldn't you want another person to help? Besides, I have some experience with the Fragmentums. I'm sure I will be of use.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_4_bronya_245.ogg/revision/latest?cb=20241021052612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "*sigh* Well... just don't slow me down!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter1_4_seele_212.ogg/revision/latest?cb=20241021052613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "—Seele's lack of outright rejection means she approves of you, hehe. With you all accompanying her, my mind will be more at ease.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter1_4_natasha_211.ogg/revision/latest?cb=20241021052614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Come. Let me give you a list of materials we need.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter1_4_natasha_212.ogg/revision/latest?cb=20241021052614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_102.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Listen to Natasha's request"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The two suffering from the same illness decide to walk around to ease their minds. You discover Seele and Natasha chatting on the side of the street.The two seem to be in trouble and Natasha asks for your help despite Seele's disapproval. You should probably hear what Natasha's request is all about.However... Why is everyone out so late at night?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "The place you are going to is called Rivet Town. Follow the path through the mountains to the north for a bit and you'll arrive there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_4_natasha_213.ogg/revision/latest?cb=20241021052615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Let me think... I'm almost out of metal plates and bandages used for immobilizing broken bones. There's a market in the center of Rivet Town. Residents left behind piles of materials there when they evacuated. Please look for some there...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_4_natasha_214.ogg/revision/latest?cb=20241021052616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Oh! Also, rubbing alcohol. I kept a bunch at the orphanage, since the kids often got into tussles. I didn't bring it with me when I left... I hope it's still intact.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_4_natasha_215.ogg/revision/latest?cb=20241021052617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "...Lastly, painkillers. There should be a bunch stored in the old lab. Hopefully they haven't been destroyed by monsters...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_4_natasha_216.ogg/revision/latest?cb=20241021052618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "These should be enough to get by for a bit longer. Be careful. Don't push yourselves too hard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_4_natasha_217.ogg/revision/latest?cb=20241021052619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Metal plates and bandages, rubbing alcohol, and painkillers... Got it, piece of cake.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter1_4_seele_213.ogg/revision/latest?cb=20241021052620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Let's go, if we leave now we can still make it back before sundown. When it comes to helping injured people groaning in pain, the sooner the better.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_4_seele_214.ogg/revision/latest?cb=20241021052621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_109.ogg"
+    }
+]

@@ -1,0 +1,1379 @@
+[
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Unbelievable, to think that there would be... remnants of the Order on Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_21_himeko_101.ogg/revision/latest?cb=20240702180336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What have you done with Mr. Yang and Miss Robin!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_21_mar7th_101.ogg/revision/latest?cb=20240702180414",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Don't worry. I just gave them some time alone to ponder their fates.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_21_sunday_101.ogg/revision/latest?cb=20240702180455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "You should know that these actions make you an enemy of the Astral Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_21_himeko_102.ogg/revision/latest?cb=20240702180339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Should we need to stand against the Nameless, it would only be myself and the Oak family involved. But we haven't reached that point yet, have we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_21_sunday_102.ogg/revision/latest?cb=20240702180457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Your efforts for the justice of Penacony are evident to everyone and have been widely observed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_21_sunday_103.ogg/revision/latest?cb=20240702180459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_5.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You want to talk terms with us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Smart kid. You're just as sharp as the other one.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_21_sunday_104.ogg/revision/latest?cb=20240702180501",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Stop beating around the bush and get to the point.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Patience is a virtue. However, I won't hold it against you. On the contrary, I'm here to make my intentions clear.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_21_sunday_105.ogg/revision/latest?cb=20240702180504",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Give Mr. Yang back to us, now!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Oh I intend to, but that hinges on the outcome of this negotiation.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_21_sunday_106.ogg/revision/latest?cb=20240702180506",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "If it is the Order that drove you to imprison Welt and Robin, and you're using them to coerce our compliance, then there'll be no point in entertaining any type of discussion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_21_himeko_103.ogg/revision/latest?cb=20240702180341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "You're mistaken, Miss Himeko. They are in very safe hands, and just as The Family has always proclaimed — no one can be harmed in the Dreamscape, least of all in the beautiful new world belonging to the Order.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Vo_chapter3_21_sunday_107.ogg/revision/latest?cb=20240702180510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Penacony and the entire universe have witnessed far too much innocent bloodshed. The strong wield their blades against the weak, and the victors push the vanquished to the brink of life...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_21_sunday_108.ogg/revision/latest?cb=20240702180512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Natural selection — the world abides by this principle, establishing the well-being of humanity atop the corpses of the downtrodden. Only we , or rather I, possess the power to put an end to this farce.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_21_sunday_109.ogg/revision/latest?cb=20240702180514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So you've decided to resurrect a dead Aeon? No one's ever done such a thing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_21_himeko_104.ogg/revision/latest?cb=20240702180343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "If Miss Himeko is interested, let's draw back the veil and speak candidly. I've always firmly believed that people can understand one another through peaceful means.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_21_sunday_110.ogg/revision/latest?cb=20240702180516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'm willing to divulge the unembellished truth as to the intentions of the Order's Pathstriders, so that you will make better judgment for the Astral Express, for Penacony, and for this stretch of the universe. Words can hardly do justice to the beauty of that ideal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_21_sunday_111.ogg/revision/latest?cb=20240702180518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "So come with me, everyone. Let us retrace our steps and see once again where this road leads.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_21_sunday_112.ogg/revision/latest?cb=20240702180520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh, where'd he go?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_21_mar7th_102.ogg/revision/latest?cb=20240702180416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Welcome. This isn't any location in Penacony's Dreamscape. It's my inner world. The reason the scenery before you remains unchanged is because your consciousness has drawn on similar concepts to fill in the gaps.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_21_sunday_113.ogg/revision/latest?cb=20240702180522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_18.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You've imprisoned us?"
+    },
+    {
+        "type": "choice",
+        "text": "Who in their right mind would expose their inner-self like this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That means...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_21_mar7th_103.ogg/revision/latest?cb=20240702180418",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_19.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Did you do the same to Welt?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_21_himeko_105.ogg/revision/latest?cb=20240702180345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "▶ It's a \"tuning\" process, stronger in effect and more draining on the mind. (Trailblazer) has experienced it before, so ( he / she ) should understand what it entails.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_21_sunday_114_m.ogg/revision/latest?cb=20240702180528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Tuning allows you to intuitively grasp my feelings, which also means that I cannot hide anything from you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_21_sunday_115.ogg/revision/latest?cb=20240702180530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Now, everyone, please look at the huge screen. The road we once took begins here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/Vo_chapter3_21_sunday_116.ogg/revision/latest?cb=20240702180532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "From this point on, you will witness the numerous decisions I've faced. I've selected a portion of these to share with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_21_sunday_117.ogg/revision/latest?cb=20240702180534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I believe after going through similar predicaments, you'll be able to better understand my thoughts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Vo_chapter3_21_sunday_118.ogg/revision/latest?cb=20240702180535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Let's begin. The first decision: A story about a baby bird.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_21_sunday_119.ogg/revision/latest?cb=20240702180537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "This story happened when Robin and I were very young. We were victims of the Stellaron Disaster, and The Family's Mr. Gopher Wood — who would later become the Dreammaster of Penacony — saw that we siblings had no one to turn to and took us in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_21_sunday_120.ogg/revision/latest?cb=20240702180539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Later on, Robin and I lived a time with nary a care in the world. One day, after dinner, while my younger sister and I were lounging about in Mr. Gopher Wood's yard, we spotted a fledgling Charmony Dove all on its own.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_21_sunday_121.ogg/revision/latest?cb=20240702180541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_28.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Small Town Grotesque 2.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "That baby bird was tiny, it didn't even have all of its feathers, and it couldn't sing. When we found it, it was already on its last breath, having fallen into a shrub — probably abandoned by its parents.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_21_sunday_122.ogg/revision/latest?cb=20240702180543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "We decided to build a nest for it right there and then. However, thinking back, that winter was unusually cold, with fierce winds at night in the yard, not to mention the many poisonous bugs and wild beasts in the vicinity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_21_sunday_123.ogg/revision/latest?cb=20240702180548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It was clear that if we left the fledgling in the yard, it stood no chance of surviving until spring. So, I suggested we take it inside, place it on the shelf by the window, and asked the adults to fashion a cage for it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Vo_chapter3_21_sunday_124.ogg/revision/latest?cb=20240702180550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "We decided that when it regained its strength enough to spread its wings, we would release it back into the wild. The tragic part — something that we'd never considered — was that this bird's fate had already been determined long before this moment...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_21_sunday_125.ogg/revision/latest?cb=20240702180552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Its destiny was determined by our momentary whim.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Vo_chapter3_21_sunday_126.ogg/revision/latest?cb=20240702180553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Now, I pass the power of choice to you all. Faced with this situation, what choice would you make?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_21_sunday_127.ogg/revision/latest?cb=20240702180556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Stick to the original plan, and build a nest with soft net where the Charmony Dove fell?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_21_sunday_128.ogg/revision/latest?cb=20240702180558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Or build a cage for it, and feed it, giving it the utmost care from within the warmth of a home?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Vo_chapter3_21_sunday_129.ogg/revision/latest?cb=20240702180600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I eagerly await your answer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_21_sunday_130.ogg/revision/latest?cb=20240702180602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_37.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Decide the little Charmony Dove's destiny"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "To everyone's surprise, the person present to crown you champion is not Robin at all, but her big brother,Sunday. Here, he finally reveals his true intentions, but he does not seem to want to fight you, instead seeking the possibility of reaching a mutual understanding.He asks you a series of questions that leave you a little lost, but fear not - if you are confounded by Sunday's questions, just look for the answers in your personal experience."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toMarch 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That guy just casually throws this kind of question at us? What exactly is his deal? But fine, I'll answer I guess...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Vo_chapter3_21_mar7th_104.ogg/revision/latest?cb=20240702180421",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "If it were me... I guess I'd choose to build a cage for the little Charmony Dove .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_21_mar7th_105.ogg/revision/latest?cb=20240702180423",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "After all, leaving it there, it's bound to get hurt by wild animals or something... And that'd just be too sad.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_21_mar7th_106.ogg/revision/latest?cb=20240702180425",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toHimeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It looks like he really has no intention of imprisoning us. If it's just a quiz, I suppose it's fine to humor him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_21_himeko_106.ogg/revision/latest?cb=20240702180347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Back to the question: I would personally choose to build the little Charmony Dove a cage .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/Vo_chapter3_21_himeko_107.ogg/revision/latest?cb=20240702180348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "No special reason. I do think that a fledgling should have the right to fly in the sky... But if it can't even live to that point, then there's nothing to talk about to begin with.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_21_himeko_108.ogg/revision/latest?cb=20240702180350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_43.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toFirefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I can't decipher his intentions right now... but based solely on the question, I would probably choose to build that dove a cage ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_21_firefly_101.ogg/revision/latest?cb=20240702180304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Even if I was gonna release it back into the sky, it'd have to be strong enough to fly first. If I left it where I found it... I fear it'd never get the chance to fly ever again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_21_firefly_102.ogg/revision/latest?cb=20240702180307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_45.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Build a bird nest on the spot\""
+    },
+    {
+        "type": "note",
+        "text": "Stick to the original plan, and build a nest with soft net where the Charmony Dove fell?"
+    },
+    {
+        "type": "choice",
+        "text": "Make the decision.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Interesting. Since you've made up your mind, allow me to reveal what fate this choice will bring to the fledgling.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Vo_chapter3_21_sunday_131.ogg/revision/latest?cb=20240702180604",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "From what I've observed, there are at least three predators in that yard that prey on small birds: The Vossickle Scorpion, Asdana Wolverine, and the Huntington Winged-Snake...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Vo_chapter3_21_sunday_132.ogg/revision/latest?cb=20240702180606",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_47.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Even if they shy away from humans, these animals are still near-apex predators in a fenced location like a yard. In such a location, only one fate awaits that little Charmony Dove: A painful death.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/Vo_chapter3_21_sunday_133.ogg/revision/latest?cb=20240702180608",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "As for the choice you made... I am deeply sorry. Now, let us advance to the second decision. This time... it's the story of a Dreamchaser.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Vo_chapter3_21_sunday_134.ogg/revision/latest?cb=20240702180610",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_49.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Nurture with care in a cage\""
+    },
+    {
+        "type": "note",
+        "text": "Or build a cage for it, and feed it, giving it the utmost care from within the warmth of a home?"
+    },
+    {
+        "type": "choice",
+        "text": "Make the decision.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I'm happy to see that you made a choice similar to ours. If your mind is made up, let me reveal the outcome of this choice.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_21_sunday_135.ogg/revision/latest?cb=20240702180612",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_50.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "We passionately nursed it back to health, preparing only the best food for it every day. We even preened its feathers. Later, on the day that Robin left Penacony , we opened the cage door and let it fly back into the sky.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_21_sunday_136.ogg/revision/latest?cb=20240702180615",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_51.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I watched it for a long while by the window, probably about three or so days. In those three long days, the little Charmony Dove tried again and again to spread its wings to fly into the sky, but fell to the ground... only to keep trying.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_21_sunday_137.ogg/revision/latest?cb=20240702180617",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Finally, on the hundred and thirty-seventh attempt, it succeeded. But its attempt did not go perfectly... After flying unsteadily for a while, it fell to the ground, unable to grasp the direction of the air currents.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_21_sunday_138.ogg/revision/latest?cb=20240702180619",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_53.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "The fall shattered its wings. It writhed helplessly in my embrace, but it was all for naught, finally succumbing to a painful demise. And in that instant, our tender care, our given love and hopes... they all became the inevitable push that sent it to its death.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_21_sunday_139.ogg/revision/latest?cb=20240702180621",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_54.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I deeply regret the choices we made... Next, let us head to the second decision. This time... it's the story of a Dreamchaser.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_21_sunday_140.ogg/revision/latest?cb=20240702180623",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_55.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "This story happened when I was appointed as Bronze Melodia — a position exclusive to the Oak Family , charged with listening to the problems and vexations of Dreamscape residents, and providing them with the relevant guidance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/Vo_chapter3_21_sunday_141.ogg/revision/latest?cb=20240702180625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It was during that period that I had the opportunity to hear voices from all corners of the Dreamscape: Joy, sorrow, arrogance, regret... The complex tapestry of human nature that formed the world, and I was fortunate to catch a glimpse of it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_21_sunday_142.ogg/revision/latest?cb=20240702180627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_57.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission The Only Path to Tomorrow.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "He was a Dreamchaser, and an illegal stowaway. Just like the rest of them, he came to Penacony in search of a better life, except that, to most people, the price he paid... I suppose you could say it was \"everything\".",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_21_sunday_143.ogg/revision/latest?cb=20240702180629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "He told me \"I sold everything I could at home.\" — the house, the land, even his two children... He said he could not afford to raise them, and that at least they could eat if they lived as slaves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_21_sunday_144.ogg/revision/latest?cb=20240702180631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "He had a plan in place: He would buy back his children once he had made his fortune, and enjoy Penacony's beautiful dream with them. Alas, his plan to smuggle himself was somewhat clumsy — and he was sniffed out by those pigheaded Hounds .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_21_sunday_145.ogg/revision/latest?cb=20240702180633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "After hearing the Dreamchaser's story, I immediately appealed to the Bloodhound Family to cease their pursuit. That way, at least he could live peacefully. But I was still too naive to the ways of the world — I did not anticipate that what I thought was a kind gesture would later lead to dire consequences...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_21_sunday_146.ogg/revision/latest?cb=20240702180636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I'll tell you the outcome soon. For now, I'd like you all to make a choice—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_21_sunday_147.ogg/revision/latest?cb=20240702180638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Will you do as I did, and try to convince the Bloodhound Family to stop their pursuit, so that the Dreamchaser may live peacefully and realize his wishes?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_21_sunday_148.ogg/revision/latest?cb=20240702180640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Or will you remain silent, leaving him to languish while the Hounds are hot on his heels, until his inevitable judgment arrives?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_21_sunday_149.ogg/revision/latest?cb=20240702180642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I look forward to everyone's decisions. Who knows, perhaps they might even alter the outcome of this tragedy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_21_sunday_150.ogg/revision/latest?cb=20240702180644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_65.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Decide the Dreamchasers' destiny"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It seems illegal stowaways are really quite common on Penacony... But that guy in the story, I don't think he deserves any sympathy at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_21_mar7th_107.ogg/revision/latest?cb=20240702180427",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "He sold his kids to chase a dream... Even if he intended to go back for them, it's still insanely irresponsible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_21_mar7th_108.ogg/revision/latest?cb=20240702180429",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "With that thought, there is only one choice: Let the Bloodhounds send him back home! This person deserves to be punished!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_21_mar7th_109.ogg/revision/latest?cb=20240702180431",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "A Dreamchaser story... If I acted out of kindness, I would probably ask the Bloodhounds to stop their pursuit and lend him a hand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/Vo_chapter3_21_himeko_109.ogg/revision/latest?cb=20240702180352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But, what cruel repercussion would this choice result in? I think, Sunday must have been deeply impressed by the limitations of \"the strong defending the weak\" through this incident.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_21_himeko_110.ogg/revision/latest?cb=20240702180354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This question... surely it has some connection to the baby bird story — and this connection is precisely the breakthrough Sunday aims to use to persuade us...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_21_firefly_103.ogg/revision/latest?cb=20240702180309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...I'd probably choose to ask the Bloodhounds to cease their pursuit .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_21_firefly_104.ogg/revision/latest?cb=20240702180311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_72.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Convince the Bloodhound Family\""
+    },
+    {
+        "type": "note",
+        "text": "Will you try to convince the Bloodhound Family to stop their pursuit, so that the Dreamchaser may live peacefully and realize his wishes?"
+    },
+    {
+        "type": "choice",
+        "text": "Make the decision.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "I'm honored to witness you arriving at the same decision. Out of respect, I'll share with you the dire consequences that my choice back then brought about.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_21_sunday_156.ogg/revision/latest?cb=20240702180656",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_73.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "First, the outcome: He attained major success. After avoiding capture, he ran a business for a few years, very quickly making a name for himself, elevating his status. He might not have become a tycoon like Old Oti , but he was considered a character of excellent repute.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/Vo_chapter3_21_sunday_157.ogg/revision/latest?cb=20240702180658",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_74.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Now then, did he realize the wish he set out to achieve? No. The last time I saw him was in the real world, where the Hounds were going to permanently exile him, and I was the accompanying Bronze Melodia. The mission was simple: Listen to the criminal's repentance.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_21_sunday_158.ogg/revision/latest?cb=20240702180700",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_75.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "He told me the reason he was in this predicament was because he conspired to usurp the head of the Alfalfa Family . When I asked him about his two children, he instead responded with a question: \"What children?\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_21_sunday_159.ogg/revision/latest?cb=20240702180702",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_76.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "In the end, my heart aligned with the Harmony , and the good deed I dared to undertake held no value, turning instead into a wrongdoing. It created a lamentable oppressor and countless oppressed individuals...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_21_sunday_160.ogg/revision/latest?cb=20240702180704",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_77.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Remain silent throughout\""
+    },
+    {
+        "type": "note",
+        "text": "Or will you remain silent, leaving him to languish while the Hounds are hot on his heels, until his inevitable judgment arrives?"
+    },
+    {
+        "type": "choice",
+        "text": "Make the decision.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "It seems you, like me, are pondering whether a different choice could have led to a better outcome. Sadly, his fate would only be more tragic.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_21_sunday_151.ogg/revision/latest?cb=20240702180646",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_78.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Say he never gets caught, he would only die from delirium. The methods with which illegal stowaways enter dreams are unorthodox, not flawless like the hotel's. Living in the Dreamscape would be a mere pipe dream.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_21_sunday_152.ogg/revision/latest?cb=20240702180648",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Should he be apprehended, could the Hounds afford to turn a blind eye? The answer is a definitive no. They couldn't bear the resulting consequences, and thus, wouldn't dare extend a helping hand.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_21_sunday_153.ogg/revision/latest?cb=20240702180650",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "As to your choice, I once again offer my heartfelt apologies. Next comes the third and final decision—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Vo_chapter3_21_sunday_154.ogg/revision/latest?cb=20240702180652",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "And the story this time... is my own.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_21_sunday_155.ogg/revision/latest?cb=20240702180654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "This story happened the day I was appointed the Oak Family Head. At that time, Mr. Gopher Wood was the current Dreammaster, and as per his wish, we had a private conversation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_21_sunday_163.ogg/revision/latest?cb=20240702180712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "What surprised me was that the Dreammaster had only come to deliver a letter to me. He let me read its contents. It was a letter... from my sister.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Vo_chapter3_21_sunday_164.ogg/revision/latest?cb=20240702180714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_84.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Beauty and Destruction.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "The letter contained the usual pleasantries, anecdotes from her travels — nothing out of the ordinary. Just as I started wondering how this letter related to our discussion, the Dreammaster began to speak.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_21_sunday_165.ogg/revision/latest?cb=20240702180716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"Do you know who wrote this letter?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_21_mengzhu_101.ogg/revision/latest?cb=20240702180441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"My sister, of course. But why would you personally visit me to hand me a letter from my sister containing mere trivialities?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/Vo_chapter3_21_sunday_166.ogg/revision/latest?cb=20240702180718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"To help you grasp the full scope of this issue. Do you know where Robin is at this moment?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_21_mengzhu_102.ogg/revision/latest?cb=20240702180443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"From what the letter indicates... She must be in Kasbelina-VIII , correct? She's touring there right now...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/Vo_chapter3_21_sunday_167.ogg/revision/latest?cb=20240702180720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"Correct. Has she mentioned anything about a stray bullet?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_21_mengzhu_103.ogg/revision/latest?cb=20240702180445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"A stray bullet? What...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Vo_chapter3_21_sunday_168.ogg/revision/latest?cb=20240702180722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"A war has broken out on that planet. It is because of this very reason that Robin chose this destination... To spread the word of the Harmony, and to save the lives of that planet, she personally made for the frontlines.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Vo_chapter3_21_mengzhu_104.ogg/revision/latest?cb=20240702180447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"She hoped to ease the people's suffering with song, and was willing to brave mortal danger to deliver the IPC's medical supplies... Unfortunately, stray bullets show no such compassion.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_21_mengzhu_105.ogg/revision/latest?cb=20240702180449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Is she alright!?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Vo_chapter3_21_sunday_169.ogg/revision/latest?cb=20240702180724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"If the operation was successful, she should probably be recovering in the field hospital.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_21_mengzhu_106.ogg/revision/latest?cb=20240702180451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "\"Dreammaster\"",
+        "line": "\"By the Aeon above, the bullet struck her neck directly... Yet, possibly as a reward for her consistent deeds of Harmony, it didn't hit any vital arteries. Once you've attended to your outstanding tasks, it'd be advisable to write her back as soon as possible.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/Vo_chapter3_21_mengzhu_107.ogg/revision/latest?cb=20240702180453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dreammaster_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"Those... damned savages! I'll pack my bags right away... My gratitude for bringing this to my attention, Mr. Gopher Wood!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_21_sunday_170.ogg/revision/latest?cb=20240702180726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Now, you understand why she always wears such elaborate neck ornaments, don't you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/Vo_chapter3_21_sunday_171.ogg/revision/latest?cb=20240702180728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "How could this happen... Miss Robin...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_21_mar7th_110.ogg/revision/latest?cb=20240702180435",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It's all in the past, so please don't worry. I share this in the meager hope that you will understand the Harmony's limitations and predicament. As grandiose as \"the strong defending the weak\" sounds, many times, it is nothing more than wishful thinking.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/Vo_chapter3_21_sunday_172.ogg/revision/latest?cb=20240702180730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Likewise, I've prepared one last question, one last choice. But rest assured, this choice will not have any grave consequences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_21_sunday_173.ogg/revision/latest?cb=20240702180732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Because this is merely a figment of imagination, a nightmare that has haunted me through countless nights. If you ever had the opportunity to make a choice like I did...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Vo_chapter3_21_sunday_174.ogg/revision/latest?cb=20240702180734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Would you still support Robin's journey on the Path of Harmony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_21_sunday_175.ogg/revision/latest?cb=20240702180735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_103.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Decide Robin's destiny"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I can't believe that happened to Miss Robin... \"The strong defending the weak\" is a great mantra, but if I had to pay such a price... I, I don't know what I'd do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_21_mar7th_111.ogg/revision/latest?cb=20240702180438",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_104.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I often feel like I've dreamt of similar scenes on certain nights. In the dream, I see blurry faces. I don't know who they are, but I sympathize with all of them, fighting for survival against some unfathomable force...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_21_himeko_111.ogg/revision/latest?cb=20240702180356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Their confusion and fear are lucid to me... But I also remember they chose never to give up — just like Miss Robin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/Vo_chapter3_21_himeko_112.ogg/revision/latest?cb=20240702180359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ (Trailblazer), if Mr. Sunday's question leaves you puzzled, you should find the answer from your own experiences.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_21_himeko_113_m.ogg/revision/latest?cb=20240702180402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "With each Trailblaze, dangers and tribulations will surely follow, but would you ever back away? Would you stop March and Dan Heng from reaching their next destination? I believe you have an answer of your own in your heart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_21_himeko_114.ogg/revision/latest?cb=20240702180404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_108.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Miss Robin's courage is admirable. And here I was, thinking she was just another superstar celebrity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_21_firefly_105.ogg/revision/latest?cb=20240702180313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But the fact that she's also Mr. Sunday's younger sister... No, I doubt he'd wish harm on his own flesh and blood, no matter how grand the ambition.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_21_firefly_106.ogg/revision/latest?cb=20240702180315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_110.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Support Robin to go on her journey\""
+    },
+    {
+        "type": "note",
+        "text": "Will you make this choice?"
+    },
+    {
+        "type": "note",
+        "text": "Make the decision."
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "note",
+        "text": "Choose \"Stop Robin from going on her journey\""
+    },
+    {
+        "type": "note",
+        "text": "Will you make this choice?"
+    },
+    {
+        "type": "note",
+        "text": "Make the decision."
+    },
+    {
+        "type": "note",
+        "text": "Think it over some more."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Heh... I see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_21_sunday_176.ogg/revision/latest?cb=20240702180737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I am now aware of everyone's stances.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_21_sunday_177.ogg/revision/latest?cb=20240702180739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Raising these questions merely serves to illustrate one point: The plight of Penacony cannot be salvaged by the Harmony. The true foundation for a Sweetdream Paradise can only be established through the Order where the strong govern the weak.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_21_sunday_178.ogg/revision/latest?cb=20240702180741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I know the suffering of being tormented, the turmoil of losing your way, how sorrow... and even despair, set in when matters don't work out. All of this causes me unending pain, because this is not what \"happiness\" is at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/Vo_chapter3_21_sunday_179.ogg/revision/latest?cb=20240702180744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "We must teach the weak how to live a happy life. And this life isn't some noble propriety that the upper crust preaches, but in definitive terms, a way of survival that belongs to everyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_21_sunday_180.ogg/revision/latest?cb=20240702180746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So, what is your definition of living a happy life?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_21_firefly_107.ogg/revision/latest?cb=20240702180316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Good question. Human consciousness is fundamentally an illusion, a cage known as \"self-worth\". People lured in by this illusion, make mistakes, yet still ask that external influences bear the burden.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_21_sunday_181.ogg/revision/latest?cb=20240702180748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "When one mistake after the next permeates the masses, they become impossible to trace... Thus, the amassing of these individual cages culminate to form a prison, a place dictated only by the rule of \"survival of the fittest.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/Vo_chapter3_21_sunday_182.ogg/revision/latest?cb=20240702180750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Nature is always accompanied by predation and sacrifice... Its antithesis is known as Order .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/Vo_chapter3_21_sunday_183.ogg/revision/latest?cb=20240702180752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "That is what I want to do: Unite people's happiness under the banner of Order. They won't need to make bitter choices any longer, nor face the weaknesses of humanity. They can cast aside their primal instincts, to build a haven for mankind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/Vo_chapter3_21_sunday_184.ogg/revision/latest?cb=20240702180754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Simply describing thoughts is far too abstract, so allow me to provide a simple example: As you all may know, there are societal norms like \"weekends\" and \"long weekends\" that exist on some worlds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_21_sunday_185.ogg/revision/latest?cb=20240702180757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "During these hard-earned rest days, people are given the chance to extricate themselves from the stresses of everyday life, allowing a certain tranquility to return to their souls.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_21_sunday_186.ogg/revision/latest?cb=20240702180759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "And it is only on these days, that people do not have to adhere to the law where the strong prey on the weak — they can live out their lives happily during these brief intermissions. It's just a pity... that two or three days are still too fleeting compared to the span of a lifetime.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_21_sunday_187.ogg/revision/latest?cb=20240702180801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "From where I stand, society's ideal system should be \"seven rest days\". Following Sunday, there should ensue a second, a third, and indeed an infinite procession of Sundays. This should be the face of the new world — idyllic, eternal, peaceful days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_21_sunday_188.ogg/revision/latest?cb=20240702180803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "And thus, every person can return to their base selves in this utopia. Some gaze in reverence at the stars, pouring their whole beings into calculating the distance between us and the isolated world of Pegana . Meanwhile, some seek refuge in quiet corners, holding one another, unencumbered by the chains of unwelcome obligations...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_21_sunday_189.ogg/revision/latest?cb=20240702180805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "There would be no need to bear the hardships of reality. Only in this way can humanity face the inevitable end with the purest of spirit. Living a life of dignity — this is what it is to live in bliss.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_21_sunday_190.ogg/revision/latest?cb=20240702180808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Miss Firefly, you who are stricken with Entropy Loss Syndrome — you of all would surely understand this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_21_sunday_191.ogg/revision/latest?cb=20240702180810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/Vo_chapter3_21_firefly_108.ogg/revision/latest?cb=20240702180318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It sounds... like a flawless theory...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Vo_chapter3_21_mar7th_112.ogg/revision/latest?cb=20240702180439",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Vo_chapter3_21_himeko_115.ogg/revision/latest?cb=20240702180406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But... what is the price to attain all this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_21_firefly_109.ogg/revision/latest?cb=20240702180320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "The cost is minute, merely a personal... and eternal sacrifice. If this paradise is to be maintained for everyone, someone must remain trapped in solitary wakening, until the end of the cosmos.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_21_sunday_192.ogg/revision/latest?cb=20240702180812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Wakening... Which means that this so-called paradise is still a dream. Stepping into this paradise means forsaking reality, correct?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_21_firefly_110.ogg/revision/latest?cb=20240702180322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It is not forsaking, but transcending. Flesh, blood, sorrow, weakness. If the physical is the root of spiritual suffering, it is only logical that we defeat it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_21_sunday_193.ogg/revision/latest?cb=20240702180814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But in this supposed \"bliss,\" people won't have defeated their demons. The chance to overcome their tribulations would be forever lost to them. In other words... it is an escape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_21_firefly_111.ogg/revision/latest?cb=20240702180324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "That's another way of understanding it, but there is no shame in escape. On the contrary, the seeds of escape exist in everyone's hearts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_21_sunday_194.ogg/revision/latest?cb=20240702180816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Don't you agree, Miss Firefly? And as to why we sleep? It is because we are afraid to awaken from our dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_21_sunday_195.ogg/revision/latest?cb=20240702180817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "But this is not in conflict with the grand plan. Only in acknowledging this, can we truly understand the frailty of human nature, and from there, show compassion and protection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_21_sunday_196.ogg/revision/latest?cb=20240702180820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I... admit that you are a born leader. Your perspective on humanity brims with pessimism, yet you express compassion for all, even when your heart pities them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_21_firefly_112.ogg/revision/latest?cb=20240702180326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But unlike you — I live for the \"self\". From my perspective, individuals making choices for themselves is their birthright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_21_firefly_113.ogg/revision/latest?cb=20240702180328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The want to escape may be innate in the weak, but whether they are weak or not... It is not up to another to decide.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_21_firefly_114.ogg/revision/latest?cb=20240702180330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Perhaps in your mind, you also view me as \"weak\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_21_firefly_115.ogg/revision/latest?cb=20240702180332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_21_sunday_197.ogg/revision/latest?cb=20240702180821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Because I don't think so.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_21_firefly_116.ogg/revision/latest?cb=20240702180334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Since Miss Firefly has said her piece, the Astral Express will also naturally give you our answer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_21_himeko_116.ogg/revision/latest?cb=20240702180408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ We'll leave it to you, (Trailblazer). Just as Mr. Mikhail instructed before: Tell him our choice...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Vo_chapter3_21_himeko_117_m.ogg/revision/latest?cb=20240702180412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_146.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin Sub-MissionThen Wake to Weep)"
+    }
+]

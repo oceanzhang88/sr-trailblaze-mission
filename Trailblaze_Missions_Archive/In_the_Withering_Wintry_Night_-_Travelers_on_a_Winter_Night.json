@@ -1,0 +1,910 @@
+[
+    {
+        "type": "heading",
+        "text": "Search for traces of civilization in the Snow Plains"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You land onJarilo-VIsafely, but now find yourselves standing in frigid winds among barren snowfields stretching as far as the eye can see.Feeling stuck, you recallHimeko's words: Successful trailblazers must learn to explore, understand, establish, and connect... Maybe this is what exploring looks like.In any event, your options are now clear: Push through the snow or wait for theStellaronto miraculously appear by itself."
+    },
+    {
+        "type": "condition",
+        "text": "(Begin walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This place still hasn't been corroded, yet Fragmentum monsters have already made it here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_0_danheng_209.ogg/revision/latest?cb=20241030174122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I fear the Stellaron may be exerting a significant influence on this world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_0_danheng_210.ogg/revision/latest?cb=20241030174123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachCalyx)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(What a strange object... It seems really out of place in the Snow Plains.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(Maybe Mr. Yang will know what this is. Let's send a message to ask him.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Messages Welt (Trailblazer) What is this, Mr. Yang? (Trailblazer) What is this, Mr. Yang? Welt It is a Calyx, a strange entity born from the phenomenon of space distortion. There are some reality data in the Calyxes that might come in handy, but please be careful when coming in contact with them. The existence of these Calyxes is still a mystery to us, and the danger within is incalculable. In your coming journey, you might come across other Calyxes like this, and the reality data stored in different Calyxes may vary, so look out for that."
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Calyx (Golden)"
+    },
+    {
+        "type": "note",
+        "text": "Defeat enemies to obtain general materials"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open <span class=\"text-highlight\">Interastral Peace Guide</span></dd>\n<dd><span class=\"text-highlight\">Calyx (Golden)</span> has been archived in the Interastral Peace Guide. View details here.</dd>\n<dd>These game modes cost <span class=\"text-highlight\">Trailblaze Power</span> to play. <span class=\"text-highlight\">Trailblaze Power</span> recovers over time.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate nearby house, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "These buildings have been buried in the snowfall.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_0_danheng_214.ogg/revision/latest?cb=20241030174124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh!? So these are rooftops? How long would snow have to fall to get this thick?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter1_0_mar7th_221.ogg/revision/latest?cb=20241030174125",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...A long, long time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter1_0_danheng_215.ogg/revision/latest?cb=20241030174126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_4.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching snowdrift)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*gasp* Did you see that? I think something's moving...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter1_0_mar7th_222.ogg/revision/latest?cb=20241030174127",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Mm... It's just an ordinary snowdrift. Are you sure you're not seeing things?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_0_danheng_216.ogg/revision/latest?cb=20241030174127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Of course not, my eyesight's perfect! Come on, let's take a closer look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter1_0_mar7th_223.ogg/revision/latest?cb=20241030174128",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate snowdrift)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Hey, get outta there or you'll shiver to death.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter1_0_mar7th_224.ogg/revision/latest?cb=20241030174129",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Holding your breath won't help...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter1_0_mar7th_225.ogg/revision/latest?cb=20241030174130",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I got this, March.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_0_danheng_217.ogg/revision/latest?cb=20241030174131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If someone's got their head stuck in the sand, or the snow in this case...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter1_0_danheng_218.ogg/revision/latest?cb=20241030174132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...they just need a helping hand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_0_danheng_219.ogg/revision/latest?cb=20241030174133",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "Yeowch!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter1_0_sampo_202.ogg/revision/latest?cb=20241030174134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "My fine fellow, was that really necessary? Is crawling around in the snow a crime these days? I mean, c'mon, surely it doesn't warrant a spearing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_0_sampo_203.ogg/revision/latest?cb=20241030174135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "...But then again how can I blame you? I mean, I caught you off guard. It had to happen — you could even say I deserved it, huh? Besides, I've made a gallant group of new friends as a result, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter1_0_sampo_204.ogg/revision/latest?cb=20241030174135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "...Is Captain Gepard around? H—He's an old buddy of mine...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter1_0_sampo_205.ogg/revision/latest?cb=20241030174136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Who?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter1_0_mar7th_226.ogg/revision/latest?cb=20241030174137",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "Wait, you're not Silvermane Guards ? Well, why didn't you say so? Turns out we're on the same side after all!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter1_0_sampo_206.ogg/revision/latest?cb=20241030174138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Man Hiding in Snow",
+        "line": "Pleasure to meet you, the name's Sampo Koski.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter1_0_sampo_207.ogg/revision/latest?cb=20241030174139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Man_Hiding_in_Snow_19.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'm (Trailblazer)."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Excellent, I'll remember the name. I never thought I'd run into friends from the same line of work out here in this frozen wasteland. *sigh* Business is bad these days, but fear not, Sampo Koski isn't interested in hoarding. There's more than enough treasure to go around, so let's get rich together! Hahaha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter1_0_sampo_208.ogg/revision/latest?cb=20241030174140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Say, why don't we join forces? I have reliable intel the main strength of the Silvermane Guards is being deployed to the front line. This is a golden opportunity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_0_sampo_209.ogg/revision/latest?cb=20241030174141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_21.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What business are you talking about?"
+    },
+    {
+        "type": "note",
+        "text": "Silvermane Guards?"
+    },
+    {
+        "type": "note",
+        "text": "The front line?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...Come now, friends. I can understand the mistrust, but there's no need for the charade.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter1_0_sampo_210.ogg/revision/latest?cb=20241030174142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Then again, I know the rules, vigilance is the name of the game in our profession. It's my fault for letting my enthusiasm and sincerity get the better of me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter1_0_sampo_211.ogg/revision/latest?cb=20241030174143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Anyway, a meeting like this has to have been written in the stars. Ask me anything you like — I won't skimp on the details. Still, make it snappy, you're never more than ten feet from a Silvermane Guard...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter1_0_sampo_212.ogg/revision/latest?cb=20241030174144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_24.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is there a settlement nearby?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Settlement? What a literary turn of phrase. Why, there's only one place in this world where the living still reside — our beloved Belobog! The further away you get, the dicier things become.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_0_sampo_213.ogg/revision/latest?cb=20241030174145",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_25.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "The City of Preservation , the Towering Citadel, humanity's last bastion against the Eternal Freeze ... It may sound a bit over the top, but those names are grounded in truth. The only place humans can eke out an existence is behind those impregnable walls.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_0_sampo_214.ogg/revision/latest?cb=20241030174146",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why were you hiding in the snow?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Me? You guys scared me to death... There I was looking for relics to sell, when all of a sudden you came stomping over. I thought the Silvermane Guards were paying me a visit.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter1_0_sampo_215.ogg/revision/latest?cb=20241030174147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_27.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Seriously though, try treading a little lighter next time, hmm? If you run into the Guards, they won't hide in a snowdrift... and you'll be in a cell before you know it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter1_0_sampo_216.ogg/revision/latest?cb=20241030174147",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I have no idea who these Silvermane Guards even are..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You...You really don't know? The Silvermane Guards are Belobog's soldiers, enforcers, and police. Let's just say they're not the most flexible of people... and they like paying visits to folks in our line of work.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_0_sampo_217.ogg/revision/latest?cb=20241030174148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Seems like you guys really are new to the business. *sigh* To be young and naive again... How about this. As a senior in the field, which I'm sure you don't mind me saying, I'll give you some free guidance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter1_0_sampo_218.ogg/revision/latest?cb=20241030174149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "There are ways of doing things in this profession, and you better get familiar with them. Moving in the shadows, finding the goods, pricing your stock, hiding from the Guards... there's an art to all of it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter1_0_sampo_219.ogg/revision/latest?cb=20241030174150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "No need, why don't you just take us to the city? We don't really know the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter1_0_mar7th_227.ogg/revision/latest?cb=20241030174151",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "The city? Already? I haven't even started trading yet. Showing you the way is easy enough, missy, but it would cost—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter1_0_sampo_220.ogg/revision/latest?cb=20241030174152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...B—But it would be my pleasure! \"Kindness\" is Sampo Koski's middle name. Follow me, friends, and keep quiet. We don't want to be spotted by the Guards.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter1_0_sampo_221.ogg/revision/latest?cb=20241030174153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_34.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Sampo and head towards Belobog"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You discover a shivering man who buried himself in the snow drift. If he wasn't looking to take a good nap in the blistering cold then this smiling man is probably trying to hide from something... something other than the few of you.After knowing more about each of you, he offers to bring you to Belobog — the only human settlement on the surface of this planet. You will most definitely find clues regarding the Stellaron there."
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after the previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So why were you hiding from the Silvermane Guards?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter1_0_mar7th_228.ogg/revision/latest?cb=20241030174154",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Uhh, I was just storing a few relics away from prying eyes, nothing serious. If it weren't for the uncompromising nature of our civil service, there'd be no need for secrecy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter1_0_sampo_222.ogg/revision/latest?cb=20241030174155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "So whereabouts are you guys from, anyway? I don't mean to pry or anything, I just care about my friends! No pressure...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_0_sampo_223.ogg/revision/latest?cb=20241030174156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_37.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After walking for some time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...Rule number seven: Never leave a footprint. I have my own special technique called \"invisible snow-walking.\" Helps me throw off pursuers in no...time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter1_0_sampo_224.ogg/revision/latest?cb=20241030174157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Who are they?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter1_0_danheng_220.ogg/revision/latest?cb=20241030174158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Uh, you remember the Silvermane Guards I mentioned? That's them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter1_0_sampo_225.ogg/revision/latest?cb=20241030174159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Help me, old friends! I don't wanna be caught!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter1_0_sampo_226.ogg/revision/latest?cb=20241030174200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "It's the suspect and his accomplices! Arrest them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_0_soldierA_201.ogg/revision/latest?cb=20241030174201",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_42.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle)\n(During Wave 1, battleSilvermane Soldier×1,Silvermane Gunner×1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "It's now or never!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_0_sampo_227.ogg/revision/latest?cb=20241030174201",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_43.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Over to you, dear friends!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_0_sampo_228.ogg/revision/latest?cb=20241030174202",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_44.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey! Where do you think you're—",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter1_0_mar7th_229.ogg/revision/latest?cb=20241030174203",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(During Wave 2, battleSilvermane Soldier×2,Silvermane Gunner×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon defeating the Silvermane Guards, cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(March uses her Ultimate, but Gepard completely blocks the attack with an energy shield, shocking the Express Crew before approaching unfazed)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After cutscene, enter battle againstGepard×1,Silvermane Soldier×1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "I, Gepard Landau, captain of the Silvermane Guards, order you to relinquish your futile resistance.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter1_0_gepard_201.ogg/revision/latest?cb=20241030174204",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Grr, that Sampo cheated us all. Wait till I get my hands on him...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_0_mar7th_230.ogg/revision/latest?cb=20241030174205",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_47.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Soldier",
+                "line": "Suspect! Relinquish your resistance!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter1_0_soldierA_202.ogg/revision/latest?cb=20241030174206",
+                "is_unavailable": false,
+                "audio_filename": "audio_Soldier_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ugh, so I'm a criminal, huh? Forget Sampo, wait until I get my hands on YOU!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_0_mar7th_231.ogg/revision/latest?cb=20241030174207",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_49.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Battle ends when Gepard is reduced to 30% HP, where he will automatically use Frigid Waterfall)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "...And the prime suspect? The one with the blue hair?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter1_0_gepard_203.ogg/revision/latest?cb=20241030174208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "Apologies, Captain! W—We lost him during the pursuit. We can't find his footprints...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_0_soldierA_203.ogg/revision/latest?cb=20241030174209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "*sigh* No matter, we have his accomplices. He'll be close by, plotting his next move.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter1_0_gepard_204.ogg/revision/latest?cb=20241030174210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_52.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We're not his accomplices.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, we'd never team up with someone like him!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_0_mar7th_232.ogg/revision/latest?cb=20241030174210",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You might be waiting longer than you think...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...As in, forever.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_0_mar7th_233.ogg/revision/latest?cb=20241030174211",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm not trying to talk our way out of this, but... we're not friends with that scoundrel. Did you see how fast he ditched us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_0_mar7th_234.ogg/revision/latest?cb=20241030174212",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We rescued him from the snow out of the kindness of our hearts. We had no idea he might be using us to get past you! Are you really dumb enough to fall for his...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter1_0_mar7th_235.ogg/revision/latest?cb=20241030174213",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "I'm a captain, not an adjudication panel. As a Belobog citizen, you have the right to defend yourself, but that can only take place under the scrutiny of the Architects , not now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_0_gepard_205.ogg/revision/latest?cb=20241030174214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Take them away.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter1_0_gepard_206.ogg/revision/latest?cb=20241030174215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But we're not from Belobog!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_0_mar7th_236.ogg/revision/latest?cb=20241030174216",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_59.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Take a look at our clothes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Soldier",
+                "line": "Silence! What kind of nonsense are you—",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter1_0_soldierA_204.ogg/revision/latest?cb=20241030174217",
+                "is_unavailable": false,
+                "audio_filename": "audio_Soldier_60.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "As you were. We must not be tempted into careless judgment. Look at their attire. Indeed, it is not in the Belobog style.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_0_gepard_207.ogg/revision/latest?cb=20241030174218",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_61.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Exactly! A—And we even have photos!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_0_mar7th_237.ogg/revision/latest?cb=20241030174219",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_62.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Does our equipment bear any resemblance to yours?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Soldier",
+                "line": "Silence! What kind of nonsense are you—",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter1_0_soldierA_204.ogg/revision/latest?cb=20241030174217",
+                "is_unavailable": false,
+                "audio_filename": "audio_Soldier_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "As you were. We must not be tempted into careless judgment. Look at their relics. We've never excavated anything like them before, and I haven't seen anything similar in our museums.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter1_0_gepard_208.ogg/revision/latest?cb=20241030174220",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_64.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Exactly! A—And we even have photos!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_0_mar7th_237.ogg/revision/latest?cb=20241030174219",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_65.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Show him the photos, March.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Gepard",
+                "line": "Photos?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_0_gepard_209.ogg/revision/latest?cb=20241030174222",
+                "is_unavailable": false,
+                "audio_filename": "audio_Gepard_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Ah! (Trailblazer), you're a genius! Great idea!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_0_mar7th_239_m.ogg/revision/latest?cb=20241030174223",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_67.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You've probably never seen what your planet looks like, right? I took this one. Behold, Jarilo-VI...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter1_0_mar7th_241.ogg/revision/latest?cb=20241030174225",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_68.ogg"
+    },
+    {
+        "type": "note",
+        "text": "March 7th shows Gepard a picture of the ice-covered planet..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "...You mean to say that this... white ball... That's here? That's our home? How can that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter1_0_soldierA_206.ogg/revision/latest?cb=20241030174225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_0_gepard_210.ogg/revision/latest?cb=20241030174226",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "It is said that a long time ago, strange visitors from beyond the sky would visit us here... but that after the Eternal Freeze, the blizzards made passage impossible... and Belobog would cease to witness such arrivals.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter1_0_gepard_211.ogg/revision/latest?cb=20241030174227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldier",
+        "line": "But these people are—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter1_0_soldierA_207.ogg/revision/latest?cb=20241030174228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Soldier_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "This decision is beyond us. If what they say is true, then only the supreme guardian may decide their fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_0_gepard_212.ogg/revision/latest?cb=20241030174229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Our job is to present them before her. Nothing more.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_0_gepard_213.ogg/revision/latest?cb=20241030174230",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Outsiders, follow me. Belobog lies beyond this blizzard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_0_gepard_214.ogg/revision/latest?cb=20241030174231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Welcome to Belobog — the City of Preservation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter1_0_gepard_215.ogg/revision/latest?cb=20241030174232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_76.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After a brief cinematic panning the city of Belobog, the group arrives in theAdministrative District)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Hey, it feels like it got a bit warmer!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_1_mar7th_201.ogg/revision/latest?cb=20241030174233",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "...That's because you're in Belobog, the last bastion of humanity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter1_1_gepard_201.ogg/revision/latest?cb=20241030174234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Last bastion?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_1_mar7th_202.ogg/revision/latest?cb=20241030174234",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter1_1_gepard_202.ogg/revision/latest?cb=20241030174235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "Seven hundred years ago, monsters from beyond the sky set the world ablaze. The land was turned to scorched earth, with raging infernos and billowing towers of smoke stretching beyond the horizon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_1_gepard_203.ogg/revision/latest?cb=20241030174236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "In the midst of the conflict, the Eternal Freeze descended without warning. Suddenly, sweeping winds brought blizzards which buried the invading Legion. Belobog was all that remained.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_1_gepard_204.ogg/revision/latest?cb=20241030174237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "The steadfast Architects built this city. Under the protection of Qlipoth the Preservation , Belobog remains forever warm in the face of unrelenting cold.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter1_1_gepard_205.ogg/revision/latest?cb=20241030174238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "(...He's sure saying some weird stuff.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_1_mar7th_203.ogg/revision/latest?cb=20241030174239",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "(A marked change in tone. It sounds like he's quoting from a historical record.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_1_danheng_201.ogg/revision/latest?cb=20241030174240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "(Uh-huh, so why is he telling us all this?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_1_mar7th_204.ogg/revision/latest?cb=20241030174241",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gepard",
+        "line": "You wanted to know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_1_gepard_206.ogg/revision/latest?cb=20241030174242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gepard_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter1_1_mar7th_205.ogg/revision/latest?cb=20241030174242",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementEverwinter Night)"
+    }
+]

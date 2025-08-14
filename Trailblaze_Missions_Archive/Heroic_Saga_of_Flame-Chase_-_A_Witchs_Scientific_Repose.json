@@ -1,0 +1,2139 @@
+[
+    {
+        "type": "heading",
+        "text": "Investigate the Audience System terminal"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Inside the Herta Space Station, Herta's audience with Nous had yet to end. Using all the energy available in the station, Herta activates the Audience System's terminal to try to communicate with Nous. However, the system unexpectedly failed. Upon investigation, all three sectors within the terminal are malfunctioning, requiring Herta to personally attend to each one to resolve the issues."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ah, an utterly ■■■ adventure! Feel free to replace ■■■ with whatever description you see fit!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_10_mirrorA_101.ogg/revision/latest?cb=20250226021012",
+        "is_unavailable": false,
+        "audio_filename": "audio__0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I bet you're as curious as I am. So! What's going to happen next?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_10_mirrorA_102.ogg/revision/latest?cb=20250226021013",
+        "is_unavailable": false,
+        "audio_filename": "audio__1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Heh, keep it together. All that excitement isn't going to get you anywhere, you know. Why don't you follow me into another tale on the other side of the cosmos...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter4_10_mirrorA_103.ogg/revision/latest?cb=20250226021014",
+        "is_unavailable": false,
+        "audio_filename": "audio__2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ta-da! Recognize this place? Herta Space Station — the base of a genius and the cradle of science.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_10_mirrorA_104.ogg/revision/latest?cb=20250226021015",
+        "is_unavailable": false,
+        "audio_filename": "audio__3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Look at these Herta puppets! Aren't they dearly exquisite? Let's just say I've already heard many others secretly gushing, \"She looks so pretty\" on more than one occasion...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter4_10_mirrorA_105.ogg/revision/latest?cb=20250226021016",
+        "is_unavailable": false,
+        "audio_filename": "audio__4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "If you ask me though, they barely did justice to Madam Herta's beauty! Maybe just 10%... no, not even 1% of the real deal! Now I'm no fawner here, just stating an objective fact...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_10_mirrorA_106.ogg/revision/latest?cb=20250226021017",
+        "is_unavailable": false,
+        "audio_filename": "audio__5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Remember this scene? Gah, it evoked so much emotion in me! The esteemed Madam Herta, Genius Society #83, asking the great Nous a question! An attempt to gain a peek into the divinities' mysteries through THEM!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_10_mirrorA_107.ogg/revision/latest?cb=20250226021018",
+        "is_unavailable": false,
+        "audio_filename": "audio__6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Alright, so continuing from where we left off last time, this is where everything would begin for the genius smart enough to rewrite the history of the entire cos—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_10_mirrorA_108.ogg/revision/latest?cb=20250226021019",
+        "is_unavailable": false,
+        "audio_filename": "audio__7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Noble Female Voice",
+        "line": "...Tsk, Fourth Mirror. Who exactly are you talking to?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_10_theherta_101.ogg/revision/latest?cb=20250226021130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Noble_Female_Voice_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Wh—Why, I was just ramping it up for our grand appearance, Madam Herta.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter4_10_mirrorA_109.ogg/revision/latest?cb=20250226021020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hm. So, a dramatic debut...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_10_theherta_102.ogg/revision/latest?cb=20250226021131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...But what are the odds of that happening!? Sure, slightly plausible if I did manage to talk to Droidhead , but guess what's the problem...? THEY have no reaction whatsoever!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_10_theherta_103.ogg/revision/latest?cb=20250226021132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Err... But look at this, Madam Herta... You're standing before Nous here! Right there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter4_10_mirrorA_110.ogg/revision/latest?cb=20250226021021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Oh, that? That's a hologram. What? I can't possibly summon the real Droidhead here, can I?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_10_theherta_104.ogg/revision/latest?cb=20250226021132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...You mean to say you've just been reciting your lines before a hologram!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_10_mirrorA_111.ogg/revision/latest?cb=20250226021022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Yeah, creating dramatic value. Isn't that what you're most obsessed with?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_10_theherta_105.ogg/revision/latest?cb=20250226021133",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Moving on. Don't try, but you wouldn't even begin to imagine how difficult it is to send a message to Nous. And I went all out for it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_10_theherta_106.ogg/revision/latest?cb=20250226021134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Powering the Audience System alone required me to reconfigure the energy supply of the entire space station! I had to switch it to Hibernate mode before rebooting everything. Do you have any idea how much that costs?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_10_theherta_107.ogg/revision/latest?cb=20250226021135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...How much? How much?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter4_10_mirrorA_112.ogg/revision/latest?cb=20250226021023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Uh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_10_theherta_108.ogg/revision/latest?cb=20250226021136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...I'm not in charge of finance. Go pose that to Asta instead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_10_theherta_109.ogg/revision/latest?cb=20250226021137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "So you don't know either!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_10_mirrorA_113.ogg/revision/latest?cb=20250226021024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I am Herta herself, the Emanator of Erudition and a true-blue genius. Why would I be holding the purse strings? That menial task is beneath me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_10_theherta_110.ogg/revision/latest?cb=20250226021138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "You're absolutely right, Madam Herta! The IPC should really be providing a genius like you with all that you require, so you can freely dive into any research that tickles your fancy!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_10_mirrorA_114.ogg/revision/latest?cb=20250226021025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "With that said, Herta herself, Emanator of Erudition, and true-blue genius... What do you plan to do now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_10_mirrorA_115.ogg/revision/latest?cb=20250226021025",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "What else can I do? Identify what's malfunctioning within the Audience System and fix it, of course.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_10_theherta_111.ogg/revision/latest?cb=20250226021139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Um... Don't take offense to my candid words, Madam Herta. You may be proficient in many aspects, but... is hands-on work really one of your strong suits?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_10_mirrorA_116.ogg/revision/latest?cb=20250226021026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Um... I humbly suggest for you to contact Stephen instead...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_10_mirrorA_117.ogg/revision/latest?cb=20250226021027",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Contact him and expose how I shelled out a bomb to send a message to Droidhead, only to screw up everything else?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter4_10_theherta_112.ogg/revision/latest?cb=20250226021140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Mm, alright, alright. I get it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_10_mirrorA_118.ogg/revision/latest?cb=20250226021028",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Good that you do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_10_theherta_113.ogg/revision/latest?cb=20250226021141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "There. That's the Audience System's terminal. Come, walk with me. We'll check what's wrong with it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_10_theherta_114.ogg/revision/latest?cb=20250226021141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Aye-aye, ma'am! Oh, but I can't walk. I can only float...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_10_mirrorA_119.ogg/revision/latest?cb=20250226021029",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "What's with your witty remarks today?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_10_theherta_115.ogg/revision/latest?cb=20250226021142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_33.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Audience System terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Hmm... This is the Audience System? It looks just like the Simulated Universe .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_10_mirrorA_120.ogg/revision/latest?cb=20250226021030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Keen observation. They share the same fundamental logic, and are pretty much identical in that regard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_10_theherta_116.ogg/revision/latest?cb=20250226021143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Ahh, I see. We call this... referencing, and not appropriation, right? Heh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_10_mirrorA_121.ogg/revision/latest?cb=20250226021031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "One more stupid remark from you and you can watch Fifth Mirror reference your role, because I'm going to be dropping you as my assistant.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_10_theherta_117.ogg/revision/latest?cb=20250226021144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Focus now. The Audience System is divided into three zones: Energy Supply, Computing, and Communications. Each zone operates independently, and will only be integrated via the Path of Erudition when the system is booted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_10_theherta_118.ogg/revision/latest?cb=20250226021145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Sending a message to Droidhead involves more intricacies than you can imagine. If routine trials and maintenance on such an elaborately sophisticated system are already as bad as squaring circles, then it's no surprise for glitches like this to crop up.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_10_theherta_119.ogg/revision/latest?cb=20250226021146",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "I see. So, Madam Herta, can you use your professional judgment to tell which zone the glitch is in?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_10_mirrorA_122.ogg/revision/latest?cb=20250226021032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Of course. All three.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_10_theherta_120.ogg/revision/latest?cb=20250226021147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_10_mirrorA_123.ogg/revision/latest?cb=20250226021033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No sweat. They'll be up and running again after some simple technical tweaking.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_10_theherta_121.ogg/revision/latest?cb=20250226021148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "The three zones are compartmentalized, so we're going to have to troubleshoot them one at a time. Let's start with the Energy Supply Zone. Get ready, and then we'll go over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_10_theherta_122.ogg/revision/latest?cb=20250226021148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "I'm just a mirror, Madam Herta! If you're ready, then your reflection in me will also be ready to go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter4_10_mirrorA_124.ogg/revision/latest?cb=20250226021034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Brr... Why is this Energy Supply Zone... so cold? Brr... I—I'm already frosting up!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_10_mirrorA_125.ogg/revision/latest?cb=20250226021035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hmph, why else? I've converted the energy core that supplies all of Herta Space Station into Imaginary state and stored it in this zone. If not for the ultra-low temperature here, the space station would have long blasted off into the sky.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_10_theherta_123.ogg/revision/latest?cb=20250226021149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Brrr... But... aren't we already... in the sky?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_10_mirrorA_126.ogg/revision/latest?cb=20250226021036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...You're just a mirror. I don't need you to take on comic relief too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_10_theherta_124.ogg/revision/latest?cb=20250226021150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Where did those things come from? Corrupted data? Reanimated systemic rust? No, not likely... It can't be the Legion's second ambush, right...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_10_theherta_125.ogg/revision/latest?cb=20250226021151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Meh, whatever. We have to get rid of them anyway. Alright, stay close and try to avoid shattering to pieces!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_10_theherta_126.ogg/revision/latest?cb=20250226021152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_51.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Clear the abnormalities in the Energy Supply Zone"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Inside the Herta Space Station, Herta's audience with Nous had yet to end. Using all the energy available in the station, Herta activates the Audience System's terminal to try to communicate with Nous. However, the system unexpectedly failed. Upon investigation, all three sectors within the terminal are malfunctioning, requiring Herta to personally attend to each one to resolve the issues."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate thememory bubble, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "What's this, ma'am?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_10_mirrorA_127.ogg/revision/latest?cb=20250226021037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Mm, looks like one of those Memory Bubbles. It's not worth that much attention. You'll find many more in the other zones.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_10_theherta_127.ogg/revision/latest?cb=20250226021153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Hmm... is that so.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_10_mirrorA_128.ogg/revision/latest?cb=20250226021037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_54.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to Computing Zone"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating the enemies)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Brrr... Aaaaand Madam Herta never fails to impress! Those things are no match for you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_10_mirrorA_129.ogg/revision/latest?cb=20250226021038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hmph, a piece of cake!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_10_theherta_128.ogg/revision/latest?cb=20250226021154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Now that this place is cleaned up, let's set everything in order and move on to the next zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter4_10_theherta_129.ogg/revision/latest?cb=20250226021155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_57.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Audience System terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Wh—What in the...!? How did all these disgusting bugs get in here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_10_mirrorA_130.ogg/revision/latest?cb=20250226021039",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "We're going to need out-of-this-world computing capability if we hope to meet Droidhead. If we can't churn out calculations faster than a yottaFLOPS computer, then we can forget about having THEM notice our existence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_10_theherta_130.ogg/revision/latest?cb=20250226021156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "But computers with too high a computing capability tend to attract Computing Stings like them. No one knows how these creatures evolved from their progenitor — the Propagation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_10_theherta_131.ogg/revision/latest?cb=20250226021156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Ah, the mysteries of life. Hah! But even so, they can't compare to a talking mirror~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_10_mirrorA_131.ogg/revision/latest?cb=20250226021040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "A question on the side, Madam Herta: You have these powerful supercomputers and all, so... um, what are they normally programmed to calculate?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_10_mirrorA_132.ogg/revision/latest?cb=20250226021041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Is that important? All that matters is that they work and are able to attract Droidhead's attention.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter4_10_theherta_132.ogg/revision/latest?cb=20250226021157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "*sigh* ...I suggest meeting Miss Asta for a chat when you have time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_10_mirrorA_133.ogg/revision/latest?cb=20250226021042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_64.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Clear the abnormalities in the Computing Zone"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Inside the Herta Space Station, Herta's audience with Nous had yet to end. Using all the energy available in the station, Herta activates the Audience System's terminal to try to communicate with Nous. However, the system unexpectedly failed. Upon investigation, all three sectors within the terminal are malfunctioning, requiring Herta to personally attend to each one to resolve the issues."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the memory bubble, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "There's a Memory Bubble here too...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_10_mirrorA_134.ogg/revision/latest?cb=20250226021043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Why are you so interested in it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_10_theherta_133.ogg/revision/latest?cb=20250226021158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Okay, I'll admit it. I find them somewhat... creepy?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_10_mirrorA_135.ogg/revision/latest?cb=20250226021044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating the enemies)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Ew, yuck! Help me! Goo from those bugs got onto my reflective surface!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_10_mirrorA_136.ogg/revision/latest?cb=20250226021045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Clean up after yourself. Can't you just wipe it off with your hands?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_10_theherta_134.ogg/revision/latest?cb=20250226021159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...Ahaha! Good one there...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_10_mirrorA_137.ogg/revision/latest?cb=20250226021046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "With those annoying bugs squashed, we're done fixing the Computing Zone too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_10_theherta_135.ogg/revision/latest?cb=20250226021200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "These computers will get up to speed soon. Now we're just one final step away from requesting an audience with Droidhead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_10_theherta_136.ogg/revision/latest?cb=20250226021201",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Our last stop is the... Communications Zone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter4_10_mirrorA_138.ogg/revision/latest?cb=20250226021047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Oh? You have a good memory. Let's go see what's wrong in that zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_10_theherta_137.ogg/revision/latest?cb=20250226021202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_74.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the Communications Zone"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Audience System terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Wh—What's all this? I didn't think your puppets would be in here too, Madam Herta.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_10_mirrorA_139.ogg/revision/latest?cb=20250226021048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Unsurprisingly, the Communications Zone is where a bridge for communication will be formed between Droidhead and the space station.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter4_10_theherta_138.ogg/revision/latest?cb=20250226021203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Aggregating the Path Energy of the Erudition, then firing a \"bond\" at the Aeon . This is as good as tapping someone on the shoulder, who's sure to turn back to look at you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_10_theherta_139.ogg/revision/latest?cb=20250226021204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Alas, our work is never this simple. Putting aside all that onerous legwork, a single glance from Droidhead... could vaporize the entire space station if we're ill-prepared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_10_theherta_140.ogg/revision/latest?cb=20250226021205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "I see... So letting the space station go into hibernation is a protective measure of sorts? To prevent it from slipping into operational overload and turning into a scrap world?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_10_mirrorA_140.ogg/revision/latest?cb=20250226021049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hm, very perceptive for a mirror.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_10_theherta_141.ogg/revision/latest?cb=20250226021206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Mirror see (and hear), mirror do! Though I neither have eyes nor ears, haha!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_10_mirrorA_141.ogg/revision/latest?cb=20250226021050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "This zone... seems to be functioning fine? These puppets are doing their job, and I don't see any obvious malfunction...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_10_mirrorA_142.ogg/revision/latest?cb=20250226021050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Things may look fine only on the surface.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_10_theherta_142.ogg/revision/latest?cb=20250226021207",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Madam Herta, behind you—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_10_mirrorA_143.ogg/revision/latest?cb=20250226021051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...Hm? What does she want?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_10_mirrorA_144.ogg/revision/latest?cb=20250226021052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Let me take a look. This puppet... should be #2757.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_10_theherta_143.ogg/revision/latest?cb=20250226021208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "H—How did you tell!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_10_mirrorA_145.ogg/revision/latest?cb=20250226021053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Shh! Don't distract me when I'm checking the puppet's parameters. #2757...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_10_theherta_144.ogg/revision/latest?cb=20250226021209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hmm... That's strange...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_10_theherta_145.ogg/revision/latest?cb=20250226021210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Er... What's wrong, Madam Herta?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_10_mirrorA_146.ogg/revision/latest?cb=20250226021054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "The \"Replica Personality Module\"... is off. That can't be. This parameter is set to be enabled by default.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_10_theherta_146.ogg/revision/latest?cb=20250226021211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "And the \"Utterly Absurd Module\"... has also been disabled? Something's definitely wrong here. I checked a couple days ago to make sure every puppet has it switched on...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_10_theherta_147.ogg/revision/latest?cb=20250226021212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "The \"Attack Anything Everything Module\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_10_theherta_148.ogg/revision/latest?cb=20250226021213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "No, wait. Why do you even have such presets!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter4_10_mirrorA_147.ogg/revision/latest?cb=20250226021055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...is enabled.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_10_theherta_149.ogg/revision/latest?cb=20250226021213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta Puppet",
+        "line": "Intruder. Detected.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_10_hertadoll_101.ogg/revision/latest?cb=20250226020957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_Puppet_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Drats. Come and help me, mirror...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_10_theherta_150.ogg/revision/latest?cb=20250226021214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta Puppet",
+        "line": "Anything, everything. Attack!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_10_hertadoll_102.ogg/revision/latest?cb=20250226020958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_Puppet_98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstMemory Zone Meme \"Heartbreaker\"×3,Memory Zone Meme \"Allseer\"×2)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "These are... memetic remnants of the Remembrance ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_10_theherta_151.ogg/revision/latest?cb=20250226021215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "So they were the ones that corrupted and tampered with the settings of my puppets?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_10_theherta_152.ogg/revision/latest?cb=20250226021216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_100.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Egad, what a close shave... But why are these Remembrance memes even showing up here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_10_mirrorA_148.ogg/revision/latest?cb=20250226021056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "That's not the only one. Look at them. #7631 and #10136... are affected too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_10_theherta_153.ogg/revision/latest?cb=20250226021217",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Can't you do a remote factory reset on them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_10_mirrorA_149.ogg/revision/latest?cb=20250226021057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Sorry to disappoint. The \"Absolutely Not Module\" has been enabled, so not even I get to bypass its permissions. Whoopsie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_10_theherta_154.ogg/revision/latest?cb=20250226021218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...What were you really trying to achieve with these creations?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_10_mirrorA_150.ogg/revision/latest?cb=20250226021058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Just some toys to amuse myself with.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_10_theherta_155.ogg/revision/latest?cb=20250226021219",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Finding the source of the corruption can wait. These puppets no longer have use now that I'm here. Take them all out! Defective goods ought to be sent back to the repair center!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_10_theherta_156.ogg/revision/latest?cb=20250226021220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "I... urge you to go easy on them, for the sake of the space station...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_10_mirrorA_151.ogg/revision/latest?cb=20250226021059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_108.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat the out-of-control Herta puppets"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Inside the Herta Space Station, Herta's audience with Nous had yet to end. Using all the energy available in the station, Herta activates the Audience System's terminal to try to communicate with Nous. However, the system unexpectedly failed. Upon investigation, all three sectors within the terminal are malfunctioning, requiring Herta to personally attend to each one to resolve the issues."
+    },
+    {
+        "type": "heading",
+        "text": "Head deeper to investigate the puppet's signal"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating the enemies)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "They're completely battered, save for... their heads?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_10_mirrorA_152.ogg/revision/latest?cb=20250226021100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Never strike someone in the face — the same goes for puppets.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_10_theherta_157.ogg/revision/latest?cb=20250226021220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I'm picking up signals from more puppets somewhere farther in. Let's go take a look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_10_theherta_158.ogg/revision/latest?cb=20250226021221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_111.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the memory bubble, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "A Memory Bubble tucked away this far in?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_10_mirrorA_153.ogg/revision/latest?cb=20250226021101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Heh... I think I know what this is about now. This is interesting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_10_theherta_159.ogg/revision/latest?cb=20250226021222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "But we can leave that for later... Let's take care of the malfunctioning puppets first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_10_theherta_160.ogg/revision/latest?cb=20250226021223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_114.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Ah, #0988. The pride of my creations!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_10_theherta_161.ogg/revision/latest?cb=20250226021224",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...Should I even be curious...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_10_mirrorA_154.ogg/revision/latest?cb=20250226021102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Puppets before her were all as dull as brick walls, mundane and uninspired. I distinctly recall #0988 being the first puppet I imbued with... a magical surprise. Some other puppets that came later also got to enjoy similar privileges.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_10_theherta_162.ogg/revision/latest?cb=20250226021225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...Good to know, but did anyone ask!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_10_mirrorA_155.ogg/revision/latest?cb=20250226021103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Fear not, mirror. You have to remember that being a genius means you're destined to solve challenge after challenge. There's no time for rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_10_theherta_163.ogg/revision/latest?cb=20250226021226",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...C—Can I just be on the sidelines this time? Pretty please!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_10_mirrorA_156.ogg/revision/latest?cb=20250226021104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_120.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstHerta #ErrorModel, which transforms intoSwarm: True Sting)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Phew, that was close... I almost shattered...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_10_mirrorA_157.ogg/revision/latest?cb=20250226021105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Don't be melodramatic. Working even a single brain cell of mine to take out foes like her is an outright waste of my smarts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_10_theherta_164.ogg/revision/latest?cb=20250226021227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "I take it we've taken care of the problems in all three zones? Does that mean...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_10_mirrorA_158.ogg/revision/latest?cb=20250226021105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Not yet. There's something else we need to deal with.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_10_theherta_165.ogg/revision/latest?cb=20250226021228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "It seems we've had a little tagalong all this while...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_10_theherta_166.ogg/revision/latest?cb=20250226021228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "You've got quite the sharp eye, Madam Herta. Would you like us to help?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_10_mirrorA_159.ogg/revision/latest?cb=20250226021106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Sure, go ahead and summon the whole team, Fourth Mirror.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_10_theherta_167.ogg/revision/latest?cb=20250226021229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Considering the gravity of our endeavor, we can't allow a little thief to spoil the show.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_10_theherta_168.ogg/revision/latest?cb=20250226021230",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hmph, parasite of the Remembrance. Do you truly think your atrocious disguise can outwit the keen sight of a genius like myself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_10_theherta_169.ogg/revision/latest?cb=20250226021231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Once you're reflected in my mirrors...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_10_theherta_170.ogg/revision/latest?cb=20250226021232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...you can forget about escaping.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_10_theherta_171.ogg/revision/latest?cb=20250226021233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "Oh dear, oh dear. This is bad...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_10_qieyizhe_101.ogg/revision/latest?cb=20250226021121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "Right, stay alive and again I can strive... Retreat into the Memory Zone for now, I can always regroup and try again!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_10_qieyizhe_102.ogg/revision/latest?cb=20250226021123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Someone hasn't been paying attention.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_10_theherta_172.ogg/revision/latest?cb=20250226021234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Didn't hear me, did you? With those petty tricks of yours... do you actually think you can slip away right under my nose?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_10_theherta_173.ogg/revision/latest?cb=20250226021235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "Herta... Madam Herta, wait! Wh—What do you want with me...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter4_10_qieyizhe_103.ogg/revision/latest?cb=20250226021123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "I... I'll spill it all! The Garden 's secrets and what they're after... everything! P—Please just spare me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_10_qieyizhe_104.ogg/revision/latest?cb=20250226021124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Well, is that all you've got to say while your life is at stake? That's hardly worth anything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_10_theherta_174.ogg/revision/latest?cb=20250226021236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Need a little refresher? I am Herta, Genius Society #83, the one to unravel the mystery behind the imaginary leakage phenomenon, and keyholder of the Imaginary Implosion Pulse... Do you honestly believe I'd seek any counsel from you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_10_theherta_175.ogg/revision/latest?cb=20250226021237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "I... I...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_10_qieyizhe_105.ogg/revision/latest?cb=20250226021125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_140.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission A Witch's Scientific Repose.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hush now, keep quiet. This is my moment to shine, so just listen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_10_theherta_176.ogg/revision/latest?cb=20250226021238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "You crept in here to steal Nous' memories , didn't you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_10_theherta_177.ogg/revision/latest?cb=20250226021238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "And messing with my precious Audience System is just a ruse to lure me here so I can lead you to THEM...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_10_theherta_178.ogg/revision/latest?cb=20250226021239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "What a shame. You're only a step away from completing the mission assigned to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_10_theherta_179.ogg/revision/latest?cb=20250226021240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Memosnatcher",
+        "line": "Mmph...! Nngh...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_10_qieyizhe_106.ogg/revision/latest?cb=20250226021126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Memosnatcher_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...As if. Truth is, you never stood a chance from the get-go, teehee!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_10_theherta_180.ogg/revision/latest?cb=20250226021241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Think I only have Fourth Mirror following me around? Then you've let your guard down, because her siblings have long been watching your every move. Now, let me think... What kind of punishment should I subject a brazen thief like you to?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_10_theherta_181.ogg/revision/latest?cb=20250226021242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Ooh, I know! You Garden folk have a fondness for mirrors, huh... How about letting you enjoy some quality time with your favorite object — a mirror?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_10_theherta_182.ogg/revision/latest?cb=20250226021243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "As for the length of your punishment... Let's keep it mildly punitive. How about a hundredth of a lifetime? That should be enough for some serious self-reflection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter4_10_theherta_183.ogg/revision/latest?cb=20250226021244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Aww, cheer up. You can still do your part for this world while trapped in a mirror. For all you know, your weak Path Energy could just help me get Droidhead looking this way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter4_10_theherta_184.ogg/revision/latest?cb=20250226021245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Ah, I should make myself clear. When I said a hundredth of a lifetime ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_10_theherta_185.ogg/revision/latest?cb=20250226021246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...I meant my lifetime.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter4_10_theherta_186.ogg/revision/latest?cb=20250226021247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Ahh, at long last... We can finally be at ease now that we've nipped those problems in the bud.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_10_theherta_187.ogg/revision/latest?cb=20250226021247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Omnomnom... Mmm, this is yummy...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter4_10_mirrorA_160.ogg/revision/latest?cb=20250226021107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Cut that out! Those weird noises make me seem like I've got a few screws loose. Put that little thief to sleep for now. We can decide her fate later.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_10_theherta_188.ogg/revision/latest?cb=20250226021248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Oh, sweet and venerable Madam Herta, when did your heart turn this tender?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_10_mirrorA_161.ogg/revision/latest?cb=20250226021108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "The Audience System has been rebooted. This is finally it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_10_theherta_189.ogg/revision/latest?cb=20250226021249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "After all that I've done to reach you, Droidhead... You'd better not snub me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_10_theherta_190.ogg/revision/latest?cb=20250226021250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_158.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Interact with the terminal and try to speak with Nous"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The root cause of the malfunction is an invasion of Memosnatchers. After uprooting the problem, Herta is about to formally enter the Path Space to seek an audience with Nous."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Audience System terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "(The Path Space... This isn't a figment of the Simulated Universe, but a perfectly tangible and accessible space...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter4_10_theherta_191.ogg/revision/latest?cb=20250226021251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "(Right. Now's not the time to wallow in nostalgia. Droidhead... Will you answer me?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_10_theherta_193.ogg/revision/latest?cb=20250226021252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_160.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Approach the First Mirror to advance the audience's progress"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The audience appears to be proceeding smoothly, but... the voice from beyond the sky that Herta hears doesn't seem quite right."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "First Mirror",
+        "line": "Madam Herta... We picked up some voices from the space.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_10_mirrorB_101.ogg/revision/latest?cb=20250226021116",
+        "is_unavailable": false,
+        "audio_filename": "audio_First_Mirror_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hmm? Let me hear them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_10_theherta_194.ogg/revision/latest?cb=20250226021253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "0001...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_10_mingtuA_101.ogg/revision/latest?cb=20250226020958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "0011...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_10_mingtuA_102.ogg/revision/latest?cb=20250226020959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Is this... binary arithmetic? Could it be Droidhead?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_10_theherta_195.ogg/revision/latest?cb=20250226021254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "1111...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_10_mingtuB_101.ogg/revision/latest?cb=20250226021005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "0002...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_10_mingtuB_102.ogg/revision/latest?cb=20250226021006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Wait, there shouldn't be a \"2\" in binary arithmetic!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_10_theherta_196.ogg/revision/latest?cb=20250226021255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Is this some kind of prank...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_10_theherta_197.ogg/revision/latest?cb=20250226021255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_169.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Approach the Second Mirror to advance the audience's progress"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Second Mirror",
+        "line": "Madam Herta! We're hearing those voices again!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_10_mirrorC_101.ogg/revision/latest?cb=20250226021117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Second_Mirror_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Second Mirror",
+        "line": "What now? What should we do!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter4_10_mirrorC_102.ogg/revision/latest?cb=20250226021118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Second_Mirror_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Keep your cool, Second Mirror. What did they say this time? Play it again for me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_10_theherta_198.ogg/revision/latest?cb=20250226021256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "0126...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_10_mingtuA_103.ogg/revision/latest?cb=20250226021000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "Wait a minute. This door... isn't locked?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_10_mingtuB_103.ogg/revision/latest?cb=20250226021006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Door...? Locked...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_10_theherta_199.ogg/revision/latest?cb=20250226021257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No, this isn't the Voice of the Path at all...! What in the world is going on?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_10_theherta_200.ogg/revision/latest?cb=20250226021258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_176.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Approach the Third Mirror to advance the audience's progress"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Third Mirror",
+        "line": "Hyuk hyuk hyuk... Madam Herta, those lads outside... seem to be discussing something interesting...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_10_mirrorD_101.ogg/revision/latest?cb=20250226021119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Third_Mirror_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Third Mirror",
+        "line": "Wanna listen in on them? Hyuk hyuk hyuk...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_10_mirrorD_102.ogg/revision/latest?cb=20250226021120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Third_Mirror_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Third Mirror! Stop that nightmarish cackle. It's giving me goosebumps.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_10_theherta_201.ogg/revision/latest?cb=20250226021259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Wait, did you say \"those lads outside\"? Could it be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_10_theherta_202.ogg/revision/latest?cb=20250226021300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Third Mirror",
+        "line": "Eheheh... Why don't you listen for yourself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_10_mirrorD_103.ogg/revision/latest?cb=20250226021120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Third_Mirror_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "She fainted?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_10_mingtuA_104.ogg/revision/latest?cb=20250226021001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "Mm-hmm, looks like it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_10_mingtuB_104.ogg/revision/latest?cb=20250226021007",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_10_theherta_203.ogg/revision/latest?cb=20250226021301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_184.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...This isn't right. I'm sure we've got intruders in the lab!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_10_theherta_204.ogg/revision/latest?cb=20250226021301",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "Should we rouse her, Mr. Yang ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_10_mingtuB_105.ogg/revision/latest?cb=20250226021008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "...Let's do it. I'm not sure she'll be happy about it, but we have no time to waste.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_10_mingtuA_105.ogg/revision/latest?cb=20250226021002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...Wait! S—Stop whatever you're about to do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_10_theherta_205.ogg/revision/latest?cb=20250226021302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No, don't even think about it! Whoever you are, you'd better not interrupt me right now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_10_theherta_206.ogg/revision/latest?cb=20250226021303",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I must continue forward... Just a few more steps and I'll be able to see Droidhead!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_10_theherta_207.ogg/revision/latest?cb=20250226021304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_190.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Approach the Fourth Mirror to advance the audience's progress"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_10_theherta_208.ogg/revision/latest?cb=20250226021305",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Is something wrong, Madam Herta?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_10_mirrorA_162.ogg/revision/latest?cb=20250226021109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No, it's nothing. I was just thinking...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_10_theherta_209.ogg/revision/latest?cb=20250226021306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Um, Madam Herta... I think you'll want to listen to the voices from beyond this space...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_10_mirrorA_163.ogg/revision/latest?cb=20250226021110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "I'll leave it to you then, Mr. Sunday .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter4_10_mingtuA_106.ogg/revision/latest?cb=20250226021003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "My pleasure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter4_10_mingtuB_106.ogg/revision/latest?cb=20250226021009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Wait... What are they up to?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_10_theherta_210.ogg/revision/latest?cb=20250226021307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "Please pardon me, Madam Herta—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter4_10_mingtuB_107.ogg/revision/latest?cb=20250226021010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Is this... the Harmony ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_10_theherta_211.ogg/revision/latest?cb=20250226021308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Ridiculous! Hoping to stop me with such cheap parlor tricks? Not a chance!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_10_theherta_212.ogg/revision/latest?cb=20250226021309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 2",
+        "line": "She easily dispelled the Resonance with her subconscious mind... as expected of an Emanator.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_10_mingtuB_108.ogg/revision/latest?cb=20250226021011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_2_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of Path 1",
+        "line": "Is there something else we can try?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_10_mingtuA_107.ogg/revision/latest?cb=20250226021004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_Path_1_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Bahaha! Presumptuous fellows. Who are you to interrupt Madam Herta's experiment?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_10_mirrorA_164.ogg/revision/latest?cb=20250226021111",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Let's ignore them and keep going. We haven't seen Nous yet!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_10_mirrorA_165.ogg/revision/latest?cb=20250226021112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_10_theherta_213.ogg/revision/latest?cb=20250226021310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...Forget it, mirror. Let's just leave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_10_theherta_214.ogg/revision/latest?cb=20250226021310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "Leave? S—Surely you're not suggesting... we stop the Audience Experiment right now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_10_mirrorA_166.ogg/revision/latest?cb=20250226021112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "That's beyond all reason, ma'am! We went through so much just to get here! Now we're just one step away from making contact with the Aeon THEMSELF... Please, you know how insanely costly it is to reboot the Audience System!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_10_mirrorA_167.ogg/revision/latest?cb=20250226021113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "But if I were to ignore those two intruders and continue onward... When Droidhead casts THEIR gaze upon the space station, the blast of energy generated in that instant is sure to burn them to a crisp.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_10_theherta_215.ogg/revision/latest?cb=20250226021311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Experiments can always be repeated, but humans cannot be brought back to life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter4_10_theherta_216.ogg/revision/latest?cb=20250226021312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_10_mirrorA_168.ogg/revision/latest?cb=20250226021114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fourth Mirror",
+        "line": "*sob* Oh Madam Herta, so selfless and kind! I'm a truly lucky mirror to have found the best possible master...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_10_mirrorA_169.ogg/revision/latest?cb=20250226021115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fourth_Mirror_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Enough. Don't use that nauseatingly fawning tone on me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter4_10_theherta_217.ogg/revision/latest?cb=20250226021313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_213.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...Looks like I'll have to abort this prematurely again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_10_theherta_218.ogg/revision/latest?cb=20250226021314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_214.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "But mark my words, Droidhead: I will be back for you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_10_theherta_219.ogg/revision/latest?cb=20250226021315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Madam Herta? You're finally awake.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_10_welt_101.ogg/revision/latest?cb=20250226021329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...You two...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_10_theherta_220.ogg/revision/latest?cb=20250226021316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_10_theherta_221.ogg/revision/latest?cb=20250226021317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "My plan is ruined! And it's all thanks to you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter4_10_theherta_222.ogg/revision/latest?cb=20250226021318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...Your plan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_10_sunday_101.ogg/revision/latest?cb=20250226021127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "My sincerest apologies, Madam Herta... We weren't aware this was a part of your plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_10_welt_102.ogg/revision/latest?cb=20250226021330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_221.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The space station was in complete darkness when we arrived, so Sunday and I assumed something bad had happened. We continued further into the space station, hoping to find the cause of the blackout... and that's when we chanced upon your... actual self.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_10_welt_103.ogg/revision/latest?cb=20250226021331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "How did you get in?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_10_theherta_223.ogg/revision/latest?cb=20250226021319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "The door wasn't locked.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter4_10_sunday_102.ogg/revision/latest?cb=20250226021128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter4_10_theherta_224.ogg/revision/latest?cb=20250226021319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Alright, fine... I am a person of reason, after all. You're not to blame for this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_10_theherta_225.ogg/revision/latest?cb=20250226021320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I am familiar with Mr. Yang of the Astral Express , but the one next to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_10_theherta_226.ogg/revision/latest?cb=20250226021321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_227.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Looks like Madam Herta doesn't pay much attention to cosmic news.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_10_welt_104.ogg/revision/latest?cb=20250226021332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Please pardon my manners. It is unbecoming of me to forget the most basic of courtesies amid all that has happened... My name's Sunday, and I'm just a passenger of the Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_10_sunday_103.ogg/revision/latest?cb=20250226021129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_229.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "And this unremarkable passenger... happens to be a Harmony Pathstrider? Hmph, do you take me for a child?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_10_theherta_227.ogg/revision/latest?cb=20250226021322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "In any case, I don't suppose you came all the way here just to check on how the space station is doing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_10_theherta_228.ogg/revision/latest?cb=20250226021323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_231.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Well, we were worried for a moment there... but it's good to know the space station isn't in any kind of trouble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_10_welt_105.ogg/revision/latest?cb=20250226021333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We're here because of Amphoreus , Madam Herta.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter4_10_welt_106.ogg/revision/latest?cb=20250226021334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hm. Why does that not surprise me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_10_theherta_229.ogg/revision/latest?cb=20250226021324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Oh? Something occured to you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_10_welt_107.ogg/revision/latest?cb=20250226021335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "No, I've told Himeko everything I know. Nothing about the world sounds right. Droidhead has cast THEIR gaze upon numerous worlds in the past... and every one of them is etched in my mind. So how could I possibly not know about it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter4_10_theherta_230.ogg/revision/latest?cb=20250226021325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Perhaps those Garden folks lied to you. Anyhow, I've looked up the name Amphoreus in the Simulated Universe. Though clearly irrelevant results have already been filtered out...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_10_theherta_231.ogg/revision/latest?cb=20250226021326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "There's still an unbelievably long list of generated results. Something about how the Divine Amphoreus team will swap out their current crest emblem for one in King Baviru's likeness in the next season. I hope that can be of some help to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_10_theherta_232.ogg/revision/latest?cb=20250226021326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...We may as well take a look at it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_10_welt_108.ogg/revision/latest?cb=20250226021336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I still don't get it, though. Didn't the Astral Express already depart some time ago? Is that world so incredibly spectacular that it warrants this return trip?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter4_10_theherta_233.ogg/revision/latest?cb=20250226021328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Well, that's because... we're caught between a rock and a hard place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_10_welt_109.ogg/revision/latest?cb=20250226021337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If Amphoreus is indeed inextricably entwined with Aeons, Paths, and even the Erudition, we're going to need the wisdom of a genius to help us. Especially now that we've seen the planet for ourselves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_10_welt_110.ogg/revision/latest?cb=20250226021338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_242.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Elaborate a little on this \"rock and a hard place\" you're caught between?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_10_theherta_234.ogg/revision/latest?cb=20250226021328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We've lost all contact with two indispensable companions since they entered Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_10_welt_111.ogg/revision/latest?cb=20250226021339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "And that's not all... One of our other companions is suffering from a serious and inexplicable affliction.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_10_welt_112.ogg/revision/latest?cb=20250226021340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Returning to theTrailblazer's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "When you have a chance to make a choice, make one that you know you won't regret."
+    }
+]

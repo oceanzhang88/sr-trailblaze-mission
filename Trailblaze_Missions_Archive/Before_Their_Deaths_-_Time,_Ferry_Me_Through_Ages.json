@@ -1,0 +1,330 @@
+[
+    {
+        "type": "heading",
+        "text": "Talk to Cyrene about the future plans"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You have seen the past of Amphoreus. Now, you shall shape its future. How will you stand against the weight of destiny? The companion beside you and the sages who walk with you will definitely clear the clouds of doubt."
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "Hello... ♪",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "( Trailblazer )'s surprised expression is just like what the memories recorded.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "You know me...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Rather than \"knowing\" you, it might be better described as... I \"remember\" you...?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "It's me, (Trailblazer). Don't you recognize me? Or did I really change that much?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "Are you Cyrene... or Mem ?"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You're still alive...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Is this... a new way to chat someone up?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Well, I guess you did see the end of countless Cyrenes, in a way of speaking. But I'm standing before you right here, right now, as alive as ever. Isn't that a good thing?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "It's me, (Trailblazer). Don't you recognize me? Or did I really change that much?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "Are you Cyrene... or Mem ?"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are you Cyrene... or Mem?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Maybe I'm both? Just kidding. If I had to choose... Then I'm probably closer to the latter.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "It's pretty unbelievable for me too. It's like I had a long, long dream. Cyrene's memories... and Mem's memories... they're all tangled together. But when I woke up... there were only broken fragments left.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "I can't remember what happened in those thirty million cycles, but I remember what you, (Trailblazer), did for this world.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "Like... Didn't you wish for me to turn into a pretty girl back at the Grove ?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Then is this my wish coming true?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Yep. Isn't it amazing? It's like a seed finally grew up and became a flower! And I'm definitely as cute as a flower now.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You remembered that? Please remember something good next time.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Hey. Everything about you is good, (Trailblazer). That's why I'll remember all of it.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Wait. I didn't pick that option.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Huh? You didn't? Teehee~ In that case, just treat it as my own wish then!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "There's so much I want to say, but unfortunately... this isn't the time to reminisce.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "With the memoreis of the previous Flame-Chase still intact, we've returned to this place at the beginning of time, so we can carry out our promise to Phainon .",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "The descent of Irontomb may be looming over the horizon... but we still have a chance to change everything.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "Aedes Elysiae is so quiet...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "In Cyrene's memories, she always sits by the lake, gently swaying on the swing, like she's waiting for someone.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Who's she waiting for?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "I don't know... It sounds weird, doesn't it? It's something that happened to me, but I'm talking as if I'm an observer.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It was the same for Phainon...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Yes. Phainon, too, embarked on his journey because of this view... He then walked alone for more than thirty million cycles.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Thankfully, you arrived during his long wait, (Trailblazer).",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Cyrene",
+                "line": "Is that also why \"Cyrene\" did what she did? It's something that happened to me, but I'm talking as if I'm an observer.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Can you remember anything else?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "But that's just what those memories are like... Vague and unclear, as if encased in thick ice. The only things I remember are the days I spent with you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "Amphoreus will fall into an ending of \"Destruction\" after the next \"Era Nova\"...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cyrene",
+        "line": "But those stories went out of fashion ages ago. In a proper romantic epic, the hero's supposed to foil the villain's plot, right?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Lygus is the primary culprit behind everything."
+    },
+    {
+        "type": "note",
+        "text": "We must stop Irontomb's descent."
+    },
+    {
+        "type": "note",
+        "text": "We need the help of more allies from beyond the sky."
+    },
+    {
+        "type": "heading",
+        "text": "Find a good spot to contact the geniuses"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Retrieve Chronocognitive Anchor"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Wait for Cyrene and take in the sights of Aedes Elysiae once more"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Return to the mysterious space and continue the adventure"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Every expedition begins with a storm that foretells the hardships to come. On the audience's seats in the Exomyth, the only audience member leads you into the story titled \"Before Their Deaths,\" and thus draws the curtain on a tragedy."
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Explore the mysterious space"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the display monitor at the end"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    },
+    {
+        "type": "heading",
+        "text": "Something's not right... Check the display monitor again"
+    },
+    {
+        "type": "note",
+        "text": "Transcription missing"
+    }
+]

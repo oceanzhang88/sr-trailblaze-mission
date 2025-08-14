@@ -1,0 +1,496 @@
+[
+    {
+        "type": "heading",
+        "text": "Give the supplies to Natasha"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You come to an agreement: GiveClarahalf of the painkillers to take back for the vagrants.Even though Natasha isn't the type of person to lose her mind over something like this, you still feel a little bad and troubled...How will Natasha react to this? Guess you'll have to ask her personally to find out."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Natasha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Nat! We're back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter1_5_seele_201.ogg/revision/latest?cb=20241204025335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Hehe, that's our Seele. Nothing if not punctual. So, did you find any usable supplies?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter1_5_natasha_201.ogg/revision/latest?cb=20241204025307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(SubmitBox of Rubbing Alcohol×1,Box of Special Painkillers×1,  andBox of Metal Plates and Bandages×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Let me see... metal plates, gauze bandages, painkillers, rubbing alcohol... Perfect, that's everything I needed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter1_5_natasha_202.ogg/revision/latest?cb=20241204025308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Huh... It's just, there are less painkillers than I'd expected. Did someone break into the storage room?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter1_5_natasha_203.ogg/revision/latest?cb=20241204025309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_3.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We shared some with Clara.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "...Clara?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter1_5_natasha_204.ogg/revision/latest?cb=20241204025309",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Monsters had destroyed some of them.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Hey, no need to lie, Nat wouldn't be upset about what we did.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter1_5_seele_202.ogg/revision/latest?cb=20241204025336",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_5.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Clara had already arrived at the storage room by the time we got there. We split the painkillers with her.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter1_5_seele_203.ogg/revision/latest?cb=20241204025337",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "...If she was there too then... I understand. She wants to look after the injured vagrants, right? Clara's always been a kind-hearted girl...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_5_natasha_205.ogg/revision/latest?cb=20241204025310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "I think you made the right decision. Still, it means I'm going to have to draw up a detailed dosage plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter1_5_natasha_206.ogg/revision/latest?cb=20241204025312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hey, don't worry. I'll help you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_5_seele_204.ogg/revision/latest?cb=20241204025338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "Um, no need. I'll handle the clinic. I assume you three have more important things to be getting on with, right? Oleg will be waiting, not to mention your two companions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter1_5_natasha_207.ogg/revision/latest?cb=20241204025313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_10.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'd nearly forgotten about those two.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Bronya",
+                "line": "So you guys aren't that close after all? I thought you were sworn friends.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_5_bronya_201.ogg/revision/latest?cb=20241204025254",
+                "is_unavailable": false,
+                "audio_filename": "audio_Bronya_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "▶ Haha, you're adorable, Bronya. (Trailblazer) was obviously joking~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter1_5_natasha_208_m.ogg/revision/latest?cb=20241204025315",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I forgot to say anything to them before I left...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Natasha",
+                "line": "I'm sure they won't mind, they seemed in good spirits.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter1_5_natasha_209.ogg/revision/latest?cb=20241204025316",
+                "is_unavailable": false,
+                "audio_filename": "audio_Natasha_13.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I bet old Oleg wants to talk about Svarog . We should get going — sorry Nat, we'll have to leave the wounded to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter1_5_seele_205.ogg/revision/latest?cb=20241204025339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Natasha",
+        "line": "No worries, I hope things go smoothly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter1_5_natasha_210.ogg/revision/latest?cb=20241204025317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Natasha_15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainNatasha)"
+    },
+    {
+        "type": "heading",
+        "text": "Meet up with companions and Oleg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Natasha tells you thatMarch 7thandDan Hengare with Oleg, the chief ofWildfire. Seems like your companions have been busy with work during your time away...At least they didn't leave you behind and go hide-and-seek or earn a little pocket money at the boxing gym this time...Anyways, head out and meet up with your companions and see how their work is going."
+    },
+    {
+        "type": "condition",
+        "text": "(After previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "*yawn*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter1_5_bronya_202.ogg/revision/latest?cb=20241204025255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Huh? Tired already?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_5_seele_206.ogg/revision/latest?cb=20241204025340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Aren't you? We didn't get any rest last night.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_5_bronya_203.ogg/revision/latest?cb=20241204025256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "You're gonna have to step it up, y'know. My record is six days no shut-eye.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_5_seele_207.ogg/revision/latest?cb=20241204025341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_19.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach March 7th, Dan Heng, and Oleg)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, they're finally back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_5_mar7th_201.ogg/revision/latest?cb=20241204025303",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_20.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Sorry for the unannounced disappearance.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ha, that's nothing — the unannounced disappearance record-holder is right here!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter1_5_mar7th_202.ogg/revision/latest?cb=20241204025304",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "And that's something to be proud of?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter1_5_danheng_201.ogg/revision/latest?cb=20241204025258",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't worry, I'm completely unscathed.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Uh, I wasn't worried about you. If you must know, I was wondering if Bronya was okay.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter1_5_mar7th_203.ogg/revision/latest?cb=20241204025305",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_23.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Oh please — you've barely sat still since they left.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter1_5_danheng_202.ogg/revision/latest?cb=20241204025259",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_24.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Hahaha, it's good to have everyone back together. Let me get straight to it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter1_5_oleg_201.ogg/revision/latest?cb=20241204025317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Regarding this \" Stellaron \" and your predicament in the Overworld , your friends have gone over both with me again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_5_oleg_202.ogg/revision/latest?cb=20241204025318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "The last time I saw Cocolia , she was an impressive young lady... I never thought that after becoming the guardian ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter1_5_oleg_203.ogg/revision/latest?cb=20241204025319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "All I can say is that I sympathize with your situation. Rest easy. Wildfire won't go behind your back on this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter1_5_oleg_204.ogg/revision/latest?cb=20241204025320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Your plan sounds a bit like the ravings of a drunken miner, but at least you're offering a road forwards. We Underworlders haven't had a road to anywhere for a long time now, and you can see how things have become. I'm willing to give you guys a shot.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_5_oleg_205.ogg/revision/latest?cb=20241204025321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Don't worry, Mr. Oleg, we'll make sure you don't regret it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_5_mar7th_204.ogg/revision/latest?cb=20241204025306",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Ravings of a drunken miner is a little harsh.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_5_danheng_203.ogg/revision/latest?cb=20241204025300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Maybe it is! But I think we need to set our sights on something a bit more realistic. You guys want to know the whereabouts of the Stellaron. Wildfire wants to remove the restrictions on the Underworld ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_5_oleg_206.ogg/revision/latest?cb=20241204025323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "In other words, Svarog is the target of both our efforts. If we can't deal with the boss, we can't deal with anything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter1_5_oleg_207.ogg/revision/latest?cb=20241204025323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_33.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're right. Let's go take him down!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Diplomacy before violence. We should try peaceful communication first.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter1_5_danheng_204.ogg/revision/latest?cb=20241204025301",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_34.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "Both your approaches have merit. We would always rather avoid losses and settle matters through peaceful means. But if the situation changes, we must be prepared for armed conflict at a moment's notice.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter1_5_oleg_208.ogg/revision/latest?cb=20241204025325",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_35.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We need to find a way to bring him over to our side.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Hmph, he wouldn't understand — you're forgetting he's a robot. It'd be faster to smash him to scrap metal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_5_seele_208.ogg/revision/latest?cb=20241204025342",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Oleg",
+                "line": "We should make preparations for both approaches. Of course, it's better to settle matters through peaceful means. But if the situation changes, we must be prepared for armed conflict at a moment's notice.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_5_oleg_209.ogg/revision/latest?cb=20241204025326",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oleg_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Wildfire has tried many times to make contact with Svarog — without success. He has no intention of engaging with us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter1_5_oleg_210.ogg/revision/latest?cb=20241204025327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "At our current strength, it would be incredibly dangerous to use force. Svarog's robots don't fear sacrifice, and I don't want to risk Underworld lives.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter1_5_oleg_211.ogg/revision/latest?cb=20241204025328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "But things have changed — your arrival constitutes an \"external variable\" for Svarog. I may not have the full picture, but perhaps you guys have an opportunity to sway him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_5_oleg_212.ogg/revision/latest?cb=20241204025329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "That would be best.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_5_danheng_205.ogg/revision/latest?cb=20241204025302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Hahahaha! Our scheme is coming along nicely! But I fear that Svarog just isn't the swaying type. *sigh* You'll understand when you get to his territory. Things never run smoothly down here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_5_oleg_213.ogg/revision/latest?cb=20241204025329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "What about you, Miss Silvermane? You're the only one here that isn't compelled to do or die with Svarog. I'd like to hear your plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_5_oleg_214.ogg/revision/latest?cb=20241204025331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "The Underworld is still a part of Belobog . If Svarog's existence constitutes a threat to the people here, I will of course stand with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_5_bronya_204.ogg/revision/latest?cb=20241204025257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Hahaha, excellent! An enlightened answer, young lady — and spoken like a true successor to the guardianship.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter1_5_oleg_215.ogg/revision/latest?cb=20241204025332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Seeing as we're all on the same side, there's no reason to delay. Let's go, I've arranged for a guide to take you to Svarog.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter1_5_oleg_216.ogg/revision/latest?cb=20241204025332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_46.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You're not coming?"
+    },
+    {
+        "type": "note",
+        "text": "What will Wildfire be doing?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Wildfire's relationship with Svarog has been hostile for a long time now, accompanying you would only lead to misunderstandings. We'll be nearby, awaiting orders. If things go south, we'll be there in no time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_5_oleg_217.ogg/revision/latest?cb=20241204025333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oleg",
+        "line": "Seele, perhaps you can take our outsider friends the rest of the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_5_oleg_218.ogg/revision/latest?cb=20241204025334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oleg_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Mm, I'm on it, boss.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_5_seele_209.ogg/revision/latest?cb=20241204025342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_49.ogg"
+    }
+]

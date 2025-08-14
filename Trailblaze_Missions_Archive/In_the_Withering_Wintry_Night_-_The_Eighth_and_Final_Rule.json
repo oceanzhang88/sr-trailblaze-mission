@@ -1,0 +1,599 @@
+[
+    {
+        "type": "heading",
+        "text": "Enter the Fight Club"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Hookbrings you andMarch 7thto the entrance of the boxing gym. As you hear the waves of raging cheers through the walls, you are reminded of what Hook said and a chill runs down your spine. What kind of darkness dwells in this shabby building in front of you? It seems the only way to find out is to personally conduct an investigation.You truly believe that it is possible to find Dan Heng here — after all, you've always thought of him as someone who's had a dark past... But make sure he doesn't know you think that."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Hook, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "There are so many people here — Hook's too short. I can't see anything...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter1_2_hook_227.ogg/revision/latest?cb=20241030180822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Wha—! When did you... D—Did you hear what Hook was saying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_2_hook_228.ogg/revision/latest?cb=20241030180823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Not a single word.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Good. Hook didn't say anything, and you didn't hear it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter1_2_hook_229.ogg/revision/latest?cb=20241030180824",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Not a single word about you saying you're too short.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Hook",
+                "line": "Hehe, good. Wait a second... You did too hear everything Hook was saying!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter1_2_hook_230.ogg/revision/latest?cb=20241030180825",
+                "is_unavailable": false,
+                "audio_filename": "audio_Hook_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "Hmph, grown-up fights are less fun than ours. So what if I can't see!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_2_hook_231.ogg/revision/latest?cb=20241030180825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Hook",
+        "line": "You have to use your fists, palms, and even your fingers in combat! If you don't know how, you're done for! You need to train until your body is an extension of the mind... and the mind is an extension of your will.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_2_hook_232.ogg/revision/latest?cb=20241030180826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Hook_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Fists, palms, and fingers... *gasp* Rock, paper, scissors! Phew! No wonder I was confused!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_2_mar7th_250.ogg/revision/latest?cb=20241030180827",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_6.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to nearby spectators, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Curious Spectator",
+        "line": "I heard a new fighter showed up at the club — young guy, dark hair. They say he's invincible! Where did he come from?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter1_2_spectatorC_201.ogg/revision/latest?cb=20241030180828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Curious_Spectator_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Inquiring Spectator",
+        "line": "I heard someone say he's an elite Silvermane Guard .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter1_2_spectatorD_201.ogg/revision/latest?cb=20241030180829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Inquiring_Spectator_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Curious Spectator",
+        "line": "Don't be ridiculous. The Silvermane Guards have been gone for ages. Why would one suddenly appear out of the blue?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter1_2_spectatorC_202.ogg/revision/latest?cb=20241030180830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Curious_Spectator_9.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Just as you expected, you find Dan Heng with the same cold and fierce expression in the octagon. Although you've accepted the fact that he's here, you still can't logically understand the reason for it. Anyways, help this companion known as the Cold Dragon Young get through the challenge presented first. The questioning can come afterward. However, being Dan Heng, he'll probably say something along the lines of \"I can take them on my own, you know.\"..."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon walking farther into the Fight Club)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "...Brothers and sisters! Are you ready for today's most spectacular, spine-tingling, earth-shattering contest!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_2_drdig_201.ogg/revision/latest?cb=20241030180831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "On one side — recommended by Tall, Blue, and Handsome — the unsmiling pulverizing power of the new kid on the block: Cold Dragon Young!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_2_drdig_202.ogg/revision/latest?cb=20241030180832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "And his opponent is... none other than the unfeeling, incendiary, explosive might of Team Robomatic! All praise to Boss Svarog !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_2_drdig_203.ogg/revision/latest?cb=20241030180833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "Given that no other fighter was willing to take on the strength of Team Robomatic, Cold Dragon Young will face off against these opponents alone! On learning his fate, the brave young fighter had one thing to say: \"Whatever!\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter1_2_drdig_204.ogg/revision/latest?cb=20241030180834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "And so, let the semifinals of the 1758th Fighting King Challenge... begin!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter1_2_drdig_205.ogg/revision/latest?cb=20241030180835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), quick! Let's help him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_2_mar7th_251_m.ogg/revision/latest?cb=20241030180836",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "▶ Oh-ho? Brothers and sisters, an unexpected turn of events... Two members of the audience have charged into the octagon! It looks like they want to team up with Cold Dragon Young!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter1_2_drdig_206_m.ogg/revision/latest?cb=20241030180837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...So you're awake?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_2_danheng_201.ogg/revision/latest?cb=20241030180839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Yeah! The first thing (Trailblazer) and I did was go look for you! And now that we've found you, we're trying to make sure you don't get your butt kicked! You're welcome~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter1_2_mar7th_253_m.ogg/revision/latest?cb=20241030180840",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "Brothers and sisters, you can feel their passion! The magnetic pull of this electric sport is undeniable! But let me reiterate: These competitions are for professionals only! Whatever you do kids, don't try this at home!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_2_drdig_207.ogg/revision/latest?cb=20241030180842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "And Cold Dragon Young is signaling that the contest will go ahead! He's just itching to get into it! And so are we! It's the iron fists of Cold Dragon Young — and friends — versus the iron skin of Team Robomatic!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_2_drdig_208.ogg/revision/latest?cb=20241030180843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I can take them on my own, you know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter1_2_danheng_202.ogg/revision/latest?cb=20241030180844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...*sigh* We need to work on your emotional intelligence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_2_mar7th_255.ogg/revision/latest?cb=20241030180845",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_22.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Hold the line!"
+    },
+    {
+        "type": "note",
+        "text": "Destroy them all!"
+    },
+    {
+        "type": "note",
+        "text": "I just want to go home!"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstAutomaton Spider×3(Lv. 15))"
+    },
+    {
+        "type": "condition",
+        "text": "(After battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Dig",
+        "line": "Oh! What a beautiful performance! Cold Dragon Young and his last-minute admirers emerge victoriouuuus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter1_2_drdig_209.ogg/revision/latest?cb=20241030180846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Dig_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Admirers... How come we don't get cool nicknames!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter1_2_mar7th_256.ogg/revision/latest?cb=20241030180847",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Cold Dragon Younger and Cold Dragon Youngest?"
+    },
+    {
+        "type": "note",
+        "text": "Cooler than Cold Dragon Young...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* Forget it. I think our taste in nicknames is different.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter1_2_mar7th_257.ogg/revision/latest?cb=20241030180847",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey! Look! It's Sampo!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_2_mar7th_258.ogg/revision/latest?cb=20241030180848",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We've got an explanation to demand."
+    },
+    {
+        "type": "note",
+        "text": "We've got another butt to kick."
+    },
+    {
+        "type": "choice",
+        "text": "We should thank him.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "???",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter1_2_mar7th_259.ogg/revision/latest?cb=20241030180849",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's get after him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter1_2_danheng_203.ogg/revision/latest?cb=20241030180850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_28.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Capture and interrogate Sampo"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After the fierce battle, you finally realize who the culprit for putting Dan Heng in this octagon is. Coincidentally, that person hasn't gotten very far just yet.An uneventful pursuit is underway. You swear that if you catch him this time, you will definitely end this opportunist smuggler right where he stands...... Okay, maybe that's a little exaggerated."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon exiting the Fight Club)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That guy can't have gotten too far! Let's search nearby.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_Ag1_mar7th_103.ogg/revision/latest?cb=20241030180851",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon reaching marked area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "H—Hey! It's you! I was just thinking to myself: \"Am I getting robbed? Who are these people following me?\" So, y'know, you start to walk a little faster, and... Anyhoo if I'd just turned around, I could've thrown open my arms and said a big \"hi\" to my old friends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_2_sampo_209.ogg/revision/latest?cb=20241030180852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Save it. You saw us in there and got scared, so you pulled a runner.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_2_mar7th_260.ogg/revision/latest?cb=20241030180853",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Me? Scared? Hahaha, my friends, what do I have to fear? *gasp* Surely I haven't done anything to offend you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter1_2_sampo_210.ogg/revision/latest?cb=20241030180854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_32.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You threw us to the Silvermane Guards.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Whoa, whoa, whoa, whoa, whoa rewind. If I hadn't made a break for it, Gepard would've caught all of us. And do you think he would've given you a chance to explain yourselves? Hmm? He would've checked you straight into the graybar hotel!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_2_sampo_211.ogg/revision/latest?cb=20241030180855",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_33.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Meanwhile, there I was, looking out for you from the shadows! Do you know how difficult it was to make an entrance? They were watching you the whole time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_2_sampo_212.ogg/revision/latest?cb=20241030180855",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You set Dan Heng up.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Set him up? Yeah, with a job! You guys are new here, and let me tell you — you're gonna need some cash.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_2_sampo_213.ogg/revision/latest?cb=20241030180856",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_35.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "And, Sampo Koski stops at nothing to help his friends. Saving you was just the beginning — I have to consider your finances too! With me you get the full service, folks. That's friendship.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter1_2_sampo_214.ogg/revision/latest?cb=20241030180857",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_36.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Nah, we're just messing with you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "...My fine fellow, please don't do that again. You scared the daylights outta me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_2_sampo_215.ogg/revision/latest?cb=20241030180858",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_37.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Wait a minute, we're not done here! You dragged us to the underground — so what's the big idea?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter1_2_mar7th_261.ogg/revision/latest?cb=20241030180859",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_38.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "I had no choice but to take you guys down here. It was too dangerous for us on the surface — we're wanted criminals!? Sure, the Underworld has its drawbacks, but at least the Guards would never follow us. We're safe here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter1_2_sampo_216.ogg/revision/latest?cb=20241030180900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Be that as it may, did you really have to poison us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter1_2_danheng_204.ogg/revision/latest?cb=20241030180901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Maybe you've forgotten, but we were in a tight spot my friend — there was no time to think. I had to use whatever I could.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_2_sampo_217.ogg/revision/latest?cb=20241030180902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Hmm.. So it wasn't to cover anything up? A secret that you didn't want anyone, including us, to find out?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter1_2_danheng_205.ogg/revision/latest?cb=20241030180903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_2_sampo_218.ogg/revision/latest?cb=20241030180904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Dan Heng, what secret?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter1_2_mar7th_262.ogg/revision/latest?cb=20241030180905",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I'm not certain yet... but there's more to our \"friend\" here than meets the eye.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter1_2_danheng_206.ogg/revision/latest?cb=20241030180906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You win! I'll help you to the best of my ability — free of charge I might add! But please, don't go spreading rumors about me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_2_sampo_219.ogg/revision/latest?cb=20241030180907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "*sigh* Alright! To prove my sincerity, I'll introduce you to Wildfire . If you're looking for something down here, they're the ones to ask!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_2_sampo_220.ogg/revision/latest?cb=20241030180907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_47.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why should we get to know Wildfire?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Because you are looking for something! Why are you asking? Dan Heng told me you guys were searching for a... what's the word... \" Stellaron \" — sounded pretty powerful. If anyone has a clue on its whereabouts, it'll be Wildfire.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_2_sampo_221.ogg/revision/latest?cb=20241030180908",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "You said I'd uncover a clue if I became the Fight Club champion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter1_2_danheng_207.ogg/revision/latest?cb=20241030180909",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_49.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Uhh... Uh, y—yeah! I mean, If you'd fought in the final round and won, you'd have incredible street cred right now! Wildfire wouldn't think twice about talking with you. I don't see the problem.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter1_2_sampo_222.ogg/revision/latest?cb=20241030180910",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why would Wildfire want to help us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Well, there's no such thing as a free lunch, of course. Wildfire has no reason to help you yet, so we'll just have to give them one! With your talents, we have nothing to worry about.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter1_2_sampo_223.ogg/revision/latest?cb=20241030180911",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_51.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "I'm telling you, no matter where you go, there's only one rule to getting things done: Find the demand. Y'know, like supply and demand? Anyway, The underground has been sealed off for more than a decade — but do you think people here are just resigned to their fate?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter1_2_sampo_224.ogg/revision/latest?cb=20241030180912",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_52.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What kind of organization is Wildfire?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Well if you want my opinion, they're a bunch of artless, stubborn fools. But who cares what I think, huh?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_2_sampo_225.ogg/revision/latest?cb=20241030180913",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_53.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "They're a band of do-gooders who sprung up to maintain order in the underground. After the Silvermane Guards withdrew, Wildfire set up shop.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter1_2_sampo_226.ogg/revision/latest?cb=20241030180914",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_54.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Still, don't underestimate them! \"We walk in the presence of giants\" — have you heard that saying before? Well, Wildfire has giants in its midst. You'll see.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter1_2_sampo_227.ogg/revision/latest?cb=20241030180915",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_55.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Lead the way... and don't try and pull anything this time."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Have a little faith! It's like I said: \"Sampo never lets friends who've helped him come to harm.\" Hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_2_sampo_228.ogg/revision/latest?cb=20241030180916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_56.ogg"
+    }
+]

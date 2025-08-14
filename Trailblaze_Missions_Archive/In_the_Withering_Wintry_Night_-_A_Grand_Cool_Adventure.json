@@ -1,0 +1,684 @@
+[
+    {
+        "type": "heading",
+        "text": "Find Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "TheExpressruns aground in the outer space of a white planet. According toHimeko, the effects of theStellaronare what's obstructing the Express's path forward.If you wish to continue the journey, you must clear out the obstruction caused by the Stellaron. Himeko wants you to talk to Dan Heng and hopes the three of you can team up to complete this trailblazing expedition onJarilo-VI."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toHimeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Thanks to a brilliant performance, you guys saved the space station from a moment of crisis. Now the Express is relying on you to get it moving again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter0_8_himeko_124.ogg/revision/latest?cb=20241030173836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Remember, there are four things we do when we arrive at a new world: Explore, understand, establish, and connect.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter0_8_himeko_125.ogg/revision/latest?cb=20241030173837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And I'm sure you'll get along really well with March and Dan Heng.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter0_8_himeko_126.ogg/revision/latest?cb=20241030173838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toWelt, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Ever since the Destruction sowed Stellarons across the universe, many worlds have changed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter0_8_welt_111.ogg/revision/latest?cb=20241030173839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Nanook the Destruction , Yaoshi the Abundance , Terminus the Finality ... I've seen and learned a lot in my time, but I still struggle to understand some of the Aeons ' actions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter0_8_welt_112.ogg/revision/latest?cb=20241030173840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_4.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toPom-Pom, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Each stop brings its own grand and exciting adventure!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter0_8_pompom_109.ogg/revision/latest?cb=20241030173841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_5.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Have you been on an adventure before, Pom-Pom?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "No...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter0_8_pompom_110.ogg/revision/latest?cb=20241030173842",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Have you been to Jarilo-VI before, Pom-Pom?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "No.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter0_8_pompom_111.ogg/revision/latest?cb=20241030173843",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Pom-Pom can't leave the train right now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter0_8_pompom_112.ogg/revision/latest?cb=20241030173844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Pom-Pom's so dejected all of a sudden...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter0_8_player_102_m.ogg/revision/latest?cb=20241030173844",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_9.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How's my Trailblaze Level?",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Check out Trailblaze Level rewards)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I'm heading out."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A planet covered in snow and ice... Will I find my answer here...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter0_8_mar7th_135.ogg/revision/latest?cb=20241030173846",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "WHOA! Don't sneak up on me like that!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter0_8_mar7th_136.ogg/revision/latest?cb=20241030173847",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Why are you still here? Go find Dan Heng! Exciting adventures are waiting for us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter0_8_mar7th_137.ogg/revision/latest?cb=20241030173848",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Are you doing okay after your first jump?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_8_danheng_101.ogg/revision/latest?cb=20241030173849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Dizziness or retching are normal reactions. You'll feel better once you get used to it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter0_8_danheng_102.ogg/revision/latest?cb=20241030173850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_14.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I feel fine.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "So you have high compatibility with the Express. That's good.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter0_8_danheng_103.ogg/revision/latest?cb=20241030173851",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why aren't you with everyone else?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I enjoy being alone, especially when I have important work to do.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter0_8_danheng_104.ogg/revision/latest?cb=20241030173852",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I went through the Express' database, and it seems the environment on Jarilo-VI has undergone drastic changes in the past few centuries. It was not a frozen planet to begin with...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_8_danheng_105.ogg/revision/latest?cb=20241030173853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Welt says it was caused by a Stellaron."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "He said so? Hmm... considering the spatial obstacles that the star rail has encountered, it's highly possible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter0_8_danheng_106.ogg/revision/latest?cb=20241030173854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I've conducted a preliminary survey and found that there's one area with a relatively normal temperature on the surface of the planet. By \"normal,\" I mean a temperature that just about allows for human survival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter0_8_danheng_107.ogg/revision/latest?cb=20241030173855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If I had to choose a site for initial investigation on this trailblazing expedition, that would be it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter0_8_danheng_108.ogg/revision/latest?cb=20241030173855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_20.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Himeko wants you, me, and March 7th to go together.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...As I expected. Before you came, whenever March wanted to go anywhere, Himeko would make Mr. Yang and me go with her.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter0_8_danheng_109.ogg/revision/latest?cb=20241030173856",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_21.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "And even after you arrived, I didn't suppose I'd be the one to be liberated of that duty.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter0_8_danheng_110.ogg/revision/latest?cb=20241030173857",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can't you and March 7th go?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "If I know Himeko, she's not gonna let you stay behind.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter0_8_danheng_111.ogg/revision/latest?cb=20241030173858",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_23.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "You're new, I'm sure she wants to get you started with some firsthand trailblazing.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter0_8_danheng_112.ogg/revision/latest?cb=20241030173859",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_24.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Don't worry. With March around, you are guaranteed an eventful expedition.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter0_8_danheng_113.ogg/revision/latest?cb=20241030173900",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I assume the trailblazing objective this time is to find the Stellaron on Jarilo-VI and dispel the effect it's exerting on the star rail... right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter0_8_danheng_114.ogg/revision/latest?cb=20241030173901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ I see. (Trailblazer), you should find March. I'll join you two once I'm ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter0_8_danheng_115_m.ogg/revision/latest?cb=20241030173902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_27.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk to March 7th and set off on a new journey"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The Express runs aground in the outer space of a white planet. According to Himeko, the effects of the Stellaron are what's obstructing the Express' path forward.If you wish to continue the journey, you must clear out the obstruction caused by the Stellaron.An expedition team of three youngsters has been put together and none of you can wait to set off on this trailblazing expedition... At least March 7th thinks so."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ I see. (Trailblazer), you should find March. I'll join you two once I'm ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter0_8_danheng_115_m.ogg/revision/latest?cb=20241030173902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Did you talk to Dan Heng? How'd it go?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter0_8_mar7th_138.ogg/revision/latest?cb=20241030173905",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Full of enthusiasm.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Really? I find that hard to believe...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter0_8_mar7th_139.ogg/revision/latest?cb=20241030173906",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "He doesn't seem very enthusiastic...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "*sigh* That's our Dan Heng — always trying to look cool with his poker face. Don't mind him~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter0_8_mar7th_140.ogg/revision/latest?cb=20241030173907",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_31.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Relax, (Trailblazer)! Dan Heng and I are experienced trailblazers! We got your back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter0_8_mar7th_141_m.ogg/revision/latest?cb=20241030173908",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well, are you ready?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_8_mar7th_142.ogg/revision/latest?cb=20241030173910",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_33.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You bet!",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Proceed to next dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I need a minute..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "When I first saw this planet, I thought: A world covered in ice... could it have something to do with my past? Now I can't stop thinking about it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter0_8_mar7th_143.ogg/revision/latest?cb=20241030173911",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Still, the ice that trapped me was Six-Phased Ice — a very rare substance. I don't think you can find it on your average planet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_8_mar7th_144.ogg/revision/latest?cb=20241030173912",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_35.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We won't know unless we have a look ourselves."
+    },
+    {
+        "type": "note",
+        "text": "This might actually be your homeworld."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "To be honest, I think I'd be kind of annoyed if I found out this was my homeworld. It looks freezing... Pretty girls aren't frost-resistant!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter0_8_mar7th_145.ogg/revision/latest?cb=20241030173913",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...What? Is there something on my face?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter0_8_danheng_116.ogg/revision/latest?cb=20241030173913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Nah~ I was just imagining all the fun we're gonna have here... hee-hee!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter0_8_mar7th_146.ogg/revision/latest?cb=20241030173914",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...I feel sorry for this world. First the Stellaron, and now you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter0_8_danheng_117.ogg/revision/latest?cb=20241030173915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_39.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's go."
+    },
+    {
+        "type": "note",
+        "text": "Let's go!"
+    },
+    {
+        "type": "note",
+        "text": "Let's... go..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Alright! Here comes, the Jarilo-VI Trailblaze Team!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter0_8_mar7th_147.ogg/revision/latest?cb=20241030173916",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After landing on the surface)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Jarilo-VI, we're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter1_0_danheng_201.ogg/revision/latest?cb=20241030173917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Brrr. It really is one big snowball.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter1_0_mar7th_201.ogg/revision/latest?cb=20241030173918",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_42.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It really is one big snowball.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, get your own metaphor!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter1_0_mar7th_202.ogg/revision/latest?cb=20241030173919",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It doesn't feel that cold.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Well the Trailblaze Path grants us faint power. It allows us to better adapt to harsh environments.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_0_danheng_202.ogg/revision/latest?cb=20241030173920",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* Snow as far as the eye can see. Which direction should we take?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter1_0_mar7th_203.ogg/revision/latest?cb=20241030173921",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Based on the coordinates, the target should be up ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_0_danheng_203.ogg/revision/latest?cb=20241030173922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Then what are we waiting for? Let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter1_0_mar7th_204.ogg/revision/latest?cb=20241030173923",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_47.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why didn't we land at the destination?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...Do you want to mention the time we smashed a hole through Taikiyan Stadium, or shall I?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_0_danheng_204.ogg/revision/latest?cb=20241030173924",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "*sigh* Please stop bringing that up. Let's just say that landings and crowds don't mix.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_0_mar7th_205.ogg/revision/latest?cb=20241030173925",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_49.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Unless you enjoy trailblazing through two weeks of community service.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter1_0_danheng_205.ogg/revision/latest?cb=20241030173926",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_50.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I said drop it!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_0_mar7th_206.ogg/revision/latest?cb=20241030173926",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I didn't know we'd be hiking...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Me neither, if only we had a snowmobile... We never get to bring anything cool from the Express.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter1_0_mar7th_207.ogg/revision/latest?cb=20241030173927",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Do you remember what you did to our last snowmobile?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_0_danheng_206.ogg/revision/latest?cb=20241030173928",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_53.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Anyway, moving on.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_0_mar7th_208.ogg/revision/latest?cb=20241030173929",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Remember, we should stay vigilant. We know very little about this world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter1_0_danheng_207.ogg/revision/latest?cb=20241030173930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Calm down. Between the three of us, nothing will stand in our way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter1_0_mar7th_209.ogg/revision/latest?cb=20241030173931",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ I mean c'mon, (Trailblazer), you've got a Stellaron in your body, I have my special Six-Phased Ice powers, and Dan Heng... Uhh, he's got that mysterious past thing going for him...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_0_mar7th_210_m.ogg/revision/latest?cb=20241030173932",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So, if people start creating trouble for us, they're gonna regret it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter1_0_mar7th_212.ogg/revision/latest?cb=20241030173934",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_58.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yeah, they're gonna regret it!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...So how long does \"copycatitis\" last?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter1_0_mar7th_213.ogg/revision/latest?cb=20241030173935",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let's just make sure that we're not the ones creating trouble...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Well, let's not get ahead of ourselves, hehe...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter1_0_mar7th_214.ogg/revision/latest?cb=20241030173936",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let's go. Braving the unknown... that's the real spirit of trailblazing!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter1_0_mar7th_215.ogg/revision/latest?cb=20241030173937",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_61.ogg"
+    }
+]

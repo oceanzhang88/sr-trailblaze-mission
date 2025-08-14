@@ -1,0 +1,1351 @@
+[
+    {
+        "type": "heading",
+        "text": "Ask about the location of the Bonajade Exchange"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Mostly harboring suspicion but with a sliver of hope, Firefly boards the Radiant Feldspar.She's here to find the rumored Bonajade Exchange, which is said to be a pawn shop that can grant anybody's wishes.In order to survive, theStellaron Hunterchooses to believe this legend — for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Sneaking in was easier than I thought. The Family's security is as lax as ever.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_29_firefly_101.ogg/revision/latest?cb=20240630225508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(So, this is the Radiant Feldspar... so luxurious.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_29_firefly_102.ogg/revision/latest?cb=20240630225511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(A pawnshop that grants wishes... is there really a place like that on this ship?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_29_firefly_103.ogg/revision/latest?cb=20240630225513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(I'll find out for myself if the rumors are true or not.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Vo_chapter3_29_firefly_104.ogg/revision/latest?cb=20240630225515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_3.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Skeptical Pepeshi and Naive Intellitron, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Skeptical Pepeshi",
+        "line": "A pawnshop that grants wishes...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Skeptical Pepeshi",
+        "line": "Nah, sounds too good to be true.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Naive Intellitron",
+        "line": "If they can really grant my wish...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Naive Intellitron",
+        "line": "I wonder what they'll ask for in return?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Upon arriving in the hall)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Is that... (Trailblazer)?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_29_firefly_105_m.ogg/revision/latest?cb=20240630225519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Huh, vanished in the blink of an eye. So, the Astral Express is here, too.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_29_firefly_106.ogg/revision/latest?cb=20240630225521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachRobin)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "...By the way, there's one more thing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_29_robin_108.ogg/revision/latest?cb=20240630230057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Mr. Alfalfa and I discussed it. I'll present a gift to the Astral Express on behalf of The Family as a token of gratitude for the Nameless ' contributions to Penacony .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_29_robin_109.ogg/revision/latest?cb=20240630230059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Please help me with the necessary arrangements.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_29_robin_110.ogg/revision/latest?cb=20240630230101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Attendant",
+        "line": "Right away, Miss Robin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_29_shizhe_101.ogg/revision/latest?cb=20240630225952",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Attendant_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Can I ask you something...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_29_firefly_107.ogg/revision/latest?cb=20240630225522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Attendant",
+        "line": "Oh, greetings, miss. Is there anything I can help you with?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_29_shizhe_102.ogg/revision/latest?cb=20240630225954",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Attendant_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Do you know how to get to the pawnshop?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_29_firefly_108.ogg/revision/latest?cb=20240630225524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Attendant",
+        "line": "Pawnshop... Ah, you must be talking about Lady Bonajade 's place, right? I heard she offers... special services there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_29_shizhe_103.ogg/revision/latest?cb=20240630225956",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Attendant_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "The Family's Attendant",
+        "line": "I've marked the pawnshop's location on your device. Please feel free to check it out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_29_shizhe_104.ogg/revision/latest?cb=20240630225958",
+        "is_unavailable": false,
+        "audio_filename": "audio_The_Familys_Attendant_14.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Chat with Lady Bonajade about your discoveries"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly listened to Lady Bonajade's suggestion and saw for herself the wishes of the pawn shoppers coming true.But she still could not understand the nature of \"pawning,\" nor could she fathom the true cost of what people are willing to pay to realize their wishes.She has to return to Lady Bonajade and hope that she can explain the meaning behind everything."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Lady Bonajade? I think I've heard that name somewhere before... Was it from Silver Wolf ?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_29_firefly_109.ogg/revision/latest?cb=20240630225526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Come to think of it, she disappeared after mentioning that she was going to meet with the Genius Society . I wonder how things turned out for her.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_29_firefly_110.ogg/revision/latest?cb=20240630225528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_16.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Find the Trailblazer on the Radiant Feldspar"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon going to the upper floor, near the machine on the left side of the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ If I win...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_29_player_101_m.ogg/revision/latest?cb=20240630225926",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Your chest is mine!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_29_player_102_m.ogg/revision/latest?cb=20240630225929",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Intellitron",
+        "line": "...Who said I was betting with you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_29_guestK_101.ogg/revision/latest?cb=20240630225646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Intellitron_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ I did!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_29_player_103_m.ogg/revision/latest?cb=20240630225933",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(They are still a ball of fire as ever.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_29_firefly_111.ogg/revision/latest?cb=20240630225531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Sorry, (Trailblazer), but I've got to find Lady Bonajade first.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_29_firefly_114_m.ogg/revision/latest?cb=20240630225544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementGoing my Way)"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Trailblazer again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(No, it's not the best time to do that...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_29_firefly_113.ogg/revision/latest?cb=20240630225539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Sorry, (Trailblazer), but I've got to find Lady Bonajade first.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_29_firefly_112_m.ogg/revision/latest?cb=20240630225537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_24.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk with Lady Bonajade"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Mostly harboring suspicion but with a sliver of hope, Firefly boards the Radiant Feldspar.She's here to find the rumored Bonajade Exchange, which is said to be a pawn shop that can grant anybody's wishes.TheStellaron Hunterlearns the location of the Bonajade Exchange, and gets ready to talk with the madame who owns it."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Envious Lady and Frivolous Intellitron, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Envious Lady",
+        "line": "Have you been to the pawnshop?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frivolous Intellitron",
+        "line": "Yeah, sure.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Envious Lady",
+        "line": "What did you pawn?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frivolous Intellitron",
+        "line": "Nothing, actually.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Envious Lady",
+        "line": "Then why did you go there?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Frivolous Intellitron",
+        "line": "Just to meet Lady Bonajade in person.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Envious Lady",
+        "line": "...Come on, you're all the same!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Lady Bonajade)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Welcome to Bonajade Exchange, Radiant Feldspar Branch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_29_jade_157.ogg/revision/latest?cb=20240630225757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "How should I address you, dear lady?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/Vo_chapter3_29_jade_158.ogg/revision/latest?cb=20240630225759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Just call me Samuel.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_29_firefly_117.ogg/revision/latest?cb=20240630225551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Samuel, nice name. So, what do you need, Miss Samuel? And what are you willing to give up in return?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/Vo_chapter3_29_jade_159.ogg/revision/latest?cb=20240630225801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I want to keep on living. And for that, I'm willing to give up everything I have.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_29_firefly_119.ogg/revision/latest?cb=20240630225553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Everything you have?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_29_jade_160.ogg/revision/latest?cb=20240630225803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That's right, everything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_29_firefly_120.ogg/revision/latest?cb=20240630225556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Miss Samuel, I think you'd best turn around. It seems you're not quite familiar with the term \"pawn.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Vo_chapter3_29_jade_161.ogg/revision/latest?cb=20240630225805",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What do you mean?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_29_firefly_121.ogg/revision/latest?cb=20240630225558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "I mean it literally. I sense your burning desire to live, but unfortunately, you don't have anything of equal value to offer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_29_jade_162.ogg/revision/latest?cb=20240630225807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Heh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_29_firefly_122.ogg/revision/latest?cb=20240630225559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Okay, \"A pawnshop that grants wishes\"... I see. It's just a marketing gimmick.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_29_firefly_123.ogg/revision/latest?cb=20240630225601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "That's quite a harsh accusation. I understand you may not fully comprehend what I mean, but don't worry, I'll help you understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_29_jade_163.ogg/revision/latest?cb=20240630225809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Go and talk to these people. They're all customers of my pawnshop. See for yourself if their wishes have come true.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/Vo_chapter3_29_jade_164.ogg/revision/latest?cb=20240630225811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Once you've done that, come back to me. I'll help you understand the true meaning of \"pawn\" and make you realize what you're missing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/Vo_chapter3_29_jade_165.ogg/revision/latest?cb=20240630225813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_39.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Check the latest status of Lady Bonajade's customers"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Mostly harboring suspicion but with a sliver of hope, Firefly boards the Radiant Feldspar.She's here to find the rumored Bonajade Exchange, which is said to be a pawn shop that can grant anybody's wishes.The owner of the pawn shop, Lady Bonajade, believes Firefly to know nothing of the cost for wishes to come true. She hopes Firefly can learn with her own eyes and ears what the act of \"pawning\" truly means."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(That Lady Bonajade feels more like a... moneylender rather than the owner of a pawnshop.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_29_firefly_124.ogg/revision/latest?cb=20240630225603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Well, I've got nothing better to do anyway. I'll do as she says and see what happens.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_29_firefly_125.ogg/revision/latest?cb=20240630225605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_41.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Unlock AchievementOn the Roadif the player hasn't met the Trailblazer from before)"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Trailblazer andDan Hengon the right, immediately after exiting Jade's room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Which one should I pop?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_29_player_104_m.ogg/revision/latest?cb=20240630225936",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ One, two, three, four, five...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_29_player_105_m.ogg/revision/latest?cb=20240630225940",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Dan Heng and Voidranger jive...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/Vo_chapter3_29_player_106_m.ogg/revision/latest?cb=20240630225943",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Don't change the words.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_29_danheng_101.ogg/revision/latest?cb=20240630225504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(No, it's not the best time to do that...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_29_firefly_115.ogg/revision/latest?cb=20240630225546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Sorry, (Trailblazer). I'll catch up with you later.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_29_firefly_116_m.ogg/revision/latest?cb=20240630225549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Stacy's conversation)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gambler",
+        "line": "Hahaha! You stupid little girl! Coming back to lose more money, huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_29_guestO_101.ogg/revision/latest?cb=20240630225717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gambler_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Stacy",
+        "line": "Enough talk. Let's get started.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_29_guestP_101.ogg/revision/latest?cb=20240630225722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Stacy_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Stacy",
+        "line": "This will be our final game... I'm betting my entire fortune!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_29_guestP_102.ogg/revision/latest?cb=20240630225724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Stacy_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gambler",
+        "line": "Oh? A big talker, huh? Alright, let's see what you've got!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_29_guestO_102.ogg/revision/latest?cb=20240630225719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gambler_51.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the Origami Bird Clash mode)"
+    },
+    {
+        "type": "note",
+        "text": "Origami Bird Clash is a Match Three battling game where you have to match and clear fruits within a certain number of moves and increase the Origami Bird's Combat Power . Origami Bird Clash is a Match Three battling game where you have to match and clear fruits within a certain number of moves and increase the Origami Bird's Combat Power . At then end of the turn, the system will calculate damage based on the Combat Power difference . If the opponent's HP is reduced to 0 , you win. At then end of the turn, the system will calculate damage based on the Combat Power difference . If the opponent's HP is reduced to 0 , you win."
+    },
+    {
+        "type": "condition",
+        "text": "(After Origami Bird Clash is concluded)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Stacy",
+        "line": "I... I won? I actually... won?!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/Vo_chapter3_29_guestP_103.ogg/revision/latest?cb=20240630225726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Stacy_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gambler",
+        "line": "T-this... this can't be! You lost to me ten times in a row... How could I possibly lose to you at such a crucial moment?!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/Vo_chapter3_29_guestO_103.ogg/revision/latest?cb=20240630225721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gambler_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Stacy",
+        "line": "It's true... Lady Bonajade has truly blessed me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/Vo_chapter3_29_guestP_104.ogg/revision/latest?cb=20240630225728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Stacy_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Stacy",
+        "line": "Ha... Ha... Hahaha!! Finally, my luck has turned for the better! A great new era for Stacy the Master Gambler has arrived!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/Vo_chapter3_29_guestP_105.ogg/revision/latest?cb=20240630225730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Stacy_55.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Dell and Dorothy's conversation)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "I've prepared a gift for you, Dorothy. Check this out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_29_guestM_101.ogg/revision/latest?cb=20240630225654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "Whoa... what a beautiful necklace! Is it made of cymophane? It's stunning...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Vo_chapter3_29_guestN_101.ogg/revision/latest?cb=20240630225706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "How did you know I love jewelry made of cymophane? It has the same purple hue as the necklace my dad gave my mom... I've never told anyone about it. How did you find out, Dell?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_29_guestN_102.ogg/revision/latest?cb=20240630225708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "So... so...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_29_guestM_102.ogg/revision/latest?cb=20240630225656",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "Will... will you go out with me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_29_guestM_103.ogg/revision/latest?cb=20240630225658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_29_guestN_103.ogg/revision/latest?cb=20240630225709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "I... I will!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/Vo_chapter3_29_guestN_104.ogg/revision/latest?cb=20240630225711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "R-really?! I mean... really?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_29_guestM_104.ogg/revision/latest?cb=20240630225700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "I never said \"yes\" before because I thought you had no idea what I liked. But this gift made me realize you were actually paying attention all along, trying to learn everything about me... So, yes, I will.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_29_guestN_105.ogg/revision/latest?cb=20240630225713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "W-wonderful! My... my wish has actually come true!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_29_guestM_105.ogg/revision/latest?cb=20240630225702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dell",
+        "line": "So, shall we go, Dorothy? Let's go outside and enjoy the stunning views of the Twelve Hours!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/Vo_chapter3_29_guestM_106.ogg/revision/latest?cb=20240630225704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dell_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dorothy",
+        "line": "Yeah, let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_29_guestN_106.ogg/revision/latest?cb=20240630225715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dorothy_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Walker)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Curious Woman",
+        "line": "Hey, did you see that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_29_guestR_101.ogg/revision/latest?cb=20240630225745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Curious_Woman_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Curious Woman",
+        "line": "The gray-haired one outside...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_29_guestR_102.ogg/revision/latest?cb=20240630225747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Curious_Woman_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careful Pepeshi",
+        "line": "Don't look around! Just focus on your drink!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/Vo_chapter3_29_guestS_101.ogg/revision/latest?cb=20240630225749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careful_Pepeshi_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Careful Pepeshi",
+        "line": "Seriously, they look like a total lunatic...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Vo_chapter3_29_guestS_102.ogg/revision/latest?cb=20240630225750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Careful_Pepeshi_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Is that... (Trailblazer)?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/Vo_chapter3_29_firefly_105_m.ogg/revision/latest?cb=20240630225519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_72.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Trailblazer on the bow of the ship, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Chirp, chirp...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_29_player_107_m.ogg/revision/latest?cb=20240630225947",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ Origami bird... Hey, little birdie...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Vo_chapter3_29_player_108_m.ogg/revision/latest?cb=20240630225950",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Come on...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_29_mar7th_101.ogg/revision/latest?cb=20240630225920",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Come on down already. Everyone's staring at you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_29_mar7th_102.ogg/revision/latest?cb=20240630225922",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(No, it's not the best time to do that...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(Sorry, (Trailblazer). I'll catch up with you later.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Trailblazer again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(No, it's not the best time to do that...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_29_firefly_115.ogg/revision/latest?cb=20240630225546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Sorry, (Trailblazer). I'll catch up with you later.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_29_firefly_116_m.ogg/revision/latest?cb=20240630225549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_78.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Walker)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "Yeah... you heard right. I've got him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/Vo_chapter3_29_guestQ_101.ogg/revision/latest?cb=20240630225732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "He's been hiding at the Moment of Sol in Penacony, using a fake identity. And he even posed as a professor at Paperfold academy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_29_guestQ_102.ogg/revision/latest?cb=20240630225734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "I've made a deal with The Family. I'll leave the extradition-related paperwork to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Vo_chapter3_29_guestQ_103.ogg/revision/latest?cb=20240630225736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "...How did I find him? Well... let's just say I had some help from an influential figure. Don't ask for all the details.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/Vo_chapter3_29_guestQ_104.ogg/revision/latest?cb=20240630225737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "Twenty-two years... Twenty-two years of chasing this guy all over the Cosmos. Y'know, never thought it'd end up like this, right here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/Vo_chapter3_29_guestQ_105.ogg/revision/latest?cb=20240630225740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "I'm gonna hang up for now, partner... I need to raise a glass to myself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/Vo_chapter3_29_guestQ_106.ogg/revision/latest?cb=20240630225741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_84.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Walker hangs up the phone, and a drop of fuel seeped out from his deep, metal-constructed eye sockets... those were the tears of an Intellitron"
+    },
+    {
+        "type": "heading",
+        "text": "Chat with Lady Bonajade about your discoveries"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly listened to Lady Bonajade's suggestion and saw for herself the wishes of the pawn shoppers coming true.But she still could not understand the nature of \"pawning,\" nor could she fathom the true cost of what people are willing to pay to realize their wishes.She has to return to Lady Bonajade and hope that she can explain the meaning behind everything."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(All of their wishes actually did come true...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_29_firefly_126.ogg/revision/latest?cb=20240630225607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "(But I just don't understand. How did she do it? And what does \"pawn\" really mean? I should go back and ask...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_29_firefly_127.ogg/revision/latest?cb=20240630225609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_86.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Walker again, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Walker hangs up the phone, and a drop of fuel seeped out from his deep, metal-constructed eye sockets... those were the tears of an Intellitron"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Jade)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "So, you're back, Miss Samuel.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Vo_chapter3_29_jade_166.ogg/revision/latest?cb=20240630225814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Yeah, I found those people, and it seems their wishes did come true after visiting the Bonajade Exchange.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_29_firefly_128.ogg/revision/latest?cb=20240630225611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But I'm not sure what you want me to see. They all seem to be living... fulfilled lives.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/Vo_chapter3_29_firefly_129.ogg/revision/latest?cb=20240630225613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Not so fast. This step was just to show you that the Bonajade Exchange is genuine, that I had the power to grant their wishes. And now, I'll tell you the price they paid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/Vo_chapter3_29_jade_167.ogg/revision/latest?cb=20240630225816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Dell was from a wealthy family. He was head over heels for Dorothy and wanted to win her heart, so he made a deal with me. He put up his entire fortune in exchange for a gift that would impress Dorothy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/Vo_chapter3_29_jade_168.ogg/revision/latest?cb=20240630225819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "It was a piece of cake for me, thanks to my IPC connections. However, Dell will soon find himself evicted from the Dreamscape because he can't afford his room. Whether he can bounce back from poverty... well, that depends on him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Vo_chapter3_29_jade_169.ogg/revision/latest?cb=20240630225821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Let's just hope that necklace will keep their relationship from crumbling.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_29_jade_170.ogg/revision/latest?cb=20240630225822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Then there's Stacy, a lady with a gambling addiction. She wanted some serious luck, but she had nothing to offer, so I took something else instead. I took away all her close relationships.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_29_jade_171.ogg/revision/latest?cb=20240630225825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "From the moment she stepped out of the Bonajade Exchange, every casino in the cosmos would remember her name, but her parents and siblings would sever ties with her, and it would be impossible for Stacy to make any real friends again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/Vo_chapter3_29_jade_172.ogg/revision/latest?cb=20240630225826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "She will accrue a vast wealth due to her \"good luck,\" but she'll never be able to use it for the people who truly matter to her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_29_jade_173.ogg/revision/latest?cb=20240630225828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "As for Detective Walker, he spent two decades chasing down a wanted criminal for some heinous crime, but he never caught the guy. In his desperation, he came to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_29_jade_174.ogg/revision/latest?cb=20240630225830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "He offered his own memory system as collateral. In due time, his memories as a detective will be erased, and he will completely forget his own identity and all the sacrifices he has made.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Vo_chapter3_29_jade_175.ogg/revision/latest?cb=20240630225832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Interesting, don't you think? I fulfill people's desires and grant them favors, and soon, they come back to me with even greater desires.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_29_jade_176.ogg/revision/latest?cb=20240630225834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "When people see others' desires get fulfilled, they develop their own desires. It seems like an endless cycle but it does have a goal. In the end, I will get what I desire from this whirlpool.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_29_jade_177.ogg/revision/latest?cb=20240630225836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "And patience happens to be one of my greatest strengths. So now, do you understand what you must give up, Miss Samuel? Or should I address you as...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/Vo_chapter3_29_jade_178.ogg/revision/latest?cb=20240630225838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "AR-26710, a remnant of Glamoth 's Iron Cavalry ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_29_jade_179.ogg/revision/latest?cb=20240630225840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...I'm not surprised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_29_firefly_130.ogg/revision/latest?cb=20240630225615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "You are much calmer than I expected. Entropy Loss Syndrome ... truly an unjust misfortune, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_29_jade_180.ogg/revision/latest?cb=20240630225842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "The higher-ups in Glamoth implemented such a \"fail-safe\" within the genes of their warriors, just to make sure the Republic's most powerful weapons wouldn't fall into the wrong hands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_29_jade_181.ogg/revision/latest?cb=20240630225844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "As for the price... Those Iron Cavalries weren't exactly seen as regular, independent \"humans,\" so there wasn't really a price to be paid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_29_jade_182.ogg/revision/latest?cb=20240630225846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "However, you are different. You're now a Stellaron Hunter, a living being named Firefly. Naturally, you want to continue your existence, but with the Firmament Front gone, the people who know the secret and can cure the disease are nowhere to be found.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_29_jade_183.ogg/revision/latest?cb=20240630225848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Are you suggesting that the IPC has a remedy?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_29_firefly_131.ogg/revision/latest?cb=20240630225617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Well, there might be a silver lining. That's all I can say for now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_29_jade_184.ogg/revision/latest?cb=20240630225850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I see. It's no wonder you said I can't provide anything of equal value, because nothing I own holds any meaning...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/Vo_chapter3_29_firefly_132.ogg/revision/latest?cb=20240630225619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So, you're going to ask me to personally restrain my partners to ensure my own survival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Vo_chapter3_29_firefly_133.ogg/revision/latest?cb=20240630225620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Unfortunately, that's not quite the case.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_29_jade_185.ogg/revision/latest?cb=20240630225851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Partners... a nice way to put it. Now, I'm even more curious about the Stellaron Hunters. Each of you has your own identity and a special bond with each other. It's strong and intimate, and yet it allows for independence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Vo_chapter3_29_jade_186.ogg/revision/latest?cb=20240630225854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Just as the Ten Stonehearts follow Diamond , you follow your own leader. I wonder what they are like, and if all Stellaron Hunters are like you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_29_jade_187.ogg/revision/latest?cb=20240630225855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Traveling on the Path of Finality but struggling against your destiny, attempting to move in the opposite direction?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_29_jade_188.ogg/revision/latest?cb=20240630225857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "I really hope that one day, all of you will come and visit my pawnshop. I'll be waiting patiently for that day.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/Vo_chapter3_29_jade_189.ogg/revision/latest?cb=20240630225859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Can I see this as an invitation from Diamond to the Stellaron Hunters while keeping the IPC in the dark?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/Vo_chapter3_29_firefly_135.ogg/revision/latest?cb=20240630225623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Consider it more of a personal offer from myself. It doesn't represent the IPC or the Strategic Investment Department .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Vo_chapter3_29_jade_190.ogg/revision/latest?cb=20240630225902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The Stellaron Hunters have interacted with the IPC, but not the Ten Stonehearts... Our paths have never crossed. As for your offer, I can pass it along to my partners, but I have a question...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/Vo_chapter3_29_firefly_136.ogg/revision/latest?cb=20240630225625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You know who I am, and you must know that my partner is keeping an eye on this room. If she wanted to, she could let the entirety of Pier Point know about it within a few mere seconds.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_29_firefly_137.ogg/revision/latest?cb=20240630225627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What drives you to take such a risk and extend this invitation on behalf of Diamond, even if it could lead to your downfall?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_29_firefly_138.ogg/revision/latest?cb=20240630225629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Simply put... you and I are the same.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_29_jade_191.ogg/revision/latest?cb=20240630225903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_122.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Soldier's Pay.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "However, unlike you Stellaron Hunters or the Astral Express, we band together... merely to obtain what we want.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_29_jade_192.ogg/revision/latest?cb=20240630225905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Each of us has our own past and destined ends. And on this journey, we have been invited by Diamond to join him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_29_jade_193.ogg/revision/latest?cb=20240630225907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "This journey could be either brief or long, as each of us carries a void in our hearts that can only be filled from the outside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_29_jade_194.ogg/revision/latest?cb=20240630225909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "So, Diamond made us a promise. To divide the power of the Emanator of Preservation into ten pieces and give each of us a Cornerstone to fill that void.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_29_jade_195.ogg/revision/latest?cb=20240630225911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "\"Mortal flesh is fragile, yet my heart is unyielding like the monolith. For without this resolve, the way of Preservation would fade into oblivion.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Vo_chapter3_29_jade_196.ogg/revision/latest?cb=20240630225913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "So, you understand? This pledge goes beyond a mere oath. It's our collateral in exchange for opportunities, wealth, survival, and a future...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_29_jade_197.ogg/revision/latest?cb=20240630225915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "And whatever we gain from it will fortify the Stonehearts in return, allowing us to achieve the great cause of the Preservation when the war among the Aeons eventually comes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Vo_chapter3_29_jade_198.ogg/revision/latest?cb=20240630225917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Vo_chapter3_29_firefly_139.ogg/revision/latest?cb=20240630225631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...I understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Vo_chapter3_29_firefly_140.ogg/revision/latest?cb=20240630225633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jade",
+        "line": "Take your time, child. You don't need to give me an immediate answer. Like I said, patience is one of my greatest strengths.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/Vo_chapter3_29_jade_199.ogg/revision/latest?cb=20240630225919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jade_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If fate turns that page, our paths will cross again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_29_firefly_141.ogg/revision/latest?cb=20240630225635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's a shame, though, that this pawnshop can't give me what I desire. My last attempt in Penacony... Well, it ends with \"hope.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_29_firefly_142.ogg/revision/latest?cb=20240630225637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Walker",
+        "line": "Lady Bonajade, I've come to deliver the collateral as promised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_29_guestQ_107.ogg/revision/latest?cb=20240630225743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Walker_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Returning to the Trailblazer's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "When you have a chance to make a choice, make one that you know you won't regret."
+    }
+]

@@ -1,0 +1,1384 @@
+[
+    {
+        "type": "heading",
+        "text": "Venture deeper into the Corridor of Fading Echoes"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After witnessing the Landau siblings fighting side by side, you truly understand what perseverance and bravery really mean.You just made your way through a fierce battlefield, and now you find yourself inside a Fragmentum maze deafened by silence — the deathly quiet of this place sends a chill down your spine.Something dangerous seems to lurk in the suffocating air here... All you can do now is to carefully investigate the surroundings while trying to figure out a way to venture deeper into the Fragmentum."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach next area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, up ahead on the ground... What is that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter1_8_mar7th_206.ogg/revision/latest?cb=20241204034804",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Be careful, think twice before you interact with anything in the Fragmentum.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter1_8_danheng_207.ogg/revision/latest?cb=20241204034735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_1.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate items discarded on the side of the road"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After witnessing the Landau siblings fighting side by side, you truly understand what perseverance and bravery really mean.You just made your way through a fierce battlefield, and now you find yourself inside a Fragmentum maze deafened by silence — the deathly quiet of this place sends a chill down your spine.Here, March 7th is showing excellent dexterity never before seen: She notices the strange objects discarded on the roadside that don't seem to belong to this dimension.Although Dan Heng has reminded everyone that the Fragmentum is filled with traps, your nature for adventure tells you that it's necessary to take a closer look."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Mechanism Energy Hub, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Objects that have been exposed to Fragmentum corrosion might not be stable. I wouldn't touch that device if I were you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_8_danheng_210.ogg/revision/latest?cb=20241204034737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go downstairs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We're deep inside the Fragmentum... There could be hidden dangers lying in wait.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_8_mar7th_211.ogg/revision/latest?cb=20241204034808",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let's look for other clues first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter1_8_mar7th_212.ogg/revision/latest?cb=20241204034809",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_4.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the highlighted spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "This is... Bronya's!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter1_8_seele_207.ogg/revision/latest?cb=20241204034845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_5.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We found it in the orphanage ...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Yeah! So she's... she's been here already?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter1_8_seele_208.ogg/revision/latest?cb=20241204034846",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_6.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Could she be here too?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Seele",
+                "line": "Right, she must be! This can't be a coincidence.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter1_8_seele_209.ogg/revision/latest?cb=20241204034847",
+                "is_unavailable": false,
+                "audio_filename": "audio_Seele_7.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wh—Whoa! Quick, look!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_8_mar7th_207.ogg/revision/latest?cb=20241204034805",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Two echoes appear)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That's Bronya! H—Huh? Is that Cocolia too!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter1_8_mar7th_208.ogg/revision/latest?cb=20241204034806",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "No, it isn't them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_8_danheng_208.ogg/revision/latest?cb=20241204034736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It must be... a kind of echo? Some type of residual energy replicated by the Fragmentum...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_8_danheng_209.ogg/revision/latest?cb=20241204034736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Which means they were definitely here, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter1_8_mar7th_209.ogg/revision/latest?cb=20241204034807",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "And it looks like they went that way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter1_8_mar7th_210.ogg/revision/latest?cb=20241204034807",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Ha, just in time! We had no idea which direction to take. Let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter1_8_seele_210.ogg/revision/latest?cb=20241204034848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_14.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDelicate Snow Globe×1)"
+    },
+    {
+        "type": "heading",
+        "text": "Catch up to Bronya and Cocolia"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After witnessing the Landau siblings fighting side by side, you truly understand what perseverance and bravery really mean.You just made your way through a fierce battlefield, and now you find yourself inside a Fragmentum maze deafened by silence — the deathly quiet of this place sends a chill down your spine.March 7th accomplished another feat after discovering the item left behind by Bronya. This time she discovered that the echoing mirages of the guardian mother and daughter have appeared just up ahead.This is undoubtably a manifestation of the Fragmentum's unique nature of imitating reality — the two might have been here not long ago. Catch up to them and take a look!"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Cocolia's Echo, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...You still haven't told me what this place is, mother.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter1_8_bronya_201.ogg/revision/latest?cb=20241204034700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Seven hundred years ago, this was Belobog 's northern border and the site of an ancient battle. Here is where Alisa Rand led the first Silvermane Guards in resistance against the Legion .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter1_8_cocolia_201.ogg/revision/latest?cb=20241204034709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Now... it is nothing more than an abandoned corridor, filled with the sounds of Old World echoes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter1_8_cocolia_202.ogg/revision/latest?cb=20241204034710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Don't let its fragmented appearance fool you, Bronya. On the day the promise is fulfilled... these ruins will become the breeding ground of a new world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter1_8_cocolia_203.ogg/revision/latest?cb=20241204034711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...Mother, do you truly believe the Stellaron 's promise? It summoned the blizzard beyond our walls and opened the door of the Fragmentum. It destroyed our civilization, it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_8_bronya_202.ogg/revision/latest?cb=20241204034701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...And yet, the crime of our ancestors was their inability to embrace that destruction sooner...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter1_8_cocolia_204.ogg/revision/latest?cb=20241204034712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter1_8_bronya_203.ogg/revision/latest?cb=20241204034702",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "From the moment those intruders descended from beyond the sky, this world was handed a death sentence. But the Stellaron... has reserved for us a thread of hope.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter1_8_cocolia_205.ogg/revision/latest?cb=20241204034712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "There is a price to pay for new life. Wiping away every decaying vestige of the Old World, renouncing the meaningless and lingering struggle... This is the price the Stellaron demands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter1_8_cocolia_206.ogg/revision/latest?cb=20241204034713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "When the promise is fulfilled, Bronya... no longer will we have to squander our lives guarding this wasteland. You and I will witness the new world rise from the ruins.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter1_8_cocolia_207.ogg/revision/latest?cb=20241204034715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter1_8_bronya_204.ogg/revision/latest?cb=20241204034703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "This is a complex mechanism. How did they get past?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter1_8_seele_211.ogg/revision/latest?cb=20241204034849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* I knew this wouldn't be simple...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter1_8_mar7th_213.ogg/revision/latest?cb=20241204034810",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait! Wasn't there some big energy hub-looking thing back in that empty area? Let's go back and take a look, maybe it's linked to this gate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_8_mar7th_214.ogg/revision/latest?cb=20241204034811",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Try to find the switch and open the mechanism gate"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "A giant mechanism gate stops your advance once again.Armed with the experience of dealing with the gear bridge in theSilvermane Guard Restricted Zone, you quickly realize that if you want to unlock the mechanism in front of you, you'll have to find the device linked to it.These types of devices aren't usually set up very far... Try looking in the area!"
+    },
+    {
+        "type": "condition",
+        "text": "(After previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I can't say I like the idea of interacting with our surroundings — especially this deep into the Fragmentum. However...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter1_8_danheng_211.ogg/revision/latest?cb=20241204034738",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "However?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter1_8_mar7th_215.ogg/revision/latest?cb=20241204034812",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...There's no other way. Desperate times call for desperate measures.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_8_danheng_212.ogg/revision/latest?cb=20241204034739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ha, even Dan Heng the sensible has his adventurous days!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter1_8_mar7th_216.ogg/revision/latest?cb=20241204034813",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the Mechanism Energy Hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It worked, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter1_8_mar7th_217.ogg/revision/latest?cb=20241204034814",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...But, the gate didn't move an inch...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_8_mar7th_218.ogg/revision/latest?cb=20241204034815",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "*sigh* Are there other units around?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter1_8_seele_212.ogg/revision/latest?cb=20241204034850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Hmm. It's clear that whoever designed these mechanisms didn't want outsiders to get through too easily. Let's keep looking for the energy hub.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_8_danheng_213.ogg/revision/latest?cb=20241204034740",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_36.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Activate all mechanisms"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "A giant mechanism gate stops your advance once again.Armed with the experience of dealing with the gear bridge in the Silvermane Guard Restricted Zone, you quickly realize that if you want to unlock the mechanism in front of you, you'll have to find the device linked to it.Apparently, there is more than just one device that controls the mechanism gate — you can't help but think that the sole purpose of this gate is to torture its user...However, complaining won't do you any good. Keep searching for the remaining devices!"
+    },
+    {
+        "type": "condition",
+        "text": "(Go down the stairs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look over there! I think I can see the next unit.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_8_mar7th_219.ogg/revision/latest?cb=20241204034816",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...I see it too — let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_8_seele_213.ogg/revision/latest?cb=20241204034850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating monsters in front of the first Mechanism Energy Hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are those monsters guarding the energy hub?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter1_8_mar7th_220.ogg/revision/latest?cb=20241204034817",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It seems like it... Strange. Fragmentum monsters would usually destroy man-made objects.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_8_danheng_214.ogg/revision/latest?cb=20241204034741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with first Mechanism Energy Hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Did you hear that? This mechanism must be on now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter1_8_mar7th_221.ogg/revision/latest?cb=20241204034818",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Come on, let's find the next one!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter1_8_mar7th_222.ogg/revision/latest?cb=20241204034819",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Where is the next mechanism... Oh, behind that gate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter1_8_seele_215.ogg/revision/latest?cb=20241204034852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There's no switch. We need to find a way around.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter1_8_danheng_215.ogg/revision/latest?cb=20241204034742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I've never seen such a desolate place... At least in Rivet Town , you could tell that people used to live there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter1_8_seele_216.ogg/revision/latest?cb=20241204034853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Rivet Town is only at the outstretched fingertips of the corrosion... Now, we're deep in the Fragmentum's heart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter1_8_danheng_216.ogg/revision/latest?cb=20241204034743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_46.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachCavern of Corrosion)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(Is this... a Fragmentum phenomenon that I haven't seen before?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "(Not wise to get too close. I'd better check in with Mr. Yang first.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Messages Welt (Trailblazer) What is this, Mr. Yang? (Trailblazer) What is this, Mr. Yang? Welt It appears to be a rift in space, torn open by the Fragmentum as it erodes reality. The scientific name for this phenomenon is \"Cavern of Corrosion\" No one knows for sure what kind of space the Caverns are connected to. However, research does indicate that valuable reality data is often scattered within these Caverns As with the Calyxes, the derivatives of the Fragmentum always carry unidentified risks. Please exercise extra caution if you wish to explore further"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Cavern of Corrosion"
+    },
+    {
+        "type": "note",
+        "text": "Defeat enemies to obtain Relics"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open <span class=\"text-highlight\">Interastral Peace Guide</span></dd>\n<dd>Select <span class=\"text-highlight\">Survival Index</span></dd>\n<dd><span class=\"text-highlight\">Cavern of Corrosion</span> has been archived in the Interastral Peace Guide. View details here.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to interact with the Mechanism Energy Hub before defeating the monsters guarding it)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hey, it's too dangerous to operate the mechanism with them here... We better clean this place up first!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter1_8_seele_214.ogg/revision/latest?cb=20241204034851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with second Mechanism Energy Hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Success! Another mechanism shut down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter1_8_mar7th_223.ogg/revision/latest?cb=20241204034820",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "(Trailblazer), I want to ask you a question.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter1_8_danheng_217.ogg/revision/latest?cb=20241204034744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_49.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Ask away."
+    },
+    {
+        "type": "choice",
+        "text": "Is now a good time?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Yes, I think this could well be the best time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter1_8_danheng_218.ogg/revision/latest?cb=20241204034745",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Do you still remember those dreams you mentioned to us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter1_8_danheng_219.ogg/revision/latest?cb=20241204034746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I know you're wide awake right now, but I need you to try. See if you can recall the \"voice\" you heard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter1_8_danheng_220.ogg/revision/latest?cb=20241204034747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_52.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "(Close eyes and meditate)",
+        "children": [
+            {
+                "type": "note",
+                "text": "You try to recall the dreams. As your train of thought deepens, the voice comes to you..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Give it a halfhearted attempt)",
+        "children": [
+            {
+                "type": "note",
+                "text": "You close your eyes but don't expect to remember anything. And yet, the voice comes to you..."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "Danger... approaches...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter1_8_stellaron_201.ogg/revision/latest?cb=20241204034904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Voice of the Stellaron",
+        "line": "You must...eradicate... Once... and for all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_8_stellaron_202.ogg/revision/latest?cb=20241204034905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Voice_of_the_Stellaron_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Well?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter1_8_danheng_221.ogg/revision/latest?cb=20241204034748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_55.ogg"
+    },
+    {
+        "type": "note",
+        "text": "There was... a voice calling out to Cocolia..."
+    },
+    {
+        "type": "note",
+        "text": "The voice... it knows we're getting close."
+    },
+    {
+        "type": "note",
+        "text": "(Try to repeat the whispers you heard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This is merely speculation... but perhaps the voice you heard is the Stellaron somehow conveying information to Cocolia...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter1_8_danheng_222.ogg/revision/latest?cb=20241204034749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...and the one in your body... is resonating with the Stellaron on this world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter1_8_danheng_223.ogg/revision/latest?cb=20241204034750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh!? You mean that Stellarons can communicate? I've never heard that before...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_8_mar7th_224.ogg/revision/latest?cb=20241204034821",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Well, there's never been a human that could accommodate a Stellaron in their body.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_8_danheng_224.ogg/revision/latest?cb=20241204034751",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_59.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The Stellaron knows we're here..."
+    },
+    {
+        "type": "note",
+        "text": "The Stellaron has already warned Cocolia..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "...Then, aren't we walking straight into a trap?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_8_seele_217.ogg/revision/latest?cb=20241204034854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Yes. And Bronya may well be the bait.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter1_8_danheng_225.ogg/revision/latest?cb=20241204034752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Dan Heng's speculations are usually right on the money. But even if we've guessed right, we can't go home now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter1_8_mar7th_225.ogg/revision/latest?cb=20241204034822",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Hmph... there's no way back anyway. At least Cocolia won't catch us off guard now. So what if it's an ambush!? We're not about to lose now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter1_8_seele_218.ogg/revision/latest?cb=20241204034855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I have to save Bronya, beat Cocolia, and crush this Stellaron thing to dust!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter1_8_seele_219.ogg/revision/latest?cb=20241204034856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the gear bridge controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh... Is this right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter1_8_mar7th_226.ogg/revision/latest?cb=20241204034823",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If we want to get to the other side, we'll need to rotate the gear bridge again and go around.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter1_8_danheng_226.ogg/revision/latest?cb=20241204034753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_66.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with third Mechanism Energy Hub)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Done! It took some effort, but we finally cracked these mechanisms...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter1_8_mar7th_227.ogg/revision/latest?cb=20241204034824",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "We're one step closer to Bronya. Let's move!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_8_seele_220.ogg/revision/latest?cb=20241204034857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_68.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue further into the Corridor of Fading Echoes"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After running around in the Fragmentum maze for a long time, you've finally found all of the devices and successfully unlocked the mechanism gate.The path to the depths of the maze is wide open once again — erm, at least you would like to think so. Anyhow, there's no way to tell what obstacles remain in the path ahead. You'll find out when you venture deeper into the Fragmentum."
+    },
+    {
+        "type": "condition",
+        "text": "(After opening the small gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*gasp* Are these echoes too?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter1_8_mar7th_228.ogg/revision/latest?cb=20241204034825",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Yes. The Fragmentum here seems to have made a special connection with Cocolia. It's repeatedly generating forms in her image.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter1_8_danheng_227.ogg/revision/latest?cb=20241204034754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Cocolia's Echo, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "I don't understand... Even if the truth is as you say, every generation of guardian has resisted the call of the Stellaron...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_8_bronya_205.ogg/revision/latest?cb=20241204034704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "Can all of them have been wrong, mother?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_8_bronya_206.ogg/revision/latest?cb=20241204034705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Do you still not see, Bronya? There is no right or wrong here. Some of them acted out of human pride, others out of human shortsightedness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter1_8_cocolia_208.ogg/revision/latest?cb=20241204034716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Our ancestors... including Alisa Rand... spent their whole lives trying to prolong this civilization. Then, after all fell still, their memories were scattered by the blizzard.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter1_8_cocolia_209.ogg/revision/latest?cb=20241204034717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "They spent lifetimes writing songs of praise that lauded the bravery of humanity, but couldn't spare the time to gaze up into the stars.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_8_cocolia_210.ogg/revision/latest?cb=20241204034718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "To those entities of greater magnificence in the heavens above, a thousand years is but a passing moment, the attainments of insignificant beings nothing more than a footnote.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter1_8_cocolia_211.ogg/revision/latest?cb=20241204034719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "I shall not follow the guardians' misguided steps down that blind alley of narcissism. If persistence is futile, then one must choose a new beginning.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter1_8_cocolia_212.ogg/revision/latest?cb=20241204034720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "But, Qlipoth the Preservation ... Are THEY not one of the magnificent entities you speak of? Is it not THEIR strength... that has sheltered Belobog this entire time?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter1_8_bronya_207.ogg/revision/latest?cb=20241204034706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "The Preservation... Has the Preservation ever looked humanity in the eye? Nothing more than an arrogant delusion of the Architects .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter1_8_cocolia_213.ogg/revision/latest?cb=20241204034722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "You will hear the real voice of magnificence, Bronya... Then, you will understand my choice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter1_8_cocolia_214.ogg/revision/latest?cb=20241204034723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_80.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon entering the unlocked area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whoa, check this place out! Tables and sentry posts — there must have been Silvermane Guards stationed here once.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter1_8_mar7th_229.ogg/revision/latest?cb=20241204034826",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If there were, they left a long time ago. There might be valuable information here... shame we don't have time to look for it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter1_8_danheng_228.ogg/revision/latest?cb=20241204034755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the highlighted area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Looks like another completely new monster.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter1_8_mar7th_230.ogg/revision/latest?cb=20241204034827",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Considering where we are, it would be surprising if we didn't run into strange enemies here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter1_8_danheng_229.ogg/revision/latest?cb=20241204034756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I don't care how strange it is, it's blocking our way... Let's get it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter1_8_seele_221.ogg/revision/latest?cb=20241204034858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_85.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat the Fragmentum monsters and make your way through the wreckage of the ancient fort"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Based on the surrounding structures, it's likely that you've arrived in a core area of an ancient citadel that used to stand on the edge of civilization.You can gather yourself here and investigate the trash piles you think may be of value until you lose interest in the history of this place.Your enemies will sit and wait on the path you must take and allow any degree of destruction you may cause here. Then they will be defeated by you and end their meaningless lives."
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to move on without fighting the monster)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "If we avoid the enemy, we might be ambushed further in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter1_8_danheng_230.ogg/revision/latest?cb=20241204034757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It'll be too late for regrets then... Let's defeat this one here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter1_8_danheng_231.ogg/revision/latest?cb=20241204034757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_87.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(BattleGuardian Shadow×1,Incineration Shadewalker×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This enemy is completely different! If I didn't know it was a product of the Fragmentum, I'd think we were fighting a human!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter1_8_mar7th_231.ogg/revision/latest?cb=20241204034828",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Unlike those random low-level Fragmentum creations, this one seems to have a mind of its own. It seems to be able to use complex tactics.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter1_8_danheng_232.ogg/revision/latest?cb=20241204034758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, Bronya and Cocolia's echoes... they must have come through here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter1_8_mar7th_232.ogg/revision/latest?cb=20241204034829",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_90.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The voice is getting clearer...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...That means we must be really close, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter1_8_mar7th_233.ogg/revision/latest?cb=20241204034830",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_91.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm starting to feel hazy...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, stay with it! This is the final push!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_8_mar7th_234.ogg/revision/latest?cb=20241204034831",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I sense that we're very near to the northern Snow Plains.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter1_8_danheng_233.ogg/revision/latest?cb=20241204034759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_93.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Open the gate and make your way through the wreckage of the ancient fort"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Based on the surrounding structures, it's likely that you've arrived in a core area of an ancient citadel that used to stand on the edge of civilization.You can gather yourself here and investigate the trash piles you think may be of value until you lose interest in the history of this place.The dangers that surround the exit of the old town wreckage have been cleared out. You can leave this place at any time."
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to Cocolia's Echo, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "This is where the first guardian led the Silvermane Guards into battle. She made huge sacrifices for the sake of temporary respite.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter1_8_cocolia_215.ogg/revision/latest?cb=20241204034724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "But the otherworldly Legion did not tire. She soon realized that flesh and blood could not contend with so ruthless an enemy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter1_8_cocolia_216.ogg/revision/latest?cb=20241204034725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "When all was nearly lost, she chose to set her sights on the Stellaron... and made the first wish.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter1_8_cocolia_217.ogg/revision/latest?cb=20241204034725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "As for what came later... you know as well as I.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter1_8_cocolia_218.ogg/revision/latest?cb=20241204034726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "So... the Eternal Freeze was a disaster brought about by a human wish...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter1_8_bronya_208.ogg/revision/latest?cb=20241204034707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Ironic, no? All the Stellaron did was answer humanity's call, and yet we kept its existence a closely guarded secret for centuries.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter1_8_cocolia_219.ogg/revision/latest?cb=20241204034727",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Even going so far as to attempt to use \"it\" to control the Stellaron... Woeful... laughable.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter1_8_cocolia_220.ogg/revision/latest?cb=20241204034728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bronya",
+        "line": "It?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_8_bronya_209.ogg/revision/latest?cb=20241204034708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Bronya_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "Something created using otherworldly technology... An inhibitor that the IPC from the Old World and the Architects attempted to use to house the Stellaron.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_8_cocolia_221.ogg/revision/latest?cb=20241204034729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia",
+        "line": "...I know you have many questions, my daughter. Be patient... soon you will have all the answers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter1_8_cocolia_222.ogg/revision/latest?cb=20241204034730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolia_103.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Enter the innermost part of the Corridor Of Fading Echoes"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The air becomes less alive the deeper you go. An odor of gloom and rust fills your noses.You feel the lingering murmured whistling become clearer in your head and become extremely dizzy. Judging by what you've seen so far, you're very close to the exit of the Fragmentum maze. The question is — what lies beyond?You'll only find out if you press onward."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the next area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "It's that \"shadow\" of hers again... but Bronya's isn't with her this time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter1_8_seele_222.ogg/revision/latest?cb=20241204034859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ It's only a Fragmentum illusion. (Trailblazer), let's get a closer look.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter1_8_mar7th_235_m.ogg/revision/latest?cb=20241204034833",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_105.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Get closer to Cocolia's echo"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The echoing mirage of the Supreme Guardian has appeared in front of you once again — however, this time, the guardian's noble daughter is no longer by her side.Although this place has been devoured by the Fragmentum to its core and nothing is behaving the way it should, this is something even more peculiar...Is this a sign of misfortune? Or could it just be one error out of tens of thousands taking place in the Fragmentum? The answer to this question lies in the echoing cadence of the humanoid."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Cocolia's Echo)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It feels like this echo is different from the others before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter1_8_mar7th_236.ogg/revision/latest?cb=20241204034834",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia's Echo",
+        "line": "Intruders...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter1_8_cocolia_223.ogg/revision/latest?cb=20241204034731",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolias_Echo_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh!? Did... Did she just speak!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter1_8_mar7th_237.ogg/revision/latest?cb=20241204034835",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia's Echo",
+        "line": "You cannot... approach...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter1_8_cocolia_224.ogg/revision/latest?cb=20241204034732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolias_Echo_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Not good — March, out the way!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter1_8_seele_223.ogg/revision/latest?cb=20241204034859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cocolia's Echo",
+        "line": "...the Stellaron!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter1_8_cocolia_225.ogg/revision/latest?cb=20241204034733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cocolias_Echo_111.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstCocolia×1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Cocolia's Echo",
+                "line": "Intruders... You go no further!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter1_8_cocolia_226.ogg/revision/latest?cb=20241204034734",
+                "is_unavailable": false,
+                "audio_filename": "audio_Cocolias_Echo_112.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "A—Are you sure this isn't the real her?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter1_8_mar7th_238.ogg/revision/latest?cb=20241204034836",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_113.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It may look like her, but the Fragmentum can only create forgeries. Bring her down!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter1_8_danheng_234.ogg/revision/latest?cb=20241204034800",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_114.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating Cocolia)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...She disappeared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter1_8_mar7th_239.ogg/revision/latest?cb=20241204034837",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Those stairs... it's the only way forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter1_8_seele_224.ogg/revision/latest?cb=20241204034900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Wherever they lead, it must be the end of the journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter1_8_danheng_235.ogg/revision/latest?cb=20241204034801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I don't wanna get to the end so soon... I want my journey to go on forever.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter1_8_mar7th_240.ogg/revision/latest?cb=20241204034837",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "This means that Bronya is up ahead... and so is the fate of the Overworld and the Underworld ... It's all in our hands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter1_8_seele_225.ogg/revision/latest?cb=20241204034901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "Strange, I thought I'd feel nervous or afraid... but I don't. The only feeling I have... is that none of this seems real.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter1_8_seele_226.ogg/revision/latest?cb=20241204034902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_120.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is this how Trailblazing expeditions usually come to an end?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Not always, sometimes it's a happier conclusion.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter1_8_mar7th_241.ogg/revision/latest?cb=20241204034838",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_121.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "These two have gotten used to these expeditions.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "To be honest, you never really get used to them! We always used to rely on Himeko and Mr. Yang.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter1_8_mar7th_242.ogg/revision/latest?cb=20241204034839",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Resting forever in the Snow Plains... that wouldn't be so bad.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, way to boost morale over there!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter1_8_mar7th_243.ogg/revision/latest?cb=20241204034840",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_123.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Express has traveled world after world. We are merely passing travellers — witnesses to part of a grander story.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter1_8_danheng_236.ogg/revision/latest?cb=20241204034802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We invariably avoid getting drawn into turbulence that can decide the fate of a world... but there are always times when we have no choice but to act.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter1_8_danheng_237.ogg/revision/latest?cb=20241204034803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Or to put it another way, (Trailblazer)... this is one heck of a first Trailblazing expedition! You hit the jackpot!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter1_8_mar7th_244_m.ogg/revision/latest?cb=20241204034842",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Seele",
+        "line": "I was about to bore you all with my gloomy reflections... but on second thought — not today. Adventuring with you guys by my side has made me feel like no obstacle is too big.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter1_8_seele_227.ogg/revision/latest?cb=20241204034903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Seele_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Right on! But you can say whatever you like — a good adventure shouldn't be full of rules and regulations!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter1_8_mar7th_245.ogg/revision/latest?cb=20241204034843",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Helping those in need, befriending those worth counting on, and saving the world a few times along the way...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter1_8_mar7th_246.ogg/revision/latest?cb=20241204034844",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_129.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This is the spirit of trailblazing!"
+    }
+]
