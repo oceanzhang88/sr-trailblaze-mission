@@ -1,0 +1,3473 @@
+[
+    {
+        "type": "condition",
+        "text": "(Upon arriving at The Reverie)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We're here at last! The Family sure doesn't play around with their entry protocols. Our bags probably know what it feels like to be a celebrity now, with all that attention!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter3_1_mar7th_101.ogg/revision/latest?cb=20240729011147",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I wouldn't have put it past them to try and nab that Stellaron from inside you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter3_1_mar7th_102.ogg/revision/latest?cb=20240729011149",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Thankfully, they didn't."
+    },
+    {
+        "type": "note",
+        "text": "The Stellaron is stable."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Aside from that, I have to say The Family has been really accommodating...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_1_mar7th_103.ogg/revision/latest?cb=20240729011151",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well, the hassle was worth it — just look at this grand hotel lobby! And those endless rows, they're all rooms, right? Just think of the number of guests staying here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter3_1_mar7th_104.ogg/revision/latest?cb=20240729011153",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Where are our rooms? Come on, Mr. Yang and the rest must be at the front desk. Let's hurry up and meet them there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter3_1_mar7th_105.ogg/revision/latest?cb=20240729011155",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Welcome to the Reverie! May you experience an unforgettable holiday! If you need help checking in, please head straight to the concierge.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_1_misha_101.ogg/revision/latest?cb=20240729011248",
+        "is_unavailable": false,
+        "audio_filename": "audio__5.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It's the child from the dream..."
+    },
+    {
+        "type": "note",
+        "text": "Do you work at this hotel?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I am Misha, a bell boy, working here on Penacony. Pleased to be at your service. If you need help with your baggage...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter3_1_misha_102.ogg/revision/latest?cb=20240729011250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), over here, something's not right...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter3_1_mar7th_106_m.ogg/revision/latest?cb=20240729011159",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "...Should you need assistance with moving your luggage to your room, feel free to contact me. Please go ahead, don't keep your friend waiting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter3_1_misha_103.ogg/revision/latest?cb=20240729011252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_8.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the hotel front desk and assemble with the Crew"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After endless immigration declarations and over a dozen inspections of varying intensity (though it sounds like a quick process, you have been through all of this before and know better), you and March 7th finally arrive at the lobby of the magnificent Reverie hotel.March 7th cannot control her excitement and rushed to the reception desk... You should probably stay close to her."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Misha, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Welcome to the Reverie! May you have an unforgettable holiday! Should you need assistance with moving your luggage to your room, feel free to contact me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_1_misha_104.ogg/revision/latest?cb=20240729011254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_9.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I hear this hotel is pretty unique.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Yeah, it is! The Reverie does not only provide accommodation for its guests, it is also connected to both Penacony's reality and dreamscape. Guests from all over the cosmos come here to immerse themselves in a marvelous, dreamy journey.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_1_misha_105.ogg/revision/latest?cb=20240729011256",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_10.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Aren't dreams fake?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Misha",
+                        "line": "A good question! Maybe not all dreams are false... Well, at least the ones in Penacony aren't. Or perhaps should I say they are... another reality.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_1_misha_106.ogg/revision/latest?cb=20240729011259",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Misha_11.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Won't I get tired out from all that dreaming?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Misha",
+                        "line": "The hotel's Dreampool provides a comfortable dream experience, so don't you worry about that!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter3_1_misha_107.ogg/revision/latest?cb=20240729011300",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Misha_12.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "How is it working here?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Misha",
+                        "line": "Er... Are you asking me? Hmm... It's not too bad. Many guests come and go, and I get to hear all about their adventures.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter3_1_misha_108.ogg/revision/latest?cb=20240729011303",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Misha_13.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I see, got it.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Misha",
+                        "line": "You'll know what I mean when you enter a dream. Penacony will not disappoint!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_1_misha_109.ogg/revision/latest?cb=20240729011308",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Misha_14.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So Penacony is...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Yes! This hotel is Penacony in real life. And the Penacony in the dream... is a place where miracles are born. A land of lavish joy, a grand banquet where the curtains never fall!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_1_misha_110.ogg/revision/latest?cb=20240729011310",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Mm... It's hard to describe its magnificence in words. In any case, you will surely be awed!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter3_1_misha_111.ogg/revision/latest?cb=20240729011312",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I hear The Family held a grand event.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "You are well-informed indeed! It is an opportunity provided by The Family, and a tradition on the Planet of Festivities.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter3_1_misha_112.ogg/revision/latest?cb=20240729011314",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Everyone gathers in the hall, reveling in merriment, pursuing opportunities, staking all they have on one desperate gamble, and finally, their dreams become reality!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_1_misha_113.ogg/revision/latest?cb=20240729011316",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_18.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I have nothing else to ask."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "May you have a pleasant stay in Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter3_1_misha_114.ogg/revision/latest?cb=20240729011318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_19.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, what's the big gathering at the concierge about? We've just arrived and there's already drama?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter3_1_mar7th_107.ogg/revision/latest?cb=20240729011201",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "I'm sorry, but your name really isn't in the system...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_1_alley_101.ogg/revision/latest?cb=20240729010714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But in the information I received from the Astral Express , it states that we already reserved rooms. Please check again for me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_1_himeko_101.ogg/revision/latest?cb=20240729011019",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Yes ma'am, please give me a moment...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_1_alley_102.ogg/revision/latest?cb=20240729010716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "The Astral Express, four platinum guest rooms... whose names include Mr. Welt Yang, Miss Himeko, Miss March 7th, and...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter3_1_alley_103.ogg/revision/latest?cb=20240729010718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "...Mr. Dan Heng. These are the only four names on the reservation list.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter3_1_alley_104.ogg/revision/latest?cb=20240729010720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_25.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Something wrong?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Yes, your name isn't on the hotel's reservation list...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_1_welt_101.ogg/revision/latest?cb=20240729011601",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What's going on?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "We've run into some trouble. Your name isn't on the hotel's reservation list...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter3_1_welt_102.ogg/revision/latest?cb=20240729011603",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "And yes, I'm Mr. Dan Heng, reporting for duty.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Dan Heng...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter3_1_welt_103.ogg/revision/latest?cb=20240729011605",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ ...I understand. No wonder (Trailblazer)'s name here is missing. When we responded to The Family's invitation, ( he / she ) hadn't even arrived on the Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_1_welt_104_m.ogg/revision/latest?cb=20240729011609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Something came up in Dan Heng's schedule, and he couldn't make it. I have an idea — could you reassign his room? It's still the same number of people.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter3_1_welt_105.ogg/revision/latest?cb=20240729011612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ ( He's / She's ) a new passenger aboard our Astral Express. We can vouch for ( his / her ) status.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter3_1_himeko_102_m.ogg/revision/latest?cb=20240729011023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "I— even if that is so, I'm afraid...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter3_1_alley_105.ogg/revision/latest?cb=20240729010722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_32.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Show Trailblazer profile...)"
+    },
+    {
+        "type": "note",
+        "text": "(Show Architect 's lance...)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "No, I'm not doubting your status, it's just...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter3_1_alley_106.ogg/revision/latest?cb=20240729010726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's just that right now, we're on the eve of the Charmony Festival , Penacony's most important moment of every era. And with The Family's invite, all guests from all over the cosmos have thronged this place...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_1_aventurine_101.ogg/revision/latest?cb=20240729010743",
+        "is_unavailable": false,
+        "audio_filename": "audio__34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hotel security is on high alert, with zero room for error. And with such a last minute change, it really isn't something that this young lady's words can resolve on a whim. My esteemed guests from the Astral Express, please do not make it harder for her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter3_1_aventurine_102.ogg/revision/latest?cb=20240729010745",
+        "is_unavailable": false,
+        "audio_filename": "audio__35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We're sorry for all the trouble our check-in seems to have caused. Might I ask for your name?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter3_1_welt_106.ogg/revision/latest?cb=20240729011614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I am the humble Aventurine of the IPC 's Strategic Investment Department , a Non-Performing Asset Liquidation Specialist and subordinate to supervisor Diamond . I was cordially invited by the Watchmaker ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter3_1_aventurine_103.ogg/revision/latest?cb=20240729010747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I also happen to be a traveler that's had to stand behind you for quite a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter3_1_aventurine_104.ogg/revision/latest?cb=20240729010750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Leave it to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter3_1_himeko_103.ogg/revision/latest?cb=20240729011026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I've heard that the IPC has also received Penacony's invitation, so forgive me if I'm mistaken, but you must be the representative. The IPC's elite certainly does have an extraordinary air about them. I suppose such an exceptional figure such as yourself wouldn't mind paving a convenience for us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter3_1_himeko_104.ogg/revision/latest?cb=20240729011028",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I must be hearing things: Paving a convenience? Shouldn't I be saying this to you instead?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter3_1_aventurine_105.ogg/revision/latest?cb=20240729010752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I've been waiting here for more than ten minutes. Do you know how many credits ten minutes is worth to me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter3_1_aventurine_106.ogg/revision/latest?cb=20240729010754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It must be an inordinate number, which is why, now, Mr. Aventurine, I have an investment that you absolutely cannot miss out on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter3_1_himeko_105.ogg/revision/latest?cb=20240729011030",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ The IPC's influence runs deep and wide, and their word wields the utmost authority. We hope to borrow your status to vouch for ( him / her ) .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter3_1_himeko_106_m.ogg/revision/latest?cb=20240729011034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "As such, you won't just be sparing much of your invaluable time but also forging new friendships.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter3_1_himeko_107.ogg/revision/latest?cb=20240729011036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Well, this is interesting. And how will my new friends benefit me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter3_1_aventurine_107.ogg/revision/latest?cb=20240729010756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Now this is a topic very much worth getting into. Just as we are guests of the Watchmaker , why don't we make ourselves comfortable in Penacony before getting to know each other more elaborately?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_1_himeko_108.ogg/revision/latest?cb=20240729011038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Sounds good. But Ms. Navigator, I must point out that—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter3_1_aventurine_108.ogg/revision/latest?cb=20240729010758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "If I do something about it now, the time saved is from my own effort, not a favor from you all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter3_1_aventurine_109.ogg/revision/latest?cb=20240729010800",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_1_himeko_109.ogg/revision/latest?cb=20240729011040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...But what you said in the second half, I loved it! Friends, yes — nothing is more precious than friends, especially a righteous Trailblazer like a Nameless .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter3_1_aventurine_110.ogg/revision/latest?cb=20240729010802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Going forward on this Penacony trip, I'll be counting on all my \"Trailblazer\" friends here. Looking forward to a delightful time with you all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter3_1_aventurine_111.ogg/revision/latest?cb=20240729010804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I'm glad you've put it this way. So about the vouching...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_1_himeko_110.ogg/revision/latest?cb=20240729011042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "▶ There you go, Miss. Please allow ( him / her ) to check in on my account.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter3_1_aventurine_112_m.ogg/revision/latest?cb=20240729010808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I have an appointment with The Family's Mr. Sunday . I will ask him to handle this matter later. Don't worry, I won't cause you any trouble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter3_1_aventurine_113.ogg/revision/latest?cb=20240729010810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Um, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter3_1_alley_107.ogg/revision/latest?cb=20240729010728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Alley, just a moment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_1_sunday_101.ogg/revision/latest?cb=20240729011530",
+        "is_unavailable": false,
+        "audio_filename": "audio__57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The Family cannot allow guests to enter a dream while bearing burdens.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter3_1_sunday_102.ogg/revision/latest?cb=20240729011532",
+        "is_unavailable": false,
+        "audio_filename": "audio__58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Speak of the devil, look who's here! It's Sunday, the most handsome man in Penacony! Along with the singer renowned across the universe: Robin!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter3_1_aventurine_114.ogg/revision/latest?cb=20240729010813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "He said you were the most dashing person in Penacony, how interesting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter3_1_robin_101.ogg/revision/latest?cb=20240729011514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I've kept you waiting, Mr. Aventurine. This way please, let us speak in private.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter3_1_sunday_103.ogg/revision/latest?cb=20240729011534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_61.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Robin"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Though there were a few complications that made the checking in process a pain, Sunday, the most handsome man in Penacony, and the universally-renowned singer Robin were able to resolve any misunderstandings in time and prevent a further escalation.Robin seems to have something to talk to you about. See what she has to say."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Astral Express guests, please come this way and rest your feet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter3_1_robin_102.ogg/revision/latest?cb=20240729011516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait, what!? You're...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter3_1_mar7th_108.ogg/revision/latest?cb=20240729011203",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_63.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Talk to Aventurine"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aventurine, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Hello, friend. How have you been? I sincerely hope you don't mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter3_1_aventurine_115.ogg/revision/latest?cb=20240729010815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_64.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I do mind.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "My apologies for any perceived slight. To show my sincerity, I offer you 10,000 credits as a gesture of goodwill.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter3_1_aventurine_116.ogg/revision/latest?cb=20240729010817",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_65.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "That's better.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Aventurine",
+                        "line": "What're friends without friction! Now we're truly acquainted.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter3_1_aventurine_117.ogg/revision/latest?cb=20240729010819",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Aventurine_66.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "You have no idea what friends are.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Aventurine",
+                        "line": "Such integrity, I like it! I must have you as a friend — here, 20,000 credits!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter3_1_aventurine_118.ogg/revision/latest?cb=20240729010821",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Aventurine_67.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's fine, I don't mind it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "My apologies for any perceived slight. To show my sincerity, I offer you 10,000 credits as a gesture of goodwill.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter3_1_aventurine_119.ogg/revision/latest?cb=20240729010823",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_68.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Then I'll gladly accept it.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Aventurine",
+                        "line": "That's the spirit! Nothing should come between friends. Tell me whatever you need, it's on my tab.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter3_1_aventurine_120.ogg/revision/latest?cb=20240729010825",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Aventurine_69.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Thank you, but we can spare the gifts.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Aventurine",
+                        "line": "How upright, I like you! I must have you as a friend — here, 20,000 credits!",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_1_aventurine_121.ogg/revision/latest?cb=20240729010827",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Aventurine_70.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Please excuse me, I have some matters to attend to, so I must depart, but I'm sure we'll meet again soon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter3_1_aventurine_122.ogg/revision/latest?cb=20240729010829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainCredit×10,000orCredit×20,000)"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Robin)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Wait a minute, I'm sorry, but are you... the...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_1_mar7th_109.ogg/revision/latest?cb=20240729011205",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The singer, Epsilon 's superstar... If I Can Stop One Heart From Breaking . That's your song, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter3_1_mar7th_110.ogg/revision/latest?cb=20240729011207",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "I never thought a cutie like yourself would be a fan of mine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter3_1_robin_103.ogg/revision/latest?cb=20240729011518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ahh, it really is Robin! To run into her in person here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter3_1_mar7th_111.ogg/revision/latest?cb=20240729011209",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "It is an honor to meet everyone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter3_1_robin_104.ogg/revision/latest?cb=20240729011520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Are you also a member of The Family on Penacony like him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter3_1_welt_107.ogg/revision/latest?cb=20240729011615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Truth be told, I am a guest like everyone. Penacony is my hometown, but I left when I was older. I was graciously invited this time to return and sing a song at the Charmony Festival.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_1_robin_105.ogg/revision/latest?cb=20240729011522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "The person you speak of is Sunday, my senior, and one of the local leaders of Penacony. He is also the organizer of this era's Charmony Festival. He heard you all ran into some difficulties, and sent me here to provide aid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter3_1_robin_106.ogg/revision/latest?cb=20240729011525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Alas, I arrived a little later than usual. I sincerely apologize for any unpleasantness during your stay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter3_1_robin_107.ogg/revision/latest?cb=20240729011527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Please be at ease, I have instructed Miss Alley to resolve the system error as soon as possible. I have also upgraded your rooms as token compensation. Please wait a moment for the hotel to arrange for suitable accommodation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter3_1_sunday_104.ogg/revision/latest?cb=20240729011537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Mr. Aventurine has an appointment with the Oak Family , and has checked in prior. On his behalf, I extend his apologies to everyone of the Astral Express, and wish for an amicable partnership moving forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter3_1_sunday_105.ogg/revision/latest?cb=20240729011539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Thank you for stepping in to resolve this matter, but are you sure about the rooms? I wouldn't want your other guests to feel we were being given preferential treatment...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_1_welt_108.ogg/revision/latest?cb=20240729011619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Please rest assured that The Family will personally undertake communications to handle this. It is only right that we — as the actual administrators — relieve you of any problems during your visit in Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter3_1_sunday_106.ogg/revision/latest?cb=20240729011541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "I apologize for taking up everyone's precious time, and we shan't keep you any longer. If you need anything else while in Penacony, The Family stands ready to serve.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_1_sunday_107.ogg/revision/latest?cb=20240729011543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "May your dreams be beautiful and pleasant.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter3_1_robin_108.ogg/revision/latest?cb=20240729011528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* It's just one surprise after another. But since that mister... which day was he? Sunday. Since Mr. Sunday has vouched for us, I guess we can finally check in normally?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter3_1_mar7th_112.ogg/revision/latest?cb=20240729011211",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_87.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I'm already a little winded.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You and me both! I can't wait to get inside and just flop and roll on that comfy bed...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_1_mar7th_113.ogg/revision/latest?cb=20240729011213",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_88.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "You'll have to wait for us to finish checking in first.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter3_1_himeko_111.ogg/revision/latest?cb=20240729011044",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_89.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I hope we don't run into any more trouble.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "How does the saying go? \"Trouble comes in pairs\"...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter3_1_mar7th_114.ogg/revision/latest?cb=20240729011215",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_90.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "There's also the saying: \"From misfortune comes bliss.\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter3_1_himeko_112.ogg/revision/latest?cb=20240729011046",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_91.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are all The Family names so strange?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "This is just a stage name... I guess?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter3_1_mar7th_115.ogg/revision/latest?cb=20240729011217",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_92.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "I thought so too. It's most likely some rule of Penacony's, or The Family's.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter3_1_himeko_113.ogg/revision/latest?cb=20240729011048",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_93.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Okay, there's no queue in the lobby now. Let's go find Miss Alley...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter3_1_himeko_114.ogg/revision/latest?cb=20240729011050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_94.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the hotel front desk and check in again"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Sunday and Robin assured the Crew in the name of \"The Family\"... Honestly, was such a small matter worth all of that fuss?Either way, their pleasant attitudes at least showed that the service in this hotel was a cut above. The Crew should have no trouble enjoying their holiday here.As the storm has settled, it's time to retry the check-in process with Miss Alley... Hopefully, things go smoothly this time."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Alley)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Esteemed guests of the Astral Express, your check-in procedure is complete. Please forgive us for any previous inconvenience caused.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter3_1_alley_108.ogg/revision/latest?cb=20240729010731",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "This is your Dreamscape Pass: It serves as your hotel room key, as well as a directory of all the amenities and information you require at The Reverie. It even provides smart assistance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_1_alley_109.ogg/revision/latest?cb=20240729010733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "At the same time, it is also Penacony's special one-of-a-kind souvenir that belongs only to you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter3_1_alley_110.ogg/revision/latest?cb=20240729010735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "You can use the Dreamscape Pass's provided clock-in feature to record every moment of your wonderful dream, save your favorite happy bits, and create a Dreamscape Scrapbook that is uniquely yours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter3_1_alley_111.ogg/revision/latest?cb=20240729010737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "Regarding the method of usage, the Dreamscape Pass will guide you through the process.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter3_1_alley_112.ogg/revision/latest?cb=20240729010739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alley",
+        "line": "I wish you all pleasant dreams in Penacony. You may take the elevator over there to reach your guest rooms.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_1_alley_113.ogg/revision/latest?cb=20240729010741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Alley_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Alright! Let's move out!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter3_1_mar7th_116.ogg/revision/latest?cb=20240729011219",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_101.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDreamscape Pass)"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockDreamscape Pass Tutorial)"
+    },
+    {
+        "type": "heading",
+        "text": "Take the Elevator"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You collect your Dreamscape Pass from Miss Alley, which means that the lengthy check-in process is finally coming to an end.Now, you are only one step from entering your dreams. Take the elevator and head to your guest room."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "A dream world... I heard that Penacony transformed the dreamscape into a majestic metropolis...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_1_mar7th_117.ogg/revision/latest?cb=20240729011221",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What exactly would that look like? I can't wait!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter3_1_mar7th_118.ogg/revision/latest?cb=20240729011223",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_103.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the public rest area"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You collect your Dreamscape Pass from Miss Alley, which means that the lengthy check-in process is finally coming to an end.Now, you are only one step from entering your dreams. Pass down the corridor and head to the public rest area."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Our rooms are down this way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter3_1_himeko_115.ogg/revision/latest?cb=20240729011052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "This is a long hallway... Is it just me, or is this hotel too big for its own good?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter3_1_welt_109.ogg/revision/latest?cb=20240729011621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_105.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We're finally here. Let's all head to our rooms first and put down our bags.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter3_1_himeko_116.ogg/revision/latest?cb=20240729011054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Welt, how about a drink first? Penacony's SoulGlad is very famous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter3_1_himeko_117.ogg/revision/latest?cb=20240729011056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Go on. We may be thinking of the same thing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter3_1_welt_110.ogg/revision/latest?cb=20240729011623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Do you remember the invite that the Express received?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_1_himeko_118.ogg/revision/latest?cb=20240729011057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "\"The Family's esteemed guests are cordially invited to Penacony to participate in our grand celebration.\" That's why we're here in the first place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_1_welt_111.ogg/revision/latest?cb=20240729011625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "You recall correctly, but there was more to this invite.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter3_1_himeko_119.ogg/revision/latest?cb=20240729011059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "\"...Witness the impossible in the realm of dreams, find the Legacy of the Watchmaker, Father of Penacony, and thus the answer to the question: Why does life slumber.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter3_1_himeko_120.ogg/revision/latest?cb=20240729011102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I don't remember that part of the invite... You mean, there was a hidden message?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter3_1_welt_112.ogg/revision/latest?cb=20240729011627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "This is the part that intrigues me — the invite sent by The Family was nothing more than a music box that, when wound, would play an accompanying tune.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter3_1_himeko_121.ogg/revision/latest?cb=20240729011104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But the box that was sent to us was slightly unusual... The music it played had off-key notes in the background.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter3_1_himeko_122.ogg/revision/latest?cb=20240729011106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I recorded these dissonant notes, and they were a perfect match with the gravity wave frequency when the Express made its warp jump. Also, the Express engine's spatial curvature was its encryption key.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_1_himeko_123.ogg/revision/latest?cb=20240729011108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...A distress call method regularly used by the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter3_1_welt_113.ogg/revision/latest?cb=20240729011632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I can't be certain. It may be a Masked Fool 's trap. From the execution itself, the Riddlers or Inquisition Spirits could have done this themselves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_1_himeko_124.ogg/revision/latest?cb=20240729011110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "When did you discover this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter3_1_welt_114.ogg/revision/latest?cb=20240729011633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "When we were handling that Luofu Stellaron matter. I told Pom-Pom about it first thing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter3_1_himeko_125.ogg/revision/latest?cb=20240729011112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's no wonder that IPC ambassador also mentioned this \"Watchmaker.\" The invite he received must also have contained a hidden message, and it seems like he decoded it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_1_welt_115.ogg/revision/latest?cb=20240729011635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...There's something else on my mind. When the invite was brought up, that Family leader mentioned being one of the \"actual administrators\" of Penacony, and that it was their duty to \"relieve\" us of any problems.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter3_1_welt_116.ogg/revision/latest?cb=20240729011638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "In hindsight, there was more to that statement. He also had Miss Robin with him... I'm no singer, but her voice sounded a little strange... Would a singer really take to the stage if their voice wasn't in top shape?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter3_1_welt_117.ogg/revision/latest?cb=20240729011640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are you saying... you suspect that The Family did not send the invite, and... is hiding something from us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter3_1_himeko_126.ogg/revision/latest?cb=20240729011114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's possible. The fact that The Family sent out invites to the other factions is already unusual. And your discovery confirms that there could be a third party involved... I take back what I said: This \"event\" is becoming more interesting with each passing second.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter3_1_welt_118.ogg/revision/latest?cb=20240729011642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Why didn't you tell the others?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_1_welt_119.ogg/revision/latest?cb=20240729011644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We shouldn't interfere if this is just an internal affair of Penacony or The Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_1_himeko_127.ogg/revision/latest?cb=20240729011116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "But you said so yourself: This could concern the Trailblaze .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter3_1_welt_120.ogg/revision/latest?cb=20240729011646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Well, I did, which is why...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter3_1_himeko_128.ogg/revision/latest?cb=20240729011118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...before we set off, I told March 7th and Dan Heng about this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter3_1_himeko_129.ogg/revision/latest?cb=20240729011120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So I was the only one kept in the dark then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter3_1_welt_121.ogg/revision/latest?cb=20240729011648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_131.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I too just found out about the invite thingy...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That's because you were zonked out the whole ride. No one had the chance to tell you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter3_1_mar7th_119.ogg/revision/latest?cb=20240729011225",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_132.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Time to get involved."
+    },
+    {
+        "type": "choice",
+        "text": "Ain't no biggie when Galactic Baseballer is in the house!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Penacony's situation is getting complicated. Let's tread lightly.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter3_1_welt_122.ogg/revision/latest?cb=20240729011650",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_133.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Who sent the invite, what is the purpose of gathering all the factions into Penacony, and why does The Family choose to remain silent about their knowledge of this... There are too many unanswered questions. We must use the utmost caution before we go deeper.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter3_1_himeko_130.ogg/revision/latest?cb=20240729011122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Right now, let's just focus on the conductor's request: We'll collect intel while enjoying this \"wonderful vacation.\" Penacony is, after all, a famed resort of the cosmos. Not many get a chance to even visit in their lifetime.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter3_1_himeko_131.ogg/revision/latest?cb=20240729011124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_135.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Return to your room and prepare to enter the dream"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the public rest area, Himeko expresses concern about the strange appearance of the invitation, but she said that the most important thing right now is to \"enjoy a pleasant vacation.\"Now, it is finally time to enter the dream... But you can speak with your companions beforehand if you like."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Head back to your rooms, get some rest, and prepare to enter the dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter3_1_himeko_132.ogg/revision/latest?cb=20240729011126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (It's time to head back to my room... Before entering the dream, I should probably talk to the rest.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter3_1_player_101_m.ogg/revision/latest?cb=20240729011409",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_137.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Speak with the Crew"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The decor in here's a little... loud for my tastes. So this is how astral high society does things, huh...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter3_1_welt_123.ogg/revision/latest?cb=20240729011654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_138.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "About the Watchmaker...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "They say he's a historically important figure in Penacony, and tales of his life have been handed down over generations. Such tales encourage believers to come to the Planet of Festivities to pursue their dreams. He's an interesting fellow, that's for sure, and his legacy still has the power to draw people in.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter3_1_welt_124.ogg/revision/latest?cb=20240729011656",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_139.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "But how and why he's involved with that invite, and why his name popped up in the encrypted message allegedly sent by a Nameless... I've got no leads for now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter3_1_welt_125.ogg/revision/latest?cb=20240729011658",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_140.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About The Family...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "The Family believes in the Harmony , and their altruism is well-known across the stars — a trait that is intimately tied to Penacony's stability and prosperity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter3_1_welt_126.ogg/revision/latest?cb=20240729011701",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_141.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "But some factions have always been wary of The Family — suspecting that their benevolence and eloquence belie an ulterior motive... So far, it seems to me that The Family treats their guests with courtesy, so I don't think we need to worry about that for now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter3_1_welt_127.ogg/revision/latest?cb=20240729011703",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_142.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About the dream journey...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "The dream Penacony is divided into twelve moments. Personally, I'm interested in the Moment of Sol — it's a visual dreamscape steeped in Penacony's history and civilization.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_1_welt_128.ogg/revision/latest?cb=20240729011705",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_143.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Penacony's Grand Museum, the Primal Waking Library, the Paperfold academy... The pasts that we chase may be stored in these places.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter3_1_welt_129.ogg/revision/latest?cb=20240729011707",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_144.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "That's enough chit-chat for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Past the guest room's Dreampool is the real Penacony. Let's get ready to move out. Pleasant dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter3_1_welt_130.ogg/revision/latest?cb=20240729011709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_145.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "What's wrong? Not turning in? Can't find your room, or do you have something on your mind?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter3_1_himeko_133.ogg/revision/latest?cb=20240729011128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_146.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "About the Watchmaker...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "One can't discuss the Planet of Festivities without mentioning the Watchmaker — Penacony's household name and figure. Fortune, fame, status... He built everyone's futures with his bare hands, and became the symbol of dreams.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_1_himeko_134.ogg/revision/latest?cb=20240729011130",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_147.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "But the veracity of these stories... remains untraceable. Many have their own opinions on the Watchmaker's origin and past, and there are even some who suspect he is a conceptual construct of The Family.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_1_himeko_135.ogg/revision/latest?cb=20240729011132",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_148.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "For now, I do not think this invite is linked to the Watchmaker. His legacy... It sounds more like a marketing hook to drum up more traffic, if nothing else.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_1_himeko_136.ogg/revision/latest?cb=20240729011134",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_149.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About that IPC representative...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "An IPC ambassador who knows more than he lets on, a silver-tongued businessman, a flamboyant and debonair aristocrat... He could be all of them. My instincts tell me he's much more than meets the eye.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter3_1_himeko_137.ogg/revision/latest?cb=20240729011136",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_150.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Before the dust settles, we should maintain amicable relations with all camps, while keeping our guards up.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter3_1_himeko_138.ogg/revision/latest?cb=20240729011138",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_151.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About the dream journey...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "The dream Penacony is divided into twelve individual dreamscapes. I've heard that the destinations vary for different people when they first enter the dream.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_1_himeko_139.ogg/revision/latest?cb=20240729011140",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_152.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "As for me... I look forward to the Moment of Scorchsand — its wild winds, taverns, and festive choices have more of a Nameless Trailblaze vibe. The Moment of Morning Dew is also a decent choice — I can use that chance to visit The Family.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter3_1_himeko_140.ogg/revision/latest?cb=20240729011142",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_153.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "That's enough chit-chat for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "You must be exhausted from everything that's happened so far. Even if you're Trailblazing, you mustn't forget to relax. Goodnight, and sweet dreams.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter3_1_himeko_141.ogg/revision/latest?cb=20240729011144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_154.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After talking to Welt and Himeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Where's March 7th? Has she returned to her room already?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter3_1_player_102_m.ogg/revision/latest?cb=20240729011413",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_155.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking towards room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Woah! What a big bathtub...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter3_1_mar7th_120.ogg/revision/latest?cb=20240729011227",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Odd... Why's my room door open?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter3_1_player_103_m.ogg/revision/latest?cb=20240729011416",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_157.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate door to March 7th's room, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Can't sleep from all the excitement, huh? I can't wait to experience the dream world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter3_1_mar7th_121.ogg/revision/latest?cb=20240729011229",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_158.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Where are you thinking of going?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "The Moment of Dusk, obviously! How can you not visit the shopping paradise when you're at the resort of all resorts! I'm all ready to fill my bags to the brim!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter3_1_mar7th_122.ogg/revision/latest?cb=20240729011231",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_159.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hmm... After doing my shopping, I'll get all dolled up in an evening gown to attend Miss Robin's show at Penacony Grand Theater!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter3_1_mar7th_123.ogg/revision/latest?cb=20240729011233",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_160.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About Robin...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You know, it's weird. Welt noticed it too, about how Miss Robin's voice sounded somewhat weary... I can't quite put my finger on it, but it was different than usual?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter3_1_mar7th_124.ogg/revision/latest?cb=20240729011235",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_161.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Could she be tired out from her Cosmic Concert Tour? Insisting on performing under such circumstances, Miss Robin is a superstar among celebrities!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter3_1_mar7th_125.ogg/revision/latest?cb=20240729011238",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_162.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About the event...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Here I was, thinking of some good ol' relaxation, but nope! This \"event\" is a wild ride! The various factions deciphering the riddle, a power struggle of past legacies — feels like we're in a live-action detective saga!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_1_mar7th_126.ogg/revision/latest?cb=20240729011240",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_163.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Who knows, maybe we'll even witness classic scenarios like family feuds, tragic losses, worlds torn apart, espionage situations, rivers running red with blood, stuff like that! This is simply too thrilling...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter3_1_mar7th_127.ogg/revision/latest?cb=20240729011242",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_164.ogg"
+            },
+            {
+                "type": "note",
+                "text": "You've got quite the active imagination."
+            },
+            {
+                "type": "note",
+                "text": "That sounds scary."
+            },
+            {
+                "type": "note",
+                "text": "I too wanna see a river of blood!"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Just kidding, how could that be possible?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter3_1_mar7th_128.ogg/revision/latest?cb=20240729011244",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_165.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "That's enough chit-chat for now."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Don't worry, Welt and Himeko will have our backs if things go wrong. Let's just make the most of it all while we're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_1_mar7th_129.ogg/revision/latest?cb=20240729011246",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_166.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Hmm? He's...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter3_1_player_104_m.ogg/revision/latest?cb=20240729011420",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_167.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Aventurine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "How fortuitous, we meet again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter3_1_aventurine_123.ogg/revision/latest?cb=20240729010831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_168.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This is my room. What are you doing here?"
+    },
+    {
+        "type": "note",
+        "text": "Is this your room...?"
+    },
+    {
+        "type": "choice",
+        "text": "We meet again, friend!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "That's right, pal!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter3_1_aventurine_124.ogg/revision/latest?cb=20240729010833",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_169.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Calm down, I'm just here to soak in the festive vibe. This may be your room now, but half a system hour ago, it was still mine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter3_1_aventurine_125.ogg/revision/latest?cb=20240729010835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "A lucky block number, a lucky floor, a lucky room number. You have no idea how much I went through to book this precious space... And now I've given it to you. Treasure it well, friend.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter3_1_aventurine_126.ogg/revision/latest?cb=20240729010838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_171.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You were the one who transferred it to me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Of course. What, you thought The Family acted simply out of their own good will?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter3_1_aventurine_127.ogg/revision/latest?cb=20240729010839",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_172.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You were the one who arranged the check-in?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "No no, I only let you have my room.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_1_aventurine_128.ogg/revision/latest?cb=20240729010841",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_173.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Well, it doesn't matter. You need to leave.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "I'm not sure I like that tone...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_1_aventurine_129.ogg/revision/latest?cb=20240729010843",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_174.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Penacony's a true-blue land of dreams. How many across the stars would spend half their lives, just to acquire an admission ticket into The Reverie?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter3_1_aventurine_130.ogg/revision/latest?cb=20240729010845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Think about the type of people who can even afford to stay here. If it wasn't for my brilliant plan, you think The Family would offend those bigwigs, just to sate the paltry whims of an unsought guest such as yourself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter3_1_aventurine_131.ogg/revision/latest?cb=20240729010847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "So sit down, and let's have a chat. With everything said and done, I think I deserve at least this much, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter3_1_aventurine_132.ogg/revision/latest?cb=20240729010849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_177.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What do you want to talk about?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Cutting to the chase, I like that.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter3_1_aventurine_133.ogg/revision/latest?cb=20240729010851",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_178.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You should go talk to Himeko or Welt.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Wrong. You're the one I seek.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter3_1_aventurine_134.ogg/revision/latest?cb=20240729010853",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_179.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Simply put, my friend, I need your help. You may or may not know this, but Penacony's far murkier than it seems. The Family's eyes are everywhere, but you get the drift.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter3_1_aventurine_135.ogg/revision/latest?cb=20240729010856",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "My goal is simple: Help the IPC retrieve some things that belonged to them in the first place. If you agree, when this is done, you will stand to reap great rewards, as well as the Preservation's protection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter3_1_aventurine_136.ogg/revision/latest?cb=20240729010858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "It's clear you're not just one of the crowd. You possess a distinct quality, so magnetic that it could sway the outcome of any game. That *power*, you really don't wish to use it? Or... you don't want to be rid of it? Why not use it to etch your name across the stars?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter3_1_aventurine_137.ogg/revision/latest?cb=20240729010900",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "The power that men both fear and desire is right in the palms of your hands...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter3_1_aventurine_138.ogg/revision/latest?cb=20240729010902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "▶ ... ( Mr. / Miss ) Stellaron, have I hit the nail on the head?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter3_1_aventurine_139_m.ogg/revision/latest?cb=20240729010906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_184.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "How did you know?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "I know now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter3_1_aventurine_140.ogg/revision/latest?cb=20240729010908",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_185.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't know what you're talking about.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Your acting's good, I like that.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter3_1_aventurine_141.ogg/revision/latest?cb=20240729010910",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_186.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm warning you, you need to leave now.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Warning me! Hahaha, you're too funny.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter3_1_aventurine_142.ogg/revision/latest?cb=20240729010912",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_187.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "You don't have to answer me now. Sit on it for a while. When the time is right, I will look for you again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter3_1_aventurine_143.ogg/revision/latest?cb=20240729010914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Of course, you can confer with your colleagues as well, or go as far as to use me in turn — I welcome that notion. Because it will also show me your true value.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter3_1_aventurine_144.ogg/revision/latest?cb=20240729010916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I don't do deals where I'm on the losing end. So, I hope that \"friends\"... don't let me down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_1_aventurine_145.ogg/revision/latest?cb=20240729010918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_190.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I will think about it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Mm, very well.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter3_1_aventurine_146.ogg/revision/latest?cb=20240729010920",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_191.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I cannot make this decision on my own.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "I already said there's no rush to give me an answer. Because no matter what happens... the outcome will remain the same.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_1_aventurine_147.ogg/revision/latest?cb=20240729010922",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_192.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You should really be going.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "I already said there's no rush to give me an answer. Because no matter what happens... the outcome will remain the same.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter3_1_aventurine_148.ogg/revision/latest?cb=20240729010924",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_193.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Oh yes, before I go, let's play another game — a simple game, to get to know each other better. You just have to guess which hand the chip is hiding in. It'll help you get a better grasp on my personality, and the way I do things...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter3_1_aventurine_149.ogg/revision/latest?cb=20240729010926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_194.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Ding— A chip is tossed into the air, and in the blink of an eye, it disappears, replaced by two clenched fists held out in front of you."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Left or right? Get ready, I'm about to reveal the answer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter3_1_aventurine_150.ogg/revision/latest?cb=20240729010928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Oh, I didn't get your answer. But that's fine, because...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter3_1_aventurine_151.ogg/revision/latest?cb=20240729010930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_196.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Friend, the game has already begun.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Allow me to make you an offer —",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "...one you can't refuse.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "No reason to choose otherwise...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "...and no other choice.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "Hello there.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "What are you doing in my room?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Your room?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter3_1_aventurine_152.ogg/revision/latest?cb=20240729010932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter3_1_aventurine_153.ogg/revision/latest?cb=20240729010934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Well played, friend. You haven't been in Penacony long, but you already know how to rope people in to your cause.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter3_1_aventurine_154.ogg/revision/latest?cb=20240729010936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Don't misunderstand, that was a mere reminder. This place runs deep, with plenty of unsavory characters. Don't forget to stay on your toes. Like... keeping your door closed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_1_aventurine_155.ogg/revision/latest?cb=20240729010938",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "▶ I'll make my exit now, (Trailblazer)! Have a pleasant stay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter3_1_aventurine_156_m.ogg/revision/latest?cb=20240729010942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter3_1_acheron_101.ogg/revision/latest?cb=20240729010611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_202.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Thank you."
+    },
+    {
+        "type": "note",
+        "text": "You are...?"
+    },
+    {
+        "type": "note",
+        "text": "Have we met somewhere..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter3_1_acheron_102.ogg/revision/latest?cb=20240729010613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...Why haven't you left?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter3_1_acheron_103.ogg/revision/latest?cb=20240729010615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_204.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "...Eh?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I said, why haven't you left?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter3_1_acheron_104.ogg/revision/latest?cb=20240729010617",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_205.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This is my room.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "This is my room.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter3_1_acheron_105.ogg/revision/latest?cb=20240729010619",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_206.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why haven't you left?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "Why do I have to?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter3_1_acheron_106.ogg/revision/latest?cb=20240729010621",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_207.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter3_1_acheron_107.ogg/revision/latest?cb=20240729010623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_208.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Version 1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "...Have I come to the wrong room? This can't be. Before I said anything, I even made sure that I had the right room number...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter3_1_acheron_108.ogg/revision/latest?cb=20240729010625",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_209.ogg"
+            },
+            {
+                "type": "note",
+                "text": "(Huh...?)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "Do I have the wrong wing... or even the wrong block? I'm sorry, this hotel is huge, and the hallways all look the same. It's easy to get lost in here...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_1_acheron_109.ogg/revision/latest?cb=20240729010630",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_210.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Version 2)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I jest. Take it easy, this is indeed your room. I was just passing by...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter3_1_acheron_110.ogg/revision/latest?cb=20240729010632",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_211.ogg"
+            },
+            {
+                "type": "note",
+                "text": "(Huh...?)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I'm trying to find my own room too, and I heard a commotion here... so I came to take a look. Luckily your door was open, or it could've gotten dangerous. That man looked like he was up to no good.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter3_1_acheron_111.ogg/revision/latest?cb=20240729010634",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_212.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Version 3)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I was just teasing, please forgive me. This is indeed your room. I saw that man snooping about while I was in the hallway, it didn't seem like he was searching for his own room, so it made me wary...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_1_acheron_112.ogg/revision/latest?cb=20240729010637",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_213.ogg"
+            },
+            {
+                "type": "note",
+                "text": "(Huh...?)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "I later saw you walking into the same room, so I began to connect the dots. The situation got a bit tense... I hope you don't mind that I pulled this stunt.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter3_1_acheron_113.ogg/revision/latest?cb=20240729010639",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_214.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "(I have a strange feeling about this...)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Anyway, as long as you're all right. I should return to my room too.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter3_1_acheron_114.ogg/revision/latest?cb=20240729010641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "But before I go, can I ask you a question? You may think it somewhat strange, perhaps even rude, but I wish to know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter3_1_acheron_115.ogg/revision/latest?cb=20240729010643",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...Have we met somewhere before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter3_1_acheron_116.ogg/revision/latest?cb=20240729010645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_217.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I was about to ask too..."
+    },
+    {
+        "type": "note",
+        "text": "Woah, déjà vu..."
+    },
+    {
+        "type": "note",
+        "text": "Perhaps in a dream..."
+    },
+    {
+        "type": "note",
+        "text": "Probably not."
+    },
+    {
+        "type": "condition",
+        "text": "(Version 1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "...Is that so? I haven't been able to shake off this familiar feeling since just now... Maybe this is what they call déjà vu, hehe. Or it could purely be serendipity.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_1_acheron_117.ogg/revision/latest?cb=20240729010647",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_218.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Version 2)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "This may sound embarrassing, because I would sometimes forget stuff I really shouldn't have from past experiences... It's just a habit of mine, don't mind me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter3_1_acheron_118.ogg/revision/latest?cb=20240729010649",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_219.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Version 3)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "...Yes, it was a dream. I had a dream on my way here, and I think you were in it... A blink of a thought in my head...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter3_1_acheron_119.ogg/revision/latest?cb=20240729010652",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_220.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "▶ (Trailblazer), this is your name, isn't it? Pleased to meet you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter3_1_acheron_120_m.ogg/revision/latest?cb=20240729010656",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_221.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How do you know?"
+    },
+    {
+        "type": "note",
+        "text": "Do you still remember me?"
+    },
+    {
+        "type": "note",
+        "text": "I'm that famous now?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "*smiles* You forget, that man mentioned it before he left. My memory's not very good, but it's not so bad that I can't remember details from just minutes ago.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter3_1_acheron_121.ogg/revision/latest?cb=20240729010658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_222.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Galaxy Ranger, Acheron... This is what they call me. You can call me whatever you want. We will likely meet again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter3_1_acheron_122.ogg/revision/latest?cb=20240729010701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_223.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Lastly, a gentle reminder... There are people who possess unwavering resolution and faith, even unto death, and they do not wield such conviction for good. And on that man's face, I see such a similar expression.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter3_1_acheron_123.ogg/revision/latest?cb=20240729010703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_224.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "One who wears a blade must use it to cut eventually. And when a gambler has nothing to lose on the table, he will surely go for broke and bet it all on a final hand... That is all I can say.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter3_1_acheron_124.ogg/revision/latest?cb=20240729010705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_225.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I thought you should know all this before making a choice. Goodbye.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter3_1_acheron_125.ogg/revision/latest?cb=20240729010707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_226.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Acheron left... Strange... I can't shake off this odd feeling I have...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter3_1_player_105_m.ogg/revision/latest?cb=20240729011424",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_227.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Forget it. It's taken a while, but at least I can finally enter the dream... Hmm?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter3_1_player_106_m.ogg/revision/latest?cb=20240729011428",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_228.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter3_1_acheron_126.ogg/revision/latest?cb=20240729010709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_229.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Why're you back?"
+    },
+    {
+        "type": "note",
+        "text": "Is there something else?"
+    },
+    {
+        "type": "note",
+        "text": "It didn't take long for a reunion."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Mmm...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter3_1_acheron_127.ogg/revision/latest?cb=20240729010710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_230.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Sorry, can you point me in the direction of the lobby? All these hallways really look the same to me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_1_acheron_128.ogg/revision/latest?cb=20240729010712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_231.ogg"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "You show Acheron the way, she thanks you again and again."
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainAventurine's TokenandAcheron (Dreamscape Pass Sticker))"
+    },
+    {
+        "type": "heading",
+        "text": "Enter the dream in the Dreampool"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You have finally made it through the series of mysterious encounters standing between you and entering the dream. Congratulations!Now you just need to enter the Dreampool in the center of your room and operate it according to the instructions, and you'll be dreaming in no time."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Seems like it's over. Time to work the Dreampool according to the Dreamscape Pass' instructions...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter3_1_player_107_m.ogg/revision/latest?cb=20240729011432",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_232.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate Dreampool)"
+    },
+    {
+        "type": "note",
+        "text": "Dream."
+    },
+    {
+        "type": "note",
+        "text": "You approach the Dreampool and hear the sweet voice of a female singer coming from all around the room, fragrance permeating the air. Together, these two elements envelop you in their embrace. The scent is sweet, profound, and luxurious — reminiscent of ripened fruits and a distant ocean painted by the hues of a setting sun."
+    },
+    {
+        "type": "note",
+        "text": "Perhaps, it's time to enter the dream."
+    },
+    {
+        "type": "choice",
+        "text": "Lie down in the Dreampool.",
+        "children": [
+            {
+                "type": "note",
+                "text": "You curl your body, lying down in the center of the Dream Pool. The icy liquid rises above your waist. The gentle female voice continues to whisper in your ear, accompanied by the tolling of evening bells. The wild wind rustles through the barren plains, while nightingales, seagulls, swans, and ravens add their symphony to the choir..."
+            },
+            {
+                "type": "note",
+                "text": "Pendulum swings. You wonder what dream you'll delve into and slowly drift into drowsiness..."
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Not yet."
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Please relax. Feel the ebb and flow of your body..."
+            },
+            {
+                "type": "note",
+                "text": "Just focus on breathing, and imagine you're in paradise..."
+            },
+            {
+                "type": "note",
+                "text": "Imagine... a dream land."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Mikhail...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Come back...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Mikhail...!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "What is it, Ratio? Why the long face... Hey, I just realized, where's that handsome bust of yours?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter3_1_aventurine_157.ogg/revision/latest?cb=20240729010944",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "You're late, by four minutes and sixteen seconds. You'd better have solved the mystery of Akivili 's fall. Otherwise, I'd suggest not tangling with the Nameless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter3_1_ratio_101.ogg/revision/latest?cb=20240729011454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_234.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "You mean you don't believe me when I say I truly wish to befriend them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_1_aventurine_158.ogg/revision/latest?cb=20240729010946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Clamorous people do not make friends. Fun fact: The Attini Peacock boasts one of the universe's more jarring songs, and your choice of attire is somewhat peacock-esque.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter3_1_ratio_102.ogg/revision/latest?cb=20240729011456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_236.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "...It seems this peacock is short of a feather or two. The Family's been rummaging through your things, haven't they?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter3_1_ratio_103.ogg/revision/latest?cb=20240729011458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_237.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Yeah, by that gray-suited fellow. All the cash gifts, and the box containing the Cornerstones ... Eh? Where're you going?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter3_1_aventurine_159.ogg/revision/latest?cb=20240729010948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Back home, to tell the corporation that some idiot ruined everything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter3_1_ratio_104.ogg/revision/latest?cb=20240729011500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_239.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "It's nothing more than a few rocks, why so serious? Who cares if they're gone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_1_aventurine_160.ogg/revision/latest?cb=20240729010950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_240.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Without that aventurine stone, you're nothing more than a doomed Sigonian thrall sentenced to die by the IPC. Or is that serial number on your neck a cherished memento from the Amber Lord?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter3_1_ratio_105.ogg/revision/latest?cb=20240729011502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_241.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Hah, you're funny, I'll give you that! It appears our erudite friend has done his homework.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter3_1_aventurine_161.ogg/revision/latest?cb=20240729010952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_242.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "It's my job. How would a gambler wrest Penacony back for the IPC otherwise?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_1_ratio_106.ogg/revision/latest?cb=20240729011504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Don't worry, Doctor, I have my ways. The Family fears interference from the IPC, hence their constant intervention... Or, to play devil's advocate, perhaps Penacony might have always been a ruse under the guise of \"the Harmony?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter3_1_aventurine_162.ogg/revision/latest?cb=20240729010954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "If you ask me, that invite is nothing but a self-planted diversion, a red herring. Or maybe they're thinking of pulling off something big during the Charmony Festival...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter3_1_aventurine_163.ogg/revision/latest?cb=20240729010957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Or someone else made the invite, and they acquiesced to elevating the magnitude of the plan. Regardless — be it The Family or the Watchmaker's Legacy, as long as they're all useful to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_1_aventurine_164.ogg/revision/latest?cb=20240729010959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_246.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Get to the point. What's your plan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_1_ratio_107.ogg/revision/latest?cb=20240729011506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "No need to expand on that now. It's not yet time to reveal my trump card.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter3_1_aventurine_165.ogg/revision/latest?cb=20240729011002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Damned gambler. Any true collaboration demands trust. Did that notion somehow escape your Sigonian upbringing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter3_1_ratio_108.ogg/revision/latest?cb=20240729011509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_249.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Then, do you trust me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter3_1_aventurine_166.ogg/revision/latest?cb=20240729011003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_250.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "That depends on you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter3_1_ratio_109.ogg/revision/latest?cb=20240729011511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_251.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "So you don't trust me either. Now that was easy, wasn't it? Also, I didn't go to school, and my parents didn't teach me any of that. A pity, they left before they could impart any life lessons.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_1_aventurine_167.ogg/revision/latest?cb=20240729011006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "...I did not mean to offend.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter3_1_ratio_110.ogg/revision/latest?cb=20240729011513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I'm not offended. But they did teach me that friends are weapons of the Avgins . Even under the watchful eye of the Harmony, we need as many friends as we can get.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter3_1_aventurine_168.ogg/revision/latest?cb=20240729011008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Let's see, the Garden of Recollection and the Astral Express have already made contact. The Annihilation Gang ... I can't really count on them. The Knights of Beauty haven't given their answer, and as for that bunch at the Tavern ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter3_1_aventurine_169.ogg/revision/latest?cb=20240729011011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Speaking of which, I ran into a woman just now who introduced herself as a Galaxy Ranger . The whole conversation felt off. Help me look into her...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter3_1_aventurine_170.ogg/revision/latest?cb=20240729011013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...Huh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter3_1_aventurine_171.ogg/revision/latest?cb=20240729011015",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...You don't really disdain me that much, do you? Well, seems like I'm on my own again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_1_aventurine_172.ogg/revision/latest?cb=20240729011017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_258.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the unfamiliar room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Under the guidance of a sweet voice, your thoughts grow clouded and flowing, transcending reality along with the smoke that fills your room, as you arrive in a Dreamscape created from a \"Memory Zone.\" However, the scene you find before you is not a beautiful dream. It seems more like a nightmare. Not only that, but this room has a faint air of deja vu about it.Have you actually entered Penacony? It seems that you must find a way to make sense of your situation."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (So this is... the Dreamscape?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter3_1_player_108_m.ogg/revision/latest?cb=20240729011436",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_259.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (The atmosphere here creeps me out, and... what was that weird noise just now?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter3_1_player_109_m.ogg/revision/latest?cb=20240729011440",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_260.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate Dreampool, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Broadcaster",
+        "line": "The dreamscape ██ █ ██ hotel █ ██ under construction. Please ██ █ receive instructions from ho█ service ██ █aff and enter the ███ █ through the designated █ █ ██...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter3_1_tishi_108.ogg/revision/latest?cb=20240729011559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Broadcaster_261.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate door, optional)"
+    },
+    {
+        "type": "note",
+        "text": "This door appears unopenable from this side."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate table)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (A... note?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter3_1_player_110_m.ogg/revision/latest?cb=20240729011444",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_262.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Quick Read)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "Watchmaker's Advice"
+            },
+            {
+                "type": "note",
+                "text": "The impossible can also happen in dreams Find it, and then you shall be granted an audience."
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the source of the sound"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Under the guidance of a sweet voice, your thoughts grow clouded and flowing, transcending reality along with the smoke that fills your room, as you arrive in a Dreamscape created from a \"Memory Zone.\" However, the scene you find before you is not a beautiful dream. It seems more like a nightmare. Not only that, but this room has a faint air of deja vu about it.As you investigate, you hear a panicked shout coming from a certain spot in the room... Perhaps you should go and check just who this voice belongs to."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "This way! Can you see me? Over here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter3_1_misha_115.ogg/revision/latest?cb=20240729011320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_263.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Please come this way!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter3_1_misha_116.ogg/revision/latest?cb=20240729011321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_264.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I thought I heard a familiar voice... Is it coming from the painting?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_1_player_111_m.ogg/revision/latest?cb=20240729011448",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_265.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate painting)"
+    },
+    {
+        "type": "note",
+        "text": "Enter the Dreamscape"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with the hotel doorman"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As you touch the frame, you are pulled in by an irresistible force, coming to a \"World Within the Painting\"... No, this is actually just another area of the Dreamscape, a very long corridor.The hotel doorman Misha is awaiting you here. It seems he wishes to speak with you."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Ah, you're here! Wonderful!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter3_1_misha_117.ogg/revision/latest?cb=20240729011323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_266.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Oh, I... I thought you wouldn't notice me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_1_misha_118.ogg/revision/latest?cb=20240729011325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_267.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Misha)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Welcome to the Gallery of Thoughts! You can think of this as the entrance to the Golden Hour. I'm here to provide guidance to our guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_1_misha_119.ogg/revision/latest?cb=20240729011328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_268.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "We meet again.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Huh, you remember me? I'm so glad.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_1_misha_120.ogg/revision/latest?cb=20240729011330",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_269.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This whole place looks weird.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "This is a temporary interchange, so it looks a little rundown... The Reverie in the dreamscape is currently undergoing a revamp.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter3_1_misha_121.ogg/revision/latest?cb=20240729011332",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_270.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I apologize for any unpleasantness in your stay... but if you enter the Golden Hour, I'm sure all your troubles will dissipate in an instant!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_1_misha_122.ogg/revision/latest?cb=20240729011337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_271.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What happened to The Reverie?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "You're asking about The Reverie in the dreamscape, right? I'm not sure exactly either, I'm sorry...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter3_1_misha_123.ogg/revision/latest?cb=20240729011339",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_272.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What is \"Golden Hour?\"",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "You've perhaps read about it in your Dreamscape Pass, but I can explain one more time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter3_1_misha_124.ogg/revision/latest?cb=20240729011341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_273.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Golden Hour is one of the twelve dreamscapes in Penacony, and its time coincides with midnight. Here, the dream's time is forever stuck in the moment before midnight. Tomorrow will not come, and this night of revelry will never end...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter3_1_misha_125.ogg/revision/latest?cb=20240729011343",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_274.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "...Ah, but that doesn't mean that time has stopped in the dream. To avoid any physical or mental burden on guests, time in the dream has been synced with reality's, so don't worry!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter3_1_misha_126.ogg/revision/latest?cb=20240729011345",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_275.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I just picked up a note...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Note? Did you find it in the room?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter3_1_misha_127.ogg/revision/latest?cb=20240729011347",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_276.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Ah... It wasn't trash left behind by the previous guest, was it...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter3_1_misha_128.ogg/revision/latest?cb=20240729011349",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_277.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "It was my mistake — I failed to tidy up properly, and caused an inconvenience for you... I'm truly sorry!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter3_1_misha_129.ogg/revision/latest?cb=20240729011351",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_278.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "How do I get to Golden Hour?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "You just go right through that door to reach Golden Hour. I wish you an unforgettable dream!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter3_1_misha_130.ogg/revision/latest?cb=20240729011353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_279.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Misha again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "Right through that doorway is Golden Hour. If you've any other questions, I'm more than happy to answer them!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter3_1_misha_131.ogg/revision/latest?cb=20240729011355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_280.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What happened to The Reverie?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "You're asking about The Reverie in the dreamscape, right? I'm not sure exactly either, I'm sorry...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter3_1_misha_132.ogg/revision/latest?cb=20240729011357",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_281.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What is \"Golden Hour?\"",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "You've perhaps read about it in your Dreamscape Pass, but I can explain one more time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_1_misha_133.ogg/revision/latest?cb=20240729011359",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_282.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "Golden Hour is one of the twelve dreamscapes in Penacony, and its time coincides with midnight. Here, the dream's time is forever stuck in the moment before midnight. Tomorrow will not come, and this night of revelry will never end...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter3_1_misha_134.ogg/revision/latest?cb=20240729011401",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_283.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Misha",
+                "line": "...Ah, but that doesn't mean that time has stopped in the dream. To avoid any physical or mental burden on guests, time in the dream has been synced with reality's, so don't worry!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter3_1_misha_135.ogg/revision/latest?cb=20240729011403",
+                "is_unavailable": false,
+                "audio_filename": "audio_Misha_284.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I've nothing else to ask, thank you."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Misha",
+        "line": "I wish you unforgettable dreams in Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter3_1_misha_136.ogg/revision/latest?cb=20240729011405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Misha_285.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to Penacony: The Golden Hour"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Having heard Misha's explanation, you come to understand that the Reverie hotel within the dream is under maintenance and all guests must therefore pass through a temporary transfer station in order to reach Golden Hour. This is the true nature of the room you were just in.Now, you need only touch the other picture frame to finally enter Penacony."
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Behind this door is the real Penacony... I'm looking forward to it.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_1_player_112_m.ogg/revision/latest?cb=20240729011452",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_286.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate painting)"
+    },
+    {
+        "type": "note",
+        "text": "Enter the Dreamscape"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "▶ (Trailblazer)! Are you alright?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_2_robin_101_m.ogg/revision/latest?cb=20240815203539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_287.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The fall didn't hurt at all!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "Hehe, well you are in the Dreamscape, after all.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter3_2_robin_102.ogg/revision/latest?cb=20240815203204",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_288.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think I'm hallucinating...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "Hehe, that's a normal reaction for first-time visitors to the Dreamscape.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter3_2_robin_103.ogg/revision/latest?cb=20240815203207",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_289.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are we in Heaven... Or?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "Haha, there's nothing to worry about — you've arrived at the Dreamscape.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_2_robin_104.ogg/revision/latest?cb=20240815203208",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_290.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Seems like our guest here hasn't gotten used to the transition. Fret not, feeling a sense of weightlessness is normal for new visitors.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter3_2_sunday_101.ogg/revision/latest?cb=20240815203225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_291.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Robin, please guide our friend in getting more comfortable with the new environment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_2_sunday_102.ogg/revision/latest?cb=20240815203228",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_292.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Leave it to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter3_2_robin_105.ogg/revision/latest?cb=20240815203209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_293.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Robin gives a slight nod to her brother, then locks her emerald gaze with yours. She smiles, and you see ripples shimmering in the depths of her lake-green eyes, followed by a mighty vortex emerging from the depths of the pool."
+    },
+    {
+        "type": "note",
+        "text": "Your vision dims as your body dissolves, becoming one with the fluidity of the time-space. You resonate with and become attuned to the serene fusion of frequencies. Your heart drums, leading this symphony."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Don't worry, just relax. You'll be feeling like your normal self in no time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter3_2_robin_106.ogg/revision/latest?cb=20240815203210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_294.ogg"
+    },
+    {
+        "type": "note",
+        "text": "▶ The choir starts. \"Inhale.\" They sing. \"Now Exhale.\" They chant. Instinct compels, and the stagnant fluid in your chest begins to flow again."
+    },
+    {
+        "type": "note",
+        "text": "A gentle warmth emanates from within, saturating every inch of your being. Your melodies slow down, fade away, like a lullaby. A seven-colored illusion delicately caresses the top of your head and closes your eyes, its movements tender and compassionate. You feel contentment and drift into a deep slumber."
+    },
+    {
+        "type": "note",
+        "text": "You open your eyes and feel a vitality like no other. The difficulty you were experiencing a moment earlier feels like a distant memory."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "▶ You should be feeling fully in control now. (Trailblazer), welcome to Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_robin_108_m.ogg/revision/latest?cb=20240815203544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_295.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What does that mean? What did you just do to me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "I've merely changed your state of mind for you to feel more at ease.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter3_2_robin_109.ogg/revision/latest?cb=20240815203213",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_296.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did you just brainwash me...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "I've merely changed your state of mind for you to feel more at ease.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter3_2_robin_110.ogg/revision/latest?cb=20240815203214",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_297.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What was that sound just now...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Robin",
+                "line": "It was a song with a harmonic tune.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_2_robin_111.ogg/revision/latest?cb=20240815203219",
+                "is_unavailable": false,
+                "audio_filename": "audio_Robin_298.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Relax. Just did some tuning on you with the resonance of the Harmony to allow you to control your limbs freely in the Dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter3_2_sunday_103.ogg/revision/latest?cb=20240815203232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_299.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Essentially, the dream of Penacony is a world formed by memoria. Only by fully understanding its nature can you move freely within it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter3_2_sunday_104.ogg/revision/latest?cb=20240815203236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_300.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It's like learning to swim — it's easy to sink at first when you aren't accustomed to the water, but once you get the hang of it you can float and swim on the surface effortlessly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter3_2_sunday_105.ogg/revision/latest?cb=20240815203245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_301.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's a great analogy. I get it now.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Thanks for the compliment. In fact, we don't really have an in-depth understanding of the memoria.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter3_2_sunday_106.ogg/revision/latest?cb=20240815203246",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_302.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This is deep...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Indeed. But still, we don't really have an in-depth understanding of the memoria.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter3_2_sunday_107.ogg/revision/latest?cb=20240815203248",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_303.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Does that mean I can levitate in the air?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sunday",
+                "line": "Theoretically, you can, but it would be very difficult to pull off. After all, we don't really have an in-depth understanding of the memoria yet.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter3_2_sunday_108.ogg/revision/latest?cb=20240815203249",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sunday_304.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Unless you're one of the Memokeepers of the Garden of Recollection, it can be difficult at first to manipulate the memoria as you wish. But once you've been tuned by the Harmony, you can use the same laws of physics from the real world to understand how the dream world works.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter3_2_sunday_109.ogg/revision/latest?cb=20240815203256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_305.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Oops... I've fallen into my professional habits again. I just can't seem to shake off this urge to be a know-it-all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_2_sunday_110.ogg/revision/latest?cb=20240815203257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_306.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Robin",
+        "line": "Don't mind him — he's always like that. Please enjoy the beautiful dreamscape The Family has built for everyone. We shall take our leave. Have a blast!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter3_2_robin_112.ogg/revision/latest?cb=20240815203223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Robin_307.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Messages March 7th March 7th Hehe Awesome! We can send messages even in the dream! You there yet? I'm there now. (Trailblazer) I'm there now March 7th Yay Not yet (Trailblazer) Still omw March 7th Liar :( March 7th I just got in touch with Himeko and Mr. Yang. They all went to different Dreamscapes I'm at the Moment of Dusk! I'm planning to check out the auction It's gonna be a pain to meet up again, so why don't we split up for now You're at the Golden Hour? I heard the Dreamscape Sales Store there is super famous Can you plz check it out for me? Pretty plz? If it's really fun, then I'll head over there next!"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainRealitätsprinzip×1)\n(UnlockAchievementTrailblazer in Dreamscape)"
+    }
+]

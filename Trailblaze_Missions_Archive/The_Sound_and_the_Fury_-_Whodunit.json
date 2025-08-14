@@ -1,0 +1,2174 @@
+[
+    {
+        "type": "heading",
+        "text": "Follow Black Swan and leave the hotel in the Dreamscape"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.Follow Black Swan to the Memory Zone's exit while investigating the murder scene."
+    },
+    {
+        "type": "condition",
+        "text": "(Take the elevator to the VIP floor)"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "...What's going on? Why is it... getting hot in the memoria?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/Vo_chapter3_5_blackswan_155.ogg/revision/latest?cb=20240703223236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "You've noticed it too. Like something is burning...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/Vo_chapter3_5_acheron_152.ogg/revision/latest?cb=20240703223319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "These are all... charred remains?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_5_blackswan_156.ogg/revision/latest?cb=20240703223239",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "They're still smoldering — the culprit can't have gotten far.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_5_acheron_153.ogg/revision/latest?cb=20240703223321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I suppose we can slow down for now then...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_5_blackswan_157.ogg/revision/latest?cb=20240703223241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_4.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the charred remains"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.You discovered a large number of charred remains during your evacuation. They are worth a thorough investigation."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "They're all just *burning* Remembrances... a stark contrast to this deep sea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Vo_chapter3_5_blackswan_158.ogg/revision/latest?cb=20240703223243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Acheron, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Careful, these traces are fresh. Our unsought guest isn't far away.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/Vo_chapter3_5_acheron_154.ogg/revision/latest?cb=20240703223323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_6.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach north door, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Not there. Come back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_5_blackswan_102.ogg/revision/latest?cb=20240703230312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate carcass)"
+    },
+    {
+        "type": "note",
+        "text": "The remains of this creature bears narrow and deep incisions, with evident traces of charring inflicted by intense burning. A few sparks dance and flicker within, resembling shattered stars departing towards IX ."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like this monster was slain by a thermic weapon...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_5_player_105_m.ogg/revision/latest?cb=20240703223333",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate carcass)"
+    },
+    {
+        "type": "note",
+        "text": "The remains of this creature, pierced by an unknown weapon, reveal inner tissues that have been seemingly evaporated rapidly due to intense heat. You cannot approach any closer — the steam escaping from the shattered body would undoubtedly scorch you."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Looks like this monster died of a hyperthermic reaction...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_5_player_106_m.ogg/revision/latest?cb=20240703223336",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_9.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate third carcass)"
+    },
+    {
+        "type": "note",
+        "text": "The surface of this creature's remains appears unremarkable. Yet, as your hand grazes it, the searing heat transferred to your fingertips sends you jolting back, as if struck by an electric shock."
+    },
+    {
+        "type": "note",
+        "text": "Without a doubt, a fierce inferno rages within the remains, desperately longing to break free from its confines. For the sake of your safety, it is best to keep your distance."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Something's off. These traces are fresh. Someone just left the scene... Would this person have anything to do with what happened just now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/Vo_chapter3_5_acheron_155.ogg/revision/latest?cb=20240703223325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I cannot reach a conclusion with so few clues.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/Vo_chapter3_5_blackswan_159.ogg/revision/latest?cb=20240703223245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Just listen to your gut — you were the one who said that... the Remembrance doesn't lie.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_5_acheron_156.ogg/revision/latest?cb=20240703223327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "From the memories of these carcasses... that person was tall, and much stronger than an adult male. The method was clean and crisp, all one-strike kills — maybe a mercenary, or an assassin.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_5_blackswan_160.ogg/revision/latest?cb=20240703223247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "He entered through the door from the lobby, and went farther into the hotel. If that's the case... he should have seen everything that happened here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_5_blackswan_161.ogg/revision/latest?cb=20240703223250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "...I take back what I said. We have to hurry to that Memory Zone where Miss Firefly's presence was imprinted. Considering what this person can do...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_5_blackswan_162.ogg/revision/latest?cb=20240703223252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "If his goal is that place as well, there won't be anything left there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/Vo_chapter3_5_blackswan_163.ogg/revision/latest?cb=20240703223254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_16.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue to follow Black Swan to leave the hotel in the Dreamscape"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.Black Swan believes that the situation may be even more serious than she imagined. You must hurry to the Memory Zone branded with traces of Firefly as quickly as possible."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "You two, this way. I'll try to create a stable shortcut for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_5_blackswan_164.ogg/revision/latest?cb=20240703223255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_17.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the lobby)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Look... Upon leaving the lobby, the structure has become chaotic. Phase through that corridor, and be careful — do not alert the meme.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_5_blackswan_165.ogg/revision/latest?cb=20240703223258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_18.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "This is truly... a magnificent sight. It's this room, then?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_5_acheron_157.ogg/revision/latest?cb=20240703223329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Yes. More precisely, it's right below.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_5_blackswan_166.ogg/revision/latest?cb=20240703223300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_20.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Right below?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Exactly what it means: Down.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/Vo_chapter3_5_blackswan_167.ogg/revision/latest?cb=20240703223301",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Doesn't look like there's a way down.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I wouldn't call it a shortcut if there was.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/Vo_chapter3_5_blackswan_169.ogg/revision/latest?cb=20240703223306",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_22.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Are you going to teach me to phase through walls now?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "You two may not be able to phase through physical structures like Memokeepers, but I've got a great idea that will let you safely reach the floor right below this room.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_5_blackswan_168.ogg/revision/latest?cb=20240703223304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "It's really easy — see this chandelier? Next... we want to create some reasonably *small movements*.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/Vo_chapter3_5_blackswan_172.ogg/revision/latest?cb=20240703223312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_24.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find a way to shoot down the chandelier to clear a path"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.The Memory Zone keeps transforming. Sometimes, you may have to rely on certain tricks to find the true exit."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Still remember what I taught you? Feel the flow of the memoria, walk up the wall, and then... get close to it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_5_blackswan_173.ogg/revision/latest?cb=20240703223314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Obtain Bubble Charge)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(OpenDreamwalker (IV) Tutorial)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the chandelier's chain)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Look, a solitary chain. Go say hello to it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_5_blackswan_174.ogg/revision/latest?cb=20240703223317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_26.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Break the chain)"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Look, it's common sense and easy, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_6_blackswan_101.ogg/revision/latest?cb=20240703222750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Are we... jumping down from here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_6_acheron_101.ogg/revision/latest?cb=20240703222726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Don't worry, I'll do something about it. Let me stack the dream bubbles to give everyone a nice, soft landing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_6_blackswan_102.ogg/revision/latest?cb=20240703222752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Okay, here we go...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_6_blackswan_103.ogg/revision/latest?cb=20240703222754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "We landed safely. This is... amazing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Vo_chapter3_6_acheron_102.ogg/revision/latest?cb=20240703222728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Don't imitate the Memokeeper without the accompaniment of one! Well...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_6_blackswan_104.ogg/revision/latest?cb=20240703222756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "...wouldn't it be lovely if these nosy newcomers found their way back home?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_6_blackswan_105.ogg/revision/latest?cb=20240703222758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_33.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstDreamjolt Troupe's Sweet Gorilla×1,Dreamjolt Troupe's Bubble Hound×2)"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Black Swan"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.You finally reach the area that Black Swan was talking about. From there, the Memokeeper reproduces the memories related to Firefly — Let's hope that these traces can enlighten your thoughts."
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "No one will disturb us now. Here, how about I show you a little magic trick?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/Vo_chapter3_6_blackswan_106.ogg/revision/latest?cb=20240703222800",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_34.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach south hallway, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Not there. Come back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/Vo_chapter3_5_blackswan_102.ogg/revision/latest?cb=20240703230312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_35.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Are you ready? Don't be too surprised.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Vo_chapter3_6_blackswan_108.ogg/revision/latest?cb=20240703222802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Is that... Firefly?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Vo_chapter3_6_acheron_103.ogg/revision/latest?cb=20240703222730",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Yes. It's what this room left behind — the memories of her. The slight trembling of the ground, the fleeting reflections on the screen, the flow of memoria... I gathered and reproduced them in fragments.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/Vo_chapter3_6_blackswan_109.ogg/revision/latest?cb=20240703222804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "As for the context... we'll need to sort that out a bit. Hurry along now. Recreating memories on this scale takes quite a toll on me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/Vo_chapter3_6_blackswan_110.ogg/revision/latest?cb=20240703222806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ That thing I encountered with (Trailblazer) back then...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_6_firefly_104_m.ogg/revision/latest?cb=20240703222855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If I'm not wrong... it has to do with the Watchmaker .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_6_firefly_105.ogg/revision/latest?cb=20240703222857",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "She mentioned your name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_6_acheron_106.ogg/revision/latest?cb=20240703222735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Thinking of you even in your absence, seems like you two were pretty close.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_6_blackswan_114.ogg/revision/latest?cb=20240703222813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "She seems to be sharing her discovery with someone, and... it's related to the Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/Vo_chapter3_6_blackswan_115.ogg/revision/latest?cb=20240703222815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "She has no idea that she'll become a victim...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_6_acheron_107.ogg/revision/latest?cb=20240703222737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_45.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow the Firefly in the memory"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Black Swan tells you that you should evacuate as quickly as possible. But, as you are evacuating, you may be fortunate enough to find some traces left by Firefly that could help unravel the truth behind this sudden demise.You finally reach the area that Black Swan was talking about. From there, the Memokeeper reproduces the memories related to Firefly — Try to iron out the truth behind this murder."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If I could try again...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Vo_chapter3_6_firefly_101.ogg/revision/latest?cb=20240703222848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "She stares at the screens. Is she looking at herself in the mirror? ...What does she mean by \"try again\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_6_acheron_104.ogg/revision/latest?cb=20240703222732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_47.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Let's get going...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Vo_chapter3_6_firefly_103.ogg/revision/latest?cb=20240703222851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "\"Let's\"? Is there someone else?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/Vo_chapter3_6_blackswan_112.ogg/revision/latest?cb=20240703222809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_49.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Calm down, Firefly... Stay calm...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/Vo_chapter3_6_firefly_102.ogg/revision/latest?cb=20240703222850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "She seems... very nervous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/Vo_chapter3_6_acheron_105.ogg/revision/latest?cb=20240703222734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Yes. What is making her so nervous?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_6_blackswan_111.ogg/revision/latest?cb=20240703222808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_52.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After interacting with every Firefly in the room, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "With all this in mind, Firefly and her companion — there should only be one — have entered this corridor together.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_6_blackswan_113.ogg/revision/latest?cb=20240703222812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_53.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Why did you...!? This isn't what we agreed on...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_6_firefly_106.ogg/revision/latest?cb=20240703222859",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_54.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "The situation has changed, and it seems that companion... has deviated from the original plan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Vo_chapter3_6_acheron_108.ogg/revision/latest?cb=20240703222739",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Perhaps, judging from the outcome... this is that person's true intention.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Vo_chapter3_6_blackswan_116.ogg/revision/latest?cb=20240703222817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_56.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Mecha...!? Why...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_6_firefly_107.ogg/revision/latest?cb=20240703222901",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_57.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Who forced her to go that way? And...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_6_acheron_109.ogg/revision/latest?cb=20240703222741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "\"Mecha\"... What an intriguing statement. I recall the Bloodhound family is pursuing a criminal — \"a tall male in silver armor.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/Vo_chapter3_6_blackswan_117.ogg/revision/latest?cb=20240703222819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The door... It won't open... It's a dead end...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_6_firefly_109.ogg/revision/latest?cb=20240703222905",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Based on these fragmented pieces of information, it seems Firefly's companion betrayed her halfway and trapped her alone in this room, disappearing without a trace... But why?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/Vo_chapter3_6_acheron_110.ogg/revision/latest?cb=20240703222743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "She mentioned that this transaction involves the Watchmaker, and that often means stepping on many people's toes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/Vo_chapter3_6_blackswan_118.ogg/revision/latest?cb=20240703222821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "They might have had their eyes on the legacy, or wanted to silence another who knew too much. Or, there could be a deeper secret tucked away in this Memory Zone, and to hook that elusive prize... one needs the right bait.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_6_blackswan_119.ogg/revision/latest?cb=20240703222823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Do you mean... Firefly?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_6_acheron_111.ogg/revision/latest?cb=20240703222745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "This is just the worst-case scenario. But think about it: If the mastermind behind all this is nearby, why would he let us look around freely? Unless...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_6_blackswan_120.ogg/revision/latest?cb=20240703222825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "...there is something else he cares more about and needs — or should I say, is verifying.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_6_blackswan_121.ogg/revision/latest?cb=20240703222827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "She had no other way to leave but from the side corridor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_6_blackswan_122.ogg/revision/latest?cb=20240703222829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There's actually a path here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_6_firefly_110.ogg/revision/latest?cb=20240703222907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Unpredictable pathways pointing toward a wandering meme... She was completely lost in the Memory Zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_6_blackswan_124.ogg/revision/latest?cb=20240703222833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Unpredictable pathways pointing toward a wandering meme... She was completely lost in the Memory Zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_6_blackswan_124.ogg/revision/latest?cb=20240703222833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach hallway)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's an exit... Following this path should lead me out of this place...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_6_firefly_111.ogg/revision/latest?cb=20240703222908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Unfortunately, this path ultimately leads one to the lair of \"Death.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_6_blackswan_126.ogg/revision/latest?cb=20240703222837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_72.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Unfortunately, this path ultimately leads one to the lair of \"Death.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Vo_chapter3_6_blackswan_126.ogg/revision/latest?cb=20240703222837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_73.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the lobby)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Finally back at the lobby. If that's the case...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/Vo_chapter3_6_firefly_112.ogg/revision/latest?cb=20240703222910",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "She thought she had escaped but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_6_blackswan_127.ogg/revision/latest?cb=20240703222839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_6_acheron_112.ogg/revision/latest?cb=20240703222747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_76.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "She thought she had escaped but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_6_blackswan_127.ogg/revision/latest?cb=20240703222839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_6_acheron_112.ogg/revision/latest?cb=20240703222747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_78.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "After that, it's the end...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_6_blackswan_129.ogg/revision/latest?cb=20240703222842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Everyone, over there—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Vo_chapter3_6_acheron_114.ogg/revision/latest?cb=20240703222749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "It seems like someone has been awaiting us. Ready to step into the spotlight now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_6_blackswan_130.ogg/revision/latest?cb=20240703222844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "... Stellaron Hunter : Sam .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/Vo_chapter3_6_blackswan_131.ogg/revision/latest?cb=20240703222846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "...Careful.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "A Galaxy Ranger ...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "And... a Memokeeper",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "Leave now, and nobody gets hurt.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "Or else...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "All of you will die here.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Begin battle againstStellaron Hunter: Sam)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "The detective game is over. You shouldn't be here.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/Vo_chapter3_6_sam_101.ogg/revision/latest?cb=20240703222912",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sam_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Sam uses DHGDR Secondary Combustion for the first time)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "I will... set the seas ablaze.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/Vo_chapter3_6_sam_102.ogg/revision/latest?cb=20240703222914",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sam_84.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Sam uses DHGDR Supernova Overload for the first time)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "Once you're back in the real world, remember to tell everyone —",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_6_sam_103.ogg/revision/latest?cb=20240703222916",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sam_85.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "About the Stellaron Hunter who was behind your ultimate departure.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_6_sam_104.ogg/revision/latest?cb=20240703222918",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sam_86.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Sam's HP is reduced to 1)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sam",
+                "line": "If that's the case—",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_6_sam_105.ogg/revision/latest?cb=20240703222920",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sam_87.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainAchievementOld Friends, New Friends)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Leave the dance stage to them, my dear.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "...what a show.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Thank you for your efforts, Memokeeper - quite a brilliant move to pit enemies against each other.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_7_aventurine_101.ogg/revision/latest?cb=20240703222352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "When I first saw the Ranger and the Hunter together, my heart skipped a beat... I never thought you'd successfully trigger a conflict between the two.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/Vo_chapter3_7_aventurine_102.ogg/revision/latest?cb=20240703222354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "As promised, I've delivered the child to you. Our transaction is complete.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/Vo_chapter3_7_blackswan_101.ogg/revision/latest?cb=20240703222512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_90.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What is happening..."
+    },
+    {
+        "type": "note",
+        "text": "You two are in this together..."
+    },
+    {
+        "type": "note",
+        "text": "Black Swan, you..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Haha, looks like our Nameless friend over here is still confused. Let me explain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Vo_chapter3_7_aventurine_103.ogg/revision/latest?cb=20240703222356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "In short, you need to thank this lady here, my friend. Not only did she not betray you — on the contrary, she rescued you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/Vo_chapter3_7_aventurine_104.ogg/revision/latest?cb=20240703222358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...from that \"Galaxy Ranger.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/Vo_chapter3_7_aventurine_105.ogg/revision/latest?cb=20240703222400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Right, I do enjoy seeing that shocked expression of yours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_7_aventurine_106.ogg/revision/latest?cb=20240703222402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "My friend, let's be honest. That woman named \"Acheron\" isn't as simple as you thought. Did she say she's a Galaxy Ranger?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/Vo_chapter3_7_aventurine_107.ogg/revision/latest?cb=20240703222404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "...She's actually an Emanator, who brings death and finality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_7_aventurine_108.ogg/revision/latest?cb=20240703222406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_96.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Acheron has her peculiarities, but...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "But? There's no but. This is the truth.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_7_aventurine_109.ogg/revision/latest?cb=20240703222408",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_97.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "An Emanator ? Whose?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Perhaps The Hunt ... or Destruction ... or even Finality . It doesn't matter, these Paths all point to the same outcome.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Vo_chapter3_7_aventurine_110.ogg/revision/latest?cb=20240703222411",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_98.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Impossible. Why should I believe you?"
+    },
+    {
+        "type": "choice",
+        "text": "No way. Acheron was right there at the scene. It couldn't have been her.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "She was there? Wait, what... You're kidding... Oh my, this just got even more interesting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/Vo_chapter3_7_aventurine_111.ogg/revision/latest?cb=20240703222413",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_99.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Let me give you some IPC insider information, my friend. Do you know \" Duke Inferno \" — Fetora's Ifrit?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_7_aventurine_112.ogg/revision/latest?cb=20240703222415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_100.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I fought him before .",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Nicely done, as expected! I'll cut to the chase then...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/Vo_chapter3_7_aventurine_113.ogg/revision/latest?cb=20240703222417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "You don't seem to have heard of him before... He belongs to the Annihilation Gang , so I guess it's normal. Then let me explain to you...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/Vo_chapter3_7_aventurine_114.ogg/revision/latest?cb=20240703222419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aventurine_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "This Duke Inferno is a Fire Demon from Fetora. He's an energy lifeform, and it's rumored that his birth is related to a certain genius ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_7_aventurine_115.ogg/revision/latest?cb=20240703222421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "He and his thugs formed \" Ever-Flame Mansion \" and viewed Nanook as their savior — in actuality, they were led by this duke to go around burning and looting, practicing the will of Destruction. And even the other Annihilation Gangs weren't spared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_7_aventurine_116.ogg/revision/latest?cb=20240703222423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I'm not sure what The Family was thinking, or perhaps someone was scheming behind the scenes, but shockingly these characters received an invitation. And why would the Ever-Flame Mansion decline? They harbor fierce intentions, swearing to turn the Planet of Festivities into a sea of blazing flames...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Vo_chapter3_7_aventurine_117.ogg/revision/latest?cb=20240703222426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "But there's no need to worry. They won't be able to attend. Do you know why?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/Vo_chapter3_7_aventurine_118.ogg/revision/latest?cb=20240703222427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Because Ifrit is dead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Vo_chapter3_7_aventurine_119.ogg/revision/latest?cb=20240703222429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_107.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What happened?"
+    },
+    {
+        "type": "note",
+        "text": "As I expected..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "They were eliminated while on their way. The assailant, demonstrating remarkable expertise, ruthlessly ended Ifrit and swiped the invite that the Annihilation Gang had in their possession. The Ever-Flame Mansion disbanded, each going their separate ways...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Vo_chapter3_7_aventurine_120.ogg/revision/latest?cb=20240703222433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Thereafter, a mysterious Galaxy Ranger arrived on Penacony, checking into the hotel with only a music box... Do you still need me to continue the story, my friend?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/Vo_chapter3_7_aventurine_121.ogg/revision/latest?cb=20240703222435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_109.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It was Acheron..."
+    },
+    {
+        "type": "note",
+        "text": "It doesn't rule out others."
+    },
+    {
+        "type": "note",
+        "text": "Do you have any other evidence?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "The Galaxy Rangers come and go like shadows, and there's little communication between them. Her story is almost too perfect. If she remains silent, there's no concrete evidence against her. While the IPC can investigate, it'll take some time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_7_aventurine_122.ogg/revision/latest?cb=20240703222438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "So, my friend, the choice is yours now... You can leave this place immediately, without looking back, and forever forsake the chance to get closer to the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_7_aventurine_123.ogg/revision/latest?cb=20240703222440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Or, you can accept my invitation and learn a truth , a truth potent enough to upend everything in Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_7_aventurine_124.ogg/revision/latest?cb=20240703222442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I need your help, so I'll wait — but not for long. Once you are ready... follow me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Vo_chapter3_7_aventurine_125.ogg/revision/latest?cb=20240703222444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "As for aligning with me, see the truth first, then decide... you'll still have time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/Vo_chapter3_7_aventurine_126.ogg/revision/latest?cb=20240703222446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Acheron is the Emanator of a particular Aeon ? Can I really believe Aventurine...?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_7_player_101_m.ogg/revision/latest?cb=20240703222615",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (But he gave me a choice... Maybe I should talk to Black Swan again.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Vo_chapter3_7_player_102_m.ogg/revision/latest?cb=20240703222620",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_116.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Interrogate Black Swan"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As Acheron wages a ferocious battle against the Stellaron Hunter, Black Swan abducts you and takes you before Aventurine. Aventurine expresses his request to you, but you still cannot shake off your shock and the (to an extent) rage at being betrayed.Perhaps you should ask the Memokeeper just what she is planning."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach door on the first floor, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Aventurine isn't here. You know that, and so does he. You can also choose to turn around and find out what the facts are directly from his mouth, but if you insist on going forward, that signals a \"rejection.\""
+    },
+    {
+        "type": "choice",
+        "text": "Leave directly.",
+        "children": [
+            {
+                "type": "note",
+                "text": "After careful consideration, you decline Aventurine's invitation. This time, he simply watches as you depart from the Memory Zone without asking you to stay.'"
+            },
+            {
+                "type": "note",
+                "text": "Returning to reality, you reunite with your companions. After a thorough discussion, the Crew decides to assist Penacony, leading to the revelation of a conspiracy orchestrated by the IPC.'"
+            },
+            {
+                "type": "note",
+                "text": "With the expulsion of all ill-intentioned visitors, the Charmony Festival proceeds smoothly. As honored guests, you partake in the joyous atmosphere, filled with laughter, clinking glasses full of SoulGlad, and the exuberant singing and dancing of the crowd...'"
+            },
+            {
+                "type": "note",
+                "text": "\"May this moment last forever, and may we never awaken from this euphoric dream!\"'"
+            },
+            {
+                "type": "note",
+                "text": "Honkai: Star Rail"
+            },
+            {
+                "type": "note",
+                "text": "Lead Actor (Trailblazer)"
+            },
+            {
+                "type": "note",
+                "text": "Starring ???  as  FIREFLY ???  as  ACHERON ???  as  BLACK SWAN ???  as  AVENTURINE"
+            },
+            {
+                "type": "note",
+                "text": "Starring ??? as  SAM ???  as MISHA ???  as GALLAGHER Sparkle  as  SPARKLE"
+            },
+            {
+                "type": "note",
+                "text": "Special Thanks Robin Sunday"
+            },
+            {
+                "type": "note",
+                "text": "Script Supervisor Elio"
+            },
+            {
+                "type": "condition",
+                "text": "(Game restarts)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's go back and find Aventurine..."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Black Swan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "My, my... you look like a small injured animal. Are you still willing to talk to me? Of course... I'm still willing to be your psychotherapist.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_7_blackswan_102.ogg/revision/latest?cb=20240703222518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_117.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You betrayed me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I admit I'd made a transaction with that gentleman to bring you before him. But... this is also a safe place.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_7_blackswan_103.ogg/revision/latest?cb=20240703222520",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_118.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "He needs you. It's essential if we want to reclaim Penacony. Recognizing his immense potential and the invaluable memories he can help me gather, I opted to join forces with him.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/Vo_chapter3_7_blackswan_104.ogg/revision/latest?cb=20240703222523",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_119.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "In Penacony, everyone may be lying, and yes... that includes me. I can't deny this, nor do I seek forgiveness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Vo_chapter3_7_blackswan_105.ogg/revision/latest?cb=20240703222525",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_120.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "But do you still remember? I said... \"I have faith in your potential,\" and that's not a lie.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Vo_chapter3_7_blackswan_106.ogg/revision/latest?cb=20240703222527",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_121.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "The Garden of Recollection wants to witness the future of the Astral Express Trailblazing the cosmos, and as for these memories — I will treasure them. I do not have reasons to hurt any of you. Instead, I will continue to assist you — provided you are willing to accept my assistance.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/Vo_chapter3_7_blackswan_107.ogg/revision/latest?cb=20240703222529",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Can I trust Aventurine?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "My take on this might surprise you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Vo_chapter3_7_blackswan_108.ogg/revision/latest?cb=20240703222531",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_123.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "In my view, he's a trustworthy individual. Not for any other reason, but because he's an exceptional businessman. In this vast universe, no one values honesty and contracts more than a merchant.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_7_blackswan_109.ogg/revision/latest?cb=20240703222533",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_124.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "But, always be on guard, particularly when making agreements with him. Scrutinize the details. Beyond the confines of the contract, your rights are off his radar... He'll go to extreme lengths to ensure his advantage.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_7_blackswan_110.ogg/revision/latest?cb=20240703222535",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_125.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who do you think is the mastermind...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I still believe that Miss Firefly's situation... is deeply connected with the Stellaron Hunter, just as we speculated. But as you've heard, Aventurine has his finger pointed at the Galaxy Ranger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_7_blackswan_111.ogg/revision/latest?cb=20240703222538",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_126.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "I can't fathom why he'd draw that conclusion, but given his access to the IPC's intelligence network, we should seriously consider his perspective. Moreover, I believe Miss Acheron is also hiding something.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Vo_chapter3_7_blackswan_112.ogg/revision/latest?cb=20240703222540",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_127.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "...No, in fact, I should say, she's hiding everything from us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/Vo_chapter3_7_blackswan_113.ogg/revision/latest?cb=20240703222541",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_128.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "It was an unexpected finding from an earlier encounter. With regards to the Annihilation Gang... I can also prove that what Aventurine said was the truth.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/Vo_chapter3_7_blackswan_114.ogg/revision/latest?cb=20240703222545",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_129.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "That's why, during this golden soirée... she is the dance's centerpiece.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_7_blackswan_115.ogg/revision/latest?cb=20240703222547",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_130.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Are you willing to bring me out of this Memory Zone?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Why of course, but now's not the time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/Vo_chapter3_7_blackswan_116.ogg/revision/latest?cb=20240703222548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I know you're confused and... sad. Whoever that girl might have been, a living soul, a \"memory\" that was meant to last... she simply vanished, like the dissolution of bubbles in water, disappearing in an instant...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/Vo_chapter3_7_blackswan_117.ogg/revision/latest?cb=20240703222551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "No matter what, I hope you can trust Aventurine — or rather — trust me and see the \"truth\" with your own eyes. This can lead us deeper into the secrets behind Penacony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_7_blackswan_118.ogg/revision/latest?cb=20240703222553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I will protect you. Once I gather more information from him, I'll make sure you're safely returned to your companions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_7_blackswan_119.ogg/revision/latest?cb=20240703222555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "For the truth and to prevent more unnecessary sacrifices... It is the right choice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/Vo_chapter3_7_blackswan_120.ogg/revision/latest?cb=20240703222556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_135.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You're right. Let's go."
+    },
+    {
+        "type": "choice",
+        "text": "How would I know you're not trying to frame me?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Perhaps he plans on doing so, but I won't.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/Vo_chapter3_7_blackswan_121.ogg/revision/latest?cb=20240703222558",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_136.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "The Garden of Recollection has eyes everywhere. If he wants to hurt you, he'll have to fight against the Memokeepers — I've warned him about that.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_7_blackswan_122.ogg/revision/latest?cb=20240703222600",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_137.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "▶ Later, I'll stay by your side as a memetic entity, just in case. Time to set off, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_7_blackswan_123_m.ogg/revision/latest?cb=20240703222604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_138.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find Aventurine"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The Memokeeper similarly expresses mistrust of Aventurine, but convinces you that it is for the greater good. You decide to go and see what this truth that he speaks of is — the truth that could \"overturn Penacony.\""
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Go and meet Aventurine, or... I could still choose not to help...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_7_player_103_m.ogg/revision/latest?cb=20240703222624",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_139.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach door on the first floor, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Are you still... continuing down this path? This is a rare opportunity. Leaving here... will also mean leaving the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_7_blackswan_124.ogg/revision/latest?cb=20240703222608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_140.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're right. I can't leave.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Yes, I [ sic ] better think about Aventurine's proposal.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_7_blackswan_125.ogg/revision/latest?cb=20240703222610",
+                "is_unavailable": false,
+                "audio_filename": "audio_Black_Swan_141.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I've decided. I'm leaving this place."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "I see... Fine, I respect your choice. Let's return to reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_7_blackswan_126.ogg/revision/latest?cb=20240703222612",
+        "is_unavailable": false,
+        "children": [
+            {
+                "type": "note",
+                "text": "After careful consideration, you decline Aventurine's invitation. This time, he simply watches as you depart from the Memory Zone without asking you to stay."
+            },
+            {
+                "type": "note",
+                "text": "Returning to reality, you reunite with your companions. After a thorough discussion, the Crew decides to assist Penacony, leading to the revelation of a conspiracy orchestrated by the IPC."
+            },
+            {
+                "type": "note",
+                "text": "With the expulsion of all ill-intentioned visitors, the Charmony Festival proceeds smoothly. As honored guests, you partake in the joyous atmosphere, filled with laughter, clinking glasses full of SoulGlad, and the exuberant singing and dancing of the crowd..."
+            },
+            {
+                "type": "note",
+                "text": "\"May this moment last forever, and may we never awaken from this euphoric dream!\""
+            },
+            {
+                "type": "note",
+                "text": "Honkai: Star Rail"
+            },
+            {
+                "type": "note",
+                "text": "Lead Actor (Trailblazer)"
+            },
+            {
+                "type": "note",
+                "text": "Starring ???  as  FIREFLY ???  as  ACHERON ???  as  BLACK SWAN ???  as  AVENTURINE"
+            },
+            {
+                "type": "note",
+                "text": "Starring ???  as  SAM ???  as  MISHA ???  as  GALLAGHER Sparkle  as  SPARKLE"
+            },
+            {
+                "type": "note",
+                "text": "Special Thanks Robin Sunday"
+            },
+            {
+                "type": "note",
+                "text": "Script Supervisor Elio"
+            },
+            {
+                "type": "condition",
+                "text": "(Game restarts)"
+            }
+        ],
+        "audio_filename": "audio_Black_Swan_142.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aventurine)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Excellent, I knew you would come. By the way, about that Memokeeper... Never mind, I won't press the issue further.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/Vo_chapter3_7_aventurine_127.ogg/revision/latest?cb=20240703222448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I've said before, you can liaise with your companions, or even twist the narrative against me. I'll wholeheartedly embrace it! It signifies your potential.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_7_aventurine_128.ogg/revision/latest?cb=20240703222450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I don't do deals where I'm on the losing end. So, my \"friends\"... don't let me down.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_7_aventurine_129.ogg/revision/latest?cb=20240703222452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Please, this way if you will!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/Vo_chapter3_7_aventurine_130.ogg/revision/latest?cb=20240703222454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_146.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Aventurine"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The \"truth that could overturn Penacony\" is just ahead... Good luck."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Oh right, I remember mentioning something after that... What was it again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Vo_chapter3_7_aventurine_131.ogg/revision/latest?cb=20240703222456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Ah... a familiar hallway, a familiar room. Do you remember? The last time we met was right here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/Vo_chapter3_7_aventurine_132.ogg/revision/latest?cb=20240703222459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_148.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Open door)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "This is it, just beyond this door. Take a deep breath and get ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Vo_chapter3_7_aventurine_133.ogg/revision/latest?cb=20240703222501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_149.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Enter the room.)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Oh, I remember... my friend! After that, we played an enjoyable game.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/Vo_chapter3_7_aventurine_134.ogg/revision/latest?cb=20240703222502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "Tell me, doesn't this feel eerily familiar?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/Vo_chapter3_7_aventurine_135.ogg/revision/latest?cb=20240703222504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aventurine",
+        "line": "I remember everything now. This was what I told you at that time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/Vo_chapter3_7_aventurine_136.ogg/revision/latest?cb=20240703222510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aventurine_152.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Look, friend.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "The game has already begun.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "Allow me to make you an offer — one you can't refuse.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "No reason to choose otherwise...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Aventurine",
+                "line": "...and no other choices.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Vo_chapter3_7_sunday_101.ogg/revision/latest?cb=20240703222649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Brother, I'm back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_7_robin_101.ogg/revision/latest?cb=20240703222626",
+        "is_unavailable": false,
+        "audio_filename": "audio__154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...Welcome back. How's your preparation for the performance coming?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_7_sunday_102.ogg/revision/latest?cb=20240703222651",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's fine. Don't worry.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/Vo_chapter3_7_robin_102.ogg/revision/latest?cb=20240703222628",
+        "is_unavailable": false,
+        "audio_filename": "audio__156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "\"It's fine\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/Vo_chapter3_7_sunday_103.ogg/revision/latest?cb=20240703222653",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Hmm, this is not good... You're the pride of The Family. Don't let those unnecessary emotions affect your perfect pitch.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_7_sunday_104.ogg/revision/latest?cb=20240703222655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I... know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_7_robin_103.ogg/revision/latest?cb=20240703222629",
+        "is_unavailable": false,
+        "audio_filename": "audio__159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Brother, you seem to be in low spirit... What's happened? Is it because of the Watchmaker's guest list?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/Vo_chapter3_7_robin_104.ogg/revision/latest?cb=20240703222632",
+        "is_unavailable": false,
+        "audio_filename": "audio__160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Yes, I received the report that... \"Death\" had taken some of them. Perhaps someone was behind it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/Vo_chapter3_7_sunday_105.ogg/revision/latest?cb=20240703222657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Ah, I'm sorry. I forgot you just came back. You probably wouldn't know about it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_7_sunday_106.ogg/revision/latest?cb=20240703222659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Somehow, a nightmare called \"Death\" has descended upon Penacony, striking indiscriminately, bringing spiritual death to all equally...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_7_sunday_107.ogg/revision/latest?cb=20240703222701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "In the utopian dreamscape envisioned by The Family, such sorrowful incidents shouldn't arise. It profoundly undermines the equilibrium and serenity of the dreamscape... How detestable.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_7_sunday_108.ogg/revision/latest?cb=20240703222703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I can't believe this has happened. Was... someone killed again?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_7_robin_105.ogg/revision/latest?cb=20240703222633",
+        "is_unavailable": false,
+        "audio_filename": "audio__165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Yes. There were two. One was a stowaway, the other...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Vo_chapter3_7_sunday_109.ogg/revision/latest?cb=20240703222704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...was you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_7_sunday_110.ogg/revision/latest?cb=20240703222706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "That's enough Fool . Your deeds have saddened me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/Vo_chapter3_7_sunday_111.ogg/revision/latest?cb=20240703222708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "Pretty sharp, aren't you, Chicken Wing Boy?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Vo_chapter3_7_sparkle_101.ogg/revision/latest?cb=20240703222635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "The Odes of Harmony talks about honesty — \"The words of a fool begins with foolishness and end in treacherous arrogance\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/Vo_chapter3_7_sunday_112.ogg/revision/latest?cb=20240703222710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...Please leave. THEIR dreamscape doesn't welcome you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Vo_chapter3_7_sunday_113.ogg/revision/latest?cb=20240703222712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "Oh come on, lighten up! Why so serious with all the quotations and references?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_7_sparkle_102.ogg/revision/latest?cb=20240703222637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "I'm just curious — Now things have come to this, is The Family still unwilling to fight? I mean, your darling sister's already a goner, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_7_sparkle_103.ogg/revision/latest?cb=20240703222639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_173.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "Really? Don't tell me you're not craving a little vengeance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/Vo_chapter3_7_sparkle_104.ogg/revision/latest?cb=20240703222641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "It's not yet time. When the fated day arrives, I shall mete out justice with unyielding righteousness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/Vo_chapter3_7_sunday_114.ogg/revision/latest?cb=20240703222714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "Wow, you can endure that much? Truly, a heart of ice you've got there. Hey, maybe we could actually get along?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/Vo_chapter3_7_sparkle_105.ogg/revision/latest?cb=20240703222643",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "How about this? I'll stand in for your dear sister at events — surely you don't want the world to hear the Charmony Festival's been called off?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Vo_chapter3_7_sparkle_106.ogg/revision/latest?cb=20240703222645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "The Family has a plan, and do not dishonor my dear sister with your deceitful tongue again, Fool.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Vo_chapter3_7_sunday_115.ogg/revision/latest?cb=20240703222716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sparkle",
+        "line": "Alright, alright~ Just putting it out there... If you're ever in a pinch, remember I've got your back. I mean, who could resist a guy rocking spikes on his wings?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/Vo_chapter3_7_sparkle_107.ogg/revision/latest?cb=20240703222647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sparkle_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "There's no need. The malefactor has been exposed under THEIR radiant gaze and will soon fall by their own machinations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/Vo_chapter3_7_sunday_116.ogg/revision/latest?cb=20240703222718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "Should the transgressor fail to turn away from this path, THEIR sword will be honed, THEIR bow strung, causing the malevolence the perpetrator spreads to befall them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/Vo_chapter3_7_sunday_117.ogg/revision/latest?cb=20240703222720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "When that time comes, the heathen will realize they are but a mere mortal, doomed to descend into the netherworld.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_7_sunday_118.ogg/revision/latest?cb=20240703222722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sunday",
+        "line": "...And I will join THEIR vanguard to announce this good news to you personally, \"Watchmaker.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_7_sunday_119.ogg/revision/latest?cb=20240703222724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sunday_183.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Mission completed)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainDestiny's Threads Forewoven×1,Nevermore×1)\n(ObtainAchievementIf I Can Stop One Heart From Breaking)"
+            }
+        ]
+    }
+]

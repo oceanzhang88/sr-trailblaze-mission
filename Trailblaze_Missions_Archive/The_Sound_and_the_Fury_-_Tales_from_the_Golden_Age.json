@@ -1,0 +1,1531 @@
+[
+    {
+        "type": "heading",
+        "text": "Follow Firefly and explore Penacony"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The Bloodhound Family Security Officer explains that the young girl you just rescued was Firefly, an artist of the Iris Family.To thank you saving her, she has decided to be your tour guide for the day. Why not follow her and take a deep-dive into this beautiful dream?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Over here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter3_2_firefly_124.ogg/revision/latest?cb=20240728233036",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (It's not a bad idea to get to know about this place.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter3_2_player_119_m.ogg/revision/latest?cb=20240728233422",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The first stop most people head to as soon as they arrive in the Dreamscape is the Oti Mall ! The Dreamscape Sales Store here is super famous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter3_2_firefly_125.ogg/revision/latest?cb=20240728233038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There are also stores that sell luxury goods, apparel, trendy toys, and even cars... As long as you have enough Alfalfa coins, you can buy anything you fancy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter3_2_firefly_126.ogg/revision/latest?cb=20240728233041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Items purchased in the Dreamscape can also be brought into reality through an extra service. Unfortunately, the transfer of automobiles to the real world is not available at the moment... You can come back for them next time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter3_2_firefly_127.ogg/revision/latest?cb=20240728233046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Just outside the mall is the plaza. Follow me! I'll buy you a nice meal!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter3_2_firefly_128.ogg/revision/latest?cb=20240728233048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Clock Diner)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "We're here. Hey, have you ever heard of this saying that goes, \"In a dream, hunger is the most precious spice?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter3_2_firefly_129.ogg/revision/latest?cb=20240728233051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Well, you can find all kinds of local delicacies here — Clockie Pizza , Oak Cake Rolls , Alfalfa Salad , and the classic SoulGlad ! Feel free to pick anything you like! Today it's my treat!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_2_firefly_130.ogg/revision/latest?cb=20240728233054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Thanks. That's very nice of you!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Hee-hee, you're welcome.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter3_2_firefly_131.ogg/revision/latest?cb=20240728233056",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You shouldn't have!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "No worries. You can buy me a meal next time!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter3_2_firefly_132.ogg/revision/latest?cb=20240728233058",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I should warn you, I do have very expensive tastes...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Th—That shouldn't be a problem. I have some savings left...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter3_2_firefly_133.ogg/revision/latest?cb=20240728233100",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_10.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainFirefly's Budget×20000)"
+    },
+    {
+        "type": "heading",
+        "text": "Pick your favorite food"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As the Security Officer of the Bloodhound Family comes to your aid, you realize that the person you saved is Firefly, an artist from the Iris Family.To repay your kindness, she offers to be your guide for the day and treats you to delicious food. Take your time to consider your options, as it is not often that you get a free lunch."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jay)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This is Penacony's most iconic dish.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Take your pick. It's my treat~",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Main article: Clock Diner"
+    },
+    {
+        "type": "note",
+        "text": "Item Cost Stock Total Cost Dreamy Cone (Three Flavors) ×5,000 1 ×5,000 Oak Cake Rolls ×3,000 1 ×3,000 Pika White Grape Soda ×3,000 1 ×3,000 Potato Fries Sundae ×3,000 1 ×3,000 Clockie Pizza (Whole) ×3,000 1 ×3,000 Floatdisc Burger ×3,000 1 ×3,000 Total cost for all items Firefly's Budget ×20,000"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Firefly"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As the Security Officer of the Bloodhound Family comes to your aid, you realize that the person you saved is Firefly, an artist from the Iris Family.To repay your kindness, she offers to be your guide for the day and treats you to delicious food. You have ordered your food, and now it is time for her to settle the bill and pay for her recklessness."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly)\n(If the player uses the entire budget)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Um, this is...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter3_2_firefly_139.ogg/revision/latest?cb=20240728233111",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "...Are you done ordering? You... you have great taste! Haha... I... I'll get the bill...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter3_2_firefly_140.ogg/revision/latest?cb=20240728233114",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_12.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Hmm...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_2_firefly_141.ogg/revision/latest?cb=20240728233115",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Now... let's go this way...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter3_2_firefly_142.ogg/revision/latest?cb=20240728233117",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_14.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Otherwise)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Are you done ordering? Then I'll pay up.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter3_2_firefly_134.ogg/revision/latest?cb=20240728233102",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I love their Oak Cake Rolls! I get one from here every day!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter3_2_firefly_135.ogg/revision/latest?cb=20240728233104",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_16.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Doesn't that get expensive?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "Well, that's why I only have one per day...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter3_2_firefly_136.ogg/revision/latest?cb=20240728233106",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_17.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Aren't those high in calories?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Firefly",
+                        "line": "I—I won't put on any weight since this is all a dream...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter3_2_firefly_137.ogg/revision/latest?cb=20240728233107",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Firefly_18.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Let's walk while we eat. It's time to head to the next stop!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter3_2_firefly_138.ogg/revision/latest?cb=20240728233109",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_19.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Continue following Firefly and exploring Penacony"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As agreed, Firefly pays the bill, and she will now take you to other tourist attractions. It may feel rushed and superficial, but that is the nature of playing tourist."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the luxury store)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This is the luxury store I told about you earlier.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter3_2_firefly_143.ogg/revision/latest?cb=20240728233119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If we keep going, we'll reach Glaux Avenue, which is the road to Golden Hour.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter3_2_firefly_144.ogg/revision/latest?cb=20240728233121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_21.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Over here! Follow me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter3_2_firefly_145.ogg/revision/latest?cb=20240728233123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Please come this way. Let me show you something interesting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter3_2_firefly_146.ogg/revision/latest?cb=20240728233125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Clockie Statue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Look! That's the statue of Clockie , Penacony's famous cartoon character!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_2_firefly_147.ogg/revision/latest?cb=20240728233128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's the oldest and most famous animation from Penacony. It follows the adventurous life of Clockie and his friends in the town of Dreamville. To date, over 10,000 episodes have aired!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_2_firefly_148.ogg/revision/latest?cb=20240728233130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_25.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "He looks cute.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I know, right? Isn't he adorable?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_2_firefly_149.ogg/revision/latest?cb=20240728233132",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "His character design is a little... surrealist.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Um... I guess it's because the animation has a retro style.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter3_2_firefly_150.ogg/revision/latest?cb=20240728233134",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_27.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Isn't having a clock as a character a bit... ominous?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Ominous? Clockie is a household name here. There would never be anything ominous about him... right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter3_2_firefly_151.ogg/revision/latest?cb=20240728233136",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "By the way, do you know that Clockie's design is said to be inspired by none other than the legendary Watchmaker ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter3_2_firefly_152.ogg/revision/latest?cb=20240728233138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_29.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Watchmaker?"
+    },
+    {
+        "type": "note",
+        "text": "Is he famous?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I can't believe you haven't heard of him. He was a legendary tycoon in the history of Penacony — the founder of the Dreamscape, the man who turned dreams into reality!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_2_firefly_153.ogg/revision/latest?cb=20240728233140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There are different stories out there about the Watchmaker's origin. Some said he was a traveling merchant from beyond the sky, some claimed that he was exiled to Penacony as a prisoner... Some speculate that he wasn't even a real person, just a symbol...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter3_2_firefly_154.ogg/revision/latest?cb=20240728233143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The true story is anyone's guess, but everyone aspires to emulate his success and be the next Watchmaker!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter3_2_firefly_155.ogg/revision/latest?cb=20240728233145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "As his inspiring story became known across the cosmos, those with a dream flocked to Penacony in droves. They held feast after feast, eventually building the Planet of Festivities we have today. Everyone in Penacony knows this name.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter3_2_firefly_156.ogg/revision/latest?cb=20240728233147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The cartoon character Clockie is portrayed as reckless and full of hot air, but I believe the real Watchmaker was a Nameless ! After all, creating the Dreamscape sounds like just the kind of thing a Trailblazer would do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter3_2_firefly_157.ogg/revision/latest?cb=20240728233149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Hold on... If the Watchmaker really was a Nameless, wouldn't that make him your predecessor? Would you like to take a picture with him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter3_2_firefly_158.ogg/revision/latest?cb=20240728233152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_35.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Thanks.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "My pleasure! Here, give me your phone.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter3_2_firefly_159.ogg/revision/latest?cb=20240728233154",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_36.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think I'll pass. I'm allergic to camera lenses...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I see... Let's go somewhere else then.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_2_firefly_160.ogg/revision/latest?cb=20240728233156",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Aha, I know how this goes. You're gonna charge me a lot just for taking the pic, aren't you?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Of course not! What were you thinking?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter3_2_firefly_161.ogg/revision/latest?cb=20240728233157",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_38.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hey! Hey, hey, hey!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_2_birdA_101.ogg/revision/latest?cb=20240728233433",
+        "is_unavailable": false,
+        "audio_filename": "audio__39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help! Help me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter3_2_birdA_102.ogg/revision/latest?cb=20240728233435",
+        "is_unavailable": false,
+        "audio_filename": "audio__40.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You hear a pitiful cry for help. The cry is..."
+    },
+    {
+        "type": "note",
+        "text": "...coming from the Clockie's eyelashes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Eh, what's that? It looks like there's something on Clockie's face.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter3_2_firefly_162.ogg/revision/latest?cb=20240728233159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help! Help me! Pull me out! Help me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter3_2_birdA_103.ogg/revision/latest?cb=20240728233437",
+        "is_unavailable": false,
+        "audio_filename": "audio__42.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The eyelashes are begging to be pulled out — which feels a little too much like a dream."
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the statue's strange eyelashes"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly leads you through some of the famous sightseeing spots in the area. As you arrive in the central Glaux Avenue, you visit a statue of a mascot located here known as \"Clockie.\" As you linger in this place, you notice that the eyelashes on Clockie are a little too lifelike for a statue.Honestly, anyone who lays eyes on those trembling lashes would feel the urge to pull on them. Before you do, why not ask Firefly to take a classic tourist-style commemorative picture?"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Ask Firefly for a commemorative picture"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You want a photo with him? Sure! Please give me your phone. I'll take it for you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter3_2_firefly_163.ogg/revision/latest?cb=20240728233202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_43.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After taking a photo)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's done! It came out great — you're very photogenic.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_2_firefly_164.ogg/revision/latest?cb=20240728233203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help! Help me! Pull me out! Please!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_2_birdA_104.ogg/revision/latest?cb=20240728233438",
+        "is_unavailable": false,
+        "audio_filename": "audio__45.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You took a nice pic with Clockie."
+    },
+    {
+        "type": "note",
+        "text": "But the eyelashes are still begging for help."
+    },
+    {
+        "type": "note",
+        "text": "Investigate the strange eyelashes"
+    },
+    {
+        "type": "note",
+        "text": "Yank!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hey! Hey, hey, hey! Thank... you, beautiful person!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter3_2_birdA_105.ogg/revision/latest?cb=20240728233440",
+        "is_unavailable": false,
+        "audio_filename": "audio__46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I'll... repay your kindness! Go to... the tree! Please go... there! There! I'll show... you something... nice!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter3_2_birdA_106.ogg/revision/latest?cb=20240728233443",
+        "is_unavailable": false,
+        "audio_filename": "audio__47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "*Tweet*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter3_2_birdA_107.ogg/revision/latest?cb=20240728233444",
+        "is_unavailable": false,
+        "audio_filename": "audio__48.ogg"
+    },
+    {
+        "type": "note",
+        "text": "After letting out an adorable chirp, the bird flies away."
+    },
+    {
+        "type": "note",
+        "text": "Before it left, it seems to have offered some kind of \"reward.\" The main thing is that you need to go to \"the tree\" first."
+    },
+    {
+        "type": "note",
+        "text": "Perhaps... you can meet with it again there. See just what exactly the \"nice\" thing is."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Is there something wrong with Clockie's statue? Why did you suddenly jump just now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter3_2_firefly_165.ogg/revision/latest?cb=20240728233206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_49.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I rescued a bird — a bird with sharp edges and points.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "A bird with sharp edges and points... Umm, I don't think I saw it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter3_2_firefly_166.ogg/revision/latest?cb=20240728233208",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I pulled out his eyelashes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Eyelashes? Clockie doesn't have those...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter3_2_firefly_167.ogg/revision/latest?cb=20240728233210",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I can actually jump in this world!? Color me surprised!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Really? You jumped just now — it was really sudden, too.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_2_firefly_168.ogg/revision/latest?cb=20240728233212",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_52.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Well... If you're okay, let's move on to the next stop, which is just a stone's throw away from here. Please follow me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter3_2_firefly_169.ogg/revision/latest?cb=20240728233214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_53.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainAlfalfa Salad×1andCredit×5000)"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockOrigami Bird Tutorial)"
+    },
+    {
+        "type": "heading",
+        "text": "Continue following Firefly and exploring Penacony"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly continues to lead you through the various tourist hotspots in the area — the next stop is the Penacony Theater front stands. Follow her!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Can you see that building in the distance? That's the famous Grand Theater , another great landmark of Penacony!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter3_2_firefly_170.ogg/revision/latest?cb=20240728233216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Has a pretty unique shape, doesn't he? In the real world, it was originally the central prison of Asdana . The Family renovated it in the Dreamscape and transformed it into the glorious Penacony Grand Theater.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter3_2_firefly_171.ogg/revision/latest?cb=20240728233218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Since the moment it was built, the Grand Theater has graced the entire Dreamscape with its rendition of the Odes of Harmony .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter3_2_firefly_172.ogg/revision/latest?cb=20240728233221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "During the once-in-an-era Charmony Festival , Family members will gather at the theater to welcome the Harmonious Choir that blesses Penacony with everlasting peace.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_2_firefly_173.ogg/revision/latest?cb=20240728233223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And here we are! The best viewing spot in all of Golden Hour! Look, there's even a telescope here! When the Charmony Festival arrives, remember to be here early if you wanna get a seat.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter3_2_firefly_174.ogg/revision/latest?cb=20240728233225",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_58.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly continues to lead you through the various tourist hotspots in the area — Penacony's SoulGlad-themed rest area Aideen Park is just ahead. Follow her!"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Next, I'll bring you somewhere you can really have fun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter3_2_firefly_175.ogg/revision/latest?cb=20240728233227",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That place up ahead is Aideen Park — everything here is themed around SoulGlad. It's a little crowded, so make sure you stay close to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter3_2_firefly_176.ogg/revision/latest?cb=20240728233229",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This is the largest park in Golden Hour — it represents the soda culture of Penacony. That gigantic soda bottle houses the headquarters of the SoulGlad Enterprise!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter3_2_firefly_177.ogg/revision/latest?cb=20240728233231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "SoulGlad is said to have originated from a sweet medicinal syrup popular during the Prison Era. Invented by a man named Sousa, it was thus called the Sousa Juice. Aideen, an interstellar traveling merchant, saw the potential in the beverage and purchased the formula.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter3_2_firefly_178.ogg/revision/latest?cb=20240728233234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Aideen then carbonated the beverage and renamed it \"SoulGlad.\" He also pioneered the school of thought known as \"Syrupism,\" in which he promoted the consumption of SoulGlad as a new kind of lifestyle. And just like that, he created a commercial miracle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter3_2_firefly_179.ogg/revision/latest?cb=20240728233236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Did you know? One of the ingredients in the original recipe for Sousa Juice, known as Dreamleaf, has gone extinct. That means the only place you can get a taste of Epochal SoulGlad is in Penacony's Dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter3_2_firefly_180.ogg/revision/latest?cb=20240728233238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This is also the only place where one can fully experience the core values of Syrupism...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter3_2_firefly_181.ogg/revision/latest?cb=20240728233240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_65.ogg"
+    },
+    {
+        "type": "note",
+        "text": "She abruptly freezes. In that fleeting moment, you notice a cautious shift in the girl's gaze, piercing directly into your brow, or perhaps somewhere behind you..."
+    },
+    {
+        "type": "note",
+        "text": "What's up?"
+    },
+    {
+        "type": "note",
+        "text": "What are you looking at?"
+    },
+    {
+        "type": "note",
+        "text": "Firefly returns to her warm and gentle disposition."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Time waits for no one! Let me show you around!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter3_2_firefly_182.ogg/revision/latest?cb=20240728233242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_66.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly continues to lead you through the various tourist hotspots in the area — You have arrived at Aideen Park. Take a wander around with her."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the stage)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "See these musical instruments playing themselves with no human performers? That's the Sweet Dreams Troupe .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter3_2_firefly_183.ogg/revision/latest?cb=20240728233244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "In Penacony, many objects and facilities have gained self-awareness due to the influence of the memoria. After being tamed by The Family, some of them formed the Sweet Dreams Troupe to provide entertainment for guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter3_2_firefly_184.ogg/revision/latest?cb=20240728233246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Be careful, though — sometimes these animated objects can be affected by dangerous emotions or memories and transform into the destructive Dreamjolt Troupe ... If you ever run into them, go ask the security guards nearby for help.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter3_2_firefly_185.ogg/revision/latest?cb=20240728233249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Hey, there's a ride attendant over there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter3_2_firefly_186.ogg/revision/latest?cb=20240728233251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Let me get some Aideen Tokens for you. With those, you'll be able to try any of the attractions here that you fancy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter3_2_firefly_187.ogg/revision/latest?cb=20240728233254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Hi, there. This is my friend's first visit to Penacony. May I get some Aideen Tokens for ( him / her ) ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_2_firefly_188_m.ogg/revision/latest?cb=20240728233258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Admin",
+        "line": "Of course. Please show me your Dreamscape Pass.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter3_2_administratorA_101.ogg/revision/latest?cb=20240728233524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Admin_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Admin",
+        "line": "▶ Name— (Trailblazer)... Here's your Dreamscape Pass and tokens — be sure to keep a good hold of them! Have a good time!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter3_2_administratorA_102_m.ogg/revision/latest?cb=20240728233528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Admin_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "How many tokens are there?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter3_2_firefly_189.ogg/revision/latest?cb=20240728233300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Admin",
+        "line": "Ten. You may now enjoy the attractions in Penacony to the fullest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_2_administratorA_103.ogg/revision/latest?cb=20240728233530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Admin_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Thanks! (Trailblazer), let's try out some of the games nearby. Our goal is to use all the tokens!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter3_2_firefly_190_m.ogg/revision/latest?cb=20240728233304",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_77.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's live it to the fullest!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Let's do it!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter3_2_firefly_191.ogg/revision/latest?cb=20240728233306",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_78.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's a lot of pressure...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Not at all! You're going to lose — I mean — spend all of them in no time once you start playing! Just try it and you'll see!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter3_2_firefly_192.ogg/revision/latest?cb=20240728233308",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_79.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainAideen Tokens×10)"
+    },
+    {
+        "type": "heading",
+        "text": "Spend 10 tokens"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Firefly continues to lead you through the various tourist hotspots in the area — She suggests you try out the various amusement facilities in Aideen Park. You have collected plenty of tokens, so it's time to play to your heart's content!Of course, if you get bored with the games, you can find Firefly and rest with her for a while."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Let me see which one we should try first...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter3_2_firefly_193.ogg/revision/latest?cb=20240728233309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Since this is your first time here, I say we start with the easiest games. The Dreamy Slots and Lucky Wheel are pretty straightforward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter3_2_firefly_194.ogg/revision/latest?cb=20240728233312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAmusement Facility Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(After using one token)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Wow! You won something on your first attempt! Impressive!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter3_2_firefly_195.ogg/revision/latest?cb=20240728233313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon winning the grand prize before using four tokens)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Holy moly, it's the grand prize... Today must be your lucky day!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_2_firefly_196.ogg/revision/latest?cb=20240728233316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_83.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After using four tokens)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You keep playing. I'll go and get some drinks.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter3_2_firefly_197.ogg/revision/latest?cb=20240728233317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_84.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After using six tokens)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What's taking Firefly so long? Eh, she's heading toward the bar...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter3_2_player_120_m.ogg/revision/latest?cb=20240728233427",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_85.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After using all ten tokens)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I've used up all the tokens. Time to meet Firefly.)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter3_2_player_121_m.ogg/revision/latest?cb=20240728233431",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_86.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Firefly and bring the sightseeing to an end"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly after spending four to nine tokens, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "What do you say? Ready to call it a day?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter3_2_firefly_198.ogg/revision/latest?cb=20240728233320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm a bit tired too. Let's sit down at the snack bar for a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter3_2_firefly_199.ogg/revision/latest?cb=20240728233322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Did you have fun, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter3_2_firefly_200_m.ogg/revision/latest?cb=20240728233326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Penacony's Golden Hour is pretty amazing, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter3_2_firefly_201.ogg/revision/latest?cb=20240728233328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_90.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's nice. Everywhere is just magical.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I know, right? It's a dream that's loving and forgiving to everyone, just like The Family.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter3_2_firefly_202.ogg/revision/latest?cb=20240728233329",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_91.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You sound a bit sad...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm not sad. It's just that... this dream is so loving and forgiving.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_firefly_203.ogg/revision/latest?cb=20240728233332",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_92.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's alright. I've seen better places on other worlds.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm not surprised to hear that from a Nameless. If you ask me, I'd say it was the unity of The Family that brought this dream into existence — and the dream has become just as loving and forgiving as The Family.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter3_2_firefly_204.ogg/revision/latest?cb=20240728233334",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_93.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's vast and deep like an ocean. Even the humblest people can find solace here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_firefly_205.ogg/revision/latest?cb=20240728233336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...I really appreciate your help earlier today — that's why I took the chance to introduce this beautiful place to you. It was willing to accept me, even though I didn't belong here. I've grown very fond of this place, and that makes me want to... share it with others.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter3_2_firefly_206.ogg/revision/latest?cb=20240728233339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_95.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Aren't you a local?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I am... At least for now...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter3_2_firefly_207.ogg/revision/latest?cb=20240728233341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_96.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You shouldn't attach your feelings to stuff like this.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "You're right... But when people have nothing to rely on, they always seek out things to find comfort in.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter3_2_firefly_208.ogg/revision/latest?cb=20240728233343",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_97.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are you... really a stowaway?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I... I'm a lawful resident... at least now I am...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter3_2_firefly_209.ogg/revision/latest?cb=20240728233345",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_98.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ (Trailblazer), could you come closer? Closer, please. I have a question for you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter3_2_firefly_210_m.ogg/revision/latest?cb=20240728233348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Did you travel here alone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter3_2_firefly_211.ogg/revision/latest?cb=20240728233350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_100.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "My friends went to the other Dreamscapes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "Oh, I see...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter3_2_firefly_212.ogg/revision/latest?cb=20240728233352",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I am. At least for now.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I see...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter3_2_firefly_213.ogg/revision/latest?cb=20240728233354",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "It depends on what you want to do."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I'm not sure whether you have realized it or not, but I took you through a very long, scenic route and visited all kinds of places just now because...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter3_2_firefly_214.ogg/revision/latest?cb=20240728233357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...someone's been following you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter3_2_firefly_215.ogg/revision/latest?cb=20240728233359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Don't turn around. I'm certain that you're his target. He's been on our tail since we parted ways with Mr. Gallagher.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter3_2_firefly_216.ogg/revision/latest?cb=20240728233401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I wondered whether he was a friend of yours, but my instinct told me he wasn't.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter3_2_firefly_217.ogg/revision/latest?cb=20240728233403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "He's about 5 feet 11 inches tall, give or take. Judging from his strong build, it's clear that he's well-trained. He walks in long strides, but his steps are light and barely audible. That way of walking doesn't leave footprints...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter3_2_firefly_218.ogg/revision/latest?cb=20240728233405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...He looks like a skilled fighter, the covert kind. He has large palms, yet his fingers are slender and nimble. I reckon he has experience using knives, like a short sword or dagger...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter3_2_firefly_219.ogg/revision/latest?cb=20240728233407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Do you know anybody like that? A maroon jacket, emerald eyes, dark blue hair...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_2_firefly_220.ogg/revision/latest?cb=20240728233409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Ah... He's coming our way!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter3_2_firefly_221.ogg/revision/latest?cb=20240728233411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "▶ Hey, well if it isn't my most loyal customer, (Trailblazer)?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter3_2_sampo_101_m.ogg/revision/latest?cb=20240728233449",
+        "is_unavailable": false,
+        "audio_filename": "audio__111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "It's been such a long time, old friend!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter3_2_sampo_102.ogg/revision/latest?cb=20240728233450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "What a coincidence to run into you here! Oh, my! I'm in luck today!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter3_2_sampo_103.ogg/revision/latest?cb=20240728233452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_113.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Sampo!?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Yes, it's none other than your old friend, Sampo!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_2_sampo_104.ogg/revision/latest?cb=20240728233454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_114.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "What brings you here?"
+    },
+    {
+        "type": "choice",
+        "text": "I can't be dreaming, can I...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "You're such a hoot, buddy. This is Penacony, of course you're in a dream!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter3_2_sampo_105.ogg/revision/latest?cb=20240728233456",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_115.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You're surprised to see me? You know, it's thanks to you that I can be here — you helped Jarilo-VI open up to the outside!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter3_2_sampo_106.ogg/revision/latest?cb=20240728233459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Um... this gentleman is?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter3_2_firefly_222.ogg/revision/latest?cb=20240728233413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Oh, Miss March! Don't you remember me? After all the favors I did for you all in Belobog...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter3_2_sampo_107.ogg/revision/latest?cb=20240728233501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_118.ogg"
+    },
+    {
+        "type": "note",
+        "text": "This is Firefly. She's my tour guide."
+    },
+    {
+        "type": "note",
+        "text": "You should get your eyesight checked. Are you sure March 7th looks like this?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...My name is Firefly. I'm a stage performer from the Iris Family.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter3_2_firefly_223.ogg/revision/latest?cb=20240728233415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Oh, no wonder! I was just thinking, there's no way Miss March could change her appearance so dramatically in such a short time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter3_2_sampo_108.ogg/revision/latest?cb=20240728233503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "▶ It's my pleasure to meet you! My name is Sampo — and I'm an old pal of (Trailblazer)'s.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter3_2_sampo_109_m.ogg/revision/latest?cb=20240728233507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_121.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Nice to meet you, too.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Haha, seems like we're getting on the same wavelength now!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter3_2_sampo_110.ogg/revision/latest?cb=20240728233509",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Since when did I acknowledge you as my friend?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Oh, don't be like that. You're making things awkward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter3_2_sampo_111.ogg/revision/latest?cb=20240728233511",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_123.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Firefly, let's go.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo",
+                "line": "Come on! It's been so long since we last met each other. How can you just walk away like that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter3_2_sampo_112.ogg/revision/latest?cb=20240728233512",
+                "is_unavailable": false,
+                "audio_filename": "audio_Sampo_124.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Mr. Sampo, what's the purpose of your visit to Penacony?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter3_2_firefly_224.ogg/revision/latest?cb=20240728233417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "My purpose? Haha, you're funny. What else can I do in Penacony? Well, I just hang around, daydream, and do the things that anyone on vacation would do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter3_2_sampo_113.ogg/revision/latest?cb=20240728233515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Speaking of which... Old pal, since fate brings us here, I'm obliged to give you a tour of this area.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter3_2_sampo_114.ogg/revision/latest?cb=20240728233517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "I've been watching you two for a long time. Miss Firefly does know Penacony well, but when it comes to \"entertainment for grownups,\" I think I can do much better.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter3_2_sampo_115.ogg/revision/latest?cb=20240728233519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Entertainment for grownups?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter3_2_firefly_225.ogg/revision/latest?cb=20240728233419",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Looks like my analysis is spot-on. Follow me, you two. Let me give you a taste of the adult world!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter3_2_sampo_116.ogg/revision/latest?cb=20240728233522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_130.ogg"
+    }
+]

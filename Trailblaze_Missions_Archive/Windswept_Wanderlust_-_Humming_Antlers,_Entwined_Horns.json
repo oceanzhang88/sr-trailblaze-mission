@@ -1,0 +1,1880 @@
+[
+    {
+        "type": "heading",
+        "text": "Enter the Artisanship Commission to see what is happening"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The Artisanship Commission is the department responsible for inventions and manufacturing in Xianzhou. People are crowding around its entrance, which is to be expected from individuals when the entire state is in peril. However, it's impossible for you to know what is happening inside without opening the doors to take a look."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach apprentices by theSpace Anchor, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Apprentice",
+        "line": "I've never seen the Ambrosial Arbor look like this before... Is this how it looked back in the day?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the locked gate)"
+    },
+    {
+        "type": "note",
+        "text": "The gate is closed. Just like the metals from which it was forged, it emanates a cold indifference."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* Another locked gate. Time for the old dilemma — break in or climb over?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter2_5_mar7th_110.ogg/revision/latest?cb=20250310044849",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "A warm reminder, benefactors, that the Artisanship Commission is as important to the Xianzhou as the Divination Commission .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter2_5_tingyun_109.ogg/revision/latest?cb=20250310105050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Our law states that trespassing into the Artisanship Commission can result in a prison sentence of between 300 to 500 years... Serious violations may result in exile on a barren planet, thousands of light-years away...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter2_5_tingyun_110.ogg/revision/latest?cb=20250310105051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_2.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'm sure they'll be lenient given the circumstances..."
+    },
+    {
+        "type": "choice",
+        "text": "The general sent us here — surely we get a pass?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Yes, we do. Still, the Artisanship Commission is filled with security mechanisms. Even the general won't be able to save us in time if we get trapped.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter2_5_tingyun_111.ogg/revision/latest?cb=20250310105052",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's law-breaking time!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...You gonna be this enthusiastic when it's jail-sentencing time?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter2_5_mar7th_111.ogg/revision/latest?cb=20250310044850",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I'm not trying to scare you — I'm simply suggesting you ask the craftsmen to see if they can provide an insider like Qingque to guide you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter2_5_tingyun_112.ogg/revision/latest?cb=20250310105053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "It seems more than a little reckless to charge in when we don't know what's ahead of us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter2_5_tingyun_113.ogg/revision/latest?cb=20250310105055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_6.ogg"
+    },
+    {
+        "type": "section_header",
+        "text": "Ask about the situation from the crowds at the Artisanship Commission entrance"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachAwei, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "This is bad, master, he...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "I won't be able to graduate at this rate...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Awei)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "Master Gongshu...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter2_5_awei_101.ogg/revision/latest?cb=20250310044705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "*gasp* Are you guys Cloud Knights ? Are you here to save us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter2_5_awei_102.ogg/revision/latest?cb=20250310044706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "...Your clothes. *sigh* I knew I was getting ahead of myself — you're just tourists.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter2_5_awei_103.ogg/revision/latest?cb=20250310044707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "Sorry this crisis came during your trip. *sigh* I'm sorry it came at all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter2_5_awei_104.ogg/revision/latest?cb=20250310044708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_10.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Worry no more. The knight in shining armor is here to the rescue."
+    },
+    {
+        "type": "note",
+        "text": "Fret not. I'm the cavalry the general sent for."
+    },
+    {
+        "type": "note",
+        "text": "There comes a time when we all feel sorry..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah, you just need to tell us what the trouble is, hehe~ General Jing Yuan pulled out all the stops to get us here — you can trust us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter2_5_mar7th_104.ogg/revision/latest?cb=20250310044843",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "...You mean the general invited you? Is that a joke? The Luofu has the Cloud Knights — why would he send outsiders?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_5_awei_105.ogg/revision/latest?cb=20250310044709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "There's been a serious incident in the Artisanship Commission — nobody's in the mood for jokes, miss.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter2_5_awei_106.ogg/revision/latest?cb=20250310044710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "You misunderstand, young sir — we genuinely want to help. Can you tell us what happened here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter2_5_welt_104.ogg/revision/latest?cb=20250310044925",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_14.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What are you doing out here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "Waiting around, that's what. We ran away, it was way too dangerous in there.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_5_awei_107.ogg/revision/latest?cb=20250310044711",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "Please, if you plan on living a little longer, don't go in there.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter2_5_awei_108.ogg/revision/latest?cb=20250310044712",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What happened in there?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "There's been some kind of botanical disaster — it was like an ornamental tree somewhere suddenly started to grow. There were branches so thick you couldn't put your arms around them! It spread everywhere — the whole Commission is being destroyed.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter2_5_awei_109.ogg/revision/latest?cb=20250310044713",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "I don't get it, the Artisanship Commission focuses on the mechanical — we've got nothing to do with hydroponics or accelerated growth... Where did that thing come from?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter2_5_awei_110.ogg/revision/latest?cb=20250310044714",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_18.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "You should leave."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "The worst thing is... my master is still inside!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter2_5_awei_111.ogg/revision/latest?cb=20250310044715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "Master Gongshu is the most experienced craftsman in the Artisanship Commission's smelting works — he's in charge of our research project.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter2_5_awei_112.ogg/revision/latest?cb=20250310044716",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "When the incident happened, he dragged me, Ziming , and Yunche to safety... But then he turned around and ran back in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter2_5_awei_113.ogg/revision/latest?cb=20250310044717",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "I need to wait here for the Cloud Knights so I can tell them to rescue him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_5_awei_114.ogg/revision/latest?cb=20250310044718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Why did he run back in?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter2_5_mar7th_105.ogg/revision/latest?cb=20250310044844",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "To save his research data?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "Is research data more important than life?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter2_5_awei_115.ogg/revision/latest?cb=20250310044719",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_24.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Project deadline approaching?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "That's not how it works — the research comes first here.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_5_awei_116.ogg/revision/latest?cb=20250310044720",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_25.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Did none of you try to stop him?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Awei",
+                "line": "We didn't have time — we were scrambling for our lives! If I had an extra pair of arms, maybe I could've tried.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_5_awei_117.ogg/revision/latest?cb=20250310044722",
+                "is_unavailable": false,
+                "audio_filename": "audio_Awei_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "I just heard him shout \"It's gone! We lost the furnace!\" By the time we realized, he'd already vanished.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter2_5_awei_118.ogg/revision/latest?cb=20250310044722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "Anyway... you said you're here to help us, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_5_awei_119.ogg/revision/latest?cb=20250310044723",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "100%. The general sent us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter2_5_welt_105.ogg/revision/latest?cb=20250310044926",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You don't have to believe us — the Astral Express doesn't shout about its achievements! We'll look for your master.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter2_5_mar7th_106.ogg/revision/latest?cb=20250310044845",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "In that case, take this jade seal with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter2_5_awei_120.ogg/revision/latest?cb=20250310044724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "If you find my master, please bring him out safe and sound! If anything happens to him...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter2_5_awei_121.ogg/revision/latest?cb=20250310044725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Don't worry, young sir. Your master's safety is our—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter2_5_welt_106.ogg/revision/latest?cb=20250310044927",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Awei",
+        "line": "None of us will be able to graduate this year...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter2_5_awei_122.ogg/revision/latest?cb=20250310044727",
+        "is_unavailable": false,
+        "audio_filename": "audio_Awei_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter2_5_welt_107.ogg/revision/latest?cb=20250310044928",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let's go, I think this conversation's run its course...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter2_5_mar7th_107.ogg/revision/latest?cb=20250310044846",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_36.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Obtain\"Artisanship Commission Jade Seal\"×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "\"Botanical disaster\"? It must be the Ambrosial Arbor...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter2_5_mar7th_108.ogg/revision/latest?cb=20250310044847",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...but what about the \"furnace\" his master mentioned?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter2_5_mar7th_109.ogg/revision/latest?cb=20250310044848",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachChengjie, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chengjie",
+        "line": "The road of the augury is woe",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chengjie",
+        "line": "Thank fortunes I put up the shifting screen",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Chengjie, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chengjie",
+        "line": "As expected, the divination was correct.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_5_chengjie_101.ogg/revision/latest?cb=20250310044728",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chengjie_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chengjie",
+        "line": "If I hadn't repaired the Shifting Screen today we'd all have been trapped — we'd be fertilizer by now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter2_5_chengjie_102.ogg/revision/latest?cb=20250310044729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chengjie_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Chengjie",
+        "line": "Still, the teleportation range wasn't enough...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_5_chengjie_103.ogg/revision/latest?cb=20250310044729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Chengjie_41.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Ziming and Yunche, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "Who are those four people",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yunche",
+        "line": "Who knows?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "Maybe they are visitors who are fleeing?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Ziming or Yunche, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "It's no ordinary tree — the branches felt tough as metal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_5_ziming_101.ogg/revision/latest?cb=20250310044949",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ziming_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "Yunche, have you ever seen material like that before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter2_5_ziming_102.ogg/revision/latest?cb=20250310044950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ziming_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yunche",
+        "line": "What if I have — you gonna go get a sample for me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter2_5_yunche_101.ogg/revision/latest?cb=20250310044945",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yunche_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "I was thinking about it, yeah. Isn't it just an ornamental tree?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter2_5_ziming_103.ogg/revision/latest?cb=20250310044952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ziming_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yunche",
+        "line": "Have you ever seen an ornamental tree move? Have you ever seen one bore through the ground like that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter2_5_yunche_102.ogg/revision/latest?cb=20250310044946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yunche_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "So what if it moves? I just need to run over and saw off a sample. It can't grow faster than I can run, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter2_5_ziming_104.ogg/revision/latest?cb=20250310044953",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ziming_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yunche",
+        "line": "Sure, go ahead. Here's a crowbar and a saw! Don't say I didn't warn you when the Cloud Knights have to scrape you off the walls.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter2_5_yunche_103.ogg/revision/latest?cb=20250310044947",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yunche_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ziming",
+        "line": "Well, I... I—I've been feeling a bit under the weather lately. *cough* Yunche, you're the most agile person on the materials team! When it comes to operational efficiency—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter2_5_ziming_105.ogg/revision/latest?cb=20250310044954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Ziming_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yunche",
+        "line": "Under the weather!? How convenient. As for me — I'd rather stay alive, thanks!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_5_yunche_104.ogg/revision/latest?cb=20250310044948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yunche_50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the locked gate)"
+    },
+    {
+        "type": "choice",
+        "text": "Show the jade seal",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Submit\"Artisanship Commission Jade Seal\"×1)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(The locked date opens)\n(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The Stellaron facilitated the resurrection of the Ambrosial Arbor...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter2_5_welt_108.ogg/revision/latest?cb=20250310044929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The severity of the corrosion becomes worse as it grows.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter2_5_welt_109.ogg/revision/latest?cb=20250310044930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "*sigh* Look, the roots are coming up through the ground. I'm afraid we've got some gardening work to do.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter2_5_tingyun_114.ogg/revision/latest?cb=20250310105056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_53.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate how far the Ambrosial Arbor's roots have breached into the Artisanship Commission"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As the Ambrosial Arbor is reborn, its massive root system spreads outward, roaming everywhere like writhing dragons. Delves situated closer to the Arbor are far more likely to be breached.The roots of the Ambrosial Arbor tightly wrap around a giant furnace in the Artisanship Commission, lifting it off the ground, and the bridge leading to that location has already been destroyed."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the ingenium on the bridge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Upon Commission grounds your feet do tread! Leave from whence you came or soon be dead! Deaaaad!!!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_5_gongshu_101.ogg/revision/latest?cb=20250310044730",
+        "is_unavailable": false,
+        "audio_filename": "audio__54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Stay away! If you come any further, I'll not spare you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter2_5_gongshu_102.ogg/revision/latest?cb=20250310044731",
+        "is_unavailable": false,
+        "audio_filename": "audio__55.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstEntranced Ingenium: Obedient Dracolion×1,Entranced Ingenium: Illumination Dragonfish×2,Entranced Ingenium: Golden Cloud Toad×1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hold on, let us explain! We're not—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter2_5_mar7th_112.ogg/revision/latest?cb=20250310044851",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What excuses do you have? Surprise me! Just passing by? Stumbled in? Door wide open? HMM?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_5_gongshu_103.ogg/revision/latest?cb=20250310044732",
+        "is_unavailable": false,
+        "audio_filename": "audio__57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Within Commission grounds today was sewn, an evil spun by hands unseen, unknown! No longer!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter2_5_gongshu_104.ogg/revision/latest?cb=20250310044733",
+        "is_unavailable": false,
+        "audio_filename": "audio__58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "If the security mechanisms didn't teach you a lesson, these robots will!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter2_5_gongshu_105.ogg/revision/latest?cb=20250310044734",
+        "is_unavailable": false,
+        "audio_filename": "audio__59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Golden Cloud Toad! Illumination Dragonfish! ...Are you alright? Wake up! I raised you like my own flesh and blood...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_5_gongshu_106.ogg/revision/latest?cb=20250310044735",
+        "is_unavailable": false,
+        "audio_filename": "audio__60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Did you really have to destroy my little friends? I want compensation!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter2_5_gongshu_107.ogg/revision/latest?cb=20250310044736",
+        "is_unavailable": false,
+        "audio_filename": "audio__61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You didn't want to listen to us! We were here to rescue you and you started a fight for no reason!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter2_5_mar7th_113.ogg/revision/latest?cb=20250310044852",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_62.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you Master Gongshu?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "How do you know my name, child?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter2_5_gongshu_108.ogg/revision/latest?cb=20250310044737",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Does the reputation of Gongshu Liang, \"the smelter extraordinaire,\" precede one?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter2_5_gongshu_109.ogg/revision/latest?cb=20250310044738",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_64.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "This guy is pretty deluded for a \"master...\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter2_5_mar7th_114.ogg/revision/latest?cb=20250310044853",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_65.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Are you Awei's teacher?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Hmph! Did those hopeless brats send you here? It won't work! They abandoned the Commission's precious assets and ran off to save their own little skins!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter2_5_gongshu_110.ogg/revision/latest?cb=20250310044739",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Even if you rescue me, it won't change anything — all of them will fail their internships!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter2_5_gongshu_111.ogg/revision/latest?cb=20250310044740",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_67.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...It's not like that. You're making this too complicated...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter2_5_mar7th_115.ogg/revision/latest?cb=20250310044854",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We're passing through on our way to the Alchemy Commission at the behest of General Jing Yuan and Diviner Fu . We'd like you to show us the way, Master Gongshu.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter2_5_welt_110.ogg/revision/latest?cb=20250310044931",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "R—Really? The general sent you? Then this must be a mere misunderstanding! Ah — don't worry about those things, easy to fix!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter2_5_gongshu_112.ogg/revision/latest?cb=20250310044741",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "But there's not much I can do to help! The Artisanship Commission was suddenly taken over by some evil tree demon. It seized our most precious possession — the Creation Furnace!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter2_5_gongshu_113.ogg/revision/latest?cb=20250310044742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "It's a dark and powerful entity. The robots... it was like they gained consciousness — they were moving in a circle around it. I fear approaching it is tantamount to suicide!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter2_5_gongshu_114.ogg/revision/latest?cb=20250310044743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "But then, I couldn't just run away... knowing what lies sealed in the furnace...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter2_5_gongshu_115.ogg/revision/latest?cb=20250310044744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_73.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We're short on time. Where are we going? Who are we fighting?"
+    },
+    {
+        "type": "note",
+        "text": "One good turn deserves another."
+    },
+    {
+        "type": "note",
+        "text": "I think I know where this one is going..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Haha, I'm sure General Jing Yuan must have believed wholeheartedly that you could save the Artisanship Commission from this crisis.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter2_5_gongshu_116.ogg/revision/latest?cb=20250310044745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Means I know of may yet serve your fight, pray you in repayment aid my plight. Come! Come on, through here~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter2_5_gongshu_117.ogg/revision/latest?cb=20250310044746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_75.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Master Gongshu"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "No one expected an old master to remain at his post in this abandoned delve. His spirits are applaudable.You learn that this man, Master Gongshu, is concerned about the furnace's safety. However, he alone could do little against the rampaging roots. As virtuous and just trailblazers, such a task would be a piece of cake for you!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Look, this is one of the Artisanship Commission's prototypes: The Shifting Screen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter2_5_gongshu_118.ogg/revision/latest?cb=20250310044747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Good thing I got the students to take it out and make a few adjustments — otherwise they'd never have managed to get out in time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter2_5_gongshu_119.ogg/revision/latest?cb=20250310044748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "You all saw the Jade Gate on your way in, I assume? The Shifting Screen works in the same way. It connects two spatial coordinates in ways that laymen, ahem, wouldn't understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter2_5_gongshu_120.ogg/revision/latest?cb=20250310044749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_78.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Like teleportation?"
+    },
+    {
+        "type": "note",
+        "text": "Then what do you need starskiffs for?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Indeed. With limited range and energy costs aside, to every starskiff soon shall woe betide~!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter2_5_gongshu_121.ogg/revision/latest?cb=20250310044749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You sure about that? Even our trailblazing Space Anchors sound better.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter2_5_mar7th_116.ogg/revision/latest?cb=20250310044855",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Thank goodness you take the time to perfect these inventions, master! If not, the Sky-Faring Commission would've become quite redundant by now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_5_tingyun_115.ogg/revision/latest?cb=20250310105057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Ordinarily I could've used this beauty to teleport you thither, but... Through earth and air the wretched branches boiled, the Shifting Screen entangled thence... encoiled!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter2_5_gongshu_122.ogg/revision/latest?cb=20250310044750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_82.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Gongshu Liang strikes a pose and raises an eyebrow as if to say: \"keep asking.\""
+    },
+    {
+        "type": "choice",
+        "text": "I'm sure you know how to fix it.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "How observant — you would make an excellent student.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter2_5_gongshu_123.ogg/revision/latest?cb=20250310044751",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Thanks for the colorful explanation. Bye!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "H—Hold on! Have some faith in me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter2_5_gongshu_124.ogg/revision/latest?cb=20250310044753",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_84.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Then I shall inform the general that this path is a no-go.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "H—Hold on! My young friends, don't underestimate the Artisanship Commission. The general is too far off to help us now, but I can!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter2_5_gongshu_125.ogg/revision/latest?cb=20250310044754",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_85.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "The Commission is more than a match for mother nature. Hmph! O piteous tree, who think thyself so strong, your match and more in strength to meet ere long...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter2_5_gongshu_126.ogg/revision/latest?cb=20250310044755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Master Gongshu sets up the equipment hastily"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "This is the first thing that came to mind when the tree demon attacked.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter2_5_gongshu_127.ogg/revision/latest?cb=20250310044756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "It's a mechanical device code-named the Luminflux Pyxis .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter2_5_gongshu_128.ogg/revision/latest?cb=20250310044756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "I invented this weapon for the Cloud Knights. It's incredibly powerful, but...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter2_5_gongshu_129.ogg/revision/latest?cb=20250310044757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Let me guess... Limited range? Energy costs?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter2_5_welt_111.ogg/revision/latest?cb=20250310044932",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "*sigh* Every light has its shadow. But this is more than enough to deal with the tree demon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter2_5_gongshu_130.ogg/revision/latest?cb=20250310044758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "And then, ignite. Fire beats wood — there's no way we can lose!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_5_gongshu_131.ogg/revision/latest?cb=20250310044759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_92.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Destroy the entangled Ambrosial Arbor coil and free the Shifting Screen"
+    },
+    {
+        "type": "condition",
+        "text": "(DisplaysLuminflux Pyxis Tutorial)"
+    },
+    {
+        "type": "note",
+        "text": "Ambrosial Arbor's branches can be found blocking the path. Use the Artisanship Commission's energy conduction device to destroy all the entangled Ambrosial Arbor's coils at the same time. Ambrosial Arbor's branches can be found blocking the path. Use the Artisanship Commission's energy conduction device to destroy all the entangled Ambrosial Arbor's coils at the same time. Rotate receiver nodes to adjust heliobus energy's conduction direction. Then activate the trigger node to release heliobus energy along the conduction direction. Rotate receiver nodes to adjust heliobus energy's conduction direction. Then activate the trigger node to release heliobus energy along the conduction direction. The Ambrosial Arbor coils need to be destroyed at the same time or they will grow back rapidly. The Ambrosial Arbor coils need to be destroyed at the same time or they will grow back rapidly."
+    },
+    {
+        "type": "condition",
+        "text": "(After completing the puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Very good! The master reveals the door, but the apprentice must walk through it. You're much better than my useless students.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_5_gongshu_133.ogg/revision/latest?cb=20250310044800",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_93.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(The ground begins to shake)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Wh—What's happening? Is the delve collapsing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter2_5_gongshu_134.ogg/revision/latest?cb=20250310044801",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Phew, seems like it worked! That tree demon must be writhing in pain, hahaha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_5_gongshu_135.ogg/revision/latest?cb=20250310044802",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Alright, there's no time to lose. Hurry through the Shifting Screen to the opposite side before the branches grow back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter2_5_gongshu_136.ogg/revision/latest?cb=20250310044803",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_96.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Creation Furnace"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Look, the Ambrosial Arbor's roots...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter2_5_mar7th_117.ogg/revision/latest?cb=20250310044856",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "They've encoiled the Artisanship Commission's most precious invention: The Creation Furnace!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter2_5_gongshu_137.ogg/revision/latest?cb=20250310044804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Help me, dear young friends! Let's hack them away together! We can't let the roots punch through the furnace!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter2_5_gongshu_138.ogg/revision/latest?cb=20250310044804",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_99.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Careful!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "It's changing...",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends, enter battle againstAbundant Ebon Deer)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "...Wh—What kind of monster is this?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter2_5_gongshu_139.ogg/revision/latest?cb=20250310044805",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_100.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "...Miraculous, it creates life at will. Such incredible power...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter2_5_tingyun_116.ogg/revision/latest?cb=20250310105058",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "It's guarding the Ambrosial Arbor's roots and the furnace.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter2_5_welt_112.ogg/revision/latest?cb=20250310044933",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Look at the deer's feet — there are more roots coming up!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_5_mar7th_118.ogg/revision/latest?cb=20250310044857",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_103.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After the Abundant Ebon Deer uses Rebirth twice)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "No matter how much damage we do, it just heals itself... not fair!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter2_5_mar7th_121.ogg/revision/latest?cb=20250310044859",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We'll have to retreat for now. Follow me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter2_5_welt_115.ogg/revision/latest?cb=20250310044934",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ugh, no wonder the Xianzhou is so scared of the Abominations of Abundance — they're unstoppable!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter2_5_mar7th_122.ogg/revision/latest?cb=20250310044900",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Miss Tingyun, are the long-life species on the Xianzhou... all like this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter2_5_mar7th_123.ogg/revision/latest?cb=20250310044901",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I'm afraid this Ebon Deer was likely birthed by the Ambrosial Arbor as its guardian — it shares a close connection with the Arbor's roots. Most living creatures on the Xianzhou don't have abilities like this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter2_5_tingyun_117.ogg/revision/latest?cb=20250310105059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* As long as it's there, we can't get any closer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_5_mar7th_124.ogg/revision/latest?cb=20250310044902",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I wonder... The Ebon Deer seems to heal itself instantly, but perhaps it's drawing that power from elsewhere...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter2_5_welt_116.ogg/revision/latest?cb=20250310044935",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_110.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's blast it to smithereens!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ (Trailblazer), are you listening to Mr. Yang!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_5_mar7th_125_m.ogg/revision/latest?cb=20250310044904",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_111.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So if we follow the roots we can find the source of its power?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah! It can't heal if we take out the source, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter2_5_mar7th_126.ogg/revision/latest?cb=20250310044905",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_112.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The monster only seems to be active in the vicinity of the Arbor. Let's look around and see if we can find anything.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter2_5_welt_117.ogg/revision/latest?cb=20250310044936",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_113.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Investigate the Artisanship Commission, and find the source of the Ebon Deer's rejuvenation"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The Ambrosial Arbor's roots wrap tightly around the furnace and absorb power from all over the Artisanship Commission, creating the Abundant Ebon Deer to protect itself.You discover during battle that the Ebon Deer appears immortal and revives as soon as it is defeated. The only chance you have of victory is to cut off its energy source."
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to go back to Ebon Deer, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I don't think we're in a position to take down this deer until we've dealt with its regenerative abilities...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_5_welt_118.ogg/revision/latest?cb=20250310044937",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "So the general asked you to head to the Alchemy Commission?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter2_5_gongshu_142.ogg/revision/latest?cb=20250310044808",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "*sigh* The Artisanship Commission had no choice but to halt operations once the tree demon appeared.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_5_gongshu_143.ogg/revision/latest?cb=20250310044809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_116.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate theAurumaton Gatekeeperon the right wall, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's a whole row of those gate robots! We saw one in the Divination Commission...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter2_5_mar7th_127.ogg/revision/latest?cb=20250310044906",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Gate robots...? Those are aurumatons — the Artisanship Commission created them to stand guard in various locations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter2_5_gongshu_140.ogg/revision/latest?cb=20250310044806",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Master, are these creations truly able to protect the Artisanship Commission? There's already been so much destruction — why haven't we seen any in action?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_5_tingyun_118.ogg/revision/latest?cb=20250310105101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "I... Ahem! We haven't quite finished the paintwork on this batch. How can we deploy them if they're not looking their best?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter2_5_gongshu_141.ogg/revision/latest?cb=20250310044807",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "...Young friends, I have a suggestion. Why don't we head that way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter2_5_gongshu_144.ogg/revision/latest?cb=20250310044810",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_121.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Lumunflux Pyxis puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Any thoughts, Master Gongshu?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_5_welt_119.ogg/revision/latest?cb=20250310044938",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Hmm... When the deer revives, the surrounding roots glow brightly...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter2_5_gongshu_145.ogg/revision/latest?cb=20250310044811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Great observation Mr. Gongshu. It's amazing what you notice when you're not fighting...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter2_5_mar7th_128.ogg/revision/latest?cb=20250310044907",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Hehe, I'm only an artisan, after all. My skills in clash of swords shall find no sake, yet that which clasheth needeth hands to make!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter2_5_gongshu_146.ogg/revision/latest?cb=20250310044812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "As Mr. Yang said, the deer monster is likely drawing power from somewhere in order to replenish itself. I'm certain that when the Arbor glows, we are witnessing that very process.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter2_5_gongshu_147.ogg/revision/latest?cb=20250310044813",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_126.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Maybe the root system is the key."
+    },
+    {
+        "type": "note",
+        "text": "Let's give it a shot — nothing to lose."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Precisely! You remember how we untangled the Shifting Screen with fire?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter2_5_gongshu_148.ogg/revision/latest?cb=20250310044814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You're right! Those roots never grew back!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter2_5_mar7th_129.ogg/revision/latest?cb=20250310044908",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Not only that — its reaction suggested we'd hurt it... perhaps that's our starting point.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter2_5_welt_120.ogg/revision/latest?cb=20250310044939",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Take hold of your weapons, young comrades! Let's raze these roots to the ground!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter2_5_gongshu_149.ogg/revision/latest?cb=20250310044815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_130.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Destroy the entangled Ambrosial Arbor coil"
+    },
+    {
+        "type": "condition",
+        "text": "(After solving the Luminflux Pyxis puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "See!? My theory was correct! Keep going!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter2_5_gongshu_150.ogg/revision/latest?cb=20250310044816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_131.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find the third Ambrosial Arbor coil"
+    },
+    {
+        "type": "condition",
+        "text": "(After finding the Ambrosial Arbor coil)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Quick, there's more roots over here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter2_5_mar7th_130.ogg/revision/latest?cb=20250310044909",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Give me a moment — I'll set up the device.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter2_5_gongshu_153.ogg/revision/latest?cb=20250310044817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_133.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Destroy the entangled Ambrosial Arbor coil"
+    },
+    {
+        "type": "condition",
+        "text": "(After solving the Luminflux Pyxis puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I guess we're done...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter2_5_mar7th_131.ogg/revision/latest?cb=20250310044910",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "I suspect the Ambrosial Arbor's root system must have spread far underground. The only thing we can say with confidence is that we removed the majority of those within the bounds of the Artisanship Commission.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_5_gongshu_154.ogg/revision/latest?cb=20250310044818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Let's hurry, before they've had a chance to grow back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter2_5_gongshu_155.ogg/revision/latest?cb=20250310044819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So, the next step is...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_5_welt_121.ogg/revision/latest?cb=20250310044940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_137.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Say hello to our very \"deer\" friend! ...Get it?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Please never do that again...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter2_5_mar7th_132.ogg/revision/latest?cb=20250310044911",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_138.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Go hoof some fun!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I feel like I'm gonna be sick...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter2_5_mar7th_133.ogg/revision/latest?cb=20250310044912",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_139.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Deer hunting.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Let's go!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter2_5_mar7th_134.ogg/revision/latest?cb=20250310044913",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_140.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Return to the Creation Furnace and defeat the Abundant Ebon Deer"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Look — the roots coiled around the Creation Furnace! They've withered!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter2_5_gongshu_156.ogg/revision/latest?cb=20250310044820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Excellent! Nothing can stop you now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter2_5_gongshu_157.ogg/revision/latest?cb=20250310044821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_142.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(During Phase 2)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? Peaches? I am kinda hungry...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter2_5_mar7th_119.ogg/revision/latest?cb=20250310044857",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "March.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_5_welt_114.ogg/revision/latest?cb=20250310044933",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'm just saying! It'll be a shame if they get smashed to pieces.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter2_5_mar7th_120.ogg/revision/latest?cb=20250310044858",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_145.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(When Abundant Ebon Deer is at approx. 10% health in Phase 2)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It's getting weak! Quick, finish it off!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter2_5_mar7th_135.ogg/revision/latest?cb=20250310044914",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_146.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After fight against Abundant Ebon Deer)\n(UnlockAchievementSlayer of a Very \"Deer\" Friend)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "General Jing Yuan said the Ambrosial Arbor was an unfathomable celestial blessing...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter2_5_welt_122.ogg/revision/latest?cb=20250310044941",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "At first glance, that deer could have been an ordinary life form, but the ability to heal such grave wounds in an instant... I think I finally understand why the Xianzhou decided to follow The Hunt in eradicating the Abundance .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter2_5_welt_123.ogg/revision/latest?cb=20250310044942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If immortal creations were left to spread their branches and roots throughout the universe, entire ecosystems would collapse...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter2_5_welt_124.ogg/revision/latest?cb=20250310044943",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "No wonder the people of the Xianzhou wander the universe, never settling on a planet...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter2_5_welt_125.ogg/revision/latest?cb=20250310044944",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "You are a man of vision, Mr. Yang. It's a shame our ancestors, the Elixir Seekers , were unable to see that hidden curse 8000 years ago...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_5_gongshu_159.ogg/revision/latest?cb=20250310044822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Perhaps some of them did reject the Plagues Author 's \"gift.\" But how could an entire civilization resist the temptation of immortality?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter2_5_gongshu_160.ogg/revision/latest?cb=20250310044823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Ironic, isn't it? The wise are buried while the fools remain immortal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter2_5_gongshu_161.ogg/revision/latest?cb=20250310044823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "The Xianzhou regrets being led astray by the Abundance... That's why they have decided to embark on the Path of The Hunt. Maybe it's not too late for redemption.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter2_5_gongshu_162.ogg/revision/latest?cb=20250310044824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Thank you for your help. I realize you must continue on to the Alchemy Commission, to the Ambrosial Arbor. After witnessing what happened here, I know there will only be more danger ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_5_gongshu_163.ogg/revision/latest?cb=20250310044826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Go, friends, and stay vigilant. I wish you a safe journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter2_5_gongshu_164.ogg/revision/latest?cb=20250310044827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_156.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Messages Tingyun Tingyun Say, did you see that, benefactor? When the Ebon Deer's stomped the ground, branches sprouted out of nowhere I saw (Trailblazer) Those must be... the Ambrosial Arbor 's roots? Branches? (Trailblazer) Those must be... the Ambrosial Arbor's roots? Tingyun The celestial traces of Abundance are indeed marvelous to behold This is the first time I've seen something so miraculous among all my travels The fruits on those boughs are sparkling gold, just like what the Xianzhou legends say It is said that in ancient times, the forebears of the Xianzhou received immortal fruits like this of the Ambrosial Arbor and turned into long-life species If I were to eat this fruit, would I obtain endless life just like the Xianzhou natives...? Are you not tempted by such a chance, benefactor? A dangerous thought... (Trailblazer) Miss Tingyun, wouldn't you be breaching the Xianzhou ban? Tingyun Ahh Please pardon me for my rudeness and my little test As I thought, you are an honest and righteous person, benefactor Can't leave if you eat it... (Trailblazer) If you eat this fruit, I'm afraid you won't get to live for a thousand years... but executed by the Cloud Knights moments after. Tingyun You're right, benefactor But if you manage to get past the Cloud Knights' searches This opportunity seems too good to pass up, right? Oh, I was tempted... (Trailblazer) Then... Miss Tingyun... did you save a fruit? Tingyun If I say yes, would you want to share it with me, benefactor? Tingyun But I thank you for the thought, benefactor Unfortunately, the Ebon Deer is now dust, and no fruit of the Ambrosial Arbor is left behind Such opportunities are extremely rare, but they slip away in the blink of an eye. Just like life itself..."
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainShadow of Preservation×1,\"Deerstalker\"×1)\n(UnlockAchievementThe Deer Hunter)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Master Gongshu, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Thank you for your help. Those useless students and I will take care of the rest here... If worst comes to worst, we still have the Cloud Knights.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_5_gongshu_165.ogg/revision/latest?cb=20250310044827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_157.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why do you care so much about this furnace?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "It's only a legend... though what with the Ambrosial Arbor having come back to life, I suppose it's no longer absurd...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter2_5_gongshu_166.ogg/revision/latest?cb=20250310044828",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_158.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "They say that a long time ago, when the Xianzhou Alliance was adrift in deep space, it encountered many unimaginable life forms.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter2_5_gongshu_167.ogg/revision/latest?cb=20250310044829",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_159.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Among them were abominations known as heliobi. They existed in the form of pure energy, but craved the sensations and desires of mortal flesh and blood. Sometimes they managed to infiltrate the delves of the Xianzhou in order to bewitch humans and become parasites in their bodies.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter2_5_gongshu_168.ogg/revision/latest?cb=20250310044830",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_160.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "It's said that mortals parasitized by heliobi would lose their free will imperceptibly, before gradually going berserk.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter2_5_gongshu_169.ogg/revision/latest?cb=20250310044831",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_161.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "After a prolonged struggle, the people of the Xianzhou finally managed to trap and seal the heliobi in a vessel.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter2_5_gongshu_170.ogg/revision/latest?cb=20250310044832",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_162.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "That vessel is the Creation Furnace. Our predecessors hoped that by burning the heliobi in the furnace, their energy would gradually be exhausted until they were completely destroyed.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter2_5_gongshu_171.ogg/revision/latest?cb=20250310044833",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_163.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "I don't know if there are demons in the furnace — perhaps it's all just superstition. However, from the day I started learning from my master, I've looked after the operation of the furnace.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter2_5_gongshu_172.ogg/revision/latest?cb=20250310044835",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_164.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Indeed, the flame inside has never been extinguished...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter2_5_gongshu_173.ogg/revision/latest?cb=20250310044836",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_165.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Have you heard from the Alchemy Commission delve?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "Everything happened so quickly. My students and I were caught by surprise.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter2_5_gongshu_174.ogg/revision/latest?cb=20250310044836",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_166.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "According to the general, there are traitors in the Alchemy Commission.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Master Gongshu",
+                        "line": "I'm not overly surprised. The Alchemy Commission's alchemists were once closer to the Arbor than anyone else on the Luofu.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter2_5_gongshu_175.ogg/revision/latest?cb=20250310044837",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Master_Gongshu_167.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I heard the Disciples of Sanctus Medicus shut down the Alchemy Commission.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Master Gongshu",
+                        "line": "The Disciples of Sanctus Medicus? Now there's an old name.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter2_5_gongshu_176.ogg/revision/latest?cb=20250310044838",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Master_Gongshu_168.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "They say that when the Xianzhou Luofu was first granted the Ambrosial Arbor, the alchemists in the Alchemy Commission wielded tremendous influence. Using the power of the Arbor, they transformed mortal bodies, manipulated the weather, and even brought never-before-seen creatures into being.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter2_5_gongshu_177.ogg/revision/latest?cb=20250310044839",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_169.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Master Gongshu",
+                "line": "They called themselves \"Saints.\" Unfortunately, they didn't possess any saintly powers. As soon as the Ambrosial Arbor withered, the alchemists lost their status and were reduced to medical researchers and practitioners.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_5_gongshu_178.ogg/revision/latest?cb=20250310044840",
+                "is_unavailable": false,
+                "audio_filename": "audio_Master_Gongshu_170.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Well then, goodbye."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "I'm sorry I'm not able to accompany you further.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter2_5_gongshu_179.ogg/revision/latest?cb=20250310044841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Master Gongshu",
+        "line": "Agh, I've always hated owing a favor. Take these with you — rewards for your tireless efforts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter2_5_gongshu_180.ogg/revision/latest?cb=20250310044842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Master_Gongshu_172.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainLongevity Pill of Cruelty×1)"
+    }
+]

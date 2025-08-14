@@ -1,0 +1,1713 @@
+[
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Space Station Inhabitants",
+                "line": "Ahhhh!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Space Station Inhabitants",
+                "line": "What is that!?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Lead the evacuation, quickly!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Arlan",
+                "line": "Ugh... go!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Look out!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Seems I came at a bad time.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "No no — I think you couldn't have timed it better.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "23:47:15 system time. Very punctual, Kafka.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter0_1_silverwolf_101.ogg/revision/latest?cb=20241016172032",
+        "is_unavailable": false,
+        "audio_filename": "audio__0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Elio always tells the exact future. So what's with the explosion just now? Was that also part of his script?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter0_1_kafka_101.ogg/revision/latest?cb=20241016172033",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Uh-huh — \"23:44:59 system time: The pulses from the explosion cause a massive breakdown from the master control system.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter0_1_silverwolf_102.ogg/revision/latest?cb=20241016172034",
+        "is_unavailable": false,
+        "audio_filename": "audio__2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "You did that?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter0_1_kafka_102.ogg/revision/latest?cb=20241016172035",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No, the Antimatter Legion did it. They completely invaded the space station two system hours ago.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter0_1_silverwolf_103.ogg/revision/latest?cb=20241016172036",
+        "is_unavailable": false,
+        "audio_filename": "audio__4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "*whistle* Alright, so do we need to fight the Legion?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter0_1_kafka_103.ogg/revision/latest?cb=20241016172037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I dunno. Elio didn't say anything about it, so it doesn't matter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter0_1_silverwolf_104.ogg/revision/latest?cb=20241016172038",
+        "is_unavailable": false,
+        "audio_filename": "audio__6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Got it. So from now on, I'll be in charge of this operation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter0_1_kafka_104.ogg/revision/latest?cb=20241016172038",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Copy. Can you let me have some fun this time? Our last few operations turned out to be pretty dull.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter0_1_silverwolf_105.ogg/revision/latest?cb=20241016172039",
+        "is_unavailable": false,
+        "audio_filename": "audio__8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...Sorry, I'm afraid there's not much I can do for you — our task this time is just to \"place\" the target properly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter0_1_kafka_105.ogg/revision/latest?cb=20241016172040",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "But if you wanna go look for some fun yourself, I won't stop you. I mean, after all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter0_1_kafka_106.ogg/revision/latest?cb=20241016172041",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_10.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "After all...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Elio didn't put it in the script.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Why would it matter?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/20?cb=20240214213656\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/30?cb=20240214213656\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Antibaryon\" title=\"Antibaryon\">Antibaryon</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After entering battle)</dt>\n<dd>\n<dl><dd>Use <span class=\"text-highlight\">Basic ATK</span> on selected enemy</dd></dl></dd></dl>\n<dl><dt>(After the second turn starts)</dt>\n<dd>\n<dl><dd>Select the enemy on the right as your target</dd>\n<dd>Switch to your <span class=\"text-highlight\">Skill</span> for a stronger attack</dd>\n<dd>Use <span class=\"text-highlight\">Skill</span> on the selected enemy</dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "heading",
+        "text": "Use a fake identity to get past security check"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "The woman sauntering elegantly across the invasion site is a mystery. She mocks the victims, while also ruthlessly eliminating their oppressors.Over their comms, the mysterious helper revealed that the two seem to have some sort of agenda. Is their presence a sign of more chaos to come? Or is it the start of a new story?"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Move your character</dd>\n<dd>Use <span class=\"text-highlight\">Sprint</span> while moving to boost your Movement Speed.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigateHerta's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Who's this? Herta?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter0_Ag1_kafka_101.ogg/revision/latest?cb=20241016172042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Yeah.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter0_Ag1_silverwolf_101_s.ogg/revision/latest?cb=20241016172043",
+        "is_unavailable": false,
+        "audio_filename": "audio__12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "She looks so young. She was already famous in the last Amber Era , no? She has to be at least a hundred years old.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter0_Ag1_kafka_102.ogg/revision/latest?cb=20241016172044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "She's a member of the Genius Society and an Emanator of Nous the Erudition . She can probably age backwards if she wanted.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter0_Ag1_silverwolf_102_s.ogg/revision/latest?cb=20241016172045",
+        "is_unavailable": false,
+        "audio_filename": "audio__14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Hah. I seem to recall that over half of the Genius Society's eighty-odd members had a normal death. Wasn't there someone who only lived for a dozen days or so? What was their name...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter0_Ag1_kafka_103.ogg/revision/latest?cb=20241016172045",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That's pretty normal. Aren't the immortal bosses in games always waiting for the protagonist to come kill them? Immortality is not always a good thing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter0_Ag1_silverwolf_103_s.ogg/revision/latest?cb=20241016172046",
+        "is_unavailable": false,
+        "audio_filename": "audio__16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Hah. What an Alliance joke.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/VO_chapter0_Ag1_kafka_104.ogg/revision/latest?cb=20241016172047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_17.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "This is Madam Herta, or better known as member 83 of the Genius Society. In her childhood, she solved the solitary waves theory and the Spark model hypothesis. In her adolescence, she found the Sigma Baryons conversion method. In middle-age, she proposed the Herta sequence and published a paper on de-aging.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter0_Ag1_herta_101.ogg/revision/latest?cb=20241016172048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "In her senior years, she managed to reverse her own age via de-aging, and went on to solve the mystery of the imaginary leakage phenomenon, and even captured and sealed a stellaron. Madam Herta has saved the planet she was on from destruction 19 times and has met the Aeons twice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter0_Ag1_herta_102.ogg/revision/latest?cb=20241016172049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "This space station is her property.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter0_Ag1_herta_103.ogg/revision/latest?cb=20241016172050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate left table one time only, optional)"
+    },
+    {
+        "type": "note",
+        "text": "Papers covered in math lie scattered on the table. Their author seems to have left in a hurry."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate right table one time only, optional)"
+    },
+    {
+        "type": "note",
+        "text": "You don't need any space station terminal."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate behind elevator, optional)"
+    },
+    {
+        "type": "note",
+        "text": "This is the space elevator, which you took to arrive at the space station. As for how you used the enchantment of Spirit Whisper on the elevator security staff — there's no need to go over that right now."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "When did the Antimatter Legion become so weak?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter0_1_kafka_109.ogg/revision/latest?cb=20241016172051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I could only attract this much. Did you really want the entire Legion to come here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter0_1_silverwolf_109.ogg/revision/latest?cb=20241016172052",
+        "is_unavailable": false,
+        "audio_filename": "audio__22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "This lot won't be able to slow down the Astral Express crew .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter0_1_kafka_110.ogg/revision/latest?cb=20241016172053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Relax. A Doomsday Beast is also here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter0_1_silverwolf_110.ogg/revision/latest?cb=20241016172053",
+        "is_unavailable": false,
+        "audio_filename": "audio__24.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go through the corridor and enter the interior of the space station"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigateZandar's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "This is Zandar. Zandar One Kuwabara. The first genius in history.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter0_Ag1_kafka_109.ogg/revision/latest?cb=20241016172054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The one who supposedly created Nous?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter0_Ag1_silverwolf_107_s.ogg/revision/latest?cb=20241016172055",
+        "is_unavailable": false,
+        "audio_filename": "audio__26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "That's him... If the legends are true, then he was a man who created an Aeon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter0_Ag1_kafka_110.ogg/revision/latest?cb=20241016172056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well they better be false. I don't want to be a Zandar hunter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter0_Ag1_silverwolf_108_s.ogg/revision/latest?cb=20241016172057",
+        "is_unavailable": false,
+        "audio_filename": "audio__28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Zandar One Kuwabara, Genius Society member 1. I hung up his portrait purely out of respect. Without him, there would be no Genius Society today.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter0_Ag1_herta_108.ogg/revision/latest?cb=20241016172058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Frankly, I don't know what he has achieved. None of his books and inventions have survived, but there's gotta be a place for the founder of the Society, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter0_Ag1_herta_109.ogg/revision/latest?cb=20241016172058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigatePolka's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...I know this person. She's the Lord of Silence, Polka Kakamond. See? Her face is all blank. She had destroyed all of her own portraits and sculptures in the entire universe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter0_Ag1_kafka_108.ogg/revision/latest?cb=20241016172059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I'm not interested. Hurry up with our real business.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter0_Ag1_silverwolf_106_s.ogg/revision/latest?cb=20241016172100",
+        "is_unavailable": false,
+        "audio_filename": "audio__32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Polka Kakamond, member #4 of the Genius Society. A woman full of mystery. Many people in the Society died by her hand. I haven't heard anything about her for many years, but I firmly believe she is still alive.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter0_Ag1_herta_106.ogg/revision/latest?cb=20241016172101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Hey, Lord of Silence, if you're here, if you're listening... I'm member 83, Herta, and I want to meet you. I believe you and I will have a lot to talk about.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter0_Ag1_herta_107.ogg/revision/latest?cb=20241016172102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_34.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigateAiden's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Who's this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter0_Ag1_kafka_111.ogg/revision/latest?cb=20241016172103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No idea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter0_Ag1_silverwolf_109_s.ogg/revision/latest?cb=20241016172104",
+        "is_unavailable": false,
+        "audio_filename": "audio__36.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "This is Aiden, member 22 of the Genius Society. The most selfless and the strangest one. He spent his whole life helping others. Personally, I don't see the point.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter0_Ag1_herta_110.ogg/revision/latest?cb=20241016172105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "But the Society is famous thanks to him. The Interastral Peace Corporation has been trying to find a replacement ever since his death. They searched for many Amber Eras, but no genius was willing to lower their head to the IPC... Until they found me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter0_Ag1_herta_111.ogg/revision/latest?cb=20241016172105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigateElias Salas's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Who's this old guy with a white beard?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_Ag1_kafka_107.ogg/revision/latest?cb=20241016172106",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No idea. A Society member?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter0_Ag1_silverwolf_105_s.ogg/revision/latest?cb=20241016172107",
+        "is_unavailable": false,
+        "audio_filename": "audio__40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Oh, Elias Salas, such a lovely old fellow. He is Member 56 of the Genius Society, one of the only two publicly elected Ministers in the Society's history. Be grateful to him! He created the Synesthesia Beacons and over-range remote sensing, the cornerstones of modern cosmic communication.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter0_Ag1_herta_104.ogg/revision/latest?cb=20241016172108",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "However, he did not disclose his inventions to the public, so I hereby certify that the rights of these two technologies belong to the Intelligentsia Guild . To be honest, I am not a big fan of the Guild, but it is impressive that they managed to reproduce Elias Salas' inventions.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter0_Ag1_herta_105.ogg/revision/latest?cb=20241016172109",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_42.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(InvestigateScrewllum's Portrait, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Hey! Silver Wolf! Look! It's Screwllum, your good old opponent.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter0_Ag1_kafka_112.ogg/revision/latest?cb=20241016172110",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hahhhh... I told you already. I didn't know it was him...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter0_Ag1_silverwolf_110_s.ogg/revision/latest?cb=20241016172111",
+        "is_unavailable": false,
+        "audio_filename": "audio__44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Ah, that battle was how Elio got his eyes on you. Imagine, someone actually able to crack Screwllum's code! First Screwllum, then Herta... there's probably no one else in the universe who offended two genii in such quick succession. It must be destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter0_Ag1_kafka_113.ogg/revision/latest?cb=20241016172112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Urgh... Seems like I'm the real Destiny's Slave here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter0_Ag1_silverwolf_111_s.ogg/revision/latest?cb=20241016172112",
+        "is_unavailable": false,
+        "audio_filename": "audio__46.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Member 76 of the Genius Society, Screwllum. I have known him for a long time. He is a really good man, a gentleman with an exceptional mechanical mind. I have learned a lot from him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter0_Ag1_herta_112.ogg/revision/latest?cb=20241016172113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Recently, I have been working with him and Ruan Mei on a project ! I hope this project can help us get closer to the greatest mystery of the universe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter0_Ag1_herta_113.ogg/revision/latest?cb=20241016172114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_48.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Taking out a lone Voidranger is just a warm-up"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Voidranger, interactive tutorial)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "The enemy is now within the character's attack range"
+            },
+            {
+                "type": "note",
+                "text": "Attack selected enemy to trigger combat"
+            }
+        ]
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/20?cb=20240214213656\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/30?cb=20240214213656\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Antibaryon\" title=\"Antibaryon\">Antibaryon</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×2, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/20?cb=20240214223509\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/30?cb=20240214223509\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\">Voidranger: Distorter</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/20?cb=20240505005400\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/30?cb=20240505005400\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Baryon\" title=\"Baryon\">Baryon</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After entering battle)</dt>\n<dd>\n<dl><dd>All characters possess a powerful <span class=\"text-highlight\">Ultimate</span>, wich can be used when their Energy is full.</dd>\n<dd>Fight enemies to regenerate Energy</dd></dl></dd></dl>\n<dl><dt>(After being hit by Voidranger: Distorter)</dt>\n<dd>\n<dl><dd>You are at full energy. Activate your <span class=\"text-highlight\">Ultimate</span> now.</dd>\n<dd>Use <span class=\"text-highlight\">Ultimate</span> to attack all enemies</dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle, acutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Cleaning up other people's mess isn't in my job description...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Y'know Kafka?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "*sigh* Yeah, yeah. Where did you send it, Silver Wolf?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter0_1_kafka_115.ogg/revision/latest?cb=20241016172115",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Some random coordinates, not important. You care about where that Voidranger ended up?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_1_silverwolf_113.ogg/revision/latest?cb=20241016172116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Of course not~ I'm just amazed at this fancy technique of yours, as usual.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter0_1_kafka_116.ogg/revision/latest?cb=20241016172117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Just a little trick of tampering with the data of reality, I wouldn't call it fancy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter0_1_silverwolf_114.ogg/revision/latest?cb=20241016172117",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "What were you looking at so intently just now? Let me see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter0_1_kafka_117.ogg/revision/latest?cb=20241016172118",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Herta's toys, a catalog featuring the space station's collection of rare items . They've got a lot of interesting gadgets.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter0_1_silverwolf_115.ogg/revision/latest?cb=20241016172119",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Like what?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter0_1_kafka_118.ogg/revision/latest?cb=20241016172120",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "There's this gun , it can rate any creature within its crosshair as a score from 0 to 100.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter0_1_silverwolf_116.ogg/revision/latest?cb=20241016172121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...Doesn't sound very interesting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter0_1_kafka_119.ogg/revision/latest?cb=20241016172122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Aren't you curious about how much you would score? I kinda wanna know mine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter0_1_silverwolf_117.ogg/revision/latest?cb=20241016172122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Fine, I guess we can swing by and play with it if it's not too far. What's our destination?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter0_1_kafka_120.ogg/revision/latest?cb=20241016172123",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Go down the corridor behind the door on the left. There's a room where some kind of rare item is stored.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter0_1_silverwolf_118.ogg/revision/latest?cb=20241016172124",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "So that's where the Stellaron is?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter0_1_kafka_121.ogg/revision/latest?cb=20241016172125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "That's where we can find out where the Stellaron is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter0_1_silverwolf_119.ogg/revision/latest?cb=20241016172126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_62.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Meet up with Silver Wolf and leave the Reception Center"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The woman's helper emerges from the darkness and steps forward. This young-looking girl seems to have found the information she was looking for in the space station's database.The target is the room in the depths of the corridor.\"Is that where the Stellaron is?\" \"It can tell us where the Stellaron is.\""
+    },
+    {
+        "type": "condition",
+        "text": "Silver Wolf[Story]has joined the team temporarily"
+    },
+    {
+        "type": "note",
+        "text": "Switch your team's new addition, Silver Wolf , onto the field."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate screen on the center table one time only, optional)"
+    },
+    {
+        "type": "note",
+        "text": "\"Emergency Evacuation\" flashed onto the display, and the front-of-house receptionist carried out the instructions."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate Emblem of the Space Station, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Herta... Have you ever met her? I'm curious about the tastes of someone who used their own name for a space station.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter0_Ag1_kafka_105.ogg/revision/latest?cb=20241016172127",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Never seen the real one. Saw plenty of her portraits, though.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter0_Ag1_silverwolf_104.ogg/revision/latest?cb=20241016172128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "What a pity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter0_Ag1_kafka_106.ogg/revision/latest?cb=20241016172128",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions, standard dialogue)"
+    },
+    {
+        "type": "note",
+        "text": "You see the emblem of the space station. It looks like a spear piercing through the moon."
+    },
+    {
+        "type": "note",
+        "text": "You see the emblem of the space station. It looks like a rubber arm holding a noisy horn."
+    },
+    {
+        "type": "note",
+        "text": "You see the emblem of the space station. It looks like an earphone that has cracked a hole in an egg."
+    },
+    {
+        "type": "note",
+        "text": "You see the emblem of the space station. It looks like an eye undertaking an intraocular pressure test."
+    },
+    {
+        "type": "note",
+        "text": "You see the emblem of the space station. It looks like a space station."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate right screen, optional)\n(Initial interaction)"
+    },
+    {
+        "type": "note",
+        "text": "Welcome to Herta Space Station. Here, you can savor the bounty of the ocean of knowledge. Please also beware of the risk of drowning."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Now, this hint is useless.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter0_Ag1_kafka_114.ogg/revision/latest?cb=20241016172129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Who knows what's in the brains of those following the Erudition?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter0_Ag1_silverwolf_112.ogg/revision/latest?cb=20241016172130",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Subsequent interactions)"
+    },
+    {
+        "type": "note",
+        "text": "If you need help, go to the Galaxy Room in the base zone."
+    },
+    {
+        "type": "note",
+        "text": "Welcome to Herta Space Station. Here, you can savor the bounty of the ocean of knowledge. Please also beware of the risk of drowning."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate left screen, optional)"
+    },
+    {
+        "type": "note",
+        "text": "This month's financial reimbursement reminder notice: Researchers, please summarize the reimbursement materials for this month on a single reimbursement form. (Please contact the corresponding section if you have any expedited documents.)"
+    },
+    {
+        "type": "note",
+        "text": "This month's commercial insurance claim reminder: Please submit your online claim by the 21st of this month."
+    },
+    {
+        "type": "note",
+        "text": "Claims cannot be made in the following cases: Not carrying the space station member's identification code for medical treatment; not visiting the space station medical office (private surgeries, independent medical offices, and other unofficial channels are difficult to verify, so please be careful)"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with right controller, optional)"
+    },
+    {
+        "type": "note",
+        "text": "There's still more to do..."
+    },
+    {
+        "type": "heading",
+        "text": "Venture further following the route provided by Silver Wolf"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with left controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "The central area of the space station is up ahead. There will be lots of Legion Voidrangers there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter0_1_silverwolf_123.ogg/revision/latest?cb=20241016172131",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Okay~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter0_1_kafka_125.ogg/revision/latest?cb=20241016172132",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_69.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Eliminator\" title=\"Voidranger: Eliminator\"><img alt=\"Voidranger: Eliminator\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Eliminator.png\" data-image-name=\"Icon Enemy Voidranger Eliminator.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/Icon_Enemy_Voidranger_Eliminator.png/revision/latest/scale-to-width-down/20?cb=20240214223517\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Eliminator\" title=\"Voidranger: Eliminator\"><img alt=\"Voidranger: Eliminator\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Eliminator.png\" data-image-name=\"Icon Enemy Voidranger Eliminator.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/Icon_Enemy_Voidranger_Eliminator.png/revision/latest/scale-to-width-down/30?cb=20240214223517\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Eliminator\" title=\"Voidranger: Eliminator\">Voidranger: Eliminator</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After entering battle)</dt>\n<dd>\n<dl><dd>Characters and enemies act in sequence from the top to the bottom of the <span class=\"text-highlight\">Action Order</span>.</dd>\n<dd><span class=\"text-highlight\">Ultimates</span> are not affected by the Action Order and can be used in any turn</dd></dl></dd></dl>\n<dl><dt>(After Silver Wolf reaches maximum energy)</dt>\n<dd>\n<dl><dd>You are at full energy. Activate your <span class=\"text-highlight\">Ultimate</span> now.</dd>\n<dd>After an <span class=\"text-highlight\">Ultimate</span> becomes available, it can be used immediately</dd>\n<dd>Use <a href=\"/wiki/User_Banned\" title=\"User Banned\">Silver Wolf's <span class=\"text-highlight\">Ultimate</span></a> to defeat enemies</dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Tutorials"
+    },
+    {
+        "type": "note",
+        "text": "View all unlocked tutorials"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open <span class=\"text-highlight\">Tutorials</span></dd>\n<dd>Unlocked Tutorial contents can be checked in <span class=\"text-highlight\">Tutorials</span></dd></dl></dd></dl>"
+    },
+    {
+        "type": "heading",
+        "text": "Something's not right about the Monitoring Room at the end of the corridor"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach theMonitoring Room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Hold it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter0_1_kafka_127.ogg/revision/latest?cb=20241016172133",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Someone, or something, is up ahead.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter0_1_kafka_128.ogg/revision/latest?cb=20241016172134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Looks like we're the ones getting ambushed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter0_1_silverwolf_126.ogg/revision/latest?cb=20241016172134",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "But they're the ones getting besieged.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter0_1_kafka_129.ogg/revision/latest?cb=20241016172135",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_73.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×2, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/20?cb=20240214223509\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/30?cb=20240214223509\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\">Voidranger: Distorter</a> ×2</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After entering battle)</dt>\n<dd>\n<dl><dd><span class=\"text-highlight\">Skill Points</span> is a combat resources [<i><a class=\"extiw\" href=\"https://en.wikipedia.org/wiki/sic\" title=\"wikipedia:sic\">sic</a></i>] <span class=\"text-highlight\">shared by the whole team</span>.</dd>\n<dd>Switch to <span class=\"text-highlight\">Skill</span></dd>\n<dd>Consume <span class=\"text-highlight\">Skill Points</span> to use <span class=\"text-highlight\">Skills</span>.</dd></dl></dd></dl>\n<dl><dt>(After Silver Wolf's turn begins)</dt>\n<dd>\n<dl><dd>All <span class=\"text-highlight\">Skill Points</span> have been used.</dd>\n<dd><span class=\"text-highlight\">Skills</span> cannot be used when insufficient <span class=\"text-highlight\">Skill Points</span> are present.</dd>\n<dd>Use <span class=\"text-highlight\">Basic ATK</span> to recover team <span class=\"text-highlight\">Skill Points</span>.</dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Not a single soul here. Impressive evacuation work. Did Herta organize it herself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter0_1_kafka_130.ogg/revision/latest?cb=20241016172136",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "According to the access history, she hasn't logged in here for over six months. The evacuation was directed by the acting lead researcher — a girl named Asta .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter0_1_silverwolf_127.ogg/revision/latest?cb=20241016172137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Doesn't ring a bell. Oh, right, Elio said we wouldn't run into Herta. It seems she really isn't here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter0_1_kafka_131.ogg/revision/latest?cb=20241016172138",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Where's the Stellaron ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter0_1_kafka_132.ogg/revision/latest?cb=20241016172139",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Elio's script doesn't include any info about the location of the Stellaron, which means in the future he foresees...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter0_1_silverwolf_128.ogg/revision/latest?cb=20241016172140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...We would find the Stellaron in a non-physical way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter0_1_kafka_133.ogg/revision/latest?cb=20241016172140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "This space station is packed with extraordinary objects, I wouldn't be surprised if there's one that can make it happen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter0_1_silverwolf_129.ogg/revision/latest?cb=20241016172141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Hiding something extraordinary with something extraordinary... this is pretty Herta. I assume you know what to do? I mean, you've read that catalog for quite a while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter0_1_kafka_134.ogg/revision/latest?cb=20241016172142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "I've got all the clues we need. The only piece missing is a simple trick.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter0_1_silverwolf_130.ogg/revision/latest?cb=20241016172143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Help me investigate the terminal in this room, our item might be inside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter0_1_silverwolf_131.ogg/revision/latest?cb=20241016172144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Okay, the stage is yours~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter0_1_kafka_135.ogg/revision/latest?cb=20241016172145",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_84.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Assist Silver Wolf with investigating the terminals in the Monitoring Room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The two arrive at the Monitoring Room to find a maze left by the absent space station's owner.\"Using a Curio to hide another Curio sounds like something she would do.\"But oftentimes, knowing the way does not equate to knowing how it ends."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Silver Wolf, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Help me investigate the terminal in this room, our item might be inside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter0_1_silverwolf_131.ogg/revision/latest?cb=20241016172144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_85.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the right terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I can see the whole space station on the surveillance screen... but not the Stellaron.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter0_1_kafka_137.ogg/revision/latest?cb=20241016172146",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Even if you could, it'd be a trap. Herta doesn't display her collections.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter0_1_silverwolf_133.ogg/revision/latest?cb=20241016172147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_87.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the left terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Huh? I can't see the memory storage for this terminal...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter0_1_kafka_138.ogg/revision/latest?cb=20241016172148",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "This is the monitoring room, they must have deleted the records and made a run for it. Classic.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter0_1_silverwolf_134.ogg/revision/latest?cb=20241016172149",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_89.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After investigating both terminals)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "*sigh* Make your way over here then, there's no point in trying to search like this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter0_1_silverwolf_135.ogg/revision/latest?cb=20241016172150",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_90.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "However, Silver Wolf seems to have already understood it all"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Silver Wolf)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "So, got a master plan? I'm all ears.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter0_1_kafka_139.ogg/revision/latest?cb=20241016172151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "It's a matter of hacking the surveillance system directly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_1_silverwolf_136.ogg/revision/latest?cb=20241016172151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Aha, I see. Herta's collections aren't in the system, so anything unaffected should be our target.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter0_1_kafka_140.ogg/revision/latest?cb=20241016172152",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_93.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(All terminals except one are hacked)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Simple, crude, but effective. Look, found it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter0_1_silverwolf_137.ogg/revision/latest?cb=20241016172153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_94.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Interact with the Curio to unravel the secret in the Monitoring Room"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Huh. What's this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter0_1_kafka_141.ogg/revision/latest?cb=20241016172154",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Item number 211, \"Blind Spot\": A simple light-deflecting field. It allows an object in its field to pass unnoticed, but if a different item ceases to be obvious, the object gets revealed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter0_1_silverwolf_138.ogg/revision/latest?cb=20241016172155",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "So Herta hides her collection with something as simple as this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter0_1_kafka_142.ogg/revision/latest?cb=20241016172156",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "The simplest method is the hardest to spot, isn't that our motto?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter0_1_silverwolf_139.ogg/revision/latest?cb=20241016172157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_98.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Silver Wolf is nodding her head, seems it's not that simple"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Silver Wolf)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "*whistle* Strange thing number two...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter0_1_kafka_143.ogg/revision/latest?cb=20241016172157",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "The data suggests it's just an ordinary hologram. But it has an added layer...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter0_1_silverwolf_140.ogg/revision/latest?cb=20241016172158",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Let's take a look. Don't worry, this place won't be our grave.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter0_1_kafka_144.ogg/revision/latest?cb=20241016172159",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_101.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "She said something strange will happen if you touch the screen"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate screen)\n(Kafka and Silver Wolf are teleported into a new area)"
+    },
+    {
+        "type": "heading",
+        "text": "Get the Stellaron with Silver Wolf's help"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the end, the woman slowly reaches out her hand toward the Stellaron.She is well aware she is not the protagonist of this story.Well then, the preparations have been made. It's time to wake up and set off on your journey."
+    },
+    {
+        "type": "condition",
+        "text": "(After teleporting into new area)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Interesting, she's a member of the Genius Society alright.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter0_2_kafka_101.ogg/revision/latest?cb=20241016172200",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "The Stellaron is up ahead, let's hurry.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter0_2_silverwolf_101.ogg/revision/latest?cb=20241016172201",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_103.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Stellaron, optional)"
+    },
+    {
+        "type": "note",
+        "text": "This is Stellaron [ sic ] — what Stellaron Hunters throughout the universe all hunt for. But in truth, it's all just a front. Elio knows it, Blade knows it, and you know it, too. Stellaron Hunters have another true goal."
+    },
+    {
+        "type": "note",
+        "text": "That's why the Stellaron that Herta sealed away will be put to another use. Once Silver Wolf breaks its seal, you'll have to take it and place it inside a kind of \"vessel\" that's been waiting for just this occasion..."
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "It has its own security system... I guess even for Herta, a Stellaron is no ordinary rarity.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter0_2_silverwolf_102.ogg/revision/latest?cb=20241016172202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Can you get it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter0_2_kafka_102.ogg/revision/latest?cb=20241016172202",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Of course, even the genius Herta can't compete with me when it comes to hacking.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter0_2_silverwolf_103.ogg/revision/latest?cb=20241016172203",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Good, then I'll also count on you with the preparation of the receptacle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter0_2_kafka_103.ogg/revision/latest?cb=20241016172204",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_107.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Silver Wolf",
+                "line": "The receptacle's ready",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Silver Wolf",
+                "line": "Your decision.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Elio said this decision will bring about lots of changes.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Silver Wolf",
+                "line": "He also said, it must be you who makes it.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "condition",
+        "text": "(Wait for some time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Why are you standing around? Having second thoughts?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Yeah. We've always been the ones taking Stellarons. It's the first time we're giving one out.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Wait for some more time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "You're gonna think for this long? Didn't make up your mind when you got out of bed this morning?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Don't hurry me, Silver Wolf. This is a big decision.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Wait for even more time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Come on, I'll pick for you! This one, yeah, this one!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Uh, Silver Wolf? Did you forget that I must be the one to make this decision?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Select a receptacle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "Wanna give ( him / her ) a new name?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Upon confirming choice, acutsceneplays)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "There we go.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "How much does ( he / she ) remember?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "...They'll remember you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Time to get up.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After waking up)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter0_2_kafka_104.ogg/revision/latest?cb=20241016172205",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_108.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Where... am I?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "A space station, but that's not important.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter0_2_kafka_105.ogg/revision/latest?cb=20241016172206",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_109.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Kafka...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Great, so you remember me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter0_2_kafka_106.ogg/revision/latest?cb=20241016172207",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_110.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Silver Wolf",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter0_2_silverwolf_104.ogg/revision/latest?cb=20241016172207",
+                "is_unavailable": false,
+                "audio_filename": "audio_Silver_Wolf_111.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Who... are you?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "I thought you'd remember me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter0_2_kafka_107.ogg/revision/latest?cb=20241016172208",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_112.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Silver Wolf",
+                "line": "Maybe you're not as important as you think.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter0_2_silverwolf_105.ogg/revision/latest?cb=20241016172209",
+                "is_unavailable": false,
+                "audio_filename": "audio_Silver_Wolf_113.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Listen : You are in a daze right now. You don't know who you are, why you're here, or what you're going to do next. You think I look familiar, but you're not sure if you should trust me—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter0_2_kafka_108.ogg/revision/latest?cb=20241016172210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...None of that matters. All you need to know is that I'm leaving, and you will be left all alone on this space station. From now on, you needn't think about your past or doubt yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter0_2_kafka_109.ogg/revision/latest?cb=20241016172211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Listen : In the near future, you will encounter all kinds of perils and hardships, but you will also have many wonderful experiences. You'll meet companions who treat you like family, and embark on surreal adventures with them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter0_2_kafka_110.ogg/revision/latest?cb=20241016172212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "At the end of your journey, all that perplexes you and troubles you will resolve.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter0_2_kafka_111.ogg/revision/latest?cb=20241016172213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "This is your future that Elio has foreseen. Do you like it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter0_2_kafka_112.ogg/revision/latest?cb=20241016172213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_118.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I guess...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Lovely.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter0_2_kafka_113.ogg/revision/latest?cb=20241016172214",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_119.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Listen : Remember what you're feeling in this moment. As long as you know in your heart where you're heading, you are guaranteed to see the ending of your story.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter0_2_kafka_114.ogg/revision/latest?cb=20241016172215",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_120.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "That's the you I like.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter0_2_kafka_115.ogg/revision/latest?cb=20241016172216",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_121.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "No... I don't want it...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Listen : Elio can foresee the future, but he can't make decisions for you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_2_kafka_117.ogg/revision/latest?cb=20241016172217",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_122.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Use that will of yours to reach the end of your story. That's the you I like.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter0_2_kafka_118.ogg/revision/latest?cb=20241016172218",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_123.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Where are you going...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "The next stop, to pave the way for the future that is written.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter0_2_kafka_119.ogg/revision/latest?cb=20241016172218",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_124.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "It's like weaving brocade — you and I can only add one gold thread each time, but eventually, we will make a gorgeous pattern.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter0_2_kafka_120.ogg/revision/latest?cb=20241016172219",
+                "is_unavailable": false,
+                "audio_filename": "audio_Kafka_125.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "How long do you think you need? According to the script, the Astral Express crew is arriving soon. We should avoid being seen by them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter0_2_silverwolf_106.ogg/revision/latest?cb=20241016172220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I know, Silver Wolf. Just give me another minute.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter0_2_kafka_121.ogg/revision/latest?cb=20241016172221",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "I must leave now. Listen : Don't worry. Someone will come and find you very soon, just go with them. You won't remember a thing except me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter0_2_kafka_122.ogg/revision/latest?cb=20241016172222",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_128.ogg"
+    },
+    {
+        "type": "note",
+        "text": "No..."
+    },
+    {
+        "type": "note",
+        "text": "Farewell..."
+    },
+    {
+        "type": "note",
+        "text": "Kafka..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "When you have a chance to make a choice, make one that you know you won't regret...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter0_2_kafka_123.ogg/revision/latest?cb=20241016172223",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_129.ogg"
+    }
+]

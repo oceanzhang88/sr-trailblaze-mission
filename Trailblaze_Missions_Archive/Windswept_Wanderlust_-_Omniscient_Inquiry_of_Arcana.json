@@ -1,0 +1,1675 @@
+[
+    {
+        "type": "heading",
+        "text": "Enter the Divination Commission"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Led by the messenger, Qingque, you arrive at the Divination Commission, which is responsible for calculation and information management in Xianzhou. The eaves of this building build upon each other like rising mountain peaks and exude an aura of mystique.More mysterious still is the fact that the Commission's doors are shut and show no signs of being prepared for guests, and even Qingque is shut out despite being a staff member."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon entering the Divination Commission)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Just a heads up — please don't go running off once we're inside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_3_qingque_122.ogg/revision/latest?cb=20250310043532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "You may be the master diviner's guests, but she hates people who don't abide by rules and regulations, oh — and people who ask too many questions, not to mention... *sigh* Please don't push her buttons.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_3_qingque_123.ogg/revision/latest?cb=20250310043533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We're just here for the questioning. We'll leave as soon as it's over.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter2_3_welt_126.ogg/revision/latest?cb=20250310043628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Divination Commission gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "...So strange.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter2_3_qingque_124.ogg/revision/latest?cb=20250310043534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let me guess, the gate isn't working?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_3_mar7th_146.ogg/revision/latest?cb=20250310043458",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "I don't understand, it's never been locked before... And no one told me to take a key.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_3_qingque_125.ogg/revision/latest?cb=20250310043534",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Hey! I know the food here sucks but that's no reason to shut the gate on our guests!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter2_3_qingque_126.ogg/revision/latest?cb=20250310043535",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you really from the Divination Commission?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter2_3_mar7th_147.ogg/revision/latest?cb=20250310043459",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is it possible you were... fired?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Qingque",
+                "line": "No way — she's already demoted me to managing the repository. What else does she want from me?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter2_3_qingque_127.ogg/revision/latest?cb=20250310043537",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingque_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Maybe something happened inside?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Qingque",
+                "line": "Don't scare me! Master diviner wouldn't let anything bad happen on her watch.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter2_3_qingque_128.ogg/revision/latest?cb=20250310043538",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingque_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "There's no need to panic, okay? This isn't the only entrance into the Divination Commission. I know an emergency access.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter2_3_qingque_129.ogg/revision/latest?cb=20250310043538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_10.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Qingque to the Divination Commission's side entrance"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the path to the side gate)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Here it is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_3_qingque_130.ogg/revision/latest?cb=20250310043539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You seem familiar — is this where you come to avoid doing work?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter2_3_mar7th_148.ogg/revision/latest?cb=20250310043500",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "You're pretty sharp. Divination Commission staff call this the \"loafing gate.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter2_3_qingque_131.ogg/revision/latest?cb=20250310043541",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "When there's nothing to do, we often sneak out from here and spend a few hours lazing around outside.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter2_3_qingque_132.ogg/revision/latest?cb=20250310043542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...A few hours? *sigh* Do you have any vacancies?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_3_mar7th_149.ogg/revision/latest?cb=20250310043501",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the gate console)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Ugh, this Stellaron corrosion... what's going on?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter2_3_qingque_133.ogg/revision/latest?cb=20250310043543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Great, this gate won't open either. We've kept the master diviner waiting — no doubt she'll blame \"unreliable Qingque\" for messing up once again...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter2_3_qingque_134.ogg/revision/latest?cb=20250310043544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I knew I'd offended that diviner — that's why she sent this girl to help us!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_3_mar7th_150.ogg/revision/latest?cb=20250310043502",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Miss Qingque, if you don't mind, may I take a look?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter2_3_welt_127.ogg/revision/latest?cb=20250310043629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Huh? Oh, uh... no need. Actually I was just being polite, I don't see why not.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter2_3_qingque_135.ogg/revision/latest?cb=20250310043545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Let me show you — this thing is pretty fun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter2_3_qingque_136.ogg/revision/latest?cb=20250310043546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_21.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Unlock the side entrance with Qingque's hints"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dd><span class=\"mw-default-size\" typeof=\"mw:File\"><span><img class=\"mw-file-element lazyload\" data-image-key=\"Icon_Dialogue_Gear.png\" data-image-name=\"Icon Dialogue Gear.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/Icon_Dialogue_Gear.png/revision/latest/scale-to-width-down/20?cb=20230505233043\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></span></span> Repair</dd>\n<dt>(Displays <a href=\"/wiki/Tutorial/Abacus_Circuitry\" title=\"Tutorial/Abacus Circuitry\">Abacus Circuitry Tutorial</a>)</dt>\n<dd><div class=\"tutorial\"><div><span typeof=\"mw:File\"><a class=\"mw-file-description image\" href=\"https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Tutorial_Adventure_Abacus_Circuitry.png/revision/latest?cb=20231225023421\" style=\"display: inline-block; position: relative;\"><img class=\"mw-file-element lazyload\" data-image-key=\"Tutorial_Adventure_Abacus_Circuitry.png\" data-image-name=\"Tutorial Adventure Abacus Circuitry.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/Tutorial_Adventure_Abacus_Circuitry.png/revision/latest/scale-to-width-down/200?cb=20231225023421\" decoding=\"async\" height=\"90\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"200\"/><div style=\"position: absolute; bottom: 0px; right: 0px; width: 100%; height: 100%;\"><div class=\"gallery-icon-container view-image\"><div aria-label=\"view image\" class=\"icon-container view-image\"><svg height=\"1em\" viewbox=\"0 0 18 18\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><defs><path d=\"M11 15h-.586L3 7.586V7h8v8zm-8 0v-4.586L7.586 15H3zm9-10a1 1 0 011 1v10a1 1 0 01-1 1H2a1 1 0 01-1-1V6a1 1 0 011-1h10zm4-4a1 1 0 011 1v10a1 1 0 11-2 0V3H6a1 1 0 110-2h10z\" id=\"IconImagesSmall__a\"></path></defs><use fill-rule=\"evenodd\" xlink:href=\"#IconImagesSmall__a\"></use></svg></div></div></div></a></span><span class=\"hidden\">The jade abacus substrate system developed by the Artisanship Commission. Move the <span class=\"text-highlight\">computing modules</span> with subroutines stored in them to bases with corresponding patterns, so that the substrate can function normally.</span><span class=\"mobile-only\"><br/>The jade abacus substrate system developed by the Artisanship Commission. Move the <span class=\"text-highlight\">computing modules</span> with subroutines stored in them to bases with corresponding patterns, so that the substrate can function normally.</span></div></div></dd>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>This is a <span class=\"text-highlight\">computing module</span> that can be moved</dd>\n<dd>Select the <span class=\"text-highlight\">axis base</span> to move the <span class=\"text-highlight\">computing modules</span> around it.</dd>\n<dd>Move all the <span class=\"text-highlight\">computing modules</span> to the corresponding bases to make the substrate function normally</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After completing the puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Wow, you're amazing Mr. Yang! You handled that well for an outsider. I officially hand over the title of \"keeper of the loafing gate\" to you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter2_3_qingque_137.ogg/revision/latest?cb=20250310043547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_22.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go with Qingque to meet Fu Xuan"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Though you are guests, you are now breaking down locks and gates like a group of thieves. However, there is no point in being polite when trouble is at your door.The remaining diviners in the Divination Commission are all worried for their own skins. The variables brought by the Stellaron had far surpassed the limits of the Commission's calculation capacities. Now is the time to ask the master diviner about her plans."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the stairs leading farther in)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* Anyone here surprised? Anyone?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter2_3_mar7th_152.ogg/revision/latest?cb=20250310043503",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Here comes trouble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_3_welt_129.ogg/revision/latest?cb=20250310043630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ugh, can't we run around to them for a change!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_3_mar7th_153.ogg/revision/latest?cb=20250310043504",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstMara-Struck Soldier×1,Disciples of Sanctus Medicus: Internal Alchemist×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach twoCloud Knightsstanding guard on long path to the right, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "On-Duty Cloud Knight",
+        "line": "I'm sorry, the Cloud Knights have orders from the master diviner to secure the commission's safety. The area up ahead is temporarily closed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_3_cknightC_101.ogg/revision/latest?cb=20250310043343",
+        "is_unavailable": false,
+        "audio_filename": "audio_On-Duty_Cloud_Knight_26.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toMingyue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "Wow, a rare honor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter2_3_mingyue_101.ogg/revision/latest?cb=20250310043526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Me? Have we met?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_3_mar7th_155.ogg/revision/latest?cb=20250310043506",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "No, I meant Qingque. I didn't expect to see her here during work hours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter2_3_mingyue_102.ogg/revision/latest?cb=20250310043527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "That's unfair — I'm working hard! Look, these are the guests the master diviner wants to meet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter2_3_qingque_139.ogg/revision/latest?cb=20250310043548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "A rare honor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_3_mingyue_103.ogg/revision/latest?cb=20250310043528",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you talking about us this time?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter2_3_mar7th_156.ogg/revision/latest?cb=20250310043507",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "Yes! The master diviner rarely allows outsiders — she likes her peace and quiet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter2_3_mingyue_104.ogg/revision/latest?cb=20250310043529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "If you want to see the master diviner, head straight to the Matrix of Prescience.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter2_3_mingyue_105.ogg/revision/latest?cb=20250310043530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mingyue",
+        "line": "They're short of hands — the master diviner is run off her feet and the Cloud Knights stationed there are driving away evil spirits. I don't know when they'll be done.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter2_3_mingyue_106.ogg/revision/latest?cb=20250310043531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mingyue_35.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "This is the Matrix of Prescience — a large-scale jade abacus calculation terminal. It's the pride and joy of the Divination Commission.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter2_3_qingque_140.ogg/revision/latest?cb=20250310043549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We've heard the term \"jade abacus\" a few times now. Would you mind explaining what it is, Miss Qingque?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter2_3_welt_130.ogg/revision/latest?cb=20250310043631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "A jade abacus is just... a jade abacus!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter2_3_qingque_141.ogg/revision/latest?cb=20250310043550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Eh-he, that's a good question, Mr. Yang — it might take me a minute to give you an answer. Let me think...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter2_3_qingque_142.ogg/revision/latest?cb=20250310043551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "The book Glimpses Into the Beyond describes it as \"living jade engraved with symbols for divination into the unknown.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter2_3_qingque_143.ogg/revision/latest?cb=20250310043552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Just like engraving a seal, the craftsmen of the Xianzhou Artisanship Commission carve faint symbols into pieces of jade, and then insert them into machines to get them to operate according to a certain intention.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_3_qingque_144.ogg/revision/latest?cb=20250310043553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Some jade abacuses are small enough to fit inside bracelets and jewelry. We put the bigger ones into instruments of calculation so we can simulate the future and learn from the past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter2_3_qingque_145.ogg/revision/latest?cb=20250310043554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Take the Matrix of Prescience here as an example. As long as sufficient information is provided, it can answer questions on anything — from the evolution of natural phenomena to the metabolism of living things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_3_qingque_146.ogg/revision/latest?cb=20250310043555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "They say the theory behind the symbols was handed down by Nous , the Wisdomwalker. The principles are so profound that in the Divination Commission only the master diviner truly understands them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_3_qingque_147.ogg/revision/latest?cb=20250310043556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_44.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So they're computers?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Seems like it, but \"jade abacus\" does sound a lot better.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter2_3_mar7th_157.ogg/revision/latest?cb=20250310043508",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_45.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Besides, ordinary computers don't have cool backstories. Technology handed down from Nous, huh...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter2_3_mar7th_158.ogg/revision/latest?cb=20250310043509",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Even in Madam Herta 's space station , I never saw anything related to Nous.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_3_mar7th_159.ogg/revision/latest?cb=20250310043510",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_47.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So they're just microchips?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "It sounds like similar technology. Maybe we'll get a better understanding if we see the manufacturing process with our own eyes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter2_3_welt_131.ogg/revision/latest?cb=20250310043632",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingque",
+                "line": "I'm afraid that's impossible — the Artisanship Commission 's Hall of Jadeology keeps a close watch over the jade carving process.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter2_3_qingque_148.ogg/revision/latest?cb=20250310043558",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingque_49.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingque",
+                "line": "But if you're interested, there's a shop selling jade abacus jewelry in Starskiff Haven — I can show you around when I'm free.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter2_3_qingque_149.ogg/revision/latest?cb=20250310043559",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingque_50.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Did you hear that, (Trailblazer)? She said she's taking Mr. Yang jewelry shopping. Hehe, that'll be interesting.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter2_3_mar7th_160_m.ogg/revision/latest?cb=20250310043512",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Anyway, don't dwell on names. As long as the machine works, what does it matter whether it's a \"jade abacus\" or a \"computer\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter2_3_qingque_150.ogg/revision/latest?cb=20250310043600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Just like today — would it have mattered if \"Baique\" had brought you here instead of Qingque? It makes no difference at all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter2_3_qingque_151.ogg/revision/latest?cb=20250310043601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "We're almost at the Matrix of Prescience core. The master diviner should be waiting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter2_3_qingque_152.ogg/revision/latest?cb=20250310043602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_54.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Fu Xuan"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toJingzhai, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jingzhai",
+        "line": "Hmm. Meta algorithm reading complete, inputting jade abacus for simulation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter2_3_jingzhai_101.ogg/revision/latest?cb=20250310043452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jingzhai_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jingzhai",
+        "line": "Divination inference complete, hexagrammatic position established. Fluctuation range is between the marsh and water trigrams. Error margin of 0.2%.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter2_3_jingzhai_102.ogg/revision/latest?cb=20250310043453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jingzhai_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jingzhai",
+        "line": "The algorithm is correct. So what's interfering with the instruments...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter2_3_jingzhai_103.ogg/revision/latest?cb=20250310043454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jingzhai_57.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Fu Xuan and the hologram of Jing Yuan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Diviner Fu, how are things progressing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter2_3_jingyuan_101.ogg/revision/latest?cb=20250310043431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "We're fluctuating between the heaven and thunder trigrams. A step forward bridges no distance hence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter2_3_fuxuan_113.ogg/revision/latest?cb=20250310043345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "...And for those who don't speak Fu Xuan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter2_3_jingyuan_102.ogg/revision/latest?cb=20250310043432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Ahem... it's an utter disaster . How's that for a Divination Commission fortune?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter2_3_fuxuan_114.ogg/revision/latest?cb=20250310043346",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "The Matrix of Prescience has stopped operating and the symbols have dimmed. There are Stellaron spirits wreaking havoc inside the commission and the Cloud Knights are struggling to protect civilians. I want to restore the Matrix of Prescience but I have no forces available.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter2_3_fuxuan_115.ogg/revision/latest?cb=20250310043347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "And on top of all that, General, we still have to deal with the Stellaron Hunter you handed to us. If that's not an utter disaster, then I don't know what is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter2_3_fuxuan_116.ogg/revision/latest?cb=20250310043348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Haha, but you're Fu Xuan the seer — the boundless omniscient! Bringing luck and avoiding misfortune is your strong suit, isn't it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter2_3_jingyuan_103.ogg/revision/latest?cb=20250310043434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "You don't need to flatter me, General. It's natural for fortune to fluctuate — there's no escaping it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter2_3_fuxuan_117.ogg/revision/latest?cb=20250310043349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "The Divination Commission simply does its best to uncover the good and the bad and then make the right decisions. We have no magical means to turn the tide.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter2_3_fuxuan_118.ogg/revision/latest?cb=20250310043350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "And that is precisely why we need you in charge. When it comes to handling clairvoyant Stellaron Hunters , who better than Fu Xuan the seer? As for reinforcements, you didn't think I'd be unprepared, did you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter2_3_jingyuan_104.ogg/revision/latest?cb=20250310043435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Look, help has just arrived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_3_jingyuan_105.ogg/revision/latest?cb=20250310043436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Master Diviner, I've brought you the guests, though... it wasn't your order I received.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter2_3_qingque_153.ogg/revision/latest?cb=20250310043603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "*sigh* So, general... even guests are on the payroll these days?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_3_fuxuan_119.ogg/revision/latest?cb=20250310043351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Well, since they're here already, I may as well make use of them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter2_3_jingyuan_106.ogg/revision/latest?cb=20250310043437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Entering the Matrix of Prescience without my permission is a breach of protocol...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter2_3_fuxuan_120.ogg/revision/latest?cb=20250310043352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "*sigh* ...would be an ungracious thing to say in the present circumstances. I admit, I'm pleasantly surprised to see you here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter2_3_fuxuan_121.ogg/revision/latest?cb=20250310043353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Qingque is often unreliable, but she comes through for us when the need arises.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter2_3_fuxuan_122.ogg/revision/latest?cb=20250310043354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_74.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Glad to have us as your errand runners, aren't you?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "It's nice to have people I can entrust with difficult matters. I'm not like the general, and you don't even belong to my commission — I certainly won't be bossing you around.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_3_fuxuan_123.ogg/revision/latest?cb=20250310043355",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_75.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I thought you were going to have us escorted out.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "I was waiting for the Matrix of Prescience to resume operations so that you might gain insight into my divination techniques... *sigh* It was rude of me to keep you waiting so long.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter2_3_fuxuan_124.ogg/revision/latest?cb=20250310043356",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "No need for the formalities, we heard what the general said... If you need something from us, just say the word.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter2_3_mar7th_161.ogg/revision/latest?cb=20250310043513",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Very well, then I'll keep this brief. The Divination Commission is currently understaffed. I need your help to restart the Matrix of Prescience's base terminals... and eliminate the Stellaron spirits along the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter2_3_fuxuan_125.ogg/revision/latest?cb=20250310043357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_78.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Won't we be breaching Xianzhou secrets in the process?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Yes, but you needn't worry. You have my permission.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter2_3_fuxuan_126.ogg/revision/latest?cb=20250310043359",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_79.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I don't know anything about this Matrix of Prescience."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Qingque will accompany you. She'll be in charge of restarting the terminal. As for eliminating the spirits...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter2_3_fuxuan_127.ogg/revision/latest?cb=20250310043400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Psst, (Trailblazer)... I hath divined our future — we're destined to be errand runners forever...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter2_3_mar7th_162_m.ogg/revision/latest?cb=20250310043515",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_81.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Just say the magic word!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "...Wh—What? Which magic word?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter2_3_fuxuan_128.ogg/revision/latest?cb=20250310043401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* The universal one: \"please.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter2_3_mar7th_163.ogg/revision/latest?cb=20250310043516",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter2_3_fuxuan_129.ogg/revision/latest?cb=20250310043402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Ugh... Please!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter2_3_fuxuan_130.ogg/revision/latest?cb=20250310043403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Good enough.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter2_3_mar7th_164.ogg/revision/latest?cb=20250310043517",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_86.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Help the Divination Commission to restart the Matrix of Prescience's three base terminals"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Jing Yuan postulates that ordinary interrogations will not be effective in learning the true motive of the Stellaron Hunters. Such a goal can only be achieved using the computational algorithm named Matrix of Prescience in the Divination Commission, which can examine the past and future and calculate the truth.Now, the three great base terminals of the Matrix of Prescience are once again in motion. All is ready for the \"interrogation.\""
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Fu Xuan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Qingque, restarting the base terminals will be your responsibility.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter2_3_fuxuan_131.ogg/revision/latest?cb=20250310043404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Oh, and forget everything you saw and heard just now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter2_3_fuxuan_132.ogg/revision/latest?cb=20250310043405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Qingque, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Is this what I get? No reward and a bunch of extra work...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter2_3_qingque_154.ogg/revision/latest?cb=20250310043604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "*sigh* The master diviner wants me to restart the Matrix of Prescience's base terminals... and bring you along for the ride.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter2_3_qingque_155.ogg/revision/latest?cb=20250310043605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_90.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Your time to shine!"
+    },
+    {
+        "type": "note",
+        "text": "Chance to impress the boss!"
+    },
+    {
+        "type": "note",
+        "text": "I sense a promotion and a raise!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Ugh, I worked so hard on getting transferred to the repository — it's the best place to slack off and be invisible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter2_3_qingque_156.ogg/revision/latest?cb=20250310043606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Now I actually have career prospects... this is terrible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter2_3_qingque_157.ogg/revision/latest?cb=20250310043607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "If I screw it up, they might fire me... but if I get it done right, they'll send me more work!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter2_3_qingque_158.ogg/revision/latest?cb=20250310043608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "I'm gonna ask more questions next time... I could be playing celestial jade right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter2_3_qingque_159.ogg/revision/latest?cb=20250310043610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_94.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Qingque again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "I'm gonna ask more questions next time... I could be playing celestial jade right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter2_3_qingque_160.ogg/revision/latest?cb=20250310043611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_95.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jing Yuan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "It's been a while, my astral guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter2_3_jingyuan_107.ogg/revision/latest?cb=20250310043438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Thanks to you, the Luofu has successfully brought Kafka to justice... I am truly grateful — there hadn't been a single Stellaron Hunter arrest since the Interastral Peace Corporation issued their bounty. Hehe, this is a victory for the Xianzhou.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter2_3_jingyuan_108.ogg/revision/latest?cb=20250310043439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_97.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So, are you guys and the IPC in direct competition?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "How can we compete when our paths diverge? The Alliance has taken an oath to hunt down undying abominations, while the IPC is dedicated to their \" preservation .\" The Alliance and the Corporation occasionally work together, but ultimately, our ways are different.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_3_jingyuan_109.ogg/revision/latest?cb=20250310043440",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_98.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Still, it's a pleasure for me to be able to say that the Xianzhou has captured a criminal wanted by the IPC, haha.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_3_jingyuan_110.ogg/revision/latest?cb=20250310043442",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_99.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Still...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter2_3_jingyuan_111.ogg/revision/latest?cb=20250310043442",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_100.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let's split this huge bounty 50/50.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Once this is over and the Stellaron curse has been lifted, the Xianzhou will have no more use for Kafka. If you wish to claim the bounty, feel free to take her to the IPC — the Alliance has no interest in the IPC's reward.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter2_3_jingyuan_112.ogg/revision/latest?cb=20250310043443",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_101.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Blade , on the other hand, is a wanted criminal for the Xianzhou — he must remain with us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter2_3_jingyuan_113.ogg/revision/latest?cb=20250310043445",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You didn't give us the full picture of your plan for Kafka.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Fu Xuan's Matrix of Prescience was able to go one step further than Kafka. To maintain the upper hand, I had to keep it a surprise. I hope this hasn't made you doubt my sincerity?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_3_jingyuan_114.ogg/revision/latest?cb=20250310043446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_103.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Next time, maybe ease off on the surprises?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter2_3_mar7th_165.ogg/revision/latest?cb=20250310043519",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_104.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "I promise to be more transparent next time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_3_jingyuan_115.ogg/revision/latest?cb=20250310043447",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_105.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "At present, Kafka has no intention of speaking and the Stellaron Hunters' motives remain unknown. We must rely on the power of the Divination Commission to unearth the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter2_3_jingyuan_116.ogg/revision/latest?cb=20250310043447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "\"Unearth the truth...\" You mean interrogate Kafka with the Matrix of Prescience?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter2_3_welt_132.ogg/revision/latest?cb=20250310043633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Precisely, the Matrix of Prescience is the Divination Commission's ultimate weapon. It was originally used to calculate navigation routes and predict future events...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter2_3_jingyuan_117.ogg/revision/latest?cb=20250310043449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "...but the secrets of the Stellaron Hunters cannot remain hidden any longer. I have no choice but to move beyond conventional protocol — we must use divination to ascertain Kafka's intent.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter2_3_jingyuan_118.ogg/revision/latest?cb=20250310043450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Everything hinges on restoring the Matrix of Prescience, which is why I would like you to help Diviner Fu complete the setup. I am eternally grateful for your assistance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter2_3_jingyuan_119.ogg/revision/latest?cb=20250310043451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_110.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Jing Yuan leaves)"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the Shifting Screen to the Temporal Terminal, unlock theShifting Screen Tutorial)"
+    },
+    {
+        "type": "heading",
+        "text": "Restart the Temporal Terminal"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Temporal Terminal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Let me see, this is the Temporal Terminal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter2_3_qingque_164.ogg/revision/latest?cb=20250310043616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "\"Observes the potential of the temporal plane.\" They say this terminal is designed to retrieve information related to time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_3_qingque_165.ogg/revision/latest?cb=20250310043617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_112.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon activating the base terminal, unlock theMutare Magnus Tutorial)\n(After completing the puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "That should do it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter2_3_qingque_166.ogg/revision/latest?cb=20250310043618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What? You just matched up those symbols. Is that it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter2_3_mar7th_168.ogg/revision/latest?cb=20250310043522",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "The more complex something is, the more important it is to keep it simple. Don't you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter2_3_qingque_167.ogg/revision/latest?cb=20250310043619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "If it's so simple, why didn't your master diviner come and do it herself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_3_mar7th_169.ogg/revision/latest?cb=20250310043523",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Hehe, maybe deep down she just wants to be lazy once in a while — like me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_3_qingque_168.ogg/revision/latest?cb=20250310043620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_117.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Restart the Spatial Terminal"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Fu Xuan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "I will guard the Matrix core. Once we've restarted the three terminals, Kafka's interrogation can commence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter2_3_fuxuan_133.ogg/revision/latest?cb=20250310043406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "When we're finished, I'll give you enough time to talk to her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter2_3_fuxuan_134.ogg/revision/latest?cb=20250310043407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_119.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What happens when you activate the Matrix of Prescience?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Once activated, the Matrix of Prescience analyzes all the information contained in the target — Kafka in this case — and transfers anything pertaining to the Xianzhou into the diviner's consciousness.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_3_fuxuan_135.ogg/revision/latest?cb=20250310043408",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_120.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Every one of us walks a Path, moving ceaselessly through time and space, creating all manner of karma in our wake...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter2_3_fuxuan_136.ogg/revision/latest?cb=20250310043409",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_121.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "How are things progressing? I have yet to sense the connection between the three base terminals.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_3_fuxuan_137.ogg/revision/latest?cb=20250310043410",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why not use it to calculate the location of the Stellaron?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Divination is no mere conjecture. If the parameters are insufficient and uncertainty surrounds the target, then it is like looking for a needle in a galaxy. Do you understand?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter2_3_fuxuan_138.ogg/revision/latest?cb=20250310043411",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_123.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Furthermore, interference caused by the Stellaron spirits that infiltrated the Commission has greatly reduced the accuracy of our divination. The margin of error could be as high as 0.2%! I cannot tolerate such inaccuracies in our interpretations.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter2_3_fuxuan_139.ogg/revision/latest?cb=20250310043413",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_124.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "So, have you activated the terminals yet? Why is the Matrix of Prescience still unresponsive?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter2_3_fuxuan_140.ogg/revision/latest?cb=20250310043414",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_125.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What if its calculations are incorrect?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "There is no \"what if\"! ...Because nothing remains unforeseen.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter2_3_fuxuan_141.ogg/revision/latest?cb=20250310043415",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_126.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "The Matrix's algorithm is known as \"the way of all change\" — it accounts for every unpredictability on the Path of all things with uncountable enumerations. When your objects of measure are eras of time and oceans of stars, there are no true variables in the world.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_3_fuxuan_142.ogg/revision/latest?cb=20250310043417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_127.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "...No more questions! Have you activated the three terminals!?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter2_3_fuxuan_143.ogg/revision/latest?cb=20250310043418",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_128.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Say no more. Seriously, please don't say anything else."
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachAurumaton Gatekeeper)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "What the heck is this? It looks like a walking gate...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter2_3_mar7th_166.ogg/revision/latest?cb=20250310043520",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Take it easy, there's nothing supernatural on the Xianzhou. It's an aurumaton — it's guarding the Matrix of Prescience. They're stationed at various strategic places.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter2_3_qingque_161.ogg/revision/latest?cb=20250310043612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I feel like it needs a sign saying \"mortals forbidden\" or something... Are you sure it won't fly into a rage if we walk past it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter2_3_mar7th_167.ogg/revision/latest?cb=20250310043521",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "We're here by order of the master diviner to restart the Matrix of Prescience — friends not foes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_3_qingque_162.ogg/revision/latest?cb=20250310043613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Malfunctioning Aurumaton",
+        "line": "Passage... prohibited...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_3_jinrenA_101.ogg/revision/latest?cb=20250310043455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Malfunctioning_Aurumaton_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Ah...! March, you should join the Divination Commission! Q—Quick, do something!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter2_3_qingque_163.ogg/revision/latest?cb=20250310043614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_134.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstAurumaton Gatekeeper×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(If Spatial Terminal is approached first)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "This must be the Spatial Terminal. They say this terminal is designed to retrieve information related to space. You probably could've guessed that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter2_3_qingque_169.ogg/revision/latest?cb=20250310043621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_135.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If Spatial Terminal is approached second)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let me guess — time, karma... I bet the next terminal is energy-related!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter2_3_mar7th_170.ogg/revision/latest?cb=20250310043524",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Darn, the Spatial Terminal. They say this terminal is designed to retrieve information related to space. You probably could've guessed that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_3_qingque_170.ogg/revision/latest?cb=20250310043622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_137.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After completing the puzzle, if the Spatial Terminal puzzle is completed first)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Done, next.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_3_qingque_171.ogg/revision/latest?cb=20250310043623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_138.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the Spatial Terminal puzzle is completed second, continue to next step)"
+    },
+    {
+        "type": "heading",
+        "text": "Restart the Karma Terminal"
+    },
+    {
+        "type": "condition",
+        "text": "(If Karma Terminal is approached first)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "This must be the Karma Terminal. They say this terminal is designed to establish the causal relationships between objects.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter2_3_qingque_172.ogg/revision/latest?cb=20250310043624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_139.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If Karma Terminal is approached second)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let me guess — time, space... I bet the next terminal is energy-related!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter2_3_mar7th_171.ogg/revision/latest?cb=20250310043525",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Darn, the Karma Terminal. They say this terminal is designed to establish causal relationships.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter2_3_qingque_173.ogg/revision/latest?cb=20250310043625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_141.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After completing the puzzle, if the Karma Terminal puzzle is completed first)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Done, next.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_3_qingque_171.ogg/revision/latest?cb=20250310043623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_142.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the Karma Terminal puzzle is completed second, continue to next step)"
+    },
+    {
+        "type": "heading",
+        "text": "Return to the Matrix core and report to Fu Xuan"
+    },
+    {
+        "type": "condition",
+        "text": "(After activating all three terminals)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Phew, we did it. All three terminals activated.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter2_3_qingque_174.ogg/revision/latest?cb=20250310043626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingque",
+        "line": "Let's go back to the core and report to the master diviner.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_3_qingque_175.ogg/revision/latest?cb=20250310043627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingque_144.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Fu Xuan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Well done, all of you. I can sense the Matrix of Prescience symbols re-illuminating.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter2_3_fuxuan_144.ogg/revision/latest?cb=20250310043419",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Now, to interrogate Kafka. Those of you in the core may feel a few... impacts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter2_3_fuxuan_145.ogg/revision/latest?cb=20250310043420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Are you ready?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter2_3_fuxuan_146.ogg/revision/latest?cb=20250310043421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_147.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Ready.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Not quite."
+    },
+    {
+        "type": "condition",
+        "text": "(Kafka is brought out, flanked by two Cloud Knights)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Is this really necessary? I said I'd cooperate with you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter2_3_kafka_101.ogg/revision/latest?cb=20250310043456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "I have no interest in the words of wanted criminals — especially those skilled in the art of manipulation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter2_3_fuxuan_147.ogg/revision/latest?cb=20250310043422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "...so say what you will — I'm here to witness the divination of the Matrix of Prescience.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter2_3_fuxuan_148.ogg/revision/latest?cb=20250310043423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "The Divination Commission has ways of extracting the truth, and they're far more effective than a conversation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter2_3_fuxuan_149.ogg/revision/latest?cb=20250310043424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Then please, Master Diviner, witness my destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter2_3_kafka_102.ogg/revision/latest?cb=20250310043457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_152.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene plays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Rise!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "That's... why you're here?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "...All for that?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Kafka",
+                "line": "Well? Not what you were expecting?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "I can't believe it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_3_fuxuan_150.ogg/revision/latest?cb=20250310043425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "...But, the Matrix of Prescience cannot be wrong.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter2_3_fuxuan_151.ogg/revision/latest?cb=20250310043426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_154.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What did you see?"
+    },
+    {
+        "type": "note",
+        "text": "What did you do?"
+    },
+    {
+        "type": "note",
+        "text": "Has Kafka pulled one over on us again?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Kafka has nothing to do with the Stellaron, but you... It's you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter2_3_fuxuan_152.ogg/revision/latest?cb=20250310043426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Ha! Absurd! I'd never have thought it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter2_3_fuxuan_153.ogg/revision/latest?cb=20250310043428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_156.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What just happened?"
+    },
+    {
+        "type": "note",
+        "text": "Tell us what's going on!"
+    },
+    {
+        "type": "note",
+        "text": "I sense more Fu Xuan riddles on the horizon..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Ask her yourself — take as long as you wish.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter2_3_fuxuan_154.ogg/revision/latest?cb=20250310043428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "I must report this to the general immediately. Please excuse me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_3_fuxuan_155.ogg/revision/latest?cb=20250310043430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_158.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Fu Xuan leaves)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ ...(Trailblazer), you go ask her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_3_welt_133_m.ogg/revision/latest?cb=20250310043635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I know you still have many questions for Kafka yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter2_3_welt_134.ogg/revision/latest?cb=20250310043636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_160.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementProphets Do Not Prophesize)"
+    }
+]

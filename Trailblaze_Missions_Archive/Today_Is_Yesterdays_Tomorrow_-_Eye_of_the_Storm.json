@@ -1,0 +1,1275 @@
+[
+    {
+        "type": "condition",
+        "text": "(Immediately after completing the previous mission)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "Weren't their coordinates sent out from the space station...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter0_2_danheng_122.ogg/revision/latest?cb=20241016172353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Who cares? They're here and alive. Do they look like a mannequin to you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter0_2_mar7th_146.ogg/revision/latest?cb=20241016172353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Male Voice",
+        "line": "...Weak heartbeat and pulse... March, you better do CPR.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter0_2_danheng_123.ogg/revision/latest?cb=20241016172354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Male_Voice_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Huh!? Hehe... I—I've never done it before! Dan Heng, you do it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter0_2_mar7th_147.ogg/revision/latest?cb=20241016172355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_3.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Female Voice",
+                "line": "Wait — stop it!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Female Voice",
+                "line": "They're awake!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Are you all right? Can you hear me? Do you remember your name?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter0_2_mar7th_101.ogg/revision/latest?cb=20241016172356",
+        "is_unavailable": false,
+        "audio_filename": "audio__4.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I... don't remember a thing."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Aw, this isn't good... Can you try harder? I'm sure you can at least remember your name...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter0_2_mar7th_102.ogg/revision/latest?cb=20241016172357",
+        "is_unavailable": false,
+        "audio_filename": "audio__5.ogg"
+    },
+    {
+        "type": "note",
+        "text": "My name is (Trailblazer)."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer)? Nice to meet you. My name's Dan Heng, and this is March 7th.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter0_2_danheng_101_m.ogg/revision/latest?cb=20241016172358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "This space station was just attacked by the Antimatter Legion . We came to help with the rescue at the request of Lead Researcher Asta .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter0_2_danheng_102.ogg/revision/latest?cb=20241016172359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The Antimatter Legion?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Goons owned by the Destruction . You're lucky that the most dangerous Lord Ravager among them isn't around, just some nasty minions.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter0_2_mar7th_103.ogg/revision/latest?cb=20241016172400",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_8.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "We'll take those invaders out soon, don't worry.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter0_2_mar7th_104.ogg/revision/latest?cb=20241016172401",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Lead Researcher Asta?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Uh-huh, a petite cutie with pink hair. Madam Herta appointed her to be the acting lead researcher.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter0_2_mar7th_105.ogg/revision/latest?cb=20241016172402",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...That girl really needs to step up. I can't believe her own employee doesn't even know her name...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter0_2_mar7th_106.ogg/revision/latest?cb=20241016172403",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_11.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Where should I go?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Back to the master control zone . Asta and the other researchers have gathered there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter0_2_danheng_103.ogg/revision/latest?cb=20241016172404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Plus that's where we parked the Astral Express ! Don't you worry, we'll protect you from the monsters and clear up this mess.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter0_2_mar7th_107.ogg/revision/latest?cb=20241016172405",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Who are you guys?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Dan Heng and I are members of the Astral Express crew~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter0_2_mar7th_108.ogg/revision/latest?cb=20241016172405",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Well the Express has some dealings with Madam Herta, so we come to visit the space station from time to time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter0_2_danheng_104.ogg/revision/latest?cb=20241016172406",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_15.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "We just so happened to arrive during this... invasion. Of course, as a — ahem — crew of heroes, we're happy to lend a hand.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter0_2_mar7th_109.ogg/revision/latest?cb=20241016172407",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_16.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The Astral Express?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Yeah, you've never seen it? The Express comes here every once in a while.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter0_2_mar7th_110.ogg/revision/latest?cb=20241016172408",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_17.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It's a unique train that can travel between the stars with the power of the Trailblaze Aeon .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_2_danheng_105.ogg/revision/latest?cb=20241016172409",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_18.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I'll show you once we're back to the master control zone~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter0_2_mar7th_111.ogg/revision/latest?cb=20241016172410",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_19.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Let's go then."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You and March go back together.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter0_2_danheng_106.ogg/revision/latest?cb=20241016172411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Arlan from the Security Department lost contact in the vicinity. I need to find him first.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter0_2_danheng_107.ogg/revision/latest?cb=20241016172411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, all right. You stay safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter0_2_mar7th_112.ogg/revision/latest?cb=20241016172412",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Dan Heng leaves)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), maybe you should take this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter0_2_mar7th_113_m.ogg/revision/latest?cb=20241016172413",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Pans over to baseball bat)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The Legion are rampaging through the space station like a pack of wolves — this trip won't be a walk in the park. It's better if you have something to protect yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter0_2_mar7th_114.ogg/revision/latest?cb=20241016172415",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Just a suggestion though — you're safe as long as you stick with me~!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter0_2_mar7th_115.ogg/revision/latest?cb=20241016172416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Leave and see what's going on outside"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You move your gaze away from the unfamiliar ceiling and look at the variety of Curios around you. A woman's voice echoes in your head but you're in no position to confirm whether you can clearly remember it.\"When you have a chance to make a choice, make one that you know you won't regret...\" You decide to first listen to March 7th and Dan Heng, who had just left. At least they don't look like bad people.Alright, now that there are companions, it's time to leave this place."
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Characters"
+    },
+    {
+        "type": "note",
+        "text": "View details of all unlocked characters"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open the <span class=\"text-highlight\">Character</span> menu to view character information.</dd>\n<dd>Detailed information about characters can be viewed in the <span class=\"text-highlight\">Character</span> screen</dd>\n<dd>Each character has their own <span class=\"text-highlight\">Type</span>. <span class=\"text-highlight\">(Trailblazer)</span> is a <span class=\"text-highlight\">Physical</span> Type character.</dd>\n<dd>Each character has their own <span class=\"text-highlight\">Path</span>. <span class=\"text-highlight\">(Trailblazer)</span> is a character that follows the Path of <span class=\"text-highlight\">Destruction</span>.</dd>\n<dd>Select March 7th</dd>\n<dd>Characters come in different <span class=\"text-highlight\">Types</span> and follow different <span class=\"text-highlight\">Paths</span>. Learn about each character in the detailed screen.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This place is full of fancy little gadgets — Herta's collection. I really don't get why she'd go out of her way to collect them and then leave them here to gather dust...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter0_2_mar7th_116.ogg/revision/latest?cb=20241016172416",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Wait for some time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Enough dilly-dallying, we gotta go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter0_2_mar7th_118.ogg/revision/latest?cb=20241016172417",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_27.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller and continue onwards)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah, it's the Antimatter Legion! So these crazy jerks made it all the way here... Watch this!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter0_2_mar7th_119.ogg/revision/latest?cb=20241016172418",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×2, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/20?cb=20240505005400\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/30?cb=20240505005400\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Baryon\" title=\"Baryon\">Baryon</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>The Type icon indicates the enemy's <span class=\"text-highlight\">Weakness Type</span>.</dd>\n<dd>The white bar below the Weakness Types indicates the enemy's <span class=\"text-highlight\">Toughness</span></dd>\n<dd>Using attacks of the same Type as the enemy's <span class=\"text-highlight\">Weakness Types</span> will reduce the enemy's <span class=\"text-highlight\">Toughness</span>.</dd>\n<dd>Select the enemy on the right as your target</dd>\n<dd>This attack can deplete the enemy <span class=\"text-highlight\">Toughness</span> to zero.</dd>\n<dd>Use <span class=\"text-highlight\">Basic ATK</span> on the enemy</dd>\n<dd>Use <span class=\"text-highlight\">Ice</span> attacks to inflict <span class=\"text-highlight\">Weakness Break</span>, causing enemies to <span class=\"text-highlight\">Freeze</span>.</dd>\n<dd>Use <span class=\"text-highlight\">Physical</span> attacks to inflict <span class=\"text-highlight\">Weakness Break</span>, causing enemies to <span class=\"text-highlight\">Bleed</span>.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You're stronger than you look... Seem to be quite the fighter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter0_2_mar7th_120.ogg/revision/latest?cb=20241016172419",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_29.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Listen to March 7th and protect yourself"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You keep thinking about what March 7th said: \"The Legion are rampaging through the space station like a pack of wolves...\" It seems like the road ahead is going to be a hard one.You look at March 7th beside you and she nods at you with confidence.You then look at the baseball bat in your hand, which is glowing as if also full of confidence.You can do it too, give it a try!"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the elevator room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So we'll take that elevator on the central platform to go down to the master control zone. Do you know the way?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter0_2_mar7th_121.ogg/revision/latest?cb=20241016172420",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Um, I notice that you're not wearing the space station staff uniform. Do you really work here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter0_2_mar7th_122.ogg/revision/latest?cb=20241016172421",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_31.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Really? Feels like you're tricking me...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter0_2_mar7th_123.ogg/revision/latest?cb=20241016172421",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_32.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't remember.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Memory loss, huh. You must've been injured.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter0_2_mar7th_124.ogg/revision/latest?cb=20241016172422",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Never mind. I won't ask if you don't wanna talk about it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter0_2_mar7th_125.ogg/revision/latest?cb=20241016172423",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let's go, I'll take you to the safe zone~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter0_2_mar7th_126.ogg/revision/latest?cb=20241016172424",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_35.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the elevator in the central area."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "It would seem that the only way to the space station's master control zone is through the elevator — it doesn't seem to be too far."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Voidranger, interactive tutorial)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "The enemy's Weakness Type can be viewed after approaching them"
+            },
+            {
+                "type": "note",
+                "text": "Entering battle with an attack that matches the enemy's Weakness Type can reduce the Toughness of the enemy in advance"
+            }
+        ]
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/20?cb=20240505005400\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Baryon\" title=\"Baryon\"><img alt=\"Baryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Baryon.png\" data-image-name=\"Icon Enemy Baryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/Icon_Enemy_Baryon.png/revision/latest/scale-to-width-down/30?cb=20240505005400\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Baryon\" title=\"Baryon\">Baryon</a> ×2, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/20?cb=20240214223509\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/30?cb=20240214223509\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\">Voidranger: Distorter</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After <a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\">Voidranger: Distorter</a> uses Nihility's Command)</dt>\n<dd>\n<dl><dd><span class=\"text-highlight\">(Trailblazer)</span> is <span class=\"text-highlight\">locked on</span> by the enemy, and will be attacked first</dd>\n<dd>March 7th follows the path of <span class=\"text-highlight\">Preservation</span> and can protect allies</dd>\n<dd>Select March 7th's <span class=\"text-highlight\">Skill</span></dd>\n<dd>Select <span class=\"text-highlight\">(Trailblazer)</span>, who is currently being <span class=\"text-highlight\">locked on</span></dd>\n<dd>Use <span class=\"text-highlight\">Skill</span> to shield <span class=\"text-highlight\">(Trailblazer)</span></dd>\n<dd><span class=\"text-highlight\">Shield</span> will be displayed on the outer edge of the HP bar</dd></dl></dd></dl>\n<dl><dt>(After the shielded Trailblazer is attacked)</dt>\n<dd>\n<dl><dd>When a character takes DMG, the Shield effect will be reduced first</dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the elevator)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah. I knew it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter0_2_mar7th_127.ogg/revision/latest?cb=20241016172425",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_36.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It worked?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Nah, I think the elevator's broken. I pressed all the buttons but nothing happened.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter0_2_mar7th_128.ogg/revision/latest?cb=20241016172425",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It's broken?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "—But it wasn't me! The Antimatter Legion must've broken it!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter0_2_mar7th_129.ogg/revision/latest?cb=20241016172426",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_38.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Too bad Dan Heng's not here. He's like a walking encyclopedia... He knows a ton of complicated stuff — maybe even elevator repair...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter0_2_mar7th_130.ogg/revision/latest?cb=20241016172427",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I don't know that one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter0_2_danheng_108.ogg/revision/latest?cb=20241016172428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whoa! Why are you here!? ...And how did you get here before us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter0_2_mar7th_131.ogg/revision/latest?cb=20241016172429",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I took another route to the upper level, and I saw you guys from up there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter0_2_danheng_109.ogg/revision/latest?cb=20241016172430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Arlan is in the control room. He's been injured, but not fatally.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter0_2_danheng_110.ogg/revision/latest?cb=20241016172431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You found him! Will he know what to do about this elevator?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter0_2_mar7th_132.ogg/revision/latest?cb=20241016172431",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I suppose as the head of the Security Department, he should know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter0_2_danheng_111.ogg/revision/latest?cb=20241016172432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Then let's go talk to him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter0_2_mar7th_133.ogg/revision/latest?cb=20241016172433",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainDan Heng×1andTravel Encounters×2)"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the monitoring room and meet up with Arlan"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Just like in all those classic movie scenes — the elevator doesn't work.Despite March 7th calling him a \"walking encyclopedia,\" even Dan Heng, who somehow made it in time, doesn't know what to do.However, Arlan, the head of the Security Department rescued by Dan Heng, probably knows the answer...As expected, Dan Heng saves the day once more."
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Team Setup"
+    },
+    {
+        "type": "note",
+        "text": "Change your team lineup to meet different kinds of challenges"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open the <span class=\"text-highlight\">Team Setup</span> menu to adjust your team composition.</dd>\n<dd>Add character</dd>\n<dd>Select <span class=\"text-highlight\">Dan Heng</span></dd>\n<dd>Add <span class=\"text-highlight\">Dan Heng</span> to the team</dd>\n<dd>Open the <span class=\"text-highlight\">Character</span> menu to increase characters' levels.</dd>\n<dd>Select <span class=\"text-highlight\">Dan Heng</span></dd>\n<dd>Select <span class=\"text-highlight\">Level Up</span></dd>\n<dd>Select <span class=\"text-highlight\">Character EXP Materials</span></dd>\n<dd>Increase Character Level</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Voidranger)"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Technique"
+    },
+    {
+        "type": "note",
+        "text": "A special ability that can help with exploration."
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd><span class=\"text-highlight\">Technique</span> is a special ability used for exploration</dd>\n<dd>Use <span class=\"text-highlight\">March 7th</span>'s <span class=\"text-highlight\">Technique</span> to gain an edge in combat.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Enter battle against <span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/20?cb=20240214223509\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\"><img alt=\"Voidranger: Distorter\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Distorter.png\" data-image-name=\"Icon Enemy Voidranger Distorter.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/Icon_Enemy_Voidranger_Distorter.png/revision/latest/scale-to-width-down/30?cb=20240214223509\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Distorter\" title=\"Voidranger: Distorter\">Voidranger: Distorter</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/20?cb=20240214223525\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\"><img alt=\"Voidranger: Reaver\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Voidranger_Reaver.png\" data-image-name=\"Icon Enemy Voidranger Reaver.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/Icon_Enemy_Voidranger_Reaver.png/revision/latest/scale-to-width-down/30?cb=20240214223525\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Voidranger:_Reaver\" title=\"Voidranger: Reaver\">Voidranger: Reaver</a> ×1, </span></span><span class=\"item enemy\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/20?cb=20240214213656\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Antibaryon\" title=\"Antibaryon\"><img alt=\"Antibaryon\" class=\"mw-file-element lazyload\" data-image-key=\"Icon_Enemy_Antibaryon.png\" data-image-name=\"Icon Enemy Antibaryon.png\" data-relevant=\"0\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Icon_Enemy_Antibaryon.png/revision/latest/scale-to-width-down/30?cb=20240214213656\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Antibaryon\" title=\"Antibaryon\">Antibaryon</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>March 7th's <span class=\"text-highlight\">Technique</span> can randomly <span class=\"text-highlight\">Freeze</span> an enemy when the battle starts</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Arlan)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Hey... you're all together?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter0_2_arlan_101.ogg/revision/latest?cb=20241016172434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yep, we're from the Astral Express~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter0_2_mar7th_134.ogg/revision/latest?cb=20241016172435",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Oh... Did Madam Herta send you to help?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter0_2_arlan_102.ogg/revision/latest?cb=20241016172436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's just a coincidence. We came to deliver the rare relic Herta trusted us to find... We didn't expect to arrive during an invasion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter0_2_danheng_112.ogg/revision/latest?cb=20241016172437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Why is the Antimatter Legion targeting you guys? It seems they just ignored the surface of the planet and came straight to the space station.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter0_2_mar7th_135.ogg/revision/latest?cb=20241016172437",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "I... have no idea. The Legion came at a very suspicious time — almost right after the security system suddenly failed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter0_2_arlan_103.ogg/revision/latest?cb=20241016172438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Lady... Lead Researcher Asta immediately began to organize the evacuation. I was supposed to cover everyone as they evacuated, but... I didn't expect to end up failing in this task.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_2_arlan_104.ogg/revision/latest?cb=20241016172439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Don't be too hard on yourself. Your leg and dominant hand were injured. It was a wise decision to hide here and avoid a head-on encounter with the Legion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter0_2_danheng_113.ogg/revision/latest?cb=20241016172440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Yeah! Most of the staff have been evacuated safely, so right now our highest priority is to return to the master control zone and plan a counterattack! So... do you know how to use the elevator? I couldn't start it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter0_2_mar7th_136.ogg/revision/latest?cb=20241016172441",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "After the evacuation was complete, the elevators were all shut down to keep the Legion away from the master control zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter0_2_arlan_105.ogg/revision/latest?cb=20241016172442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Since Lady Asta sent you to look for me, I assume she must've given you the encryption key for accessing the elevator system?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter0_2_arlan_106.ogg/revision/latest?cb=20241016172443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, right, she did give me some sort of card...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter0_2_mar7th_137.ogg/revision/latest?cb=20241016172444",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...March...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter0_2_danheng_114.ogg/revision/latest?cb=20241016172444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But where did I put it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter0_2_mar7th_138.ogg/revision/latest?cb=20241016172445",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "You...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter0_2_arlan_107.ogg/revision/latest?cb=20241016172446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah! Here it is!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter0_2_mar7th_139.ogg/revision/latest?cb=20241016172447",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter0_2_danheng_115.ogg/revision/latest?cb=20241016172448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_63.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use the encryption key"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You can sense from Arlan's cautious gaze that the encryption key is not only used for unlocking authorization but also proof of your identity.Hurry up and use it."
+    },
+    {
+        "type": "condition",
+        "text": "(After previous dialogue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "...Now that we found the key, we should get going. We can use that console over there to unlock the elevator.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter0_2_arlan_108.ogg/revision/latest?cb=20241016172448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter0_2_danheng_116.ogg/revision/latest?cb=20241016172449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Hold on. I only activated the elevator on the highest floor. We'll have to go there to use it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter0_2_arlan_109.ogg/revision/latest?cb=20241016172450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_66.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Why? It's so far away.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Arlan",
+                "line": "Because I mustn't give the Legion any chance to reach the master control zone by the elevator. I must ensure the safety of the station's staff.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter0_2_arlan_110.ogg/revision/latest?cb=20241016172451",
+                "is_unavailable": false,
+                "audio_filename": "audio_Arlan_67.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Arlan",
+                "line": "So I'll have to trouble you to take a bit of a detour... Apologies.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter0_2_arlan_111.ogg/revision/latest?cb=20241016172452",
+                "is_unavailable": false,
+                "audio_filename": "audio_Arlan_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Okay.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Arlan",
+                "line": "Sorry... This space station was entrusted to Lady Asta by Madam Herta. I must do this for the safety of the master control zone and the staff there.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter0_2_arlan_112.ogg/revision/latest?cb=20241016172453",
+                "is_unavailable": false,
+                "audio_filename": "audio_Arlan_69.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Arlan",
+                "line": "So I'll have to trouble you to take a bit of a detour... Sincerest apologies.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter0_2_arlan_113.ogg/revision/latest?cb=20241016172454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Arlan_70.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? You're not coming with us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter0_2_mar7th_140.ogg/revision/latest?cb=20241016172454",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "My leg is injured... I'd only slow you down. I'll stay here and shut down the elevator once you've made it to the master control zone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter0_2_arlan_114.ogg/revision/latest?cb=20241016172455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You won't slow us down. And you should be able to shut down the elevators from the master control zone, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter0_2_danheng_117.ogg/revision/latest?cb=20241016172456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Agreed. (Trailblazer) and I made it here safely, and now we've also got Dan Heng. We're more than enough to protect you~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter0_2_mar7th_141_m.ogg/revision/latest?cb=20241016172457",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Let us worry about the Antimatter Legion. You just follow us and keep yourself alive~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter0_2_mar7th_142.ogg/revision/latest?cb=20241016172459",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_75.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Trust us."
+    },
+    {
+        "type": "note",
+        "text": "Don't overthink this."
+    },
+    {
+        "type": "choice",
+        "text": "You can use me as a crutch.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Aren't you a nice kid!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter0_2_mar7th_143.ogg/revision/latest?cb=20241016172500",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "...Thank you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter0_2_arlan_115.ogg/revision/latest?cb=20241016172500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_77.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Go to the upper level and take the elevator to the master control zone"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Arlan seems to worry that he would be a hindrance, but you as a group already developed a sort of delicate rapport in how to persuade him. Could this be what it means to be companions?Hurry and reach the top floor with your companions."
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Characters — Traces"
+    },
+    {
+        "type": "note",
+        "text": "Level up Traces to comprehensively enhance your character"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open the <span class=\"text-highlight\">Character</span> menu to view characters' Traces.</dd>\n<dd>Enter the <span class=\"text-highlight\">Traces</span> screen</dd>\n<dd>Choose <span class=\"text-highlight\">Traces</span> Node.</dd>\n<dd>Activate Traces to strengthen the character.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Leave monitoring room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Do you know why the Antimatter Legion would invade the station, Arlan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter0_2_danheng_118.ogg/revision/latest?cb=20241016172501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "They must've come for Madam Herta's collection... But as to why, I still...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter0_2_arlan_117.ogg/revision/latest?cb=20241016172502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I heard there's something called a Stellaron in Madam Herta's collection.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter0_2_danheng_119.ogg/revision/latest?cb=20241016172503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "...That's not the kind of information someone in my position would have access to.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter0_2_arlan_118.ogg/revision/latest?cb=20241016172504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach repulsion bridge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The repulsion bridge has been shut down?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter0_2_danheng_120.ogg/revision/latest?cb=20241016172505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "Yes. To stall the enemy, more or less.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter0_2_arlan_119.ogg/revision/latest?cb=20241016172506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_83.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller for the repulsion bridge)"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter room on upper level)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Hey, these shiny things... Are these Light Cones ? I thought only the Interastral Peace Corporation had rare stuff like this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter0_2_mar7th_148.ogg/revision/latest?cb=20241016172507",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "No, Light Cones are Garden of Recollection technology. They allow you to carry memories around — very potent enhancement items. I heard the corporation paid a lot for the usage rights, but I've no idea how Herta managed to get hold of one.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter0_2_danheng_124.ogg/revision/latest?cb=20241016172507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "They were acquired legitimately, that's all I can say. Take them, they're very useful in combat.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter0_2_arlan_120.ogg/revision/latest?cb=20241016172508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Characters — Light Cones"
+    },
+    {
+        "type": "note",
+        "text": "Provides stat boost [ sic ] to characters. Offers special abilities if the wearer's Path matches that of the Light Cone."
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Obtain <span class=\"item light cone\"><span class=\"item-image\"><span class=\"hidden\" style=\"height:20px;width:20px\"><span typeof=\"mw:File\"><a href=\"/wiki/Collapsing_Sky\" title=\"Collapsing Sky\"><img alt=\"Collapsing Sky\" class=\"mw-file-element lazyload\" data-image-key=\"Light_Cone_Collapsing_Sky_Icon.png\" data-image-name=\"Light Cone Collapsing Sky Icon.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Light_Cone_Collapsing_Sky_Icon.png/revision/latest/scale-to-width-down/20?cb=20240206022914\" decoding=\"async\" height=\"20\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"20\"/></a></span></span><span class=\"mobile-only\"><span typeof=\"mw:File\"><a href=\"/wiki/Collapsing_Sky\" title=\"Collapsing Sky\"><img alt=\"Collapsing Sky\" class=\"mw-file-element lazyload\" data-image-key=\"Light_Cone_Collapsing_Sky_Icon.png\" data-image-name=\"Light Cone Collapsing Sky Icon.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/Light_Cone_Collapsing_Sky_Icon.png/revision/latest/scale-to-width-down/30?cb=20240206022914\" decoding=\"async\" height=\"30\" loading=\"lazy\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" width=\"30\"/></a></span></span></span><span class=\"item-text\"> <a href=\"/wiki/Collapsing_Sky\" title=\"Collapsing Sky\">Collapsing Sky</a> ×1</span></span>)</dt>\n<dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open the <span class=\"text-highlight\">Character</span> menu to view Light Cones.</dd>\n<dd>Select <span class=\"text-highlight\">(Trailblazer)</span></dd>\n<dd>Enter the <span class=\"text-highlight\">Light Cone</span> screen</dd>\n<dd><span class=\"text-highlight\">Light Cones</span> can offer stat bonuses to characters.</dd>\n<dd>Equip Light Cones that match the character's <span class=\"text-highlight\">Path</span> to activate powerful <span class=\"text-highlight\">Light Cone abilities</span>.</dd>\n<dd>Equip <span class=\"text-highlight\">(Trailblazer)</span> with a <span class=\"text-highlight\">Light Cone</span>.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with controller and continue on)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Is that it? We've reached the elevator already? That wasn't too many monsters~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter0_2_mar7th_144.ogg/revision/latest?cb=20241016172509",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oof, probably shouldn't have said that... Might bring bad luck.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter0_2_mar7th_145.ogg/revision/latest?cb=20241016172510",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You've grown, March.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter0_2_danheng_121.ogg/revision/latest?cb=20241016172511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_89.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)\n(Enter battle againstVoidranger: Reaver×2,Voidranger: Trampler×1)"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dt>(After entering battle)</dt>\n<dd>\n<dl><dd>Activate <span class=\"text-highlight\">2× speed</span> to experience faster combat.</dd></dl></dd></dl>\n<dl><dt>(After the <a href=\"/wiki/Voidranger:_Trampler\" title=\"Voidranger: Trampler\">Voidranger: Trampler</a> uses Spiral Arrow)</dt>\n<dd>\n<dl><dd>The enemy has locked onto <span class=\"text-highlight\">(Trailblazer)</span>, ready to use a powerful Charge attack.</dd>\n<dd>Use <span class=\"text-highlight\">March 7th</span>'s <span class=\"text-highlight\">Skill</span> to give a <span class=\"text-highlight\">Shield</span> to the ally being locked on</dd>\n<dd>Use <span class=\"text-highlight\">Real-Time Combat View</span> to check characters' current status</dd>\n<dd><span class=\"text-highlight\">Real-Time Combat View</span> displays the buffs and debuffs that are taking effect on your characters</dd>\n<dd>Click to view detailed information about the <span class=\"text-highlight\">enemies</span></dd></dl></dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After battle, acutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, sore losers",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "You can't just gang up on us!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Go!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Why does it always have to get this exciting?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Anyway, at least you're back.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "March, Dan Heng, you've been through a lot.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter0_3_himeko_101.ogg/revision/latest?cb=20241016172512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whew, Himeko~ What took you so long! That last wave of Antimatter Legion came at us like a swarm of locusts, have you ever tried shooting locusts with a bow?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter0_3_mar7th_101.ogg/revision/latest?cb=20241016172513",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I wouldn't have made a difference. My orbital cannon can deal with a whole bunch of enemies at once, but I couldn't just blow up the space station with it — Herta would NOT like that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter0_3_himeko_102.ogg/revision/latest?cb=20241016172514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are you alright, Arlan? Asta's been worried about you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter0_3_himeko_103.ogg/revision/latest?cb=20241016172514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Arlan",
+        "line": "I'm fine, a quick patching up will do. Thanks for asking. I'll report the situation to Lead Researcher Asta immediately. Bye.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter0_3_arlan_101.ogg/revision/latest?cb=20241016172515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Arlan_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Hey, nice to meet you. I'm Himeko, navigator of the Astral Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter0_3_himeko_104.ogg/revision/latest?cb=20241016172516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "In other words, she's in charge of where the Express goes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter0_3_mar7th_102.ogg/revision/latest?cb=20241016172517",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "March hasn't been any trouble for you along the way, has she?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter0_3_himeko_105.ogg/revision/latest?cb=20241016172518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), think carefully about how you wanna reply to that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter0_3_mar7th_103_m.ogg/revision/latest?cb=20241016172519",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_98.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I've never met a more reckless girl in my life.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...That's just my charm! And I didn't cause any trouble. You just have to get used to me... Look, Dan Heng agrees, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter0_3_mar7th_104.ogg/revision/latest?cb=20241016172520",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_99.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I have the right to remain silent.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter0_3_danheng_101.ogg/revision/latest?cb=20241016172521",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_100.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've never met a more lively girl in my life.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Well, that's the joy of youth! We should take every step forward full of energy! ( He's / She's ) a discerning one, isn't ( he / she ) , Dan Heng?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter0_3_mar7th_105_m.ogg/revision/latest?cb=20241016172522",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_101.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I have the right to remain silent.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter0_3_danheng_102.ogg/revision/latest?cb=20241016172524",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "In that case, I'd rather not answer.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Oh, looks like we have two Dan Hengs on our team now.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter0_3_mar7th_106.ogg/revision/latest?cb=20241016172525",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_103.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Please leave me out of this.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter0_3_danheng_103.ogg/revision/latest?cb=20241016172526",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_104.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Haha, look at you all, you've already gotten really close.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter0_3_himeko_106.ogg/revision/latest?cb=20241016172527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Come on, Asta has been worried about all of you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter0_3_himeko_107.ogg/revision/latest?cb=20241016172527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_106.ogg"
+    }
+]

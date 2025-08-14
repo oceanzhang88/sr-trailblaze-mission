@@ -1,0 +1,1579 @@
+[
+    {
+        "type": "heading",
+        "text": "Head to Golden Hour and meet with the Crew"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Firefly has confessed her innermost thoughts to you. No matter how you feel about it, it is time for you to say farewell... However, you can still walk the last part of this journey together.Head to Golden Hour and return to reality to reunite with everyone."
+    },
+    {
+        "type": "condition",
+        "text": "(Upon teleporting to Golden Hour)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Come to think of it, I wonder if I have to go to the hotel to return to reality...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/Vo_chapter3_4_player_101_m.ogg/revision/latest?cb=20240703233748",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...Strange, where's everyone gone?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/Vo_chapter3_4_player_102_m.ogg/revision/latest?cb=20240703233752",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_1.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking towardsSampo)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Sampo? Is that guy up to no good again?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_4_player_103_m.ogg/revision/latest?cb=20240703233756",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Sampo)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "We meet again, my dear...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Vo_chapter3_4_sampo_101.ogg/revision/latest?cb=20240703233823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "It looks like you have not taken my warnings to heart... A pity. Are you so enchanted by that girl?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Vo_chapter3_4_sampo_102.ogg/revision/latest?cb=20240703233826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "You're just so... blind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_4_sampo_103.ogg/revision/latest?cb=20240703233828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Careful. I'm more than certain now that there's something not right about this friend of yours.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Vo_chapter3_4_firefly_101.ogg/revision/latest?cb=20240703233310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Oho, this brave little girl appears to be protecting you. I wonder why? Are you two that close?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_4_sampo_104.ogg/revision/latest?cb=20240703233830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "You talk too much.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/Vo_chapter3_4_firefly_102.ogg/revision/latest?cb=20240703233312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "I love your attitude, my dear. I have to admit you're different from your friend here — your senses are much sharper.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/Vo_chapter3_4_sampo_105.ogg/revision/latest?cb=20240703233832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "Even so, you are lagging far behind the main party. Have you not noticed yet? What The Family is hiding, the secret behind this sweet dream.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_4_sampo_106.ogg/revision/latest?cb=20240703233834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "And as for you — the Trailblazer who saved the Ice World... I wonder how many things Sampo glossed over when recounting the happenings on Jarilo-VI ? Oh well, it was my problem for trusting him...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Vo_chapter3_4_sampo_107.ogg/revision/latest?cb=20240703233836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sampo",
+        "line": "...I'm really, really disappointed in you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Vo_chapter3_4_sampo_108.ogg/revision/latest?cb=20240703233838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sampo_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Sampo?",
+                "line": "Umm, excuse me...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sampo?",
+                "line": "Why don't you rest for a little while...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Sparkle",
+                "line": "...inside the real Dreamscape.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "heading",
+        "text": "Leave the suspicious room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.Just who is she? Unfortunately, you don't have time to think about this right now — that girl has cast an illusion on you and sent you to a mysterious location. It would be best to find a way to escape from this place before anything."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Ugh... This... What is this place?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/Vo_chapter3_4_player_104_m.ogg/revision/latest?cb=20240703233759",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I'm back at the hotel? No, this feeling... The surroundings look a little like I just entered a dream...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_4_player_105_m.ogg/revision/latest?cb=20240703233804",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_14.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family Himeko Looks like a trip back to reality is overdue Let's meet up in my room I've run into a little trouble... (Trailblazer) I've run into a little trouble... (Message failed to send) Huh... (Trailblazer) Huh... (Message failed to send)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Can't get in touch with...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_4_player_106_m.ogg/revision/latest?cb=20240703233807",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_15.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail, are you in there?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/Vo_chapter3_4_misha_102.ogg/revision/latest?cb=20240703233446",
+        "is_unavailable": false,
+        "audio_filename": "audio__16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "So quiet... nothing but the tick-tocking of the clocks...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/Vo_chapter3_4_misha_103.ogg/revision/latest?cb=20240703233448",
+        "is_unavailable": false,
+        "audio_filename": "audio__17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail, where are you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/Vo_chapter3_4_misha_105.ogg/revision/latest?cb=20240703233452",
+        "is_unavailable": false,
+        "audio_filename": "audio__18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Tick tock... tick tock... tick tock...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_4_misha_104.ogg/revision/latest?cb=20240703233450",
+        "is_unavailable": false,
+        "audio_filename": "audio__19.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (This is too weird...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Vo_chapter3_4_player_107_m.ogg/revision/latest?cb=20240703233811",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The workshop door isn't locked...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/Vo_chapter3_4_misha_101.ogg/revision/latest?cb=20240703233444",
+        "is_unavailable": false,
+        "audio_filename": "audio__21.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Firefly"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he has always had a petite feminine build, or your assailant is actually someone else.You find Firefly in the mysterious space — It seems the stranger didn't leave her alone, either. Now, you can look for the way out together."
+    },
+    {
+        "type": "condition",
+        "text": "(Leave the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...Firefly?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/Vo_chapter3_4_player_108_m.ogg/revision/latest?cb=20240703233815",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Firefly)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Ah... (Trailblazer)! So you're really here too...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/Vo_chapter3_4_firefly_103_m.ogg/revision/latest?cb=20240703233316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_23.ogg"
+    },
+    {
+        "type": "note",
+        "text": "What happened?"
+    },
+    {
+        "type": "note",
+        "text": "Where is this?"
+    },
+    {
+        "type": "note",
+        "text": "Don't tell me we're dead..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "I... don't know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/Vo_chapter3_4_firefly_104.ogg/revision/latest?cb=20240703233318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "In any case, we must still be in a dream. It can't be anywhere else, much less reality... I'm never wrong about the distinctive sense of memoria that's in the air.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/Vo_chapter3_4_firefly_105.ogg/revision/latest?cb=20240703233320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But this is very different from the \"sweet dream\" that I'm familiar with — suffocating... silent... uneasy... And these floating words. Can you see them too? This kind of place would never exist on Penacony under the provision of The Family. So, could this be a dream bubble...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_4_firefly_106.ogg/revision/latest?cb=20240703233322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "No, that's not right. Do you remember, before we were unconscious, that friend of yours said: The real Dreamscape ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Vo_chapter3_4_firefly_107.ogg/revision/latest?cb=20240703233324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_27.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "This is the real Dreamscape...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm not sure. Everything happened so quickly. But regardless, The Family must be hiding something — something about the truth of the Dreamscape...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_4_firefly_108.ogg/revision/latest?cb=20240703233326",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_28.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "This is The Family's secret...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I'm not sure. Everything happened so quickly. But regardless, The Family must be hiding something — something about the truth of the Dreamscape...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Vo_chapter3_4_firefly_109.ogg/revision/latest?cb=20240703233328",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "He's not my friend.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Firefly",
+                "line": "I should've been wary of him sooner... Sorry. Regardless, The Family must be hiding something — something about the truth behind the Dreamscape...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/Vo_chapter3_4_firefly_110.ogg/revision/latest?cb=20240703233330",
+                "is_unavailable": false,
+                "audio_filename": "audio_Firefly_30.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And, you probably noticed it when you woke up as well — the ticking of clocks all around us... My gut tells me that the secret hidden here is also linked to that mysterious Watchmaker.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/Vo_chapter3_4_firefly_111.ogg/revision/latest?cb=20240703233332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "If it points us towards the Watchmaker's Legacy, it will be connected to everyone who is melded to Penacony's dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/Vo_chapter3_4_firefly_112.ogg/revision/latest?cb=20240703233335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "▶ Let's go, (Trailblazer)... We have to move — be it to find an exit, or the truth.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_4_firefly_113_m.ogg/revision/latest?cb=20240703233338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_33.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find an exit from the mysterious space"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I see... Are we playing hide-and-seek?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_4_misha_106.ogg/revision/latest?cb=20240703233453",
+        "is_unavailable": false,
+        "audio_filename": "audio__34.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(While walking)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "We can't get through here. Let's take the way around from the side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_4_firefly_114.ogg/revision/latest?cb=20240703233340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_35.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Are you done hiding?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/Vo_chapter3_4_misha_108.ogg/revision/latest?cb=20240703233457",
+        "is_unavailable": false,
+        "audio_filename": "audio__36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ready or not? Here I come.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Vo_chapter3_4_misha_107.ogg/revision/latest?cb=20240703233455",
+        "is_unavailable": false,
+        "audio_filename": "audio__37.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Dead-end here too... Given the layout of the room, are they really suggesting we maneuver around using the walls?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_4_firefly_115.ogg/revision/latest?cb=20240703233345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_38.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Obtain Bubble Charge)\n(OpenDreamwalker (I) Tutorial)"
+    },
+    {
+        "type": "heading",
+        "text": "Search for an exit from the room"
+    },
+    {
+        "type": "condition",
+        "text": "(OpenDreamwalker (II) Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(Use Bubble Converge)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Can't believe that worked. Tampering with the Dreamscape's gravity is clearly strictly forbidden...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/Vo_chapter3_4_firefly_116.ogg/revision/latest?cb=20240703233347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...Careful, there are some strange things on the wall... And they don't look like they're from the Dreamjolt Troupe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_4_firefly_117.ogg/revision/latest?cb=20240703233350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_40.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail, where are you hiding?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Vo_chapter3_4_misha_111.ogg/revision/latest?cb=20240703233503",
+        "is_unavailable": false,
+        "audio_filename": "audio__41.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue to search the room for an exit"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Vo_chapter3_4_misha_112.ogg/revision/latest?cb=20240703233504",
+        "is_unavailable": false,
+        "audio_filename": "audio__42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Mikhail...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/Vo_chapter3_4_firefly_118.ogg/revision/latest?cb=20240703233352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_43.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue forward"
+    },
+    {
+        "type": "condition",
+        "text": "(OpenDreamwalker (III) Tutorial)"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Can't find you... Can't find you anywhere...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/Vo_chapter3_4_misha_110.ogg/revision/latest?cb=20240703233501",
+        "is_unavailable": false,
+        "audio_filename": "audio__44.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Where are you... Where could you be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/Vo_chapter3_4_misha_109.ogg/revision/latest?cb=20240703233459",
+        "is_unavailable": false,
+        "audio_filename": "audio__45.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This is too... overwhelming...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_4_firefly_119.ogg/revision/latest?cb=20240703233354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The exit... is on the other side? How're we going to cross over...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Vo_chapter3_4_firefly_120.ogg/revision/latest?cb=20240703233356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_47.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to the hall's exit"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail! I've found you!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Vo_chapter3_4_misha_115.ogg/revision/latest?cb=20240703233510",
+        "is_unavailable": false,
+        "audio_filename": "audio__48.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Do you have something to tell me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/Vo_chapter3_4_misha_117.ogg/revision/latest?cb=20240703233514",
+        "is_unavailable": false,
+        "audio_filename": "audio__49.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Wow, it's beautiful...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/Vo_chapter3_4_misha_128.ogg/revision/latest?cb=20240703233538",
+        "is_unavailable": false,
+        "audio_filename": "audio__50.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Incredible... This is really a sight that can only be witnessed in a dream...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/Vo_chapter3_4_firefly_121.ogg/revision/latest?cb=20240703233357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "These words have been appearing and then vanishing persistently for awhile now. Whose thoughts are they? And who is this Mikhail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/Vo_chapter3_4_firefly_122.ogg/revision/latest?cb=20240703233359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "It's kinda scary..."
+    },
+    {
+        "type": "note",
+        "text": "There is a sadness to this..."
+    },
+    {
+        "type": "note",
+        "text": "Mikhail... Where have I heard this name..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "It's like I can feel... emotions contained within them. Confusion... fear... sadness... and others so faint I can barely feel them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_4_firefly_123.ogg/revision/latest?cb=20240703233401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Unyielding resolve in the face of death...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/Vo_chapter3_4_firefly_124.ogg/revision/latest?cb=20240703233403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_54.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Why did you come here specifically?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/Vo_chapter3_4_misha_129.ogg/revision/latest?cb=20240703233540",
+        "is_unavailable": false,
+        "audio_filename": "audio__55.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail, you look like you've got something on your mind...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/Vo_chapter3_4_misha_124.ogg/revision/latest?cb=20240703233530",
+        "is_unavailable": false,
+        "audio_filename": "audio__56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Is it something very important?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_4_misha_123.ogg/revision/latest?cb=20240703233527",
+        "is_unavailable": false,
+        "audio_filename": "audio__57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Talk to me, Mikhail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_4_misha_130.ogg/revision/latest?cb=20240703233542",
+        "is_unavailable": false,
+        "audio_filename": "audio__58.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's so dark in here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Vo_chapter3_4_misha_125.ogg/revision/latest?cb=20240703233532",
+        "is_unavailable": false,
+        "audio_filename": "audio__59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Vo_chapter3_4_misha_126.ogg/revision/latest?cb=20240703233534",
+        "is_unavailable": false,
+        "audio_filename": "audio__60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You're going?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/Vo_chapter3_4_misha_133.ogg/revision/latest?cb=20240703233548",
+        "is_unavailable": false,
+        "audio_filename": "audio__61.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't go, please?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Vo_chapter3_4_misha_137.ogg/revision/latest?cb=20240703233557",
+        "is_unavailable": false,
+        "audio_filename": "audio__62.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Take me with you at least",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_4_misha_144.ogg/revision/latest?cb=20240703233615",
+        "is_unavailable": false,
+        "audio_filename": "audio__63.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Okay? I beg you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/Vo_chapter3_4_misha_142.ogg/revision/latest?cb=20240703233609",
+        "is_unavailable": false,
+        "audio_filename": "audio__64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "That was a close one... but we made it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/Vo_chapter3_4_firefly_126.ogg/revision/latest?cb=20240703233408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_65.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "So strange... The Family insist that the Dreamscape is absolutely safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/Vo_chapter3_4_firefly_127.ogg/revision/latest?cb=20240703233410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_66.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue forward"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "There's nothing but... a jigsaw puzzle here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/Vo_chapter3_4_firefly_128.ogg/revision/latest?cb=20240703233412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate puzzle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The pieces look like they flew to both sides of the room.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/Vo_chapter3_4_firefly_129.ogg/revision/latest?cb=20240703233414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_68.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find the lost pieces (0/2)"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.As you are about to reach the end of this space, you see a Dreamweaver gentleman holding a puzzle, within which lies the key to your escape."
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I will definitely keep it safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Vo_chapter3_4_misha_152.ogg/revision/latest?cb=20240703233629",
+        "is_unavailable": false,
+        "audio_filename": "audio__69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I promise you, Mikhail...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/Vo_chapter3_4_misha_153.ogg/revision/latest?cb=20240703233631",
+        "is_unavailable": false,
+        "audio_filename": "audio__70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Break marked destructible objects)"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "So, you need to keep yourself safe, too...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/Vo_chapter3_4_misha_154.ogg/revision/latest?cb=20240703233633",
+        "is_unavailable": false,
+        "audio_filename": "audio__71.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "This is an origami bird I made for you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/Vo_chapter3_4_misha_147.ogg/revision/latest?cb=20240703233620",
+        "is_unavailable": false,
+        "audio_filename": "audio__72.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Stroke Origami Bird)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Waiting Bird",
+        "line": "Tweet! Tweet tweet!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Waiting Bird",
+        "line": "Tweet...?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "The red bird jumps out eagerly, but it seems you aren't the person it's waiting for."
+    },
+    {
+        "type": "note",
+        "text": "The bird ruffles its feathers in disappointment and flies away."
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainAlfalfa Salad×1,Credit×5000)"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Take it with you, Mikhail!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/Vo_chapter3_4_misha_148.ogg/revision/latest?cb=20240703233622",
+        "is_unavailable": false,
+        "audio_filename": "audio__73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It will protect you from harm.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/Vo_chapter3_4_misha_149.ogg/revision/latest?cb=20240703233624",
+        "is_unavailable": false,
+        "audio_filename": "audio__74.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After obtaining both pieces)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This should fill in the empty spaces in the puzzle.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Vo_chapter3_4_firefly_130.ogg/revision/latest?cb=20240703233416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_75.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use the characteristics of the Dreamscape to open the door"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.As you are about to reach the end of this space, you see a Dreamweaver gentleman holding a puzzle and use him to open the door to the exit. Continue onwards."
+    },
+    {
+        "type": "condition",
+        "text": "(Solve Dream Jigsaw)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Ah! The wall has vanished... Feels like we're reaching the end... right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Vo_chapter3_4_firefly_131.ogg/revision/latest?cb=20240703233418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_76.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Open the suspicious chest"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.You arrive in a room with a strange atmosphere. An unguarded treasure box lies in front of you, waiting for you to open it... Will you open it?"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Er... Just one chest? I'm sure that's not a trap. Should we open it...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/Vo_chapter3_4_firefly_132.ogg/revision/latest?cb=20240703233420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_77.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Open Someone's treasure)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...What's going on!? The lights have all turned on. So creepy...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Vo_chapter3_4_firefly_133.ogg/revision/latest?cb=20240703233421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "But, since there are so many doors here... we should be able to leave through one of them...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/Vo_chapter3_4_firefly_134.ogg/revision/latest?cb=20240703233423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_79.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainUnknown Puzzle Fragment)"
+    },
+    {
+        "type": "heading",
+        "text": "Leave this place through any portal"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.Only after you have opened the chest do you discover several great doors surrounding you... Perhaps you can use one of these doors to leave this place."
+    },
+    {
+        "type": "condition",
+        "text": "(After walking through the hallway and entering the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "...The exact same room?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/Vo_chapter3_4_firefly_135.ogg/revision/latest?cb=20240703233425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "██Help█ ███ █ help ██...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Vo_chapter3_4_misha_169.ogg/revision/latest?cb=20240703233737",
+        "is_unavailable": false,
+        "audio_filename": "audio__81.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_4_misha_156_1.ogg/revision/latest?cb=20240703233637",
+        "is_unavailable": false,
+        "audio_filename": "audio__82.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help me",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_4_misha_157_1.ogg/revision/latest?cb=20240703233645",
+        "is_unavailable": false,
+        "audio_filename": "audio__83.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Leave this place through another portal"
+    },
+    {
+        "type": "condition",
+        "text": "(After walking through the hallway and entering the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This again... No wait, could it be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/Vo_chapter3_4_firefly_136.ogg/revision/latest?cb=20240703233427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "█said███do█not█ ██ █open the box██...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/Vo_chapter3_4_misha_170.ogg/revision/latest?cb=20240703233739",
+        "is_unavailable": false,
+        "audio_filename": "audio__85.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/Vo_chapter3_4_misha_156_1.ogg/revision/latest?cb=20240703233637",
+        "is_unavailable": false,
+        "audio_filename": "audio__86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Get him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_4_misha_159_1.ogg/revision/latest?cb=20240703233656",
+        "is_unavailable": false,
+        "audio_filename": "audio__87.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "We have nowhere to go...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_4_misha_160_1.ogg/revision/latest?cb=20240703233702",
+        "is_unavailable": false,
+        "audio_filename": "audio__88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't let him get away!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_4_misha_158_1.ogg/revision/latest?cb=20240703233650",
+        "is_unavailable": false,
+        "audio_filename": "audio__89.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No, don't come close",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_4_misha_161_1.ogg/revision/latest?cb=20240703233707",
+        "is_unavailable": false,
+        "audio_filename": "audio__90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help me",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_4_misha_157_1.ogg/revision/latest?cb=20240703233645",
+        "is_unavailable": false,
+        "audio_filename": "audio__91.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Find a way to leave this suspicious space"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.It seems you have returned to a familiar place... What is going on?"
+    },
+    {
+        "type": "condition",
+        "text": "(After walking through the hallway and entering the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Uh oh... Which one was the original door?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/Vo_chapter3_4_firefly_138.ogg/revision/latest?cb=20240703233431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "█beg█you██ █I████ ███ █scared█...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Vo_chapter3_4_misha_172.ogg/revision/latest?cb=20240703233743",
+        "is_unavailable": false,
+        "audio_filename": "audio__93.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Give me that!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/Vo_chapter3_4_misha_166_2.ogg/revision/latest?cb=20240703233728",
+        "is_unavailable": false,
+        "audio_filename": "audio__94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help me",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_4_misha_157_1.ogg/revision/latest?cb=20240703233645",
+        "is_unavailable": false,
+        "audio_filename": "audio__95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Get him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_4_misha_159_1.ogg/revision/latest?cb=20240703233656",
+        "is_unavailable": false,
+        "audio_filename": "audio__96.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "We have nowhere to go...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_4_misha_160_1.ogg/revision/latest?cb=20240703233702",
+        "is_unavailable": false,
+        "audio_filename": "audio__97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't let him get away!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/Vo_chapter3_4_misha_158_1.ogg/revision/latest?cb=20240703233650",
+        "is_unavailable": false,
+        "audio_filename": "audio__98.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help me",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_4_misha_157_1.ogg/revision/latest?cb=20240703233645",
+        "is_unavailable": false,
+        "audio_filename": "audio__99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No, don't come close",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_4_misha_161_1.ogg/revision/latest?cb=20240703233707",
+        "is_unavailable": false,
+        "audio_filename": "audio__100.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Come back here",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_4_misha_164_2.ogg/revision/latest?cb=20240703233720",
+        "is_unavailable": false,
+        "audio_filename": "audio__101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_4_misha_162_2.ogg/revision/latest?cb=20240703233713",
+        "is_unavailable": false,
+        "audio_filename": "audio__102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Where are you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_4_misha_163_2.ogg/revision/latest?cb=20240703233716",
+        "is_unavailable": false,
+        "audio_filename": "audio__103.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Penacony must save itself",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_4_misha_165_2.ogg/revision/latest?cb=20240703233724",
+        "is_unavailable": false,
+        "audio_filename": "audio__104.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue your search for a way to leave this suspicious place"
+    },
+    {
+        "type": "condition",
+        "text": "(After walking through the hallway and entering the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "█Let's go home███, █ ███ ██ ███ ███ █ █...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/Vo_chapter3_4_misha_173.ogg/revision/latest?cb=20240703233744",
+        "is_unavailable": false,
+        "audio_filename": "audio__105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "The TVs are so bright, it's hurting my eyes... Careful, something's up...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/Vo_chapter3_4_firefly_140.ogg/revision/latest?cb=20240703233435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_106.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "We have nowhere to go...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/Vo_chapter3_4_misha_160_1.ogg/revision/latest?cb=20240703233702",
+        "is_unavailable": false,
+        "audio_filename": "audio__107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Get him!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Vo_chapter3_4_misha_159_1.ogg/revision/latest?cb=20240703233656",
+        "is_unavailable": false,
+        "audio_filename": "audio__108.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Help me",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/Vo_chapter3_4_misha_157_1.ogg/revision/latest?cb=20240703233645",
+        "is_unavailable": false,
+        "audio_filename": "audio__109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "No, don't come close",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/Vo_chapter3_4_misha_161_1.ogg/revision/latest?cb=20240703233707",
+        "is_unavailable": false,
+        "audio_filename": "audio__110.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Come back here",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/Vo_chapter3_4_misha_164_2.ogg/revision/latest?cb=20240703233720",
+        "is_unavailable": false,
+        "audio_filename": "audio__111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mikhail",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/Vo_chapter3_4_misha_162_2.ogg/revision/latest?cb=20240703233713",
+        "is_unavailable": false,
+        "audio_filename": "audio__112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Where are you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/Vo_chapter3_4_misha_163_2.ogg/revision/latest?cb=20240703233716",
+        "is_unavailable": false,
+        "audio_filename": "audio__113.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Penacony must save itself",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/Vo_chapter3_4_misha_165_2.ogg/revision/latest?cb=20240703233724",
+        "is_unavailable": false,
+        "audio_filename": "audio__114.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Floating words)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Please help me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_4_misha_168_3.ogg/revision/latest?cb=20240703233735",
+        "is_unavailable": false,
+        "audio_filename": "audio__115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Please help me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Vo_chapter3_4_misha_168_3.ogg/revision/latest?cb=20240703233735",
+        "is_unavailable": false,
+        "audio_filename": "audio__116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I don't want to die",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Vo_chapter3_4_misha_167_3.ogg/revision/latest?cb=20240703233731",
+        "is_unavailable": false,
+        "audio_filename": "audio__117.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Attempt to open the map, optional)"
+    },
+    {
+        "type": "note",
+        "text": "███Do ██████ ██ ██████not██lea█ve█ ████ ██"
+    },
+    {
+        "type": "heading",
+        "text": "Defeat the unknown creature"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As expected, returning to reality isn't as simple as you expected — Firefly and you are attacked by Sampo as soon as you arrive at the Golden Hour. Before you lose consciousness, you see Sampo shift into what appears to be the figure of a woman... Either he's a habitual crossdresser, or your assailant is actually someone else.You are trapped in this suspicious room and encounter a terrifying memetic monster... Can you really defeat it?"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)\n(Begin battle againstMemory Zone Meme \"Something Unto Death\")"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Wh—What is this monster...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/Vo_chapter3_4_firefly_141.ogg/revision/latest?cb=20240703233436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_118.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(\"Something Unto Death\" reaches 50% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "This Monster—— all these creatures——are they the secret The Family is hiding?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Vo_chapter3_4_firefly_142.ogg/revision/latest?cb=20240703233438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_119.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(\"Something Unto Death\" reaches 20% HP)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Ugh, is there no way to lose it...!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/Vo_chapter3_4_firefly_143.ogg/revision/latest?cb=20240703233440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_120.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "If you don't know the right technique...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "you might never return from the shadow of Death...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Emerging without a scratch",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Resume battle againstMemory Zone Meme \"Something Unto Death\")"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "And you are...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Vo_chapter3_4_firefly_144.ogg/revision/latest?cb=20240703233442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Firefly_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "Easy, girl. I'm on your side.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/Vo_chapter3_4_blackswan_101.ogg/revision/latest?cb=20240703233151",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Black Swan",
+        "line": "You can call me... the Memokeeper, Black Swan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/Vo_chapter3_4_blackswan_102.ogg/revision/latest?cb=20240703233153",
+        "is_unavailable": false,
+        "audio_filename": "audio_Black_Swan_123.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(ObtainAchievementThe Pursuit of Sweetness)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "See ya next time.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Black Swan",
+                "line": "Hurry.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    }
+]

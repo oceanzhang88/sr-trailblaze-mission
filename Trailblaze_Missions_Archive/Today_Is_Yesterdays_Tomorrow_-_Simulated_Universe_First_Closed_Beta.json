@@ -1,0 +1,460 @@
+[
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Herta asks you to enter the Simulated Universe created by the Genius Society while pretending to be the Aeon of Trailblaze, and try to glean the secret of Aeons and Paths from the simulated Aeons."
+    },
+    {
+        "type": "heading",
+        "text": "Enter the Simulated Universe"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the Simulated Universe)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Yes, just stand there and the computer will read your brainwaves, then automatically generate an immersive simulated experience...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_SideX_sys2_herta_144.ogg/revision/latest?cb=20241017201647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_0.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Explore the Simulated Universe"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dt>(Enter the Simulated Universe, interactive tutorial)</dt>\n<dd>\n<dl><dd><b>Herta:</b> <span class=\"text-highlight\">(Trailblazer)</span>, can you see this message? If you do, just (<span class=\"text-tooltip hover-tooltip\" title=\"on mobile\">tap</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">tap</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on mobile</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on controller\">press</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">press</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on controller</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on keyboard\">click</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">click</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on keyboard</span></span>) anywhere on the screen —</dd>\n<dd><b>Herta:</b> Your body is still sitting in the office. This is a Simulated Universe generated from your memories.</dd>\n<dd><b>Herta:</b> This is only the Alpha test server, where the features are not fully available. Now, try to walk around.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Walk around)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "See? You can move around now. I want you to play Akivili and find some monsters to fight. Let's see which simulated Aeon will notice you first.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(During Wave 1)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "(Trailblazer), I pre-loaded those two kids so you don't have to fight alone. How very kind of me, no?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Activate <span class=\"text-highlight\">auto-battle</span> to automatically use abilities in combat.</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(After the first battle, an Occurrence appears)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qlipoth",
+        "line": "There is a murmur in the amber sky. It's dusk. You look up and find countless copper ore, amber and opal falling from the sky. This is a wondrous mineral rain. In the steam, the colossal thing stretched THEIR spine from the mantle with a sledgehammer gripped in THEIR broad palm. You opened your eyes and realized that this is actually Qlipoth, the Aeon of Preservation !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/SU_Aeon_Entry_Sound_Qlipoth.ogg/revision/latest?cb=20240511205754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qlipoth_1.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Is this a new trick by Herta?"
+    },
+    {
+        "type": "note",
+        "text": "Is this some kind of role-playing?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qlipoth",
+        "line": "There is a huge roar around THEM – this is a warning for you. Then, THEY disappear before your eyes.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "\"Our calculations are correct. Qlipoth, the Aeon of Preservation, has really appeared.\" Herta's voice suddenly sounded, and she let out an ambiguous giggle, \"The Aeon of Trailblaze , Akivili's revival has attracted an old friend.\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "But THEY have run away."
+    },
+    {
+        "type": "note",
+        "text": "Tell me more stories about the relationship between the Aeons!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "\"What you saw was the simulated Aeon carefully cultivated by Ruan Mei and Screwllum . The simulated Aeons will ignore us just like the real ones, so I set your simulated identity as Akivili, Aeon of Trailblaze, to attract THEM.\" With a click of her tongue, Herta says, \"Now it seems that my judgment is correct. Next time you run into the Aeons, try to get something out of THEM.\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "What do you want to know?"
+    },
+    {
+        "type": "note",
+        "text": "You must know more about gossip than I do!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "\"Myths of the Aeons, anecdotes, love stories, the origin of the universe... Anything will do!\" Herta was annoyed, \"Just think of something!\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After the second battle while selecting a Blessing, interactive tutorial)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "I'll cover you for this test. See, I used my clearance to enhance your Blessings.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Now you can go have some fun. Don't ask why. Just thank me. Go, pick one!",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(After selecting a Blessing)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Use Preservation Blessings to increase your survivability, look for opportunities to improve your combat strength, and have an audience with the Amber Lord again!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After the second battle while selecting a Blessing, interactive tutorial)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Alas, Qlipoth didn't come. I guessed as much — Pick the Blessing that turns Shields into damage, and hurry onward.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(During Wave 1 of the third battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "(Trailblazer), I'm going to speed up the process. Now you're going to fight three times in a row. This is not how the Simulated Universe should operate, but I'm running out of patience.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Be sure to collect Preservation Blessings, okay? See if we can get Qlipoth to visit once more.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(After all fights, interactive tutorial)"
+    },
+    {
+        "type": "choice",
+        "text": "(After selecting Blessings) Herta: Sorry, I temporarily revoked your activity permissions — Uh, I need to apologize to you about something. Herta: I confess, I'm a little too eager for success... I won't interfere with the system again. Just play as you like. Herta: Qlipoth's appearance was probably just a coincidence... That's it. Anyway, I'm sorry.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(While selecting Blessings)"
+            },
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Come on...",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Darn it...",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Well, THEY probably won't come.",
+                        "audio_url": null,
+                        "is_unavailable": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Defeat the boss"
+    },
+    {
+        "type": "condition",
+        "text": "(After defeating the Boss, an Occurrence appears)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Simulated Universe",
+        "line": "The fight is over and you wait in place, but nothing happens.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Herta?"
+    },
+    {
+        "type": "note",
+        "text": "Go on."
+    },
+    {
+        "type": "note",
+        "text": "What should I do?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "There is a long silence, followed by a deep sigh from Herta. \"I was expecting THEM to appear. Never mind. I'll switch off the Simulated Universe then. It'll only take a second and you won't feel a thing. Let's chat back in reality.\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Simulated Universe",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Herta?"
+    },
+    {
+        "type": "note",
+        "text": "Didn't you say it'll only take a second?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "\"THEY... came!\" You hear Herta's stunned words. \"No, not THEM... It's another Aeon! It's...\" Her voice suddenly drifts off. You have a strange feeling about this, as if Herta's words solidified and the whole Simulated Universe became somehow unreal.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fuli",
+        "line": "You see a blurry figure made of mirror fragments, and THEIR facial features are repeatedly refracted by the prism to form a mystery. Countless memories spring up before your eyes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/SU_Aeon_Entry_Sound_Fuli.ogg/revision/latest?cb=20240511205809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fuli_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fuli",
+        "line": "You see Kafka . Her body is stretched, deformed, and rubbed together with the umbrella in her hand, turning into water droplets and falling at your feet.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fuli",
+        "line": "You find yourself become a weeping Adlivun baby with an uncut umbilical cord. You remember that there is a golden scar on your body, and golden blood flowing on the dying planet. You find yourself dark-skinned and wearing a robe on the wasteland. You find that you are a swift shadow across the abyss, reaching out to catch the shooting star.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fuli",
+        "line": "Then, THEIR voice suddenly came... \"The robe flutters and wraps around your dark skin, you laugh at exploration. The silk threads spin, overlap, and weave into oceanic words...\" Every word THEY say is connected to each other like a whisper. Before you could say anything, THEY suddenly disappear.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Wait, let's talk about Kafka."
+    },
+    {
+        "type": "note",
+        "text": "THEY have controlled my brain!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "\"We did it!\" Herta yells with excitement, \"That was Fuli. THEY thought you were the fallen Akivili, so THEY actively started a conversation with you. Fuli is valuable for our research because THEY have the memories of all beings and know almost as much about everything as Nous does! Come on out, (Trailblazer), I want to upgrade the Simulated Universe. You need to stay in there even longer in the future!\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "You said you wouldn't interfere anymore —"
+    },
+    {
+        "type": "note",
+        "text": "It feels like a hook pulled at your belly button and your entire body tumbled in a circle. When you open your eyes, you're already back in Herta's office. Your first experience of the Simulated Universe had ended."
+    },
+    {
+        "type": "condition",
+        "text": "(After exiting the Simulated Universe)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "▶ Success! I have to tell this news to Stephen right away — (Trailblazer), don't just stand there. Go in and see if you can get a few more words out of them or something...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_SideX_sys2_herta_133_m.ogg/revision/latest?cb=20241017201648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_3.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You should show me some respect.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "▶ Oh, you're right. I got too excited... Sorry, (Trailblazer). I do respect you! If you don't mind, could you please go in for another test?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_SideX_sys2_herta_134_m.ogg/revision/latest?cb=20241017201650",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You have no right to order me around.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "▶ Oh, you're right. I got too excited... Sorry, (Trailblazer). You did very well! If you don't mind, could you please go in for another test?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_SideX_sys2_herta_135_m.ogg/revision/latest?cb=20241017201652",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_5.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Alright, I'll go now then."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I've upgraded the Simulated Universe — it now has more memory and can support longer sessions. The last round must've been pretty boring — I'll get Stephen to add a few more interesting things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_SideX_sys2_herta_136.ogg/revision/latest?cb=20241017201654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "This part was made specifically with you in mind. Ready to have some fun?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_SideX_sys2_herta_137.ogg/revision/latest?cb=20241017201655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yay! I love fun games!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Stephen said the same thing. I don't really get \"fun,\" but whatever. What's more important is that the rewards will also increase!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_SideX_sys2_herta_138.ogg/revision/latest?cb=20241017201656",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Not as good as adding more rewards...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Oh, but we will — after all, you're gonna be spending more time on this project.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_SideX_sys2_herta_139.ogg/revision/latest?cb=20241017201657",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I don't trust the definition of \"interesting\" around here...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "What can I say? I don't trust it either. For some reason, whenever someone tells me they're gonna do something interesting, I end up imagining a pile of trash...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_SideX_sys2_herta_140.ogg/revision/latest?cb=20241017201658",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_10.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "...so I'd rather talk with you about the added rewards part.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_SideX_sys2_herta_141.ogg/revision/latest?cb=20241017201659",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_11.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "In a nutshell, this is a long-scheduled version update with longer gameplay, more content, better rewards, and a more bizarre difficulty curve — so get ready and prepare to get back into the Simulated Universe!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_SideX_sys2_herta_142.ogg/revision/latest?cb=20241017201659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "I'll help you out some more. Don't worry.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_SideX_sys2_herta_143.ogg/revision/latest?cb=20241017201700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_13.ogg"
+    }
+]

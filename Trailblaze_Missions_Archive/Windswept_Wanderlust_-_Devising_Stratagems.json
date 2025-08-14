@@ -1,0 +1,2493 @@
+[
+    {
+        "type": "heading",
+        "text": "Head to the Palace of Astrum and meet with Yukong"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "Knowing that you came for theStellaron, Tingyun invites everyone to thePalace of Astrumfor a meeting.Six individual commissions oversee the Xianzhou. If you wish to move freely on theLuofuduring these sensitive times, you must obtain the approval of the Head of theSky-Faring Commission, Yukong, who is in charge of transport and diplomacy."
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to use main stairs guarded byCloud KnightsPatrollers, one of the following responses occur at random)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "Sorry, this place has been sealed off. Please go another way around.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(or)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "This place is temporarily closed off. Please use another route.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(or)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "Hello, I've been assigned to guard the entrance here. You can take another route.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the pair at the loading dock, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Salary-Concerned Freight Handler",
+        "line": "The area's been sealed off... are we still going to get paid...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Livelihood-Concerned Freight Handler",
+        "line": "How am I going to make ends meet...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Listen"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Salary-Concerned Freight Handler",
+        "line": "*sigh* The dock's been sealed off. Will we be getting our wages?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Livelihood-Concerned Freight Handler",
+        "line": "No idea. I doubt it. The boss probably has no money to pay us, what with this fiasco...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Salary-Concerned Freight Handler",
+        "line": "If this keeps up, how'll we survive then?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Livelihood-Concerned Freight Handler",
+        "line": "Who knows... *sigh* I wonder when the restrictions will be lifted...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to use the far left stairs guarded by the Cloud Knights Patroller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "Go no further. The area ahead is currently under inspection. The lockdown will be lifted when the safety is ensured.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the group in front of the stairs next to theStarskiff JettySpace Anchor, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious but Polite Cloud Knights Soldier",
+        "line": "Idlers, please go home as soon as you can.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Worried Man",
+        "line": "My daughter is waiting for me at home...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anxious Woman",
+        "line": "I'll lose money on this shipment!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Flustered Man",
+        "line": "Please find it in your heart to let me through...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Anxious Woman)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anxious Woman",
+        "line": "Let me through now! I have to sell these goods on the double!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious but Polite Cloud Knights Soldier",
+        "line": "Please calm down. Which is more important: your life, or your deal? Consider this carefully.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Flustered Man)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Flustered Man",
+        "line": "Please find it in your heart to let me through, I'm on urgent business. Please let me through...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious but Polite Cloud Knights Soldier",
+        "line": "That won't be possible. Please understand. You're not the only one in a rush. Everyone is. How can I make an exception for you?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Worried Man)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Worried Man",
+        "line": "Please let me through. My daughter's waiting for me at home.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Serious but Polite Cloud Knights Soldier",
+        "line": "I'm sorry. Please understand, the road up ahead has been sealed off...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to go down the stairs guarded by the Cloud Knights Patroller next to the Starskiff Jetty Space Anchor)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "How about we explore the area ahea... I mean, the area ahead is currently under lockdown and inspection. This route is closed for the time being.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the pair at the table near the Starskiff Jetty Space Anchor, idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Emotional Man",
+        "line": "Starwatcher Avenue is a bustling sight...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Woman",
+        "line": "A pity we can't get through...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Emotional Man",
+        "line": "It will get better.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Woman",
+        "line": "I certainly hope so.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Listen"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Emotional Man",
+        "line": "That Starwatcher Avenue would be so crowded even with a lockdown... Xianzhou is really a sight to behold.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Woman",
+        "line": "It's a pity that we can only admire from afar.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Emotional Man",
+        "line": "It's all right, it will get better very soon. I'll treat you to a meal when the lockdown is lifted.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Melancholic Woman",
+        "line": "*sigh* I certainly hope so.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to the Courteous Cloud Knights Soldier standing to the right of the stairs going down)"
+    },
+    {
+        "type": "note",
+        "text": "Inquire"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Courteous Cloud Knights Soldier",
+        "line": "My apologies, please stay where you are. The situation is complicated, and we currently do not have a clear view of the situation. We have had no choice but to seal this area off.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Courteous Cloud Knights Soldier",
+        "line": "If you have business to attend to, please do it when the situation has settled down. Apologies for any trouble.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the Cloud Knights Patroller next to the Courteous Cloud Knights Soldier, idle quote)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "Hold! You can't go through here!",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to go down stairs guarded by the Cloud Knights Patroller next to the Courteous Cloud Knights Soldier)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "I'm sorry, but this route is closed. We're conducting inspections in accordance with the Cloud Knights patrol ordinance.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to go down either side of the main stairs guarded by Cloud Knights Patrollers at the bottom)"
+    },
+    {
+        "type": "note",
+        "text": "Due to the Cloud Knights' security regulations, this place is overcrowded with people. For the time being, you can't squeeze past."
+    },
+    {
+        "type": "condition",
+        "text": "(If attempting to go through the round doorway guarded by the Cloud Knights Patroller)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knights Patroller",
+        "line": "Halt. Under order of the general and to mitigate further risk, Starskiff Haven is under partial lockdown.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tingyun)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Oh, you're here already? Sorry to keep you waiting. Madam Yukong is expecting you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter2_1_tingyun_152.ogg/revision/latest?cb=20250310104822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you not coming?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter2_1_mar7th_156.ogg/revision/latest?cb=20250310040113",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I've brought Madam Helm Master up to speed. It's over to you now~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_1_tingyun_153.ogg/revision/latest?cb=20250310104823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Teleports to inside the Palace of Astrum)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Navigation Officer",
+        "line": "Yes, Madam.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter2_1_officerA_101.ogg/revision/latest?cb=20250310040137",
+        "is_unavailable": false,
+        "audio_filename": "audio_Navigation_Officer_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "Report the losses to General Jing Yuan and find someone from the Divination Commission . They can't just stand there watching while we deal with this mess...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter2_1_yukong_101.ogg/revision/latest?cb=20250310040246",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "Greetings, guests from the Astral Express .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter2_1_yukong_102.ogg/revision/latest?cb=20250310040247",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "Tingyun has informed me of the purpose of your visit. Receiving guests isn't normally one of my responsibilities...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_1_yukong_103.ogg/revision/latest?cb=20250310040248",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "...but since you know about the Stellaron and have stated that you want to help the Luofu, I thought I should at least meet you in person...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter2_1_yukong_104.ogg/revision/latest?cb=20250310040249",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "...and politely decline your proposal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_1_yukong_105.ogg/revision/latest?cb=20250310040250",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_8.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Decline!?"
+    },
+    {
+        "type": "note",
+        "text": "Why!?"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "The Xianzhou Alliance knows what a Stellaron is and is more than capable of handling it ourselves. We have been around for over 8000 years and weathered countless dangers and crises. While the situation is serious, we have more than enough resources to spare. Outsider help is not needed on this occasion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter2_1_yukong_106.ogg/revision/latest?cb=20250310040251",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "You are guests from afar — there is no reason for this matter to concern you... Am I making myself clear?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter2_1_yukong_107.ogg/revision/latest?cb=20250310040252",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "From what we've gathered, the influence of the Stellaron can still be contained.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter2_1_welt_143.ogg/revision/latest?cb=20250310040212",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "If we can locate it in time and contain it, it's possible that we can restore any space — and any individuals — affected by the corrosion.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter2_1_welt_144.ogg/revision/latest?cb=20250310040213",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We have experience in preventing Stellaron disasters, and we've only come here to lend you that experience.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_1_welt_145.ogg/revision/latest?cb=20250310040214",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "I've said this and I'll say it again: This is an internal affair of the Xianzhou Alliance and there is no need for the Astral Express to get involved. I decided to arrange a meeting with you as a gesture of respect, but my decision is final.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter2_1_yukong_108.ogg/revision/latest?cb=20250310040253",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...But—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_1_welt_146.ogg/revision/latest?cb=20250310040215",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Never mind, Mr. Yang. If the Xianzhou Alliance say they can handle it, then we're wasting our breath. Let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter2_1_mar7th_157.ogg/revision/latest?cb=20250310040115",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "I'm afraid that's impossible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_1_yukong_109.ogg/revision/latest?cb=20250310040254",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Huh? And what's that supposed to mean?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter2_1_mar7th_158.ogg/revision/latest?cb=20250310040116",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "It's only been a few days since the presence of a Stellaron was detected on the Luofu. Starskiff Haven has been under full lockdown — no one has been permitted to leave. How did you come to know of the incident, and what led you to conclude that it was linked to a Stellaron?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_1_yukong_110.ogg/revision/latest?cb=20250310040255",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "I acquired the access history of Starskiff Haven. Not long ago, someone hacked into the system and opened the Jade Gate, before guiding you, the Astral Express, into our territory.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_1_yukong_111.ogg/revision/latest?cb=20250310040256",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "The hacker was skillful and even taunted us with her seal. Her name is Silver Wolf , a member of the Stellaron Hunters ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter2_1_yukong_112.ogg/revision/latest?cb=20250310040257",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "What say you in your defense?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_1_yukong_113.ogg/revision/latest?cb=20250310040258",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_22.ogg"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "The Stellaron Hunters told us to come here!"
+    },
+    {
+        "type": "note",
+        "text": "The Stellaron Hunters want to use you to take us out!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "You are forbidden from leaving the Sky-Faring Commission until the aforementioned questions have been investigated.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter2_1_yukong_114.ogg/revision/latest?cb=20250310040259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Don't be too harsh, Yukong. If this gets out, the whole galaxy will think the Alliance has forgotten how to treat our guests.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter2_1_jingyuan_101.ogg/revision/latest?cb=20250310040013",
+        "is_unavailable": false,
+        "audio_filename": "audio__24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "General Jing Yuan—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter2_1_yukong_115.ogg/revision/latest?cb=20250310040259",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "It's very unlikely that the Express has joined forces with the Stellaron Hunters. They are mortal enemies, after all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter2_1_jingyuan_102.ogg/revision/latest?cb=20250310040014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Apologies for interrupting your meeting. My name is Jing Yuan — I'm the general of the Cloud Knights here on the Luofu.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_1_jingyuan_103.ogg/revision/latest?cb=20250310040015",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "General, this is an internal affair for the Luofu...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter2_1_yukong_116.ogg/revision/latest?cb=20250310040300",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I fully agree with you, Helm Master Yukong, this is indeed an internal affair.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_1_jingyuan_104.ogg/revision/latest?cb=20250310040016",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I am sorry, guests of the Astral Express. It is true that there is a Stellaron on the Luofu, but I'm afraid I cannot accept your kind offer to help resolve the issue. This is a Xianzhou matter, and it is our responsibility to handle it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter2_1_jingyuan_105.ogg/revision/latest?cb=20250310040017",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "...Of course, it would be inappropriate of me to let you return without something to show for it. While I cannot accept your help with regard to the Stellaron, I do have a favor to ask. Please, after you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter2_1_jingyuan_106.ogg/revision/latest?cb=20250310040018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "The Astral Express! I must confess that the train's reputation precedes it, such that it is often close to my thoughts. How delightful to come face to face with its passengers!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter2_1_jingyuan_107.ogg/revision/latest?cb=20250310040019",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_32.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Frightfully delightful!"
+    },
+    {
+        "type": "note",
+        "text": "Would that this occasion had come sooner!"
+    },
+    {
+        "type": "note",
+        "text": "...Are you really a general?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "It's an honor to meet you, general. May I ask what the favor you spoke of is?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter2_1_welt_148.ogg/revision/latest?cb=20250310040216",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Ah, a matter that requires capable people such as yourselves. We captured a member of the Stellaron Hunters a few days ago, who goes by the name of \" Blade .\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter2_1_jingyuan_108.ogg/revision/latest?cb=20250310040020",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "During our investigation, the Divination Commission — the department in charge of intelligence processing — intercepted a transmission sent out by his accomplice, Kafka , who has managed to hide aboard the ship. As for where that transmission was destined...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter2_1_jingyuan_109.ogg/revision/latest?cb=20250310040021",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_35.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The Express."
+    },
+    {
+        "type": "note",
+        "text": "Go on! Where!?"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter2_1_welt_149.ogg/revision/latest?cb=20250310040217",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I have some knowledge of your relationship with the Stellaron Hunters. The Divination Commission is convinced that you made an alliance with them... I say that's impossible. The crew of the Astral Express are honorable people whose valiant deeds are lauded across the universe. There must have been a misunderstanding.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter2_1_jingyuan_110.ogg/revision/latest?cb=20250310040022",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "As such, I came to the conclusion that the communication must have been an attempt by the Stellaron Hunters to sow dissent between us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_1_jingyuan_111.ogg/revision/latest?cb=20250310040023",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_38.ogg"
+    },
+    {
+        "type": "note",
+        "text": "That's right! We've been framed!"
+    },
+    {
+        "type": "note",
+        "text": "Maybe the Stellaron Hunters have other motives..."
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "We can handle the Stellaron, but it will take time and will require the bulk of the Cloud Knights on the ship. It is this Kafka that concerns me. The longer she stays on the ship, the bigger the threat she will pose.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter2_1_jingyuan_112.ogg/revision/latest?cb=20250310040024",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Since the Stellaron Hunters lured you to our ship, we shall move with the current. You are hereby authorized to do as you deem fit on the Luofu, with the goal of bringing Kafka out of the shadows and under our control.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_1_jingyuan_113.ogg/revision/latest?cb=20250310040026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Doing so would clear the misunderstanding between us, reveal the true intentions of the Stellaron Hunters, and help us understand their connection to the Stellaron burst. What say you, my Astral guests?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter2_1_jingyuan_114.ogg/revision/latest?cb=20250310040026",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...(Trailblazer), what do you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter2_1_welt_150_m.ogg/revision/latest?cb=20250310040218",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_42.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's move with the current and help out.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "If you are able to capture this Stellaron Hunter, the Xianzhou will be indebted to you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter2_1_jingyuan_115.ogg/revision/latest?cb=20250310040028",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Our expedition was focused on the Stellaron...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "I'm afraid my hands are tied on the matter — this is a diplomatic affair and I have rules to follow. But if you can bring me the Stellaron Hunter and discover her motive for placing a Stellaron on the ship, it would be of great help in resolving the incident.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter2_1_jingyuan_116.ogg/revision/latest?cb=20250310040029",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "We don't really have a choice.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Of course you do. You can be strangers and simply walk away. But I feel you wish to help the Xianzhou.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter2_1_jingyuan_117.ogg/revision/latest?cb=20250310040030",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_45.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "The Luofu never fails to reward that which is given.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_1_jingyuan_118.ogg/revision/latest?cb=20250310040031",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "...Okay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter2_1_welt_151.ogg/revision/latest?cb=20250310040219",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Wonderful, it's a deal then. I shall notify Yukong that all intel is to be shared with you, and that our best personnel are to aid you in your search.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter2_1_jingyuan_119.ogg/revision/latest?cb=20250310040032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "If there's anything the Sky-Faring Commission or the Cloud Knights can do for you during your stay, don't hesitate to make it known.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter2_1_jingyuan_120.ogg/revision/latest?cb=20250310040032",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_49.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The chat concluded, and Welt shot you a covert gesture. You understand that this is the Crew's own discussion time."
+    },
+    {
+        "type": "heading",
+        "text": "Discuss your conclusions with Welt"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the Palace of Astrum, the hopeful Trailblazers are unfortunately rejected by Yukong.The Stellaron's descent on the Xianzhou involves many secrets, and Yukong does not wish to employ outsiders to solve such problems. Just as you leave empty-handed, General Jing Yuan of Luofu's Cloud Knights appears and intervenes.This smiling general seems to be on your side and opens a convenient door, but he secretly has other ideas in mind."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jing Yuan's Hologram, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "▶ I have heard of you, (Trailblazer)... The Alliance is very interested in the Astral Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter2_1_jingyuan_121_m.ogg/revision/latest?cb=20250310040034",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_50.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "About Blade...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Blade is wanted by both the IPC and the Alliance. I'm afraid I cannot comment on his file.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter2_1_jingyuan_122.ogg/revision/latest?cb=20250310040035",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About Kafka...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "There are five known members of the Stellaron Hunters. Elio is their leader, but always stays behind the scenes. Most of the operations are led by Kafka.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter2_1_jingyuan_123.ogg/revision/latest?cb=20250310040036",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Had the Divination Commission not intercepted her encrypted transmission, she would have remained undetected for much longer.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter2_1_jingyuan_124.ogg/revision/latest?cb=20250310040037",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Once we catch the Stellaron Hunter...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Bring her to us.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter2_1_jingyuan_125.ogg/revision/latest?cb=20250310040038",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_54.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Kafka is good at controlling the people around her."
+            },
+            {
+                "type": "note",
+                "text": "Kafka won't say anything."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Hmm, ordinary means may prove futile when it comes to this individual. But the Divination Commission has ways of...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter2_1_jingyuan_126.ogg/revision/latest?cb=20250310040039",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_55.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "...Haha, don't misunderstand me. The Xianzhou does not engage in torture. Retrieving intel does not necessarily involve the use of violence.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter2_1_jingyuan_127.ogg/revision/latest?cb=20250310040040",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_56.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "In any case, you can deliver her directly to us. Once we learn something, I will share every piece of information with you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter2_1_jingyuan_128.ogg/revision/latest?cb=20250310040041",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_57.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I don't have any other questions."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "If things go as planned, I would love to find the time to sit with all of you and hear about your experiences among the stars. My responsibilities to the Xianzhou have meant that I haven't had the chance to travel in many years.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter2_1_jingyuan_129.ogg/revision/latest?cb=20250310040042",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "We had heard nothing of the Express for a long time. It is heartening to learn of its continued journey along that starward track.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter2_1_jingyuan_130.ogg/revision/latest?cb=20250310040043",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I have other matters to attend to. Goodbye for now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter2_1_jingyuan_131.ogg/revision/latest?cb=20250310040044",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_60.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(The hologram disappears)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ What do you make of this Jing Yuan?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter2_1_mar7th_160_m.ogg/revision/latest?cb=20250310040117",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_61.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "He's pretty handsome.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I'm not asking about that! Although, you're not wrong...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter2_1_mar7th_161.ogg/revision/latest?cb=20250310040118",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "He's much easier to talk to than that Yukong — their attitudes are so different! Maybe that's why she's only a helm master and he's a general...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter2_1_mar7th_162.ogg/revision/latest?cb=20250310040119",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_63.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Trustworthy.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I feel the same. He's much easier to talk to than that Yukong — their attitudes are so different! Maybe that's why she's only a helm master and he's a general...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter2_1_mar7th_163.ogg/revision/latest?cb=20250310040120",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Suspicious.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ ( Come on, you think everyone's suspicious... / You think everyone's suspicious... though they do say some girls have a sixth sense. )",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter2_1_mar7th_164_m.ogg/revision/latest?cb=20250310040122",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_65.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "He's much easier to talk to than that Yukong — their attitudes are so different! Maybe that's why she's only a helm master and he's a general...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter2_1_mar7th_162.ogg/revision/latest?cb=20250310040119",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_66.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "We've got a Xianzhou general on our side! This time we have to... wait, does this seem familiar to you? Let's hope he doesn't offer us a hotel!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter2_1_mar7th_166.ogg/revision/latest?cb=20250310040123",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Yukong, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "Seeing as the general gave the order, the Sky-Faring Commission will lend you our full support. The Stellaron Hunter investigation is in your hands now. I'll issue you a pass so you can access the facilities around Starskiff Haven.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_1_yukong_119.ogg/revision/latest?cb=20250310040302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukong",
+        "line": "As for personnel... the skyports are currently all under maintenance, so we're thinly stretched. What I can do is send Tingyun as your guide — she'll take care of you during your stay.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter2_1_yukong_120.ogg/revision/latest?cb=20250310040302",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yukong_69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Hmm, I think we only scratched the surface of this General Jing Yuan...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter2_1_welt_152.ogg/revision/latest?cb=20250310040220",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_70.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Do you think there's something strange about him?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "I don't know about \"strange,\" but my gut tells me something is off.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter2_1_welt_153.ogg/revision/latest?cb=20250310040221",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_71.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter2_1_welt_154.ogg/revision/latest?cb=20250310040222",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_72.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "He seems suspicious...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Oh? Care to elaborate?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_1_welt_155.ogg/revision/latest?cb=20250310040223",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_73.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Why would he stop us from investigating the Stellaron?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Welt",
+                        "line": "He says he doesn't want outsiders getting involved in the Xianzhou's internal affairs, which is understandable.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter2_1_welt_156.ogg/revision/latest?cb=20250310040224",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Welt_74.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Welt",
+                        "line": "...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter2_1_welt_157.ogg/revision/latest?cb=20250310040225",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Welt_75.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Why did he ask us to go after Kafka?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Welt",
+                        "line": "Yes! There's something about this point...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter2_1_welt_158.ogg/revision/latest?cb=20250310040226",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Welt_76.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Why is he being so kind to us?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Welt",
+                        "line": "He wants us to trust him. He took advantage of Yukong's frosty reception to play the good guy.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter2_1_welt_159.ogg/revision/latest?cb=20250310040227",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Welt_77.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Welt",
+                        "line": "...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/02/VO_chapter2_1_welt_160.ogg/revision/latest?cb=20250310040228",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Welt_78.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I thought he was on our side?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Theoretically, yes. But something feels off.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter2_1_welt_161.ogg/revision/latest?cb=20250310040229",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_1_welt_162.ogg/revision/latest?cb=20250310040230",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Ah, that's it! A minor detail, but curious. He avoided talking about Blade!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_1_welt_163.ogg/revision/latest?cb=20250310040231",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Since the Cloud Knights have already captured a Stellaron Hunter, why not use him to get to Kafka? Why rely on us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter2_1_welt_164.ogg/revision/latest?cb=20250310040232",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The Xianzhou is reluctant to involve outsiders in the Stellaron disaster, so why is it so keen on letting us capture a Stellaron Hunter?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter2_1_welt_165.ogg/revision/latest?cb=20250310040233",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_83.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Could Blade have escaped?"
+    },
+    {
+        "type": "note",
+        "text": "Do you think Jing Yuan lied about the Stellaron?"
+    },
+    {
+        "type": "note",
+        "text": "He's using us as bait..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Yes. The only sensible conclusion I can draw is that Blade had already escaped when Jing Yuan spoke to us — provided they even captured him in the first place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_1_welt_166.ogg/revision/latest?cb=20250310040234",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Therefore, given our connection to Kafka, we represent the only way of luring the Stellaron Hunters in.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter2_1_welt_167.ogg/revision/latest?cb=20250310040235",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "That's why he asked for our help... He didn't want to let anyone else find out that Blade had already escaped!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter2_1_welt_168.ogg/revision/latest?cb=20250310040236",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Now that we've figured that out, perhaps we can get closer to the core of what's happening here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter2_1_welt_169.ogg/revision/latest?cb=20250310040237",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_87.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "This Jing Yuan... how much does he know, and how much is he hiding from us?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_1_welt_170.ogg/revision/latest?cb=20250310040238",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_88.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Meet with Tingyun"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the Palace of Astrum, the hopeful Trailblazers are rejected by Yukong.Fortunately, General Jing Yuan of Luofu's Cloud Knights appears and intervenes. However, he does not entrust you with the task of searching for the Stellaron, instead instructing you to locate Kafka's unpredictable whereabouts.After leaving the Palace of Astrum, you have a short rest before commencing with your game of cat and mouse."
+    },
+    {
+        "type": "note",
+        "text": "Leave"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon leaving the Palace of Astrum, cut to Jing Yuan andYanqingat theSeat of Divine Foresightwith a hologram ofFu Xuanapproaching)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Master Diviner, you heard our discussion. What do you make of it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter2_1_jingyuan_132.ogg/revision/latest?cb=20250310040046",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "What do I make of it? \"The way of heaven is apparent, but the heart of humanity is often deceptive.\" Are you asking me to divine their true intentions?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter2_1_fuxuan_101.ogg/revision/latest?cb=20250310035954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "That won't be necessary. The crew has nothing to do with the incident, of that I am almost certain. It isn't their intentions that trouble me. All I want is for them to lure out the one we're after.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter2_1_jingyuan_133.ogg/revision/latest?cb=20250310040047",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Wasn't that my idea, general?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter2_1_fuxuan_102.ogg/revision/latest?cb=20250310035955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Indeed, your counsel has always been of great help to me. You may use your discretion on the matters ahead of us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter2_1_jingyuan_134.ogg/revision/latest?cb=20250310040048",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Hmph, why don't you retire early and I use my discretion full-time?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter2_1_fuxuan_103.ogg/revision/latest?cb=20250310035955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "It is still too soon, unfortunately. If something goes wrong, you'll need a general to take the blame. How could I simply walk away and put you at such risk?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter2_1_jingyuan_135.ogg/revision/latest?cb=20250310040049",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "If you'd brought me that Blade earlier, none of this would've been necessary.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_1_fuxuan_104.ogg/revision/latest?cb=20250310035956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Wait, what are you up to exactly? Jing Yuan, did you... let him escape on purpose!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_1_fuxuan_105.ogg/revision/latest?cb=20250310035957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Me? I had no idea he might escape! Unlike you, my gaze never travels beyond the horizon. I take full responsibility — the Cloud Knights failed in their duty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter2_1_jingyuan_136.ogg/revision/latest?cb=20250310040050",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Hmph, I can understand. There's a lot to take care of on the Xianzhou — you were bound to miss something. Thank goodness I'm here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter2_1_fuxuan_106.ogg/revision/latest?cb=20250310035958",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "On that note, perhaps it's about time you finally nominate me as your successor when the Six Charioteers next convene...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter2_1_fuxuan_107.ogg/revision/latest?cb=20250310035959",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Yes, yes, yes... I have to go now — I'll leave this in your overwhelmingly capable hands, Fu Xuan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter2_1_jingyuan_137.ogg/revision/latest?cb=20250310040051",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_101.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Fu Xuan's hologram leaves)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "*sigh* There are three things in the world that I can't seem to rid myself of: The troubles of the Xianzhou, the papers on my desk, and the weeds in my garden.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter2_1_jingyuan_138.ogg/revision/latest?cb=20250310040052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yanqing",
+        "line": "General, Diviner Fu wants the general's position for herself. Everyone knows that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_1_yanqing_101.ogg/revision/latest?cb=20250310040242",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yanqing_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "She is very capable, but her intellect is burdened by a quick temper. I'll retire when she's achieved a better balance.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_1_jingyuan_139.ogg/revision/latest?cb=20250310040052",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yanqing",
+        "line": "This Stellaron thing is easy. Blade escaped, now we gotta go get him. Just say the word and I'll solve this in a flash.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter2_1_yanqing_102.ogg/revision/latest?cb=20250310040243",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yanqing_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I can understand your impatience, and I know you want to prove yourself. Now is not the time. If you truly wish to become Sword Champion, you shouldn't be running around brandishing your sword at people, especially not a major criminal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_1_jingyuan_140.ogg/revision/latest?cb=20250310040053",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yanqing",
+        "line": "Tsk, you think I'd lose to Blade?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter2_1_yanqing_103.ogg/revision/latest?cb=20250310040244",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yanqing_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I'm saying you need to have patience, Yanqing. Governing Xianzhou is different from a sword fight. The only way to build momentum is to work slowly. Besides, we still don't know who's really moving the chess pieces...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter2_1_jingyuan_141.ogg/revision/latest?cb=20250310040054",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "There is something we must take care of before making our next move. As long it remains unresolved, we're at a stalemate. That something is the Stellaron.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_1_jingyuan_142.ogg/revision/latest?cb=20250310040055",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "How did it manage to bypass the Sky-Faring Commission's inspections and the Divination Commission's predictions? Where is it now?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter2_1_jingyuan_143.ogg/revision/latest?cb=20250310040056",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yanqing",
+        "line": "I say we bring those two Stellaron Hunters before Diviner Fu — she'll get an answer out of them in no time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_1_yanqing_104.ogg/revision/latest?cb=20250310040245",
+        "is_unavailable": false,
+        "audio_filename": "audio_Yanqing_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I've asked our friends from the Express to take care of that for us. Worry not, you'll have your moment when the current stalemate is broken.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter2_1_jingyuan_144.ogg/revision/latest?cb=20250310040057",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "You are my most trusted aide, and there are some things that I would only assign to you. Speaking of which, Yanqing...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter2_1_jingyuan_145.ogg/revision/latest?cb=20250310040058",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "*sigh* That boy...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter2_1_jingyuan_146.ogg/revision/latest?cb=20250310040059",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I suppose it is my fault. I should have given him an opportunity already. \"A sharp sword can't stay sheathed forever,\" haha...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter2_1_jingyuan_147.ogg/revision/latest?cb=20250310040100",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "My fear is that this might prove too big a setback, bigger than his exuberance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_1_jingyuan_148.ogg/revision/latest?cb=20250310040101",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_116.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cuts back to the Trailblazer opening a message from Tingyun)"
+    },
+    {
+        "type": "note",
+        "text": "Messages Tingyun Tingyun Seems like you will take a bit longer to chat with Madam Yukong I'm gonna go have a stroll outside. Once you're done, you can find me at the docks"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Tingyun)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "*sigh* Madam Yukong has asked me to look after you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter2_1_tingyun_154.ogg/revision/latest?cb=20250310104824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Seems like we were destined to be in each other's company...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter2_1_tingyun_155.ogg/revision/latest?cb=20250310104825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "The Sky-Faring Commission has reserved rooms for you at the Petrichor Inn. When you finish your business here, how about some tea together?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_1_tingyun_156.ogg/revision/latest?cb=20250310104827",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_119.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Thank you so much...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Not at all, though I'd appreciate it if you mention to Madam Yukong that you got a warm reception from me when you next see her. *sigh* Better to be busy than idle, I suppose.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter2_1_tingyun_157.ogg/revision/latest?cb=20250310104828",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_120.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You seem reluctant...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "No, no, though I'd appreciate it if you mention to Madam Yukong that you got a warm reception from me when you next see her. *sigh* Better to be busy than idle, I suppose.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter2_1_tingyun_158.ogg/revision/latest?cb=20250310104829",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_121.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "A hotel? Again?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Easy, I know this probably brings back bad memories.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter2_1_welt_171.ogg/revision/latest?cb=20250310040239",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Go with Tingyun to the Petrichor Inn"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the highlighted area where Tingyun was standing, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Whoa... I felt like I suddenly lost weight when we passed through.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter2_1_mar7th_149.ogg/revision/latest?cb=20250310040106",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_123.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Same! [ Note 1 ]",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "There was a gravitational shift. The same thing happens when we warp jump, only we feel heavier.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_1_welt_134.ogg/revision/latest?cb=20250310040206",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_124.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "So much for cutting calories...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter2_1_mar7th_150.ogg/revision/latest?cb=20250310040107",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_125.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you even have weight to lose?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "There was a gravitational shift. The same thing happens when we warp jump, only we feel heavier.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_1_welt_134.ogg/revision/latest?cb=20250310040206",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_126.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Y'know, you're talking my language. B—But I liked your explanation too, Mr. Yang, hehe...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_1_mar7th_151_m.ogg/revision/latest?cb=20250310040109",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_127.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I think you're imagining things.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "There was a gravitational shift. The same thing happens when we warp jump, only we feel heavier.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter2_1_welt_134.ogg/revision/latest?cb=20250310040206",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_128.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Ugh, can't you two humor me once in a while? I thought all that working out was finally paying off...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter2_1_mar7th_152.ogg/revision/latest?cb=20250310040110",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_129.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The Xianzhou possesses extremely advanced technology. If I'm not mistaken, we've been in an artificial ecosphere since we arrived at the skyport.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter2_1_welt_137.ogg/revision/latest?cb=20250310040206",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The evidence is above us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter2_1_welt_138.ogg/revision/latest?cb=20250310040207",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_131.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Strange clouds...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "There's a huge star in the sky and you're only interested in the clouds?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter2_1_mar7th_153.ogg/revision/latest?cb=20250310040111",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_132.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The planets look way too close to each other.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Strange. I don't remember seeing a big planet near the Xianzhou when we were on the Express.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_1_mar7th_154.ogg/revision/latest?cb=20250310040112",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_133.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "You're right. Something with a mass as huge as a Xianzhou ship should keep clear of any planets on its course... otherwise, it risks being caught up in the gravitational pull.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter2_1_welt_139.ogg/revision/latest?cb=20250310040208",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The sky here is an artificial boundary. I imagine it was created to shield residents from the pitch dark of outer space, and the negative emotions that it can generate... fascinating.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter2_1_welt_140.ogg/revision/latest?cb=20250310040209",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I heard that residents of the Xianzhou have extremely long life spans, which would require them to make great efforts to preserve their mental health... meaning...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter2_1_welt_141.ogg/revision/latest?cb=20250310040210",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_136.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You sure know a lot, Mr. Yang."
+    },
+    {
+        "type": "note",
+        "text": "You sure zone out a lot, Mr.Yang [ sic ]."
+    },
+    {
+        "type": "note",
+        "text": "Focus, Mr. Yang. We've got work to do..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "When you travel with Mr. Yang, he'll give you a thesis on everything he sees — if you have the patience to let him go on and on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7d/VO_chapter2_1_mar7th_155.ogg/revision/latest?cb=20250310040113",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Right, okay, let's get back to work.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter2_1_welt_142.ogg/revision/latest?cb=20250310040211",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_138.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the inn)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*yawn* Well, here we are. I feel sleepy already.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter2_1_mar7th_167.ogg/revision/latest?cb=20250310040124",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_139.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "The sun hasn't gone down yet.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "What? But we've done a whole day's work — what's the sun playing at? It felt like we spent the whole day in the Palace of Astrum.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ae/VO_chapter2_1_mar7th_168.ogg/revision/latest?cb=20250310040125",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_140.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Ready for a nap? That's not like you, March...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey, that's not fair! My eyes are peeled this time — I'll make a run for it the second things go wrong.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter2_1_mar7th_169.ogg/revision/latest?cb=20250310040126",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_141.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Jokes aside, did you see Madam Yukong frown at us? I thought her guards were about to jump out of nowhere and throw us in jail.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter2_1_mar7th_170.ogg/revision/latest?cb=20250310040127",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* I'd rather deal with monsters than these big shots...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter2_1_mar7th_171.ogg/revision/latest?cb=20250310040128",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ah! I—I mean... not that Madam Yukong doesn't have her merits, hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter2_1_mar7th_172.ogg/revision/latest?cb=20250310040129",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Don't worry, my lips are sealed~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter2_1_tingyun_159.ogg/revision/latest?cb=20250310104831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "But as her subordinate, I have to say that it's Madam Yukong's duty to keep her guard up. The Luofu is facing a crisis, and as head of the Sky-Faring Commission, she is responsible for the security of the Xianzhou's customs and borders.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter2_1_tingyun_160.ogg/revision/latest?cb=20250310104832",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "She's actually a very reasonable old girl in private.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter2_1_tingyun_161.ogg/revision/latest?cb=20250310104833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_147.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Old girl?"
+    },
+    {
+        "type": "note",
+        "text": "Reasonable? Are we thinking of the same person?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "They say that many years ago, Madam Yukong was an ace pilot in the Cloud Knights. She was a \"work hard, play harder\" type, known for her hot temper and incredible skill.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_1_tingyun_162.ogg/revision/latest?cb=20250310104834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Eventually, she became the head of the entire commission, which required her to learn patience and adopt a meticulous approach to her work.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter2_1_tingyun_163.ogg/revision/latest?cb=20250310104835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "In any case, Madam Yukong instructed me to reserve the best rooms at the inn and have all your expenses covered. She wants to extend the full courtesy of the Xianzhou so that all of you enjoy your stay to the fullest~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_1_tingyun_164.ogg/revision/latest?cb=20250310104837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "She specifically mentioned that if you wish to buy anything at the inn, be it food or otherwise, just let the innkeeper know. The commission will cover the cost.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter2_1_tingyun_165.ogg/revision/latest?cb=20250310104838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_151.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Say thanks to Madam Yukong for us!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Why don't you go back yourself?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter2_1_mar7th_173.ogg/revision/latest?cb=20250310040130",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_152.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "The commission will cover the cost!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That's the friendliest thing I've heard since we arrived!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter2_1_mar7th_174.ogg/revision/latest?cb=20250310040131",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_153.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ahem! S—Seeing as our hosts are so thoughtful, I guess we should help ourselves. Right, Mr. Yang?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter2_1_mar7th_175.ogg/revision/latest?cb=20250310040132",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "We should focus on our objective first. Seeing as Helm Master Yukong was extremely reluctant to get us involved, am I right to speculate that the Sky-Faring Commission has some leads on the whereabouts of Kafka?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter2_1_welt_172.ogg/revision/latest?cb=20250310040240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Exactly right. The suspect is extremely cunning. She encrypted her transmission and timed her communication — we couldn't pinpoint her exact location.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter2_1_tingyun_166.ogg/revision/latest?cb=20250310104839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "But as cunning as she is, the Divination Commission has managed to find something.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter2_1_tingyun_167.ogg/revision/latest?cb=20250310104840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_157.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(A hologram of Kafka appears)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Here are the coordinates. It's up to you how to proceed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_1_kafka_101.ogg/revision/latest?cb=20250310040102",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Our destinations may differ, but the orbits of the stars will eventually converge. See you later.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter2_1_kafka_102.ogg/revision/latest?cb=20250310040103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_159.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is there anything special about what she said?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Don't let her words distract you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter2_1_tingyun_168.ogg/revision/latest?cb=20250310104841",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_160.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Coordinates? Converge?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Don't let her words distract you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter2_1_tingyun_168.ogg/revision/latest?cb=20250310104841",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_161.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I heard something in the background.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Precisely.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter2_1_tingyun_170.ogg/revision/latest?cb=20250310104843",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_162.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "That's the sound of a device.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_1_tingyun_171.ogg/revision/latest?cb=20250310104844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Ahhhh, which means... what exactly!? This is a starship! There are all kinds of devices making weird noises.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter2_1_mar7th_176.ogg/revision/latest?cb=20250310040133",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Miss March, to the untrained ear, these noises may sound the same. But for the craftsmen of the Artisanship Commission , every machine has a different pitch and melody.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_1_tingyun_172.ogg/revision/latest?cb=20250310104845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "The general sent for craftsmen, and they concluded that the sound came from the shipyard facilities in Stargazer Navalia .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_1_tingyun_173.ogg/revision/latest?cb=20250310104846",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Now, get some rest and prepare yourselves for the operation ahead. I look forward to seeing you in action~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter2_1_tingyun_174.ogg/revision/latest?cb=20250310104847",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_167.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Chat with Welt and March 7th"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "In the Palace of Astrum, the hopeful Trailblazers are rejected by Yukong.Fortunately, General Jing Yuan of Luofu's Cloud Knights appears and intervenes. However, he does not entrust you with the task of searching for the Stellaron, instead instructing you to locate Kafka's unpredictable whereabouts.You have a short rest after leaving the Palace of Astrum, and you wonder whatDan Hengmight be doing right now."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tingyun, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "How can I help?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter2_1_tingyun_175.ogg/revision/latest?cb=20250310104848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_168.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "There's something I want to say.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Oh? Let's hear it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter2_1_tingyun_176.ogg/revision/latest?cb=20250310104850",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_169.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Was it raining when Kafka's transmission was intercepted?"
+            },
+            {
+                "type": "note",
+                "text": "Kafka was holding an umbrella in her transmission..."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "How perceptive. Our wind, clouds, rain, and fog are all artificial. The Realm-Keeping Commission 's weather pavilion manages the environmental conditions here.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter2_1_tingyun_177.ogg/revision/latest?cb=20250310104851",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_170.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "If Kafka was holding an umbrella, that means she was in an area with artificial rainfall during the transmission.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter2_1_tingyun_178.ogg/revision/latest?cb=20250310104852",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_171.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Still, that doesn't help us much. The ship is huge, with changing conditions across various delves. I'm sure there were showers across many of them at the time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_1_tingyun_179.ogg/revision/latest?cb=20250310104853",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_172.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Any chance Kafka is still at Stargazer Navalia?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Impossible to say. It used to be that the Divination Commission could track the access history of all the delves...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter2_1_tingyun_180.ogg/revision/latest?cb=20250310104855",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_173.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "But with the arrival of the Stellaron, things have become messy. Some delves even had their entrance marked as the exit.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter2_1_tingyun_181.ogg/revision/latest?cb=20250310104856",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_174.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "If I were one of the Stellaron Hunters, I'd be very happy to capitalize on all the chaos. It'd be harder to escape, but easier to blend in.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter2_1_tingyun_182.ogg/revision/latest?cb=20250310104857",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_175.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Never mind..."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th and Welt)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Let's take advantage of the rest. It won't be easy to track down Kafka the Stellaron Hunter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter2_1_welt_173.ogg/revision/latest?cb=20250310040240",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Oh, let's let the Express know how we're doing~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_1_mar7th_177_m.ogg/revision/latest?cb=20250310040135",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "More importantly, let's see how Dan Heng's doing! Hee-hee, ask him what he's up to — then tell him we're having loads of fun!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter2_1_mar7th_178.ogg/revision/latest?cb=20250310040136",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_178.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "(Text Dan Heng)",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "(Maybe later)"
+    },
+    {
+        "type": "note",
+        "text": "Messages Dan Heng (Trailblazer) Hey, you guys doing alright? Message failed to send March and I are doing missions for the Xianzhou ... (Trailblazer) March and I are doing missions for the Xianzhou... Are you okay...? (Trailblazer) Are you okay...? Message failed to send"
+    },
+    {
+        "type": "note",
+        "text": "Not long ago, on the Astral Express..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "You've been standing here for half an hour. It's rare to see you like this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter2_1_himeko_101.ogg/revision/latest?cb=20250310040000",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are you worried about those two? Welt is with them. They should be fine.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter2_1_himeko_102.ogg/revision/latest?cb=20250310040001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter2_1_danheng_101.ogg/revision/latest?cb=20250310035942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Himeko, did you keep a copy of the Stellaron Hunters' transmission?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter2_1_danheng_102.ogg/revision/latest?cb=20250310035943",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Can I have a look?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter2_1_danheng_103.ogg/revision/latest?cb=20250310035944",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Sure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter2_1_himeko_103.ogg/revision/latest?cb=20250310040002",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_184.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black and Kafka's voice is heard)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Not to mention, 45 system hours ago... a Stellaron burst occurred on the Luofu.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter2_1_kafka_103.ogg/revision/latest?cb=20250310040104",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "An unexpected calamity... don't you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter2_1_kafka_104.ogg/revision/latest?cb=20250310040105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_1_danheng_104.ogg/revision/latest?cb=20250310035945",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "What exactly are you Stellaron Hunters trying to do...? The Xianzhou Alliance aren't us — they won't give you time to explain. Once you draw the attention of The Hunt , you become their prey. The Alliance will hunt you to the end of the universe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter2_1_welt_174.ogg/revision/latest?cb=20250310040241",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Stop speaking in riddles, Kafka. Say what you have to say.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter2_1_himeko_104.ogg/revision/latest?cb=20250310040003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter2_1_danheng_105.ogg/revision/latest?cb=20250310035946",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "...It's simple. That Stellaron has nothing to do with us, but the Xianzhou is convinced that we're responsible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter2_1_kafka_105.ogg/revision/latest?cb=20250310040105",
+        "is_unavailable": false,
+        "audio_filename": "audio_Kafka_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Stop!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_1_danheng_106.ogg/revision/latest?cb=20250310035947",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_192.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Scene fades back to Blade's hologram in front of Himeko and Dan Heng as the transmission is paused)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "...Do you know him?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter2_1_himeko_105.ogg/revision/latest?cb=20250310040004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Xianzhou is in danger! ...This man, he—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter2_1_danheng_107.ogg/revision/latest?cb=20250310035948",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ If he's on the ship, then Welt, March, and (Trailblazer)... everyone is in grave danger!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter2_1_danheng_108_m.ogg/revision/latest?cb=20250310035950",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "But...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter2_1_danheng_109.ogg/revision/latest?cb=20250310035951",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Is he... connected to that past you want to escape?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter2_1_himeko_106.ogg/revision/latest?cb=20250310040005",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I... I can't leave them down there. It's just... I'm afraid my burden has finally caught up with me, and that everyone is about to be drawn in...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_1_danheng_110.ogg/revision/latest?cb=20250310035952",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Is there anyone who doesn't carry around a past burden? She may not remember it, but even a girl as carefree as March has hers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_1_himeko_107.ogg/revision/latest?cb=20250310040006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "We tread on a Path that is hidden from us. The things we see and the trails we blaze all become our baggage. They weigh us down, but they also give us strength to continue the journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter2_1_himeko_108.ogg/revision/latest?cb=20250310040007",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Try not to dwell on it, Dan Heng.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter2_1_himeko_109.ogg/revision/latest?cb=20250310040008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The Express spends seven standard days at each stop. Its passengers are allowed to do as they deem fit during that time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter2_1_himeko_110.ogg/revision/latest?cb=20250310040009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Pom-Pom and I are more than capable of looking after the Express.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter2_1_himeko_111.ogg/revision/latest?cb=20250310040010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "If there's something you've got to do, do it now. Better than regretting it further down the line.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter2_1_himeko_112.ogg/revision/latest?cb=20250310040011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_204.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Dan Heng nods and turns around)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "And... you'll come back and travel with us once this is all over, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter2_1_himeko_113.ogg/revision/latest?cb=20250310040012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_205.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Dan Heng nods again)\n(Begin sub-missionScattered Memories of Hooded Past)"
+    },
+    {
+        "type": "condition",
+        "text": "(After Scattered Memories of Hooded Past is completed, scene returns to present)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Message not sent? Why not?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter2_2_mar7th_101.ogg/revision/latest?cb=20250310040303",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_206.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I don't know."
+    },
+    {
+        "type": "note",
+        "text": "Bad signal?"
+    },
+    {
+        "type": "note",
+        "text": "Maybe they demolished the base stations?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Long-range communication technology is still improving. Perhaps the presence of the Stellaron is affecting signal transmission.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter2_2_welt_101.ogg/revision/latest?cb=20250310040305",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Doesn't seem like it, everything else is working fine — see?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter2_2_mar7th_102.ogg/revision/latest?cb=20250310040304",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "In that case, it looks like someone wants to make things difficult for us. Since Kafka's here, I wouldn't be surprised if this turns out to be that Stellaron Hunter hacker girl's handiwork.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter2_2_welt_102.ogg/revision/latest?cb=20250310040306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_209.ogg"
+    }
+]

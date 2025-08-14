@@ -1,0 +1,795 @@
+[
+    {
+        "type": "heading",
+        "text": "Go to Dragonvista Rain Hall"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "When you stepped into Scalegorge Waterscape, you never thought that you would encounter such a chaotic situation. Theold nemesiswho sought vengeance blocked your way, and theyoung swordsmanpursuing him was determined to not let either of you leave. It wasn't until GeneralJing Yuanappeared that you realized your past on the Xianzhou was finally catching up to you.Someone had led you, the reincarnation of theVidyadharahigh elder, to this place. Someone is asking you to reproduce the miracles of the past — except no one ever asked you whether you consent to all this."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ (Trailblazer), March , Mr. Yang ... You brought them here!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter2_7_danheng_105_m.ogg/revision/latest?cb=20250310090811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Yes, they are waiting in the Dragonvista Rain Hall.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter2_7_jingyuan_109.ogg/revision/latest?cb=20250310090830",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Go, your friends are waiting for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter2_7_jingyuan_116.ogg/revision/latest?cb=20250310090838",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_2.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "I have been keeping careful watch against the Abominations of Abundance , the Stellaron Hunters , and the Disciples of Sanctus Medicus ... but I never anticipated the Antimatter Legion .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter2_7_jingyuan_110.ogg/revision/latest?cb=20250310090831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "The Hunt is far from over, yet all the while we find ourselves at war with other evil spirits... Hmph, from this battle onward, the Alliance must fight the Legion to our dying breath, even if it means the end of the Luofu .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_7_jingyuan_111.ogg/revision/latest?cb=20250310090833",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_4.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Our intelligence tells us that the Legion are a mad and destructive war machine, yet they never took up arms against the Alliance. The armies of the Seven Ravagers all have their own means of destruction — they are not to be taken lightly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter2_7_jingyuan_112.ogg/revision/latest?cb=20250310090834",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Lord Ravager Phantylia favors internal collapse, which is why she masterminded the Stellaron crisis and urged the Disciples of Sanctus Medicus out of the shadows. Now that her plot has been laid bare she has no choice but to retreat... and yet that hardly suits her philosophy of destruction. There must be something more...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter2_7_jingyuan_113.ogg/revision/latest?cb=20250310090835",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_6.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately to the left by the water)"
+    },
+    {
+        "type": "note",
+        "text": "Vidyadhara Mirage Echo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Voice",
+        "line": "Her hatching rebirth is complete... she left me all alone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter2_7_echoH_101.ogg/revision/latest?cb=20250310090820",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Voice_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Young Voice",
+        "line": "Still, I wait for the day of my rebirth... endless waiting...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter2_7_echoH_102.ogg/revision/latest?cb=20250310090821",
+        "is_unavailable": false,
+        "audio_filename": "audio_Young_Voice_8.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Do you know something? When Dan Feng committed his great crime, the Ten-Lords Commission advocated strongly for him to be destroyed. The Vidyadhara, on the other hand, were split evenly in their favor and disfavor of the motion. Haha, the dragon transmutation inheritance was not intact, after all. The senior Vidyadhara hated you, yet did not dare to kill you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter2_7_jingyuan_114.ogg/revision/latest?cb=20250310090836",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "The Vidyadhara were under great pressure. In order to placate the Ten-Lords and Sky-Faring Commissions , they performed an exuviation charm on Dan Feng against his will. Still, they ensured that the charm contained a flaw, thinking that this would fool the Ten-Lords Commission. Hmph, the senior Vidyadhara were sure of their scheme, but you cannot hide fire with paper.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter2_7_jingyuan_115.ogg/revision/latest?cb=20250310090837",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_10.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(To the right by the water)"
+    },
+    {
+        "type": "note",
+        "text": "Vidyadhara Mirage Echo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Old Voice",
+        "line": "As recorded in the ancient texts, this body of water was brought by my people from our home world — it formed part of the Roiling Deep. It is as pure here as it was there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter2_7_echoF_101.ogg/revision/latest?cb=20250310090816",
+        "is_unavailable": false,
+        "audio_filename": "audio_Old_Voice_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Old Voice",
+        "line": "Our dragon ancestors nurtured us with the water of life and bestowed us with the permanence of the Vidyadhara.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter2_7_echoF_102.ogg/revision/latest?cb=20250310090817",
+        "is_unavailable": false,
+        "audio_filename": "audio_Old_Voice_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(To the far left on the platform)"
+    },
+    {
+        "type": "note",
+        "text": "Vidyadhara Mirage Echo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "Waters of the ancient sea, cleanse me, waters of the ancient sea, protect me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_7_echoG_101.ogg/revision/latest?cb=20250310090818",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Female Voice",
+        "line": "This world's good karma is settled. This life's misfortune is erased.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter2_7_echoG_102.ogg/revision/latest?cb=20250310090819",
+        "is_unavailable": false,
+        "audio_filename": "audio_Female_Voice_14.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Look, your friends are taking the fight to the Legion as we speak...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter2_7_jingyuan_117.ogg/revision/latest?cb=20250310090839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We need to help them, let's go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter2_7_danheng_106.ogg/revision/latest?cb=20250310090811",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_16.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Begin fight againstAntibaryon×3,Voidranger: Distorter×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(Wave 2:Voidranger: Reaver×2,Voidranger: Distorter×2)"
+    },
+    {
+        "type": "condition",
+        "text": "(Wave 3:Voidranger: Reaver×2,Voidranger: Trampler×1,Baryon×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the fight)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Jing Yuan! Where have you been!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter2_7_fuxuan_101.ogg/revision/latest?cb=20250310090822",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Haha, forgive my late arrival, Lady Fu — we are indebted to you and your forces. The Seat of Divine Foresight relayed the battle reports to me. As for Phantylia's plan...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter2_7_jingyuan_118.ogg/revision/latest?cb=20250310090840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "The Ambrosial Arbor — that's her focus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter2_7_fuxuan_102.ogg/revision/latest?cb=20250310090823",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Lord Ravager Phantylia's strategy was to create civil strife — then let it consume the Xianzhou from within. She wanted to use the Arbor to disseminate the power of the Plagues Author ... and turn the Luofu into a hell of undying abominations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter2_7_fuxuan_103.ogg/revision/latest?cb=20250310090824",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Mm, that is clear to me now. Friends of the Astral Express , I have brought someone with me whom I think you'll be eager to see.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c2/VO_chapter2_7_jingyuan_119.ogg/revision/latest?cb=20250310090841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? I—Is that... Dan Heng!? You...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter2_7_mar7th_102.ogg/revision/latest?cb=20250310090856",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Y—You are Dan Heng, right? What's with the horns...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter2_7_mar7th_103.ogg/revision/latest?cb=20250310090857",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's a long story, March. It's me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter2_7_danheng_107.ogg/revision/latest?cb=20250310090812",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So... you do have secret strength!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter2_7_mar7th_104.ogg/revision/latest?cb=20250310090858",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Let us save such reminiscence for later, shall we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter2_7_jingyuan_120.ogg/revision/latest?cb=20250310090842",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "My astral guests, when you first appeared on the Luofu, your stated aim was the resolution of the Stellaron crisis. I was concerned that the Stellaron Hunters harbored ulterior motives and refused your offer. I see now that I was overly anxious.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_7_jingyuan_121.ogg/revision/latest?cb=20250310090843",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Nevertheless, it is true that the motives of the Stellaron Hunters were not what they appeared, haha. In order that the Express and the Xianzhou fight side by side, Kafka lured you here and broadened the scope of the crisis... In doing so, she succeeded in making clear that your sincerity is beyond doubt. The Luofu is in your debt, and I have no right to seek further assistance from you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter2_7_jingyuan_122.ogg/revision/latest?cb=20250310090844",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "However, as Lady Fu has explained, the appearance of Phantylia means that the situation is far from under our control. As general of the Luofu, it would be foolish of me not to ask Dan Heng and the rest of you for your strength at this critical moment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_7_jingyuan_123.ogg/revision/latest?cb=20250310090845",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Even if the crisis on the Luofu had nothing to do with the Stellaron, I would be willing to help... but I can't speak for the other members of my crew.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter2_7_welt_101.ogg/revision/latest?cb=20250310090911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Explore, understand, establish, and connect... As the crew of the Express, that's the trailblaze creed we follow. Still, when the journey gets tough, those words can feel far-off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter2_7_welt_102.ogg/revision/latest?cb=20250310090912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Fear, risk, enemies, and death are the obstacles we face in pursuit of the creed. That's why the Nameless who are able to stay the course number few indeed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter2_7_welt_103.ogg/revision/latest?cb=20250310090913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Whether our destination lies before us or behind us, the decision is ours to make. Here, as on the Express, every vote counts.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter2_7_welt_104.ogg/revision/latest?cb=20250310090914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Dan Heng...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter2_7_mar7th_105.ogg/revision/latest?cb=20250310090859",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_34.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "(Hold out hand)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "Thank you, Dan Heng.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter2_7_jingyuan_124.ogg/revision/latest?cb=20250310090846",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_35.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Remain still)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter2_7_danheng_108.ogg/revision/latest?cb=20250310090813",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Jing Yuan",
+                "line": "The choice is yours, Dan Heng.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter2_7_jingyuan_125.ogg/revision/latest?cb=20250310090847",
+                "is_unavailable": false,
+                "audio_filename": "audio_Jing_Yuan_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "How am I still one of the Nameless ? I stand here at the mercy of others without true freedom to speak...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter2_7_danheng_109.ogg/revision/latest?cb=20250310090814",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...but as a descendant of the Vidyadhara, I will fulfill my duty to the Luofu.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_7_danheng_110.ogg/revision/latest?cb=20250310090815",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Great! Everyone's just as heroic as when they arrived. So, what's the master plan, general?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter2_7_mar7th_106.ogg/revision/latest?cb=20250310090859",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "There is no master plan, only a bet... a bet on the senior Vidyadhara's incomplete exuviation charm, and on Dan Heng's ability to access the memories of the high elder...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter2_7_jingyuan_126.ogg/revision/latest?cb=20250310090848",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "High elder?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter2_7_mar7th_107.ogg/revision/latest?cb=20250310090900",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "When the Reignbow Arbiter severed the Ambrosial Arbor, remnants of the curse of the Plagues Author lingered. In order to make the stemming of those remnants a possibility, the Luofu invoked the power of the Scions of Permanence .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter2_7_jingyuan_127.ogg/revision/latest?cb=20250310090849",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Under the direction of the high elder, the Vidyadhara guided the waters of the ancient sea to flood the Scalegorge Waterscape delve and contain the Arbor. To commemorate this magnificent feat and sacrifice, the Alliance erected the Dragonvista Rain Monument — a Vidyadhara statue.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter2_7_jingyuan_128.ogg/revision/latest?cb=20250310090850",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "It looks so much like Dan Heng... I wonder if...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter2_7_mar7th_108.ogg/revision/latest?cb=20250310090901",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The statue... is that...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter2_7_mar7th_109.ogg/revision/latest?cb=20250310090902",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...Dan Heng's brother!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter2_7_mar7th_110.ogg/revision/latest?cb=20250310090903",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Ha, I see why you might think so. These events occurred a long time ago, yet successive generations of high elders have not differed greatly in their appearance... that is, until the current generation. The most recent successor did not inherit the same level of power, and their appearance is that of a child .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter2_7_jingyuan_129.ogg/revision/latest?cb=20250310090851",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Do you understand, Dan Heng? Since Dan Feng perished, the Luofu Vidyadhara have no longer had an individual capable of performing such feats. But you, who once kept watch over the Arbor, should be able to open a way through to that great tree.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter2_7_jingyuan_130.ogg/revision/latest?cb=20250310090852",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "What happens next, is in your hands.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter2_7_jingyuan_131.ogg/revision/latest?cb=20250310090853",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_50.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Open the \"road\" to the Ambrosial Arbor with the power of the high elder"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Talk to others in the hall"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As the reincarnation of Vidyadhara high elder, you were responsible for guarding the Ambrosial Arbor in your previous life, and you were a hero that everyone looked up to. But an impulsive crime changed everyone's destiny.You were determined not to repeat the same mistakes, to never again return to your homeland, and to never again take on the shape of that high elder... Unfortunately, that was all just wishful thinking."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to March 7th, optional, first interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You scared the heck outta me! For a second I thought you'd annoyed the general — it seemed like you were his prisoner. There I was thinking up a plan to kidnap you, and it turns out the two of you are old buddies!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_7_mar7th_111.ogg/revision/latest?cb=20250310090904",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Soooo what made you suddenly decide to come down from the Express?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter2_7_mar7th_112.ogg/revision/latest?cb=20250310090905",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_52.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I was worried for your safety.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Aww, how sweet! Buuuut (Trailblazer), Mr. Yang, and I have been holding our own — we're pretty much Xianzhou heroes at this point.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter2_7_mar7th_113_m.ogg/revision/latest?cb=20250310090907",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Okay, okay, I won't push you — everyone has their secrets. Besides, given the circumstances, my curiosity can wait.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter2_7_mar7th_114.ogg/revision/latest?cb=20250310090908",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Anyway, it's great to have you with us, Dan Heng!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter2_7_mar7th_115.ogg/revision/latest?cb=20250310090909",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_55.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Second interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Y'know, the more I look at this statue, the less \"Dan-Hengy\" it gets...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter2_7_mar7th_116.ogg/revision/latest?cb=20250310090909",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Still, it's got the same stony expression, haha.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter2_7_mar7th_117.ogg/revision/latest?cb=20250310090910",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_57.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Jing Yuan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Has coming here triggered your memory?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter2_7_jingyuan_132.ogg/revision/latest?cb=20250310090854",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Jing Yuan",
+        "line": "Release your full potential — the power you carry is the key to opening a way through to the Ambrosial Arbor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter2_7_jingyuan_133.ogg/revision/latest?cb=20250310090855",
+        "is_unavailable": false,
+        "audio_filename": "audio_Jing_Yuan_59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Fu Xuan, optional, first interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Imbibitor Lunae 's reincarnation... Dan Heng, correct? I have heard your name before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter2_7_fuxuan_104.ogg/revision/latest?cb=20250310090825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_60.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How can that be, my name was erased..."
+    },
+    {
+        "type": "note",
+        "text": "Why would the names of the banished be recorded?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Your name was only erased from the public eye. But as the master diviner, I know — and should know — all the records of years gone by... Such archives are of great importance in times of need.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter2_7_fuxuan_105.ogg/revision/latest?cb=20250310090825",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "I was not born in the heroic and extraordinary era of the High-Cloud Quintet . To have seen those legends with my own eyes...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter2_7_fuxuan_106.ogg/revision/latest?cb=20250310090826",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_62.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Go on...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Fu Xuan",
+                "line": "Your appearance closely matches the depiction in the annals... Does Vidyadhara reincarnation really entail a complete transformation — a new life?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter2_7_fuxuan_107.ogg/revision/latest?cb=20250310090827",
+                "is_unavailable": false,
+                "audio_filename": "audio_Fu_Xuan_63.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Second interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "Perhaps it is a little inappropriate of me to pry into the secrets of the Vidyadhara...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter2_7_fuxuan_108.ogg/revision/latest?cb=20250310090828",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fu Xuan",
+        "line": "...but your appearance closely matches the depiction in the annals... Does Vidyadhara reincarnation really entail a complete transformation — a new life?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter2_7_fuxuan_109.ogg/revision/latest?cb=20250310090829",
+        "is_unavailable": false,
+        "audio_filename": "audio_Fu_Xuan_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt Yang, optional, first interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "I knew you'd come. When we first mentioned the Xianzhou, there was a sad look in your eyes.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter2_7_welt_105.ogg/revision/latest?cb=20250310090915",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "They may have banished you, but the Luofu is still your home.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/da/VO_chapter2_7_welt_106.ogg/revision/latest?cb=20250310090916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_67.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Thanks for all your help along the way..."
+    },
+    {
+        "type": "note",
+        "text": "I'm sorry I never spoke up..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "You're a member of the Express Crew , Dan Heng. Let's settle this matter as soon as possible — our journey doesn't end here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter2_7_welt_107.ogg/revision/latest?cb=20250310090917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_68.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Second interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ *sigh* Those two haven't exactly been on their best behavior... It would've been good to have you here earlier.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter2_7_welt_108_m.ogg/revision/latest?cb=20250310090918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_69.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to (Trailblazer), optional, first interaction)"
+    },
+    {
+        "type": "note",
+        "text": "(Trailblazer) looks at you, as you both become silent."
+    },
+    {
+        "type": "note",
+        "text": "Is there nothing you'd like to ask?"
+    },
+    {
+        "type": "note",
+        "text": "..."
+    },
+    {
+        "type": "note",
+        "text": "(Trailblazer) shakes ( his / her ) head. ( He / She ) doesn't want to speak. Nobody can get ( him / her ) to open up."
+    },
+    {
+        "type": "condition",
+        "text": "(Second interaction)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Upon trying to leave)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cloud Knight",
+        "line": "The general still has important matters to discuss with you. Please remain here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter2_7_cknightV_101.ogg/revision/latest?cb=20250310090809",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cloud_Knight_70.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Investigate"
+    },
+    {
+        "type": "note",
+        "text": "The statue of the High Elder has been greatly changed by years of weathering. There are small words engraved near its base."
+    },
+    {
+        "type": "note",
+        "text": "\"Hearken, as arbor revives and foe nears, we call forth the mighty waters of ancient sea, to flood abodes of heaven and quell roots of evil. We etch this in stone for all to heed.\""
+    },
+    {
+        "type": "choice",
+        "text": "Try to feel the great power here...",
+        "children": [
+            {
+                "type": "note",
+                "text": "Beneath the endless rolling waves, the ancient roots of the arbor blaze. Long dormant, they stir and come to life, as if a beast were waking from its strife."
+            },
+            {
+                "type": "note",
+                "text": "The containment mechanisms woven by past thrones, the bindings that tamed the beasts' power known, a fragile net, soon to shatter and fall, its decay a warning, heard by one and all."
+            },
+            {
+                "type": "note",
+                "text": "Memories from the past emerge from the darkness, tightly gripping you..."
+            },
+            {
+                "type": "condition",
+                "text": "(BeginTrailblaze MissionA Dragon Gallant, Its Ocean Distant)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Cut off the spiritual link with Scalegorge Waterscape."
+    }
+]

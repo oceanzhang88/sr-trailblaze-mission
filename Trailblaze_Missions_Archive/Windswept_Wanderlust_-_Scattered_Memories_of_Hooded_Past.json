@@ -1,0 +1,396 @@
+[
+    {
+        "type": "heading",
+        "text": "Board the Xianzhou Luofu"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "As you cast your gaze from the Express toward a home you can never return to, you recall a time when the prospect of looking upon the Jade Gate of the Luofu seemed utterly unbelievable.As you review the video communication sent byKafka, you realize there is a hidden and lethal danger in her invitation — Her companion, the man namedBlade, has an ancient and indelible feud with you.You decide to go against the ban and set foot on the Luofu once again."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "If there's something you've got to do, do it now. Better than regretting it further down the line.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter2_1_himeko_114.ogg/revision/latest?cb=20250310040439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_0.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toPom-Pom, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "You want to disembark, Dan Heng? Changed your mind?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter2_1_pompom_101.ogg/revision/latest?cb=20250310040443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Yes.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Well then, Pom-Pom wishes you the best of luck.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter2_1_pompom_102.ogg/revision/latest?cb=20250310040444",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Mm... Pom-Pom understands. Not everything needs to be put into words.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter2_1_pompom_103.ogg/revision/latest?cb=20250310040445",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_3.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Best of luck.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter2_1_pompom_104.ogg/revision/latest?cb=20250310040446",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_4.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Make sure you return before the Express departs...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter2_1_pompom_105.ogg/revision/latest?cb=20250310040447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...and bring Pom-Pom back some local specialties?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_1_pompom_106.ogg/revision/latest?cb=20250310040448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Something else you need?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_1_pompom_107.ogg/revision/latest?cb=20250310040449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Pom-Pom again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Something else you need?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter2_1_pompom_107.ogg/revision/latest?cb=20250310040449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_8.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Leave"
+    },
+    {
+        "type": "note",
+        "text": "Messages The Astral Express Family Dan Heng (Trailblazer), March, where are you? Message failed to send I'll go find you folks Dan Heng I'll go find you folks. Message failed to send"
+    },
+    {
+        "type": "heading",
+        "text": "Cross Cloudford and catch up to the Trailblazer squad"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "As you review the video communication sent by Kafka, you realize there is a hidden and lethal danger in her invitation — Her companion, the man named Blade, has an ancient and indelible feud with you.You decide to go against the ban and set foot on the Luofu once again. Yet, when you land on Cloudford, you feel that Kafka was not lying. The Luofu has fallen into a catastrophe due to the influences of the Stellaron."
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after leaving the Express)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Can't send the message out...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter2_1_danheng_113.ogg/revision/latest?cb=20250310040434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The network is down, but some functions still work?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter2_1_danheng_114.ogg/revision/latest?cb=20250310040434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_10.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After walking down the stairs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Virtually nothing has changed since I left...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter2_1_danheng_111.ogg/revision/latest?cb=20250310040432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...apart from darkness, this place is all that I remember of the Luofu.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter2_1_danheng_112.ogg/revision/latest?cb=20250310040433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the highlighted area, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Shattered Cloud Knight armor...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_1_danheng_117.ogg/revision/latest?cb=20250310040435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "A conflict with the Cloud Knights? Hm... Not likely, Mr. Yang wouldn't let that happen...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter2_1_danheng_118.ogg/revision/latest?cb=20250310040436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_14.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon approaching the marked location, pan to Sushang and Luocha with his coffin in front of two Mara-Struck Soldiers)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Stay where you are — I can handle this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter2_1_sushang_101.ogg/revision/latest?cb=20250310040450",
+        "is_unavailable": false,
+        "audio_filename": "audio__15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Emergencies should be dealt with by professionals...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_1_sushang_102.ogg/revision/latest?cb=20250310040451",
+        "is_unavailable": false,
+        "audio_filename": "audio__16.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Dan Heng see them and runs to help)\n(Enter battle withDan Heng[Trial]andSushang[Trial]againstMara-Struck Soldier×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After Sushang takes damage for the first time)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...You're hurt.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter2_1_danheng_121.ogg/revision/latest?cb=20250310040437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "It's okay! Phew, this one's strong alright!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter2_1_sushang_103.ogg/revision/latest?cb=20250310040452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_18.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After a character goes down or defeating all enemies, a cutscene plays)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Huh...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter2_1_sushang_104.ogg/revision/latest?cb=20250310103402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Could I really \"stay where I am\" with you two risking your lives to save me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter2_1_luocha_101.ogg/revision/latest?cb=20250310103401",
+        "is_unavailable": false,
+        "audio_filename": "audio__20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends,Luocha[Story]joins the battle againstDisciples of Sanctus Medicus: Shape Shifter×1)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Are you two okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter2_1_sushang_105.ogg/revision/latest?cb=20250310040453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_21.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(The other two nod)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Good. I'm Sushang of the Cloud Knights — I was just transferred here from the Yaoqing !",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter2_1_sushang_106.ogg/revision/latest?cb=20250310040454",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "I did tell you to let me handle it. I don't have eyes in the back of my head — what if I accidentally hit you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter2_1_sushang_107.ogg/revision/latest?cb=20250310040455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "Forgive me miss, but you were too busy being hit yourself. It's a good thing I joined the fray.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter2_1_luocha_102.ogg/revision/latest?cb=20250310040440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Ha, I was protecting you more like — it's a Cloud Knight's job to protect others. This area is under martial law, I'm escorting all civilians to safety. Follow me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter2_1_sushang_108.ogg/revision/latest?cb=20250310040456",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "That was some impressive Cloud Knight spearmanship. Which unit are you from?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_1_sushang_109.ogg/revision/latest?cb=20250310040457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_26.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Shake head)"
+    },
+    {
+        "type": "note",
+        "text": "I'm not a Cloud Knight."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Huh, okay... You're a civilian then. Come with me!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_1_sushang_110.ogg/revision/latest?cb=20250310040458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "Miss Sushang, what exactly has transpired here? In all my trade visits, I've never seen Starskiff Haven in such a state.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter2_1_luocha_103.ogg/revision/latest?cb=20250310040441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "I, uh... I can't comment on that. I was just ordered to rescue the civilians... Actually, I have no idea either. Anyway, you two just need to come with me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter2_1_sushang_111.ogg/revision/latest?cb=20250310040459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Hey, you're pretty quiet. What's your name? I've got forms to fill out — can't put your name down as blank.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_1_sushang_112.ogg/revision/latest?cb=20250310040500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "My name is Dan Heng. I'm a traveler. I'm on my way to meet up with my friends. I appreciate the help, but I can leave the port on my own.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter2_1_danheng_122.ogg/revision/latest?cb=20250310040438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "No can do, mister — it's way too late. You won't find anyone at Starskiff Haven. If your friends made it out, then they'll already be in the safe zone. No need to worry, you'll see them when we get there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter2_1_sushang_113.ogg/revision/latest?cb=20250310040501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "Aren't you going to take my name too, miss?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter2_1_luocha_104.ogg/revision/latest?cb=20250310040442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "You already said it when we were busy fighting. Luo... something... Luocha! Is that right? I remember it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter2_1_sushang_114.ogg/revision/latest?cb=20250310040502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Let's go! Stay close, you two. Cloud Knight Sushang will guarantee your safety!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter2_1_sushang_115.ogg/revision/latest?cb=20250310040503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Ah, one more thing — I need you to write your names down later. I don't know too many characters, I might make a mistake...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter2_1_sushang_116.ogg/revision/latest?cb=20250310040503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_36.ogg"
+    }
+]

@@ -1,0 +1,1223 @@
+[
+    {
+        "type": "heading",
+        "text": "Talk to Tingyun"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "After analyzing the intercepted message, theSky-Faring Commissionhas found some clues aboutKafka's whereabouts.As for you all, you will begin the hunt for Kafka, theStellaron Hunterwith unpredictable movements."
+    },
+    {
+        "type": "condition",
+        "text": "(Idle quotes)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "Is the old space bandit hiding here?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_ambient_w2_talk_teenfC_101.ogg/revision/latest?cb=20250310040743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Weird-Behaving_Girl_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "Masquerading at the Petrichor Inn as a waiter?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "Didn't I catch that guy already?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Listen to the Weird-Behaving Girl, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "Come to think of it, why would an infamous thief be hiding here and doing odd jobs? It doesn't make any sense.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "...I can't absolutely definitely one hundred percent confirm that.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Weird-Behaving Girl",
+        "line": "But this person looks exactly like the face on that IPC Wanted poster...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tingyun)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Oh, you've arrived.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter2_2_tingyun_101.ogg/revision/latest?cb=20250310104858",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Sorry to keep you waiting.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "No, no, only an extra couple of hours~",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter2_2_tingyun_102.ogg/revision/latest?cb=20250310104859",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Seems like you're not particularly happy to see us.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Hee-hee, I like your sense of humor, benefactors. Of course I'm happy to see you! When things settle down, I might even get promoted for catching a Stellaron Hunter.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter2_2_tingyun_103.ogg/revision/latest?cb=20250310104901",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Stargazer Navalia is governed by the Artisanship Commission — it took me a while to sort out our paperwork. I got a sense of the situation on my way back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_2_tingyun_104.ogg/revision/latest?cb=20250310104902",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Just like at Cloudford , Stargazer Navalia's meridian pin has malfunctioned. The checkpoint there is abandoned and the garrison is scrambling to locate the Stellaron.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter2_2_tingyun_105.ogg/revision/latest?cb=20250310104903",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "With monsters wreaking havoc and the Knights scattered, Stargazer Navalia has become a perfect place for the suspect to hide out.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter2_2_tingyun_106.ogg/revision/latest?cb=20250310104904",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "So... we've got a bunch of monsters to deal with, an IPC most-wanted Stellaron Hunter to catch, and we have to do all that on our own without reinforcements... Fair enough, this isn't our first rodeo.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter2_2_mar7th_103.ogg/revision/latest?cb=20250310040800",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_7.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "That's just what we do every day.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Haha, that's the trailblazing life for ya.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter2_2_mar7th_104.ogg/revision/latest?cb=20250310040800",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_8.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You've caught a Stellaron Hunter before?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I was just making small talk, never mind the details!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter2_2_mar7th_105.ogg/revision/latest?cb=20250310040802",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_9.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I wouldn't say you're entirely on your own, hehe... When you're ready, let's get going~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter2_2_tingyun_107.ogg/revision/latest?cb=20250310104906",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_10.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "When you're ready, go talk to Tingyun"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tingyun)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Shall we, my benefactors?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter2_2_tingyun_108.ogg/revision/latest?cb=20250310104907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_11.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Let's go.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue to next section)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "One second."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Now, what's a hunt without a hound? Kafka is still at large, and the Sky-Faring Commission wants this problem to go away. I made a few calls and managed to procure this from the Artisanship Commission — perfect for hunting down suspects.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_2_tingyun_109.ogg/revision/latest?cb=20250310104908",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_12.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(The hound blinks and looks around)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Awwww he's so CUTE!!!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter2_2_mar7th_106.ogg/revision/latest?cb=20250310040803",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Uh, ahem, I mean... what can he do exactly? Are we gonna set him loose on Kafka?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter2_2_mar7th_107.ogg/revision/latest?cb=20250310040804",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Yes, and no. This is Diting, a bionic dog developed by the Artisanship Commission. He has all the five senses of the foxian race and takes them to another level.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter2_2_tingyun_110.ogg/revision/latest?cb=20250310104909",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Be it tracks or scent, as long as he uncovers a trace, he'll follow it all the way to the end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter2_2_tingyun_111.ogg/revision/latest?cb=20250310104911",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "All we need to do is look for any trace left by Kafka. It doesn't matter how good she is at hiding, Diting will find her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter2_2_tingyun_112.ogg/revision/latest?cb=20250310104912",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "But before we get started, let's play with his settings a bit and get him ready~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter2_2_tingyun_113.ogg/revision/latest?cb=20250310104913",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "To begin with, let's set him to scent detection mode~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_2_tingyun_114.ogg/revision/latest?cb=20250310104914",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Tell Diting to follow the scent of my perfume and see what he can do!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter2_2_tingyun_115.ogg/revision/latest?cb=20250310104916",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_20.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Displays Diting Tutorial)"
+    },
+    {
+        "type": "note",
+        "text": "An ingenium dog crafted by the Artisanship Commission. Use its Locality Probe feature to find suspicious odors and traces. An ingenium dog crafted by the Artisanship Commission. Use its Locality Probe feature to find suspicious odors and traces."
+    },
+    {
+        "type": "heading",
+        "text": "Use Diting to track down Tingyun"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "To make searching operations exponentially easier, Tingyun has introduced a handy tool invented by the Artisanship Commission — Diting, an ingenium dog used for tracking. Getting proficient at using this tool takes some a little bit of practice."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* We need to follow these sparkly traces to find Miss Tingyun, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter2_2_mar7th_108.ogg/revision/latest?cb=20250310040804",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "She's not in a hurry, that's for sure. Playing hide-and-seek with us while Kafka's still at large.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter2_2_mar7th_109.ogg/revision/latest?cb=20250310040805",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(After following Diting's traces to arrive at stairs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "The traces... where did they go? Is Diting malfunctioning?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter2_2_mar7th_110.ogg/revision/latest?cb=20250310040806",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Diting",
+        "line": "Woof!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter2_2_diting_102.ogg/revision/latest?cb=20250310040758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Diting_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Got it. He says the wind is too strong here at the port, so it's not easy to follow the scent.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter2_2_mar7th_111.ogg/revision/latest?cb=20250310040807",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "note",
+        "text": "How do you know what he's saying?"
+    },
+    {
+        "type": "note",
+        "text": "That's a lot of words for one bark, don't you think?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "That's just the psychic bond between cute girls and cute puppies!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter2_2_mar7th_112.ogg/revision/latest?cb=20250310040808",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Using the environment to hide her traces... Our girl from the Sky-Faring Commission sure knows how to put up a challenge. Let's look around and see if we can find any other clues.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter2_2_welt_103.ogg/revision/latest?cb=20250310040953",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Or... we could ask around? Look how busy this place is, someone must have seen Miss Tingyun. That's not cheating, right? We're just collecting intel.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter2_2_mar7th_113.ogg/revision/latest?cb=20250310040809",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Diting",
+        "line": "Woof! Woof!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter2_2_diting_103.ogg/revision/latest?cb=20250310040758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Diting_29.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Use Diting to track down Tingyun (0/3)"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toForth, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Excuse me, any chance you saw a foxian lady pass by?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_2_mar7th_114.ogg/revision/latest?cb=20250310040810",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Forth",
+        "line": "Well that's a heck of a question, miss! I'd say nearly one in every two people passing through Starskiff Haven is foxian. We might have seen the lady you're looking for, but we wouldn't have batted an eyelid.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter2_2_awang_101.ogg/revision/latest?cb=20250310040750",
+        "is_unavailable": false,
+        "audio_filename": "audio_Forth_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Back'n",
+        "line": "He's not lying. Still, if you describe her a little, maybe it'll jog our memory.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter2_2_alai_101.ogg/revision/latest?cb=20250310040744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Backn_32.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "She's... foxian?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Forth",
+                "line": "Write that down, write that down!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_2_awang_102.ogg/revision/latest?cb=20250310040751",
+                "is_unavailable": false,
+                "audio_filename": "audio_Forth_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "She's... pretty.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Forth",
+                "line": "\"Pretty?\" That's too generic for a foxian. Even if you don't count the ladies, there are plenty of gents that fit that description like a glove...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter2_2_awang_103.ogg/revision/latest?cb=20250310040752",
+                "is_unavailable": false,
+                "audio_filename": "audio_Forth_34.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Back'n",
+        "line": "As tedious as it is, I'm afraid you'll have to describe her in more detail. Please don't say \"two ears, one tail.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter2_2_alai_102.ogg/revision/latest?cb=20250310040745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Backn_35.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Show Tingyun's photo.)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Forth",
+        "line": "...I can put my hand on my heart and say I remember this fine lady.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter2_2_awang_104.ogg/revision/latest?cb=20250310040753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Forth_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Back'n",
+        "line": "Nonsense. I've been stood next to you this whole time and I don't remember anyone like her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter2_2_alai_103.ogg/revision/latest?cb=20250310040746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Backn_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Forth",
+        "line": "Well, I may not have seen her in person, but her beauty feels like a long-lost acquaintance... How wonderful to be reunited with her after so long!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter2_2_awang_105.ogg/revision/latest?cb=20250310040754",
+        "is_unavailable": false,
+        "audio_filename": "audio_Forth_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Back'n",
+        "line": "▶ Oh dear. I'm sorry, my friend here appears to have lost touch with reality.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter2_2_alai_104_m.ogg/revision/latest?cb=20250310040748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Backn_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Are you two professional time-wasters or something?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter2_2_mar7th_115.ogg/revision/latest?cb=20250310040811",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Forth",
+        "line": "Please accept our apologies! Me and my partner do double act comedy in the Sleepless Earl — the teahouse round the corner. As you can probably guess, with all these curfews and lockdowns, we've hardly had an audience the past few days. We figured we'd find a spot on the street and do some rehearsal — just to stop us getting rusty.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_2_awang_106.ogg/revision/latest?cb=20250310040756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Forth_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Back'n",
+        "line": "Then you guys swung by asking for this foxian lady, so we thought we'd give you a bit of improv — free of charge I might add.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter2_2_alai_105.ogg/revision/latest?cb=20250310040749",
+        "is_unavailable": false,
+        "audio_filename": "audio_Backn_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Forth",
+        "line": "Stay calm, stay calm! I did see the girl you're looking for. She took a turn from here into Starwatcher Avenue. I'd suggest you head over that way — she might still be there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter2_2_awang_107.ogg/revision/latest?cb=20250310040757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Forth_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I find it hard to trust anything you've just said...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_2_mar7th_116.ogg/revision/latest?cb=20250310040812",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_44.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toQingyue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingyue",
+        "line": "Apologies, you've come at a bad time. Our shop is closing earlier than usual today...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter2_2_qingyue_101.ogg/revision/latest?cb=20250310040831",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingyue_45.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Did you see a foxian girl pass by here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Qingyue",
+                "line": "A foxian girl? Well, our bracelets and pendants are extremely popular among foxian customers...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter2_2_qingyue_102.ogg/revision/latest?cb=20250310040832",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingyue_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingyue",
+                "line": "▶ ...and I'm sure this pretty young lady won't want to miss out on our Verdant Luna selection. Please, try anything you like...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter2_2_qingyue_103_m.ogg/revision/latest?cb=20250310040834",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingyue_47.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "It couldn't hurt...",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "March 7th",
+                        "line": "▶ Hey, (Trailblazer), remember what we're here for?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter2_2_mar7th_117_m.ogg/revision/latest?cb=20250310040814",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_March_7th_48.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "March 7th",
+                        "line": "We were just wondering if you could help us find somebody...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter2_2_mar7th_118.ogg/revision/latest?cb=20250310040815",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_March_7th_49.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "Sorry, we were just wondering if you could help us find somebody..."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingyue",
+                "line": "*sigh* I knew it, nobody has time for jewelry in these trying times... A foxian girl you say? Let me think...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter2_2_qingyue_104.ogg/revision/latest?cb=20250310040835",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingyue_50.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingyue",
+                "line": "I did just see Miss Tingyun walk by. She's a big patron of ours...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter2_2_qingyue_105.ogg/revision/latest?cb=20250310040836",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingyue_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Show Tingyun's photo.)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Have you seen this lady?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter2_2_mar7th_119.ogg/revision/latest?cb=20250310040816",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Qingyue",
+                "line": "Well that's Miss Tingyun! She's a big patron of our shop.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter2_2_qingyue_106.ogg/revision/latest?cb=20250310040838",
+                "is_unavailable": false,
+                "audio_filename": "audio_Qingyue_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingyue",
+        "line": "May I ask why you're looking for her? Surely she...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter2_2_qingyue_107.ogg/revision/latest?cb=20250310040839",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingyue_54.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We're her guests..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingyue",
+        "line": "I should've guessed from your attire — you look like you're from another world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter2_2_qingyue_108.ogg/revision/latest?cb=20250310040840",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingyue_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Qingyue",
+        "line": "Miss Tingyun sometimes takes intergalactic business delegates on tours around Starskiff Haven... In fact, I just saw her walk by, she was heading down the street.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter2_2_qingyue_109.ogg/revision/latest?cb=20250310040841",
+        "is_unavailable": false,
+        "audio_filename": "audio_Qingyue_56.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toMr. Xiyan, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mr. Xiyan",
+        "line": "Ah, new patrons I see! Looking for some refreshment at the teahouse?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter2_2_xiyan_101.ogg/revision/latest?cb=20250310041013",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mr._Xiyan_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mr. Xiyan",
+        "line": "Sadly there have been fewer and fewer bookings since the lockdown, so we decided just now to close the Sleepless Earl until further notice. We'll reopen once the Cloud Knights finish addressing their \"security concerns.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter2_2_xiyan_102.ogg/revision/latest?cb=20250310041014",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mr._Xiyan_58.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Did you see a foxian girl pass by here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mr. Xiyan",
+                "line": "Unfortunately yes, the boss is never far away.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter2_2_xiyan_103.ogg/revision/latest?cb=20250310041015",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mr._Xiyan_59.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Miss Tingyun... is your boss?"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mr. Xiyan",
+                "line": "No, no, my apologies, different foxian. If it's Miss Tingyun you're looking for, she was here a moment ago...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter2_2_xiyan_104.ogg/revision/latest?cb=20250310041016",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mr._Xiyan_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Show Tingyun's photo.)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Any chance you've seen this lady?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter2_2_mar7th_120.ogg/revision/latest?cb=20250310040817",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_61.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mr. Xiyan",
+                "line": "Ah, so it's Miss Tingyun you're looking for...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter2_2_xiyan_105.ogg/revision/latest?cb=20250310041017",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mr._Xiyan_62.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mr. Xiyan",
+        "line": "She ordered a cup of Immortal's Delight and went on her way. I saw her checking out the food stalls over there, that might be a good place to start.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fa/VO_chapter2_2_xiyan_106.ogg/revision/latest?cb=20250310041018",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mr._Xiyan_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "*sigh* Here we are sweating over our training while she's busy sampling dim sum!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter2_2_mar7th_121.ogg/revision/latest?cb=20250310040818",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_64.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toPawnbroker Handian, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pawnbroker Handian",
+        "line": "Curious timing for a visit to Jeweler's Pagoda ... Hm, your faces... no sadness or misery. I take it you're not here to pawn anything?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter2_2_xchA_101.ogg/revision/latest?cb=20250310040957",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pawnbroker_Handian_65.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Did you see a foxian girl pass by here?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pawnbroker Handian",
+                "line": "Well, we're a pawn shop — we see plenty of customers. But let me see if I can recall the lady you're looking for...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter2_2_xchA_102.ogg/revision/latest?cb=20250310040958",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pawnbroker_Handian_66.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Show Tingyun's photo.)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Have you seen this lady?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter2_2_mar7th_122.ogg/revision/latest?cb=20250310040819",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_67.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pawnbroker Handian",
+                "line": "Well, we're a pawn shop — we see plenty of customers. But let me see if I can recall the lady you're looking for...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter2_2_xchA_103.ogg/revision/latest?cb=20250310040959",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pawnbroker_Handian_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pawnbroker Handian",
+        "line": "I remember, she walked past my shopfront and headed over to the food stalls. I'd recommend asking over there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter2_2_xchA_104.ogg/revision/latest?cb=20250310041001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pawnbroker_Handian_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pawnbroker Handian",
+        "line": "Do come back when the Cloud Knights finish their business.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter2_2_xchA_105.ogg/revision/latest?cb=20250310041001",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pawnbroker_Handian_70.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to theFood Stall Owner, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Food Stall Owner",
+        "line": "More customers? You're a sight for sore eyes these days. So, what do you have in mind? I'd recommend our prawn crackers.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter2_2_xchB_101.ogg/revision/latest?cb=20250310041003",
+        "is_unavailable": false,
+        "audio_filename": "audio_Food_Stall_Owner_71.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Someone was here before us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Food Stall Owner",
+                "line": "A foxian lady. She ordered a songlotus cake and went on her way.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter2_2_xchB_102.ogg/revision/latest?cb=20250310041004",
+                "is_unavailable": false,
+                "audio_filename": "audio_Food_Stall_Owner_72.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Show Tingyun's photo.)",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Have you seen this lady?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter2_2_mar7th_123.ogg/revision/latest?cb=20250310040820",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_73.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Food Stall Owner",
+        "line": "So you know each other! She ordered a tuskpir wrap and went on her way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter2_2_xchB_103.ogg/revision/latest?cb=20250310041004",
+        "is_unavailable": false,
+        "audio_filename": "audio_Food_Stall_Owner_74.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What else is on the menu?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Food Stall Owner",
+                "line": "Berrypheasant skewers , tuskpir wraps, steamed puffergoat milk ... Oh, a foxian lady just ordered a songlotus cake — they're great too.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter2_2_xchB_104.ogg/revision/latest?cb=20250310041005",
+                "is_unavailable": false,
+                "audio_filename": "audio_Food_Stall_Owner_75.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ Hey (Trailblazer), we're not on a food tour, remember?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter2_2_mar7th_124_m.ogg/revision/latest?cb=20250310040821",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Do you know where the foxian lady might be now?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Food Stall Owner",
+        "line": "She was just here, give me a second... Oh, she was heading towards Stargazer Navalia — that's my guess.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter2_2_xchB_105.ogg/revision/latest?cb=20250310041006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Food_Stall_Owner_77.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toSalesby, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Customers! Take your time, I've got plenty of good stuff here. Lots of nice gift ideas.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter2_2_xchC_101.ogg/revision/latest?cb=20250310041007",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_78.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Did you see a foxian girl pass by here?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Yeah! Oh, wait, um... maybe not. Hmm, let me uh... search my memory for a moment...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter2_2_xchC_102.ogg/revision/latest?cb=20250310041008",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_79.ogg"
+    },
+    {
+        "type": "note",
+        "text": "(Show Tingyun's photo.)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Have you seen this lady?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter2_2_mar7th_125.ogg/revision/latest?cb=20250310040822",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Yeah! Oh, wait, um... maybe not. Hmm, let me uh... search my memory for a moment...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_2_xchC_103.ogg/revision/latest?cb=20250310041009",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Ahem, if only business were better, perhaps my memory would start to improve... don't you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter2_2_xchC_104.ogg/revision/latest?cb=20250310041010",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You just want us to buy your things! This is extortion!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter2_2_mar7th_126.ogg/revision/latest?cb=20250310040824",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_83.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'll take it!"
+    },
+    {
+        "type": "note",
+        "text": "Before you leaving the Express , Himeko gave you 100 credits as pocket money. Maybe it's time to spend them."
+    },
+    {
+        "type": "note",
+        "text": "You swiped to open your phone with trembling hands. You barely know anything about the prices on the Xianzhou. Hope you can still afford it..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "...Didn't see her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter2_2_xchC_105.ogg/revision/latest?cb=20250310041011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Refund! Immediately!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter2_2_mar7th_127.ogg/revision/latest?cb=20250310040824",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Hey, I didn't force you to buy anything, did I? I was simply commenting on my memory. And now I remember that I didn't see your foxian lady... I mean, surely you don't want me to make up an answer and point you in the wrong direction?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter2_2_xchC_106.ogg/revision/latest?cb=20250310041011",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_86.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Not gonna happen!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Not gonna happen!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter2_2_mar7th_128.ogg/revision/latest?cb=20250310040825",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Grocery Store Owner",
+        "line": "Then you'll have to pardon my bad memory.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter2_2_xchC_107.ogg/revision/latest?cb=20250310041012",
+        "is_unavailable": false,
+        "audio_filename": "audio_Grocery_Store_Owner_88.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), doesn't look like we're gonna get anything from him. Let's go search somewhere else.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter2_2_mar7th_129_m.ogg/revision/latest?cb=20250310040827",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_89.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate first clue)"
+    },
+    {
+        "type": "note",
+        "text": "A piece of white name card, with a bird spreading its wings at a corner. The card belongs to Amicassador Tingyun, Head Representative of the intergalactic merchant guild, Whistling Flames."
+    },
+    {
+        "type": "note",
+        "text": "No doubt this is a tiny clue she left for you. Or maybe there are more of them?"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate second clue)"
+    },
+    {
+        "type": "note",
+        "text": "A crumpled up packaging of the tea brand Immortal's Delight."
+    },
+    {
+        "type": "note",
+        "text": "No Miss Tingyun! You can't throw trash even for leaving behind clues."
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate third clue)"
+    },
+    {
+        "type": "note",
+        "text": "A refined pendant of a fan in the shape of a koi, but is left alone in some forgotten corner of the street."
+    },
+    {
+        "type": "note",
+        "text": "It is said that in the culture of the Xianzhou, \"fish\" represents affluence. You vaguely recall that you have seen the pattern of fish swimming around each other on the fan of Miss Tingyun."
+    },
+    {
+        "type": "condition",
+        "text": "(After finding all three clues)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Miss Tingyun must have left us these clues, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter2_2_mar7th_130.ogg/revision/latest?cb=20250310040828",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Diting should be able to pick up her traces now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter2_2_welt_104.ogg/revision/latest?cb=20250310040954",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_91.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Talk to Tingyun"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "To make searching operations exponentially easier, Tingyun has introduced a handy tool invented by the Artisanship Commission — Diting, an ingenium dog used for tracking.With Diting, you have successfully tracked down Tingyun."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Tingyun)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "You found me~ Diting's quite handy when it comes to tracking, isn't he?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter2_2_tingyun_116.ogg/revision/latest?cb=20250310104917",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "If you pick up traces of Kafka in Stargazer Navalia, just switch him on. Don't let her escape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter2_2_tingyun_117.ogg/revision/latest?cb=20250310104918",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_93.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Set out for Stargazer Navalia"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "All is ready for you to set out for Stargazer Navalia — a core hub for shipbuilding on the Xianzhou Luofu. There, the secret behind the Stellaron Hunter's invitation for you to come aboard the Xianzhou will be revealed."
+    },
+    {
+        "type": "condition",
+        "text": "(After arriving in Stargazer Navalia)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Who'd have thought that Stargazer Navalia might become so quiet. \"Long were the nights, when the clangor of hammers rose to meet the stars.\" ...People used to write poems about the shipwrights here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter2_2_tingyun_118.ogg/revision/latest?cb=20250310104919",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "The Luofu relies on the starskiffs produced here to transport people and goods. Now that work in the shipyard has stopped, our internal transport and outbound flights might also grind to a halt.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter2_2_tingyun_119.ogg/revision/latest?cb=20250310104921",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "*yawn* Of course, the silver lining is I don't have to go on as many trips anymore.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter2_2_tingyun_120.ogg/revision/latest?cb=20250310104922",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "You don't seem to worry too much about the Xianzhou, Miss Tingyun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter2_2_mar7th_131.ogg/revision/latest?cb=20250310040829",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I wouldn't say that — a good businesswoman doesn't wear her heart on her sleeve. Besides, the alliance has weathered plenty of challenges. We can handle this situation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter2_2_tingyun_121.ogg/revision/latest?cb=20250310104923",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Just to warn you, if we do run into Kafka, you'll have to do the fighting, benefactors. I'd love to help, but there's very little I can do except cheer you on from the side lines~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter2_2_tingyun_122.ogg/revision/latest?cb=20250310104924",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_99.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You want to leave all the fun to us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "Not a lot of people out there could've fought the mara-struck like you did. I'm only a civil servant — I can't imagine what Kafka would do to me if I were caught in the fray...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter2_2_tingyun_123.ogg/revision/latest?cb=20250310104926",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_100.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "We foxians don't live as long as the Xianzhou locals, but I still want to enjoy the hundred-odd years I've got left. You'd do the same in my shoes, wouldn't you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter2_2_tingyun_124.ogg/revision/latest?cb=20250310104927",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_101.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "But Madam Yukong ordered you to...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Tingyun",
+                "line": "*sigh* Playing the Madam Yukong card, are we? That's not very heroic now, is it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter2_2_tingyun_125.ogg/revision/latest?cb=20250310104928",
+                "is_unavailable": false,
+                "audio_filename": "audio_Tingyun_102.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "Besides, the Madam Helm Master simply asked me to assist you in navigating around Starskiff Haven. It's no different to any other diplomatic mission or delegate reception.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter2_2_tingyun_126.ogg/revision/latest?cb=20250310104929",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tingyun",
+        "line": "I was never much of a fighter, and I'm not one for risking my life either. Getting Diting into your hands is already beyond the realm of my job description.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter2_2_tingyun_127.ogg/revision/latest?cb=20250310104930",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tingyun_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "I'll definitely be putting in a few words next time we meet Yukong...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter2_2_mar7th_132.ogg/revision/latest?cb=20250310040830",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Understood. We won't put you out of your comfort zone, Miss Tingyun.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter2_2_welt_105.ogg/revision/latest?cb=20250310040955",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "When we run into Kafka, we'll do the fighting — and the capturing for that matter. Thank you for showing us the way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter2_2_welt_106.ogg/revision/latest?cb=20250310040956",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_107.ogg"
+    }
+]

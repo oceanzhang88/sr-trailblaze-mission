@@ -1,0 +1,1774 @@
+[
+    {
+        "type": "heading",
+        "text": "Check the memory shown by Anaxa"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You head to Titan Cliff in search of Anaxa. The Sage, expert in soul studies, might be able to save (Trailblazer). And it seems Anaxa has been expecting your arrival.\"Those fallen heroes are the mortal incarnations of theTitansbefore their ascensions to godhood.\" — these strange memories may point the way toThanatos."
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Have you heard of this tale before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_25_bolvxiya_101.ogg/revision/latest?cb=20250517121626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "A tale about the Ocean God 's treasured pearl — our hometown...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_25_bolvxiya_102.ogg/revision/latest?cb=20250517121627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "It was a seaside town which enjoyed the ocean breeze and glorious, peaceful times thanks to the wisdom of its ruling queen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter4_25_bolvxiya_103.ogg/revision/latest?cb=20250517121628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Until one day, an evil dragon descended upon the town. Its wings were large enough to blot out the sun, while its claws were sharp enough to rip the waves apart...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter4_25_bolvxiya_104.ogg/revision/latest?cb=20250517121629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "It barged into the tall tower and devoured the queen's beloved daughter. It even settled itself in her bedroom, like a tyrant king.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_25_bolvxiya_105.ogg/revision/latest?cb=20250517121630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "The queen assembled three hundred warriors, who managed to subdue the evil dragon by chaining it up. However, when the queen slit open the dragon's belly, she realized that the princess had long since been digested and all that was left of her was a pile of bones. Devastated, the queen wept for several days...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_25_bolvxiya_106.ogg/revision/latest?cb=20250517121631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "It was then that a devious, smooth-talking scholar arrived at the palace and suggested that the princess could be revived through the use of dragon bone and dragon blood. That liar called this process the secret art of \"alchemy.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_25_bolvxiya_107.ogg/revision/latest?cb=20250517121632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "The princess was reborn. The queen was overjoyed, blissfully unaware that the evil dragon's soul still lurked within the princess's body. As revenge, the evil dragon swallowed the poor queen, the glib liar, the courageous warriors, and all of the town's innocent civilians in a single gulp.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_24_bolvxiya_108.ogg/revision/latest?cb=20250517121335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Worse still, the souls of the deceased were refused entry to the nether realm because they were filled with regret. Forced to roam the mortal realm, these resentful souls ultimately converged into a River of Souls, that would not retreat for a long time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter4_24_bolvxiya_109.ogg/revision/latest?cb=20250517121336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "The terrifying Death had consumed all. Thereafter, our hometown fell into ruin as well, until...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_24_bolvxiya_110.ogg/revision/latest?cb=20250517121337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "...Until?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_24_kalvpusuo_101.ogg/revision/latest?cb=20250517121542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Until...? Actually, I don't know what happened next either.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter4_24_bolvxiya_111.ogg/revision/latest?cb=20250517121338",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Oh my... It seems that you still like to whet people's appetites even after all this time, Polyxia.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter4_24_kalvpusuo_102.ogg/revision/latest?cb=20250517121543",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "So, according to your story, this is how I used to look? It's practically a mirror image.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_24_cercesnpc_101.ogg/revision/latest?cb=20250517121446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "And yet, what exactly is this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_24_cercesnpc_102.ogg/revision/latest?cb=20250517121447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "A miracle that I created with alchemy. As for what it is and how I was able to accomplish it, I'll keep the answers to myself for now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_24_anaxa_111.ogg/revision/latest?cb=20250517121320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "My goodness, is this cliffhanger really necessary?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/34/VO_chapter4_24_cercesnpc_103.ogg/revision/latest?cb=20250517121448",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_24_castorice_111.ogg/revision/latest?cb=20250517121428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Quiet, Titan. Continue to enjoy this splendid play, and the truth will naturally reveal itself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_24_anaxa_112.ogg/revision/latest?cb=20250517121321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Dragon, huh... I've heard this legend before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_24_kalvpusuo_103.ogg/revision/latest?cb=20250517121544",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "In that case, what do you think of it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_24_bolvxiya_112.ogg/revision/latest?cb=20250517121339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "I think that this so-called \"alchemy\" was a tenuous analogy added to the story by future generations. After all, you've never heard of a tradition of alchemy in your hometown before, have you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter4_24_kalvpusuo_104.ogg/revision/latest?cb=20250517121545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Indeed. Before I left home to pursue my education, I never even knew that anybody was looking into this area of study.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_24_bolvxiya_113.ogg/revision/latest?cb=20250517121340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Therefore, we can just treat this tale as a fable told to young children.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter4_24_kalvpusuo_105.ogg/revision/latest?cb=20250517121546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "A fable, you say...? If so, what moral is it trying to impart to the kids?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_24_bolvxiya_114.ogg/revision/latest?cb=20250517121340",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "I guess it might be the concept of \"equivalent exchange\" ?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_24_kalvpusuo_106.ogg/revision/latest?cb=20250517121546",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Oh? I thought the moral might be closer to something like \"honor the dead.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_24_bolvxiya_115.ogg/revision/latest?cb=20250517121341",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Uh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_24_kalvpusuo_107.ogg/revision/latest?cb=20250517121547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "What? At a loss for words?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter4_24_bolvxiya_116.ogg/revision/latest?cb=20250517121342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "No, I merely realized that we're both thinking of the same principle: If life is priceless, then there is hardly anything else in this world that is of equal weight to it, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_24_kalvpusuo_108.ogg/revision/latest?cb=20250517121548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Indeed. As expected of the wisest scholar in the land.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_24_bolvxiya_117.ogg/revision/latest?cb=20250517121343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Heheh, you flatter me. Why don't I ask you a question as well, as a form of equivalent exchange?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter4_24_kalvpusuo_109.ogg/revision/latest?cb=20250517121549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Of course. What is your question?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_24_bolvxiya_118.ogg/revision/latest?cb=20250517121344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_32.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "If I imparted my knowledge of the art of alchemy to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_24_kalvpusuo_110.ogg/revision/latest?cb=20250517121550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Would you use it to resurrect someone you loved?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/VO_chapter4_24_kalvpusuo_111.ogg/revision/latest?cb=20250517121551",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "What...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_24_bolvxiya_119.ogg/revision/latest?cb=20250517121345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "What kind of strange question is this...? Ah, I got it! You're just trying to get me to tell you whether I like anyone, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_24_bolvxiya_120.ogg/revision/latest?cb=20250517121346",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Heheh, let's just leave it at that. That was rude of me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_24_kalvpusuo_112.ogg/revision/latest?cb=20250517121552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...Yes, I would.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_24_bolvxiya_121.ogg/revision/latest?cb=20250517121347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Oh?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_24_kalvpusuo_113.ogg/revision/latest?cb=20250517121553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Death is inevitable. In the days to come, I am certain that someone whom I cherish deeply will leave me for good...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_24_bolvxiya_122.ogg/revision/latest?cb=20250517121348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "If such a mighty power really existed, I think... I would use it without hesitation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_24_bolvxiya_123.ogg/revision/latest?cb=20250517121349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_41.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "After all... You, me, and the rest, will all have to face that fateful moment eventually.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter4_24_bolvxiya_124.ogg/revision/latest?cb=20250517121350",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_42.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_24_bolvxiya_125.ogg/revision/latest?cb=20250517121351",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_43.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "My time is finally here. However, perhaps because of my firm belief in the immeasurable value of life...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_24_bolvxiya_126.ogg/revision/latest?cb=20250517121352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I... am unable to complete the trial.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_24_bolvxiya_127.ogg/revision/latest?cb=20250517121352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "\"You shall wither, and through that, the dead will sprout again from the remains, and be reborn with the dead flame\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_24_kalvpusuo_114.ogg/revision/latest?cb=20250517121554",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "It is a pity that fate is such a cruel mistress.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_24_kalvpusuo_115.ogg/revision/latest?cb=20250517121555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Is there no other way of interpreting those words?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_24_genaiwusi_101.ogg/revision/latest?cb=20250517121454",
+        "is_unavailable": false,
+        "audio_filename": "audio__48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I'm afraid that the meaning is clear: Between my sister and me, one must pay the price... \"Our\" trial can only be completed when the one chosen sacrifices her life.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_24_bolvxiya_128.ogg/revision/latest?cb=20250517121353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I'm afraid that the prophecy might even have selected a pair of twins... for this exact purpose.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter4_24_bolvxiya_129.ogg/revision/latest?cb=20250517121354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Fortune makes fools of us all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter4_24_genaiwusi_102.ogg/revision/latest?cb=20250517121455",
+        "is_unavailable": false,
+        "audio_filename": "audio__51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "My sister is prepared to sacrifice herself... and yet, I can't do the same...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_24_bolvxiya_130.ogg/revision/latest?cb=20250517121355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "How absurd... My time is almost up, but I'm still afraid to welcome death...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_24_bolvxiya_131.ogg/revision/latest?cb=20250517121356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "What should we do...? I—If I'm ultimately not able to make up my mind...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_24_bolvxiya_132.ogg/revision/latest?cb=20250517121357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Since Khaos is willing to guide all of us and leave this trial to the end... There is still plenty of time for you to ponder.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_24_kalvpusuo_116.ogg/revision/latest?cb=20250517121556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_55.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "That's right. Don't allow the fog of an uncertain future to cloud your mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter4_24_genaiwusi_103.ogg/revision/latest?cb=20250517121456",
+        "is_unavailable": false,
+        "audio_filename": "audio__56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Trial, prophecy... the topics that they're discussing seem familiar.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_24_cercesnpc_104.ogg/revision/latest?cb=20250517121449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "But these three people must not have left their names in the epics. Otherwise, I would have some recollection of this...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_24_cercesnpc_105.ogg/revision/latest?cb=20250517121450",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Amphoreus ' history before the Titans were born was complete chaos. Is that not strange by itself?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bc/VO_chapter4_24_anaxa_113.ogg/revision/latest?cb=20250517121322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_59.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "I have long held three hypotheses about this. However, let's continue watching for now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter4_24_anaxa_114.ogg/revision/latest?cb=20250517121323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_60.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Calypso, Polyxia...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_24_castorice_112.ogg/revision/latest?cb=20250517121429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "And this warrior... I seem to have met him somewhere before...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_24_castorice_113.ogg/revision/latest?cb=20250517121430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Regarding this matter...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_24_kalvpusuo_117.ogg/revision/latest?cb=20250517121557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_63.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Gnaeus , are you confident that you'll complete your trial?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_24_kalvpusuo_118.ogg/revision/latest?cb=20250517121558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_64.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Of course. Though I am worried about what will happen once I've emerged victorious...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_24_genaiwusi_104.ogg/revision/latest?cb=20250517121457",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_65.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter4_24_kalvpusuo_119.ogg/revision/latest?cb=20250517121559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_66.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Looks like you have made up your mind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_24_kalvpusuo_120.ogg/revision/latest?cb=20250517121600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_67.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Yes, this is the safest course of action.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_24_genaiwusi_105.ogg/revision/latest?cb=20250517121458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Completely separating Courage, Honor, Tenacity, Sacrifice, and Reason...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_24_kalvpusuo_121.ogg/revision/latest?cb=20250517121601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Ugh, you really know how to make things difficult.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_24_kalvpusuo_122.ogg/revision/latest?cb=20250517121602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_24_bolvxiya_133.ogg/revision/latest?cb=20250517121358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_71.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Please, young lady, witness my fall and demise. Lady Calypso, you shall host the soul-rending ceremony.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e3/VO_chapter4_24_genaiwusi_106.ogg/revision/latest?cb=20250517121459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I do not understand... Why would you dare to sacrifice yourself for a future that you won't get to witness?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_24_bolvxiya_134.ogg/revision/latest?cb=20250517121359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Because this is our destiny. The power that resides within me is so intense that I will one day be engulfed by it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_24_genaiwusi_107.ogg/revision/latest?cb=20250517121501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Furthermore, a \"Valorous Death Before Glorious Return\" has always been the path I chose to walk, a journey I began long ago. If your sister or Khaos were in my position, I believe they would make the same choice as well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_24_genaiwusi_108.ogg/revision/latest?cb=20250517121502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I... I'm not that brave. I don't know how I'm supposed to face such a serious affair...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter4_24_bolvxiya_135.ogg/revision/latest?cb=20250517121400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_76.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Despite being Death's chosen one, it seems you still don't know how to face it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_24_genaiwusi_109.ogg/revision/latest?cb=20250517121503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_77.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Let's chat, young lady. Perhaps I shouldn't end my journey so hastily.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_24_genaiwusi_110.ogg/revision/latest?cb=20250517121504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_78.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Since there's still time, I'm not worried about letting fate wait a little longer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_24_genaiwusi_111.ogg/revision/latest?cb=20250517121505",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_79.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Of course, this warrior is... Lord Gnaeus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/VO_chapter4_24_castorice_114.ogg/revision/latest?cb=20250517121431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_80.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "As the embodiment of Nikador 's divinity, he entrusted his life to us... and allowed humankind to end his madness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_24_castorice_115.ogg/revision/latest?cb=20250517121432",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "That means that what I'm currently seeing before my eyes is in fact...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_24_castorice_116.ogg/revision/latest?cb=20250517121433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_82.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Looks like one hypothesis of mine has already been proven true: \"These heroes are the true forms of the Titans, before they attained their divinity.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_24_anaxa_115.ogg/revision/latest?cb=20250517121324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_83.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "If so, the chosen one of Death that he speaks of is actually...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_24_anaxa_116.ogg/revision/latest?cb=20250517121325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Polyxia... is the previous form of Thanatos ? But her appearance...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_24_castorice_117.ogg/revision/latest?cb=20250517121434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "If this is true, as long as we can find out where she went, we'll naturally be able to figure out the location of the Death Titan.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_24_anaxa_117.ogg/revision/latest?cb=20250517121326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_24_castorice_118.ogg/revision/latest?cb=20250517121435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But before that, we first need to witness what ultimately happened to Lord Gnaeus...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_24_castorice_119.ogg/revision/latest?cb=20250517121436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_88.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Courage statue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\" Nikador 's Courage is a testament that they have never once retreated from a battle.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_24_castorice_121.ogg/revision/latest?cb=20250517121438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_89.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "I've heard that these words are still engraved in Castrum Kremnos even today. It didn't occur to me that they were actually part of an alchemical formula.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_24_anaxa_118.ogg/revision/latest?cb=20250517121327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_90.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Honor statue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lord Gnaeus' Honor is sealed here...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_24_castorice_120.ogg/revision/latest?cb=20250517121436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Incredible... the Honor in this child's soul is so light.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_24_cercesnpc_106.ogg/revision/latest?cb=20250517121451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_92.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Tenacity statue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "I believe that his Tenacity is sealed within this statue.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_24_cercesnpc_107.ogg/revision/latest?cb=20250517121451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Before we fought Nikador , we also released it from the stone statue...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_24_castorice_122.ogg/revision/latest?cb=20250517121439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_94.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Sacrifice statue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Sealed within this statue is undoubtedly his Sacrifice.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter4_24_anaxa_119.ogg/revision/latest?cb=20250517121328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "\"They use their own body as our city walls, keeping out and protecting us from the pervasive spread of madness. They are acutely aware that if the end times were to arrive, there would be nothing left in this world to conquer...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_24_castorice_123.ogg/revision/latest?cb=20250517121440",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_96.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate the Reason statue)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Honor, Courage, Tenacity, Sacrifice...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_24_kalvpusuo_123.ogg/revision/latest?cb=20250517121602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_97.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "And finally... the only thing that remains is Reason.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_24_bolvxiya_136.ogg/revision/latest?cb=20250517121401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_98.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Cheer up, young lady. There is no need to shed tears over a glorious death.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter4_24_genaiwusi_112.ogg/revision/latest?cb=20250517121506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_99.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "All farewells in this world are sorrowful, Lord Gnaeus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_24_bolvxiya_137.ogg/revision/latest?cb=20250517121402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "No, young lady: As a warrior, I have witnessed too many bitter deaths. But now, all I feel is peace... I did not know until this moment that mortals could live their lives in such a way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_24_genaiwusi_113.ogg/revision/latest?cb=20250517121507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_101.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Although only a sliver of your soul remains, you remain so optimistic... Or maybe the truth is that you aren't able to feel sorrow anymore?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_24_bolvxiya_138.ogg/revision/latest?cb=20250517121403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "To be honest, I don't know either. But I am certain of one thing: This is not an acceptance of death nor apathy toward it. It's not even a feeling of despair...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_24_genaiwusi_114.ogg/revision/latest?cb=20250517121508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_103.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "I am just enjoying what remains of my life to the fullest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_24_genaiwusi_115.ogg/revision/latest?cb=20250517121509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Enjoying?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_24_bolvxiya_139.ogg/revision/latest?cb=20250517121404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Indeed. Along this journey that we've taken together, not only have I changed the world, I myself have also changed in the process.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_24_genaiwusi_116.ogg/revision/latest?cb=20250517121509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_106.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "And now, I have reached the journey's end. When I look back and see the grand epic that I've personally written, how could I not revel in that fact?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter4_24_genaiwusi_117.ogg/revision/latest?cb=20250517121511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "But when you depart the mortal realm... won't all of your accomplishments be reduced to nothing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_24_bolvxiya_140.ogg/revision/latest?cb=20250517121405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Separation and death are two sides of the same coin... Reconciling this doesn't come easily for a mortal.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter4_24_bolvxiya_141.ogg/revision/latest?cb=20250517121406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_24_genaiwusi_118.ogg/revision/latest?cb=20250517121511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Finally, let me recount to you a story of mine, young lady.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_24_genaiwusi_119.ogg/revision/latest?cb=20250517121512",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_111.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"The galaxy is vast beyond compare, containing an infinite number of possibilities.\" Our community needs more information on this page! Can you help out? Click here to add more. The reason provided was: Missing animation (same as in Olive, Cast To the Conference Chair)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "The first time I returned from the battlefield, I felt extremely hollow.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_24_genaiwusi_120.ogg/revision/latest?cb=20250517121513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "The calamity had devoured everybody on the battlefield but me. When I returned to the city alone, the citizens held a banquet for me that was far from pleasant. I felt as though I was still on the battlefield, and the person who had returned was nothing but an empty shell.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter4_24_genaiwusi_121.ogg/revision/latest?cb=20250517121514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "It was late into the night by the time the banquet ended. My head still reeling, I returned alone to the barracks. On the way back, I encountered someone.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter4_24_genaiwusi_122.ogg/revision/latest?cb=20250517121515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "It was a crazed scholar looking at the night sky and muttering to himself by the side of the road. Although I tripped over him and fell, I wasn't angry in the slightest. And maybe because I saw myself in him, I inexplicably asked him a question...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter4_24_genaiwusi_123.ogg/revision/latest?cb=20250517121516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "\"Do you think that it'd be better if we just died on the roadside like a couple of stray dogs?\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_24_genaiwusi_124.ogg/revision/latest?cb=20250517121517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "To my surprise, he shrugged his shoulders and sighed:",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_24_genaiwusi_125.ogg/revision/latest?cb=20250517121518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_117.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mad Scholar",
+        "line": "\"To someone who is currently experiencing death, dying and living afford the same amount of bliss.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_24_xuezhe_101.ogg/revision/latest?cb=20250517121607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mad_Scholar_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mad Scholar",
+        "line": "\"Now, please go away and don't block my starlight.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_24_xuezhe_102.ogg/revision/latest?cb=20250517121608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mad_Scholar_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Are you trying to say that... there is no difference between living and dying, for they are both journeys that lead toward Death?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_24_kalvpusuo_124.ogg/revision/latest?cb=20250517121603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "That's exactly what life is, and death is but a scale to measure how valuable the journey was. Journeys and epics are only glorious and magnificent because all things eventually fade to dust.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_24_genaiwusi_126.ogg/revision/latest?cb=20250517121519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Therefore, young lady, don't detest your fate. Instead, willingly and respectfully embrace it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_24_genaiwusi_127.ogg/revision/latest?cb=20250517121520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...The embodiment of Strife telling me about the majesty of the world...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_24_bolvxiya_142.ogg/revision/latest?cb=20250517121407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "Indeed. I believe that when the fated moment eventually arrives, you will be able to understand my words.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_24_genaiwusi_128.ogg/revision/latest?cb=20250517121521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "It's time for me to knock on death's door. I will set up a long table at the end of the road and humbly await your arrival...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_24_genaiwusi_129.ogg/revision/latest?cb=20250517121522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_125.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gnaeus",
+        "line": "When that moment finally comes, let us drink and be merry then.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_24_genaiwusi_130.ogg/revision/latest?cb=20250517121523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Gnaeus_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter4_24_bolvxiya_143.ogg/revision/latest?cb=20250517121408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I knew this day would eventually come.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_24_bolvxiya_144.ogg/revision/latest?cb=20250517121409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_24_bolvxiya_145.ogg/revision/latest?cb=20250517121410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Are the both of you ready?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_24_kalvpusuo_125.ogg/revision/latest?cb=20250517121604",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_130.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Mm-hmm. Polyxia...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_24_jiyixiadie_101.ogg/revision/latest?cb=20250517121523",
+        "is_unavailable": false,
+        "audio_filename": "audio__131.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...I'm here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter4_24_jiyixiadie_102.ogg/revision/latest?cb=20250517121524",
+        "is_unavailable": false,
+        "audio_filename": "audio__132.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "What? This...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_24_castorice_124.ogg/revision/latest?cb=20250517121441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_133.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Heh, this is... quite interesting indeed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_24_cercesnpc_108.ogg/revision/latest?cb=20250517121452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Is this... Polyxia's sister...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter4_24_castorice_125.ogg/revision/latest?cb=20250517121442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Is it... me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_24_castorice_126.ogg/revision/latest?cb=20250517121443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Now... it's time for us to fulfill our promises.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_24_jiyixiadie_103.ogg/revision/latest?cb=20250517121525",
+        "is_unavailable": false,
+        "audio_filename": "audio__137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...Are you afraid?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter4_24_jiyixiadie_104.ogg/revision/latest?cb=20250517121526",
+        "is_unavailable": false,
+        "audio_filename": "audio__138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Mm....",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_24_bolvxiya_146.ogg/revision/latest?cb=20250517121411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What are you afraid of?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_24_jiyixiadie_105.ogg/revision/latest?cb=20250517121527",
+        "is_unavailable": false,
+        "audio_filename": "audio__140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "That I... won't be able to do it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_24_bolvxiya_147.ogg/revision/latest?cb=20250517121412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"You shall wither, and through that, the dead will sprout again from the remains, and be reborn with the dead flame\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/VO_chapter4_24_jiyixiadie_106.ogg/revision/latest?cb=20250517121528",
+        "is_unavailable": false,
+        "audio_filename": "audio__142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "As foretold in the prophecy, and according to our vows, once it all ends, we must face our fated moment head on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_24_jiyixiadie_107.ogg/revision/latest?cb=20250517121529",
+        "is_unavailable": false,
+        "audio_filename": "audio__143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Even if it was prophesied, do we have no say in the matter? It's so unfair... Why are we the only ones who are forced into mutual destruction...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_24_bolvxiya_148.ogg/revision/latest?cb=20250517121413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Let me do it, sister! Let me be Death's sacrifice. I was never long for this world anyway... but you're different...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_24_bolvxiya_149.ogg/revision/latest?cb=20250517121414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_145.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I was the one who wasted your life after all...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_24_bolvxiya_150.ogg/revision/latest?cb=20250517121415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_146.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "You're wrong, Polyxia.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_24_jiyixiadie_108.ogg/revision/latest?cb=20250517121530",
+        "is_unavailable": false,
+        "audio_filename": "audio__147.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I don't think that my life was wasted — just the opposite. When I finally arrived at this destination and looked back at the journey I took, I discovered that flowers had long since bloomed along the path I walked...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_24_jiyixiadie_109.ogg/revision/latest?cb=20250517121531",
+        "is_unavailable": false,
+        "audio_filename": "audio__148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It was you who sowed the seeds for this sea of flowers, one that is more beautiful than the promised land at the end of the world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter4_24_jiyixiadie_110.ogg/revision/latest?cb=20250517121532",
+        "is_unavailable": false,
+        "audio_filename": "audio__149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Besides, I have lived a fulfilling life. Even though I was fated for sacrifice, none of the things that I've experienced will dissipate. Instead, they'll forever live on as memories inside your head, will they not?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_24_jiyixiadie_111.ogg/revision/latest?cb=20250517121533",
+        "is_unavailable": false,
+        "audio_filename": "audio__150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "How could my memories of you... ever compare to the actual you?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter4_24_bolvxiya_151.ogg/revision/latest?cb=20250517121416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Well then, tell me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter4_24_jiyixiadie_112.ogg/revision/latest?cb=20250517121534",
+        "is_unavailable": false,
+        "audio_filename": "audio__152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "What exactly... are we?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_24_jiyixiadie_113.ogg/revision/latest?cb=20250517121535",
+        "is_unavailable": false,
+        "audio_filename": "audio__153.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_24_bolvxiya_155.ogg/revision/latest?cb=20250517121419",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I—I don't know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_24_bolvxiya_153.ogg/revision/latest?cb=20250517121417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I don't know either. But, regardless of what the answer is, regardless of how we're shaped by others, or even by this world...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_24_jiyixiadie_114.ogg/revision/latest?cb=20250517121536",
+        "is_unavailable": false,
+        "audio_filename": "audio__156.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Ever since we were born, the fact that we existed was predestined, and nothing could erase it. This is why I will always, always be by your side...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_24_jiyixiadie_115.ogg/revision/latest?cb=20250517121537",
+        "is_unavailable": false,
+        "audio_filename": "audio__157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "We're twins after all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/22/VO_chapter4_24_jiyixiadie_116.ogg/revision/latest?cb=20250517121538",
+        "is_unavailable": false,
+        "audio_filename": "audio__158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_24_bolvxiya_154.ogg/revision/latest?cb=20250517121418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Alright, my dear Polyxia...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter4_24_jiyixiadie_117.ogg/revision/latest?cb=20250517121539",
+        "is_unavailable": false,
+        "audio_filename": "audio__160.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It's time to extract my heart and light the flame of Death...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_24_jiyixiadie_118.ogg/revision/latest?cb=20250517121540",
+        "is_unavailable": false,
+        "audio_filename": "audio__161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "After that, use it to plant the first bud in the prophesied new world.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter4_24_jiyixiadie_119.ogg/revision/latest?cb=20250517121541",
+        "is_unavailable": false,
+        "audio_filename": "audio__162.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "If I imparted my knowledge of the art of alchemy to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter4_24_kalvpusuo_126.ogg/revision/latest?cb=20250517121605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calypso",
+        "line": "Would you use it to resurrect someone you loved?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_24_kalvpusuo_127.ogg/revision/latest?cb=20250517121606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calypso_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_24_bolvxiya_155.ogg/revision/latest?cb=20250517121419",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Death is inevitable. In the days to come, I am certain that someone whom I cherish deeply will leave me for good...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_24_bolvxiya_156.ogg/revision/latest?cb=20250517121420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "If such a mighty power really existed, I think... I would use it without hesitation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_24_bolvxiya_157.ogg/revision/latest?cb=20250517121421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Even now, my answer remains the same.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_24_bolvxiya_158.ogg/revision/latest?cb=20250517121422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "This is why, sister, I promise you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_24_bolvxiya_159.ogg/revision/latest?cb=20250517121423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "In the prophesized new world, I shall plant the first bud on your behalf...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_24_bolvxiya_160.ogg/revision/latest?cb=20250517121423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Go now, return to the Ocean God's treasured pearl — our hometown.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_24_bolvxiya_161.ogg/revision/latest?cb=20250517121424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "I shall open wide the entrance to the nether realm and grant you a second life. The living beings on this earth shall respond to my call and lead you to the sacred daylight.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_24_bolvxiya_162.ogg/revision/latest?cb=20250517121425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_172.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "Remember, do not look back on the land of the dead and do not stop moving. In the new world promised by the prophecy, march toward your new life...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_24_bolvxiya_163.ogg/revision/latest?cb=20250517121426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_173.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Polyxia",
+        "line": "As for the price of our \"equivalent exchange,\" let me be the one to pay it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_24_bolvxiya_164.ogg/revision/latest?cb=20250517121427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Polyxia_174.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Everybody, we've come to the end. Unfortunately, I am not compatible with the supreme being, so I was unable to completely fuse their soul into my own body. However, being able to glean all this from them is exciting enough...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter4_24_anaxa_120.ogg/revision/latest?cb=20250517121329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "I'm certain of this now: Before the Titans that we are well acquainted with were born, a group of heroes roamed the land. These heroes followed a prophecy and took possession of divine authorities one by one, until they eventually became the pantheon of the new world...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_24_anaxa_121.ogg/revision/latest?cb=20250517121330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "...Just like the Flame-Chase Journey of today. Amphoreus' history is cyclical in nature.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_24_anaxa_122.ogg/revision/latest?cb=20250517121331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Heh, what a startling revelation... This means that the demigods who bear the Coreflames will also become the new Titans at the World's End, thereby shaping a new world?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_24_cercesnpc_109.ogg/revision/latest?cb=20250517121453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "I believe that this is the truth behind the \"Era Nova\" as mentioned in the prophecy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_24_anaxa_123.ogg/revision/latest?cb=20250517121332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "This is... utterly unbelievable.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_24_castorice_127.ogg/revision/latest?cb=20250517121443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Besides, those twins in the past... Even if they really are Thanatos , their whereabouts are still unknown even today...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/VO_chapter4_24_castorice_128.ogg/revision/latest?cb=20250517121444",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Are their whereabouts truly unknown? Didn't Polyxia mention that seaside town — the birthplace of alchemy and the tale of the dragon...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_24_anaxa_124.ogg/revision/latest?cb=20250517121333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_182.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "In our world, there exists a city which perfectly matches that description: Styxia .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_24_anaxa_125.ogg/revision/latest?cb=20250517121334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_183.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But the people there worship Phagousa and bear no relation to Thanatos . I have also never been to that place, as in the time of Aidonia ... it had long turned into underwater ruins.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_24_castorice_129.ogg/revision/latest?cb=20250517121445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_184.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "...Take this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter4_25_anaxa_101.ogg/revision/latest?cb=20250517121609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "This is...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_25_castorice_101.ogg/revision/latest?cb=20250517121633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "The Nousporists' masterpiece: the Philosopher's Stone. It was made by transmuting all of the Sages' wisdom into a single entity, with their flesh and blood as its foundation.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_25_anaxa_102.ogg/revision/latest?cb=20250517121610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Remember? I've mentioned before that the art of alchemy is all about conversion, tempering, and ascension. This process also applies to the pursuit of truth. Regardless of how unbelievable this sounds, the truths of the world have been refined from the impurities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter4_25_anaxa_103.ogg/revision/latest?cb=20250517121611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_188.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Think about the story of the dragon. This stone will lead you to your real hometown, allowing you to reform the door to the nether realm and discover Thanatos 's fate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter4_25_anaxa_104.ogg/revision/latest?cb=20250517121612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "You still look as confident in your victory as ever, but what if your conjecture is wrong?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_25_cercesnpc_101.ogg/revision/latest?cb=20250517121637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Simple. I shall merely admit to the entire world that my experiment was a failure.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter4_25_anaxa_105.ogg/revision/latest?cb=20250517121613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "However, my line of thinking will not fail because I have already planted the seeds of doubt into the hearts of the masses.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_25_anaxa_106.ogg/revision/latest?cb=20250517121614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Actions speak louder than words, Castorice. With the assembly about to begin, don't forget the promise you've made.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter4_25_anaxa_107.ogg/revision/latest?cb=20250517121615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_193.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ I've already searched for so long, I'm willing to try one more time. While we converse, (Trailblazer)'s life is also slowly slipping away...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_25_castorice_102_m.ogg/revision/latest?cb=20250517121635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "But before I leave, I have another question: What exactly did we witness just now...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_25_castorice_103.ogg/revision/latest?cb=20250517121635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter4_25_anaxa_108.ogg/revision/latest?cb=20250517121616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "That was the world imprinted in Kephale's soul.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_25_anaxa_109.ogg/revision/latest?cb=20250517121617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "If we are to prove its existence, you must take the final step. Go, do not disappoint me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_25_anaxa_110.ogg/revision/latest?cb=20250517121618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...I understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_25_castorice_104.ogg/revision/latest?cb=20250517121636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Hey, child of humanity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_25_cercesnpc_102.ogg/revision/latest?cb=20250517121638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Don't get antsy, I still remember the question you posed to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_25_anaxa_111.ogg/revision/latest?cb=20250517121618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "As a scholar, I do not wish to offer up ambiguous conclusions. Let's discuss this topic again when she manages to find the evidence.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/VO_chapter4_25_anaxa_112.ogg/revision/latest?cb=20250517121619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "I merely wanted to ask: Was that stone transmuted from your heart?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_25_cercesnpc_103.ogg/revision/latest?cb=20250517121639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_203.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "If so, rebirth... is no longer an option for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_25_cercesnpc_104.ogg/revision/latest?cb=20250517121640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Why not? When I was a child, I lost someone dear to me. When I was a teenager, I lost my faith. A while back, although you saved my life, I also lost my soul in the process...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter4_25_anaxa_113.ogg/revision/latest?cb=20250517121620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Now, I'm merely forsaking my body. What's the big deal?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_25_anaxa_114.ogg/revision/latest?cb=20250517121621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Why are you always finding ways to die? Isn't it good to be alive?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter4_25_cercesnpc_105.ogg/revision/latest?cb=20250517121641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "This is but a necessary sacrifice on my path to transform into the purest of them all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter4_25_anaxa_115.ogg/revision/latest?cb=20250517121622",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_208.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cerces",
+        "line": "Heh, can someone who's dead even claim to be the purest of them all? Furthermore, if your hypothesis is proven correct, does it not just confirm that the myths are true and thereby invalidate all your theories?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_25_cercesnpc_106.ogg/revision/latest?cb=20250517121642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Cerces_209.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "Heh...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter4_25_anaxa_116.ogg/revision/latest?cb=20250517121623",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_210.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "No, it's just the opposite. If my hypothesis is correct...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_25_anaxa_117.ogg/revision/latest?cb=20250517121624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_211.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Anaxa",
+        "line": "It means that I can actually ascend to godhood and reshape this absurd world that you all have created.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter4_25_anaxa_118.ogg/revision/latest?cb=20250517121625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Anaxa_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Returning to the Trailblazer's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "When you have a chance to make a choice, make one that you know you won't regret."
+    }
+]

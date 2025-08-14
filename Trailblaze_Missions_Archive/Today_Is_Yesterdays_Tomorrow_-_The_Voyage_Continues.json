@@ -1,0 +1,2028 @@
+[
+    {
+        "type": "heading",
+        "text": "Complete Simulated Universe 1 time"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "So, there's more than one Herta... It makes sense now that you think about it. This Herta wants you to head to her office.Looks like Herta developed a Simulated Universe together with a few other members of the Genius Society to explore the truth of the universe.Let's give it a try."
+    },
+    {
+        "type": "heading",
+        "text": "Leave Herta's Office"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "These words resurface in your mind once more. \"When you have a chance to make a choice, make one that you know you won't regret.\"You haven't made up your mind yet, or could it be that you have. However, you're just not sure if anyone else shares your point of view...It's alright. You can hide it deep in your heart and listen to what others think...Is it possible that you all think the same?"
+    },
+    {
+        "type": "heading",
+        "text": "Find someone to talk to and tell Himeko your decision"
+    },
+    {
+        "type": "condition",
+        "text": "(Upon leaving Herta's Office)"
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Navigation"
+    },
+    {
+        "type": "note",
+        "text": "Use the Teleport function to fast travel to unlocked locations"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open <span class=\"text-highlight\">Navigation</span></dd>\n<dd>Use Navigation to quickly move between different locations</dd>\n<dd>Switch to the supply zone.</dd>\n<dd>Select <span class=\"text-highlight\">Space Anchors</span> to teleport and get to destinations quickly</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toHerta, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Herta",
+        "line": "Still haven't made up your mind? Fine. Since I'm interested in you, I'll answer any questions you have.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter0_6_herta_132.ogg/revision/latest?cb=20241030172907",
+        "is_unavailable": false,
+        "audio_filename": "audio_Herta_0.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "About Herta...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Me? Hmm, well, Talking about oneself is as pointless as it gets.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/VO_chapter0_6_herta_133.ogg/revision/latest?cb=20241030172908",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_1.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "You're the master of the space station ?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "On paper, yes. But I don't really care about this place. I built it, put some stuff in, left some people here, and let them just manage themselves.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter0_6_herta_134.ogg/revision/latest?cb=20241030172909",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_2.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Asta's the lead researcher of the space station, so for all intents and purposes, she's the master. I reject the concept of ownership because I don't want the responsibilities that come with it.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter0_6_herta_135.ogg/revision/latest?cb=20241030172910",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_3.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "You really are a terrible person.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "It doesn't matter. Who cares if others don't like me? I know I don't care. As long as I have my own value, I can do whatever I want.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/VO_chapter0_6_herta_136.ogg/revision/latest?cb=20241030172911",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_4.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "While you may have good character, do you have any value? Don't take that the wrong way, I'm genuinely asking you. You might have some value, I just don't know about it.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter0_6_herta_137.ogg/revision/latest?cb=20241030172912",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_5.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "What do you actually look like?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Human, female, young, beautiful, attractive.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter0_6_herta_138.ogg/revision/latest?cb=20241030172913",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_6.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Not much different from what you're seeing now. I modeled it after how I looked, back when I was a kid. It might not be identical, but I'd say maybe 70, 80 percent there?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter0_6_herta_139.ogg/revision/latest?cb=20241030172914",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_7.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Oh, I was so precocious — all I cared about back then was solving the solitary wave problem, ignoring my precious childhood...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter0_6_herta_140.ogg/revision/latest?cb=20241030172915",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_8.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I still have some questions..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About Stellarons ...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Stellarons, huh? Ask away, I'm listening.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c4/VO_chapter0_6_herta_141.ogg/revision/latest?cb=20241030172916",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_9.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "What exactly is a Stellaron?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "According to my research, it's a type of lifeform with a special property that tethers it to a certain Path or Aeon 's power.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cc/VO_chapter0_6_herta_142.ogg/revision/latest?cb=20241030172917",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_10.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Wherever it's located, it responds to that world's desires to advance its civilization. But, this comes at the cost of some form of disaster. The mechanism behind it is likely related to Nanook the Destruction .",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter0_6_herta_143.ogg/revision/latest?cb=20241030172917",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_11.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Do you know about the Stellaron Hunters ?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Oh, that weird bunch. I'm satisfied with just one Stellaron, but they've scoured the universe, obtained several, and still aren't satisfied. I don't know what their true intentions are.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter0_6_herta_144.ogg/revision/latest?cb=20241030172918",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_12.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Screwllum went up against the Stellaron Hunters before. I heard there was a member whose hacking skills were on par with Screwllum.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter0_6_herta_145.ogg/revision/latest?cb=20241030172919",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_13.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Being on the same level as Screwllum — who's probably the best in the universe — is nothing short of spectacular. It's beyond my abilities, computers are not my forte.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter0_6_herta_146.ogg/revision/latest?cb=20241030172920",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_14.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Why am I able to host the Stellaron?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Ha... That I don't know. Which is why I'm gearing up to solve this mystery.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter0_6_herta_147.ogg/revision/latest?cb=20241030172921",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_15.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I still have some questions..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About the Express ...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "The Express? Shouldn't you be asking Himeko instead?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter0_6_herta_148.ogg/revision/latest?cb=20241030172922",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_16.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "What's the Astral Express like?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "You mean how it looks? Like a train. Well...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter0_6_herta_149.ogg/revision/latest?cb=20241030172923",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_17.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "I was very interested in the Express for a while, and wrote a lot of papers, but forgot where I left them. Now I can't remember anything about it.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/39/VO_chapter0_6_herta_150.ogg/revision/latest?cb=20241030172924",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_18.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Do you trust the Astral Express?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Uh-huh.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter0_6_herta_151.ogg/revision/latest?cb=20241030172924",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_19.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "What's your relationship with them?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "We've been business partners for a long time.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/VO_chapter0_6_herta_152.ogg/revision/latest?cb=20241030172925",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_20.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Every once in a while, I'll need them to get me things from other planets, and they often come to me to help them solve problems.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter0_6_herta_153.ogg/revision/latest?cb=20241030172926",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_21.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I still have some questions..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About the decision... (When asking for the third time) ▶ Herta: ...You really are weird. What's so good about this place? Even I don't like staying here... ▶ Herta: Ugh. Fine. To be honest with you, I have plenty of ways to seal a mere Stellaron — You just might end up not having a lot of personal freedom. ▶ Herta: If you're so keen to stay... Fine. I'm okay with it. Go speak to Asta. She's the lead researcher. She's in charge. (You now have permission from Herta) Can I stay at the space station? (When asking from the forth time onward) ▶ Herta: As I've said, talk to Asta! She's the lead researcher. She's in charge. Go, go, go. So I should board the Express? ▶ Herta: Well, from an objective standpoint, that's the most rational place for you to be. ▶ Herta: First of all, you have somewhere to live. And you'd be under their protection. Also, it'll be a long trip, so you'll have more opportunities to find a way to save yourself from the Stellaron. Lastly, if the Stellaron really explodes, you won't harm too many people around you. Do I have any other choice? ▶ Herta: Oh, how should I know! It's up to you, you have so many options to choose from. Maybe jump out a hatch, or hop into the Fragmentum and see if any monsters start worshiping you? I still have some questions...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Uh, what decision? You're gonna have to be more specific.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter0_6_herta_154.ogg/revision/latest?cb=20241030172927",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_22.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(The first dialogue option is variable)"
+            },
+            {
+                "type": "note",
+                "text": "Can I return to the space station?"
+            },
+            {
+                "type": "condition",
+                "text": "(When asking for the first time)"
+            },
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Of course, I'll still be here waiting for you, eh... and the space station will be waiting for you. Returning... it's not impossible.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter0_6_herta_155.ogg/revision/latest?cb=20241030172928",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_23.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "If you wanna be a researcher here, you can just ask Asta. If she's fine with it, I have no complaints.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter0_6_herta_156.ogg/revision/latest?cb=20241030172929",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_24.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "No, hold on — you have a Stellaron within you. I think it's better if you left and came back occasionally. It might be dangerous if you stay for too long...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter0_6_herta_157.ogg/revision/latest?cb=20241030172930",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_25.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "Can I stay at the space station?"
+            },
+            {
+                "type": "condition",
+                "text": "(When asking for the second time)"
+            },
+            {
+                "type": "cutscene",
+                "text": "",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "No. You're way too dangerous. I don't mind personally, but I don't want Asta and others to take the risk.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter0_Ag1_herta_117.ogg/revision/latest?cb=20241030172931",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_26.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "You wouldn't want the Stellaron in you to hurt all the people in the space station either, right?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter0_Ag1_herta_118.ogg/revision/latest?cb=20241030172932",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_27.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Herta",
+                        "line": "Just come back once in a while. You will always be welcome at the space station — just don't stay for too long.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter0_Ag1_herta_119.ogg/revision/latest?cb=20241030172932",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Herta_28.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let me think things over.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Herta",
+                "line": "Okay, suit yourself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter0_6_herta_161.ogg/revision/latest?cb=20241030172939",
+                "is_unavailable": false,
+                "audio_filename": "audio_Herta_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toAsta, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Asta",
+        "line": "▶ (Trailblazer), thank goodness you're all safe.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter0_6_asta_101_m.ogg/revision/latest?cb=20241030172940",
+        "is_unavailable": false,
+        "audio_filename": "audio_Asta_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Asta",
+        "line": "It's a pity that we haven't had the chance to talk much, and now the Express is about to leave. Do you have any questions?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter0_6_asta_102.ogg/revision/latest?cb=20241030172942",
+        "is_unavailable": false,
+        "audio_filename": "audio_Asta_31.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is the damage to the space station serious?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Madam Herta gave me a piece of code, which she apparently wrote on the way here. I just tried it out and the defense shield's regenerating three times faster than before.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8e/VO_chapter0_6_asta_103.ogg/revision/latest?cb=20241030172943",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_32.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Thanks to her, the Antimatter Legion outside is not much of a threat anymore. The space station's repairs and reconstruction can also begin smoothly, but internally...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter0_6_asta_104.ogg/revision/latest?cb=20241030172944",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_33.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "When the Stellaron was extracted, even for that brief moment, it corroded the space station and formed a new space — what we now call the Fragmentum.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter0_6_asta_105.ogg/revision/latest?cb=20241030172945",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_34.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "The part that was corroded is irreversible, so the space station will always be in a state of quasi-Fragmentum.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter0_6_asta_106.ogg/revision/latest?cb=20241030172946",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_35.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "What are the effects of the Fragmentum?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Asta",
+                        "line": "All existing Fragmentums are connected, so there will be monsters that will enter the space station through its Fragmentum.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter0_6_asta_107.ogg/revision/latest?cb=20241030172946",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Asta_36.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Will I also be corroded by the Fragmentum?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Asta",
+                        "line": "Ahh, I'd like to know the answer to that as well.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter0_6_asta_108.ogg/revision/latest?cb=20241030172947",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Asta_37.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Asta",
+                        "line": "All existing Fragmentums are connected, so monsters will be able to enter the space station through the Fragmentum here. But it shouldn't allow anything to exit your body, so...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/VO_chapter0_6_asta_109.ogg/revision/latest?cb=20241030172948",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Asta_38.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "I talked with Arlan and there's no easy solution to this problem at the moment. We can only increase the security and patrol frequency to protect the ongoing research.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter0_6_asta_110.ogg/revision/latest?cb=20241030172949",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_39.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Make sure you don't burn yourself out.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "After all this is over, I'm putting my vacation time in with Madam Herta. I've got it all planned. I'll hop on an airship and give The Blue a good look.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter0_6_asta_111.ogg/revision/latest?cb=20241030172950",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_40.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "You can see it from the space station, you know?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Asta",
+                        "line": "Be that as it may, taking it in while on vacation and observing it during work are not the same thing.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter0_6_asta_112.ogg/revision/latest?cb=20241030172951",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Asta_41.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Will Madam Herta let you take a vacation?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Asta",
+                        "line": "I guess so? I haven't taken leave once since I joined the space station...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter0_6_asta_113.ogg/revision/latest?cb=20241030172952",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Asta_42.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "And if I have an actual, full vacation, I can take my time to collect observational data and finish writing my paper.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter0_6_asta_114.ogg/revision/latest?cb=20241030172953",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_43.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Of course, there's already a lot of published research on The Blue, but I want to study it myself. It might sound a lot like work, but it's really just a hobby — there are no deadlines or quotas to meet, and I don't get paid.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter0_6_asta_115.ogg/revision/latest?cb=20241030172954",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(The third dialogue option is variable, available only once per interaction)"
+    },
+    {
+        "type": "choice",
+        "text": "Can I stay at the space station?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "I like you, but... you have a Stellaron in your body.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter0_6_asta_116.ogg/revision/latest?cb=20241030172954",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_45.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "If you were just wandering around, or if you agreed to be sealed away in an experiment pod, that would be fine.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter0_6_asta_117.ogg/revision/latest?cb=20241030172955",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_46.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "But if you're going to work in the space station long-term, the Stellaron may have some serious effects on the station's Fragmentum. As the lead researcher, that's a risk I cannot take.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter0_6_asta_118.ogg/revision/latest?cb=20241030172956",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_47.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "I can sense your enthusiasm for the space station, but I'm afraid I have to turn you away.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter0_6_asta_119.ogg/revision/latest?cb=20241030172957",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_48.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Herta says I can stay."
+    },
+    {
+        "type": "condition",
+        "text": "(After getting permission from Herta, one time only)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Huh? Madam Herta said that?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6c/VO_chapter0_Ag1_asta_101.ogg/revision/latest?cb=20241030172958",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_49.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "▶ In that case... I have nothing against it either. Mind you, if Madam Herta was to do something to you, (Trailblazer)...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter0_Ag1_asta_102_m.ogg/revision/latest?cb=20241030172959",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_50.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "She's not going to care a lot about what you think.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter0_Ag1_asta_103.ogg/revision/latest?cb=20241030173001",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_51.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(You now have permission from Asta as well)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is there really no way I can help?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "If you wanted to come back and help, of course, I wouldn't refuse you. Dan Heng helped inventory our rare items, March 7th said that she would help out as much as she can and connected over 50 wires in the electrical room. Everyone from the Express is so obliging...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1e/VO_chapter0_6_asta_120.ogg/revision/latest?cb=20241030173002",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_52.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "▶ And I think you're pretty good at \"meddling\" too, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter0_6_asta_121_m.ogg/revision/latest?cb=20241030173003",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_53.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let me think things over.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Asta",
+                "line": "Sure, no hurry.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter0_6_asta_122.ogg/revision/latest?cb=20241030173005",
+                "is_unavailable": false,
+                "audio_filename": "audio_Asta_54.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toDan Heng, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ Oh, it's you, (Trailblazer)... Do you have something on your mind?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter0_6_danheng_101_m.ogg/revision/latest?cb=20241030173006",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_55.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're really good at taking care of others.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Oh? What did I do?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/32/VO_chapter0_6_danheng_102.ogg/revision/latest?cb=20241030173007",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_56.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "You're always the first one to charge into battle.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dan Heng",
+                        "line": "Is that so? Well, I am the train's guard. I suppose it's just instinct.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter0_6_danheng_103.ogg/revision/latest?cb=20241030173008",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dan_Heng_57.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Your judgments are always accurate.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dan Heng",
+                        "line": "It's about being observant at all times and carefully making the best choice for the situation. You can do it too.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter0_6_danheng_104.ogg/revision/latest?cb=20241030173009",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dan_Heng_58.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "▶ I think you're not bad yourself, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter0_6_danheng_105_m.ogg/revision/latest?cb=20241030173010",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_59.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I didn't think you approved of me.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "If you're referring to what I think about you joining the Astral Express... You're overthinking it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter0_6_danheng_106.ogg/revision/latest?cb=20241030173012",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_60.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "My position is simple: It doesn't matter to me. I suggest you ignore my opinions and make your own choice.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter0_6_danheng_107.ogg/revision/latest?cb=20241030173013",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_61.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "You don't seem like someone who likes to travel.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Being on the Express isn't exactly the same as \"traveling\" or \"adventuring...\" The Astral Express symbolizes \"trailblazing\" you understand?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter0_6_danheng_108.ogg/revision/latest?cb=20241030173014",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_62.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Trailblazing implies the unknown, be it unknown risks or unknown rewards.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter0_6_danheng_109.ogg/revision/latest?cb=20241030173014",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_63.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "In my opinion, the unknown is no more terrifying than the known... In fact, the unknown signifies something we can control and change.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c8/VO_chapter0_6_danheng_110.ogg/revision/latest?cb=20241030173015",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_64.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "I'm a little hesitant.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dan Heng",
+                        "line": "Don't use hesitation as an excuse. If you hesitate for too long, your original way of thinking will eventually cease to exist.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter0_6_danheng_111.ogg/revision/latest?cb=20241030173016",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dan_Heng_65.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I understand.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Dan Heng",
+                        "line": "Mm, okay then.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter0_6_danheng_112.ogg/revision/latest?cb=20241030173017",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Dan_Heng_66.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let me think things over.",
+        "children": [
+            {
+                "type": "note",
+                "text": "Dan Heng gives a slight nod and shifts his gaze elsewhere."
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toMarch 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Hey, (Trailblazer)! I heard the news. You're coming with us on the Express, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter0_6_mar7th_101_m.ogg/revision/latest?cb=20241030173018",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_67.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I haven't decided yet!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Oh come on, you know that's what you want deep down inside. I can see it on your face.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/VO_chapter0_6_mar7th_102.ogg/revision/latest?cb=20241030173020",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_68.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Do you want me to come along?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Do I even need to say it? I think we're becoming fast friends... isn't that enough?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter0_6_mar7th_103.ogg/revision/latest?cb=20241030173021",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_69.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "But you look like you've got something on your mind... come on, out with it!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_6_mar7th_104.ogg/revision/latest?cb=20241030173022",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_70.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Oh how time flies.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Getting nostalgic already?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter0_6_mar7th_105.ogg/revision/latest?cb=20241030173023",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_71.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Y'know, when you were passed out, all I thought was I had to look after you. And then you picked up the bat! Just incredible!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter0_6_mar7th_106.ogg/revision/latest?cb=20241030173023",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_72.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "In the blink of an eye, you knocked that big fella into Mr. Yang's black hole and saved me... I still haven't thanked you properly yet...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter0_6_mar7th_107.ogg/revision/latest?cb=20241030173024",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_73.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Nah, we're not splitting up here...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/VO_chapter0_6_mar7th_108.ogg/revision/latest?cb=20241030173025",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_74.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How did you join the Express?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I'd like to know too, because I was already on the Express when I woke up.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter0_6_mar7th_109.ogg/revision/latest?cb=20241030173026",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_75.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I was just drifting out there in space and got picked up by the Express. Amazing, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/VO_chapter0_6_mar7th_110.ogg/revision/latest?cb=20241030173027",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_76.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Does that kind of thing happen often?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Crazy stuff like that? Not too often. It sure freaked me out.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter0_6_mar7th_111.ogg/revision/latest?cb=20241030173028",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_77.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "But every encounter I've had since coming aboard the Express has been strange to say the least.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/79/VO_chapter0_6_mar7th_112.ogg/revision/latest?cb=20241030173029",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_78.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "For example, going to the desert to catch something called a \"sandfish,\" correcting a gravitational field to flip an upside-down castle, or almost getting my head cracked open by a galena ball falling from the sky while trying to avoid a sleeping reindeer on the road—",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter0_6_mar7th_113.ogg/revision/latest?cb=20241030173030",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_79.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Huh... looking back now, it all seems quite dangerous... But I had the crew there with me, so the problems didn't seem all that bad.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter0_6_mar7th_114.ogg/revision/latest?cb=20241030173031",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm thinking about if I should get on the Express...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Of course you should! Why wouldn't you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter0_6_mar7th_115.ogg/revision/latest?cb=20241030173032",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_81.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "There's only four of us now, plus Pom-Pom. Each of us can have our own carriage to sleep in! You wouldn't have the heart to leave your carriage unmanned, would you?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter0_6_mar7th_116.ogg/revision/latest?cb=20241030173033",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_82.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "That sounds more like a problem for you guys.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "March 7th",
+                        "line": "▶ Join us, (Trailblazer). Then it wouldn't be a problem anymore.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_6_mar7th_117_m.ogg/revision/latest?cb=20241030173033",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_March_7th_83.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "I don't know what the carriage is like.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "March 7th",
+                        "line": "Then come aboard and take a look for yourself.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter0_6_mar7th_118.ogg/revision/latest?cb=20241030173035",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_March_7th_84.ogg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Let me think things over.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "▶ I'll be waiting for you, (Trailblazer).",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a1/VO_chapter0_6_mar7th_119_m.ogg/revision/latest?cb=20241030173036",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_85.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toHimeko)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "So, have you thought things through?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter0_6_himeko_118.ogg/revision/latest?cb=20241030173037",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_86.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "I want to join the Express.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Then come with me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter0_6_himeko_119.ogg/revision/latest?cb=20241030173038",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_87.ogg"
+            },
+            {
+                "type": "condition",
+                "text": "(Go to next dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've made up my mind. I'll stay.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(This option only appears if you have gotten permission from Herta and Asta)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Stay? But Herta...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter0_Ag1_himeko_101.ogg/revision/latest?cb=20241030173039",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_88.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Herta and Asta both gave me the green light.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "Is that so... Well, I respect your choice.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/VO_chapter0_Ag1_himeko_102.ogg/revision/latest?cb=20241030173040",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_89.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "▶ Take care, (Trailblazer). We'll come back now and then to see you.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_Ag1_himeko_103_m.ogg/revision/latest?cb=20241030173041",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_90.ogg"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "So long, Himeko.",
+                        "children": [
+                            {
+                                "type": "condition",
+                                "text": "(Go toAlternative Ending)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "note",
+                        "text": "I need some more time to think..."
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I need some more time to think..."
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I still have something to talk to you about, Himeko.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Hm? Go ahead, speak your mind.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter0_6_himeko_120.ogg/revision/latest?cb=20241030173043",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_91.ogg"
+            },
+            {
+                "type": "choice",
+                "text": "Thank you.",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "There's no need to be so formal. You helped us defeat that big fella, anyway. Plus, If we keep speaking pleasantries, we'll waste a whole day.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9a/VO_chapter0_6_himeko_121.ogg/revision/latest?cb=20241030173043",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_92.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "You've done me a huge favor by defending the space station from the Antimatter Legion. And know that while Herta may not admit it, she owes me one. And she will not refuse me if I ask for a favor in return...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter0_6_himeko_122.ogg/revision/latest?cb=20241030173044",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_93.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "And it's probably not too much to ask for a rare item from the space station, right?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter0_6_himeko_123.ogg/revision/latest?cb=20241030173045",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_94.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "How about we continue talking on the Express? I'll make you a cup of coffee, my special blend.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter0_6_himeko_124.ogg/revision/latest?cb=20241030173046",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_95.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Have you taken care of everything you need?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "Haha, I was ready ages ago. *sigh* I've been here so many times before, it should've been just an ordinary trip for me.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter0_6_himeko_125.ogg/revision/latest?cb=20241030173047",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_96.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "But everything's not so ordinary anymore, is it?",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/VO_chapter0_6_himeko_126.ogg/revision/latest?cb=20241030173048",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_97.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "Walking the same path over and over will never be the same, there will always be something new. That's the meaning of trailblazing.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter0_6_himeko_127.ogg/revision/latest?cb=20241030173049",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_98.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "What's the next stop for the Express?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "As always, to follow in the footsteps of Akivili .",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter0_6_himeko_128.ogg/revision/latest?cb=20241030173050",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_99.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "Sometimes, we stop on other worlds and we'll continue to do so. There are countless \"next stops\" in the galaxy.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter0_6_himeko_129.ogg/revision/latest?cb=20241030173050",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_100.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "I love the vast reaches of space, and the Express does too. I want to seek out new worlds, and the Express wants to return to its former path.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/VO_chapter0_6_himeko_130.ogg/revision/latest?cb=20241030173051",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_101.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "text": "Why invite me to join?",
+                "children": [
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "Because you're different.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter0_6_himeko_131.ogg/revision/latest?cb=20241030173052",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_102.ogg"
+                    },
+                    {
+                        "type": "choice",
+                        "text": "Because of the Stellaron?",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Himeko",
+                                "line": "While that might be the biggest reason, it's not the only one.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_6_himeko_132.ogg/revision/latest?cb=20241030173053",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Himeko_103.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "text": "I'm very self-aware.",
+                        "children": [
+                            {
+                                "type": "dialogue",
+                                "speaker": "Himeko",
+                                "line": "Well, the fact that you have a Stellaron in your body is not something most people can boast about.",
+                                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8c/VO_chapter0_6_himeko_133.ogg/revision/latest?cb=20241030173054",
+                                "is_unavailable": false,
+                                "audio_filename": "audio_Himeko_104.ogg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "I think you need a chance. A chance to discover just how different you really are from everyone else. Everybody keeps telling you about how special you are, and how you have a Stellaron inside you...",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_6_himeko_134.ogg/revision/latest?cb=20241030173055",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_105.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "But that's already plain as day to you. And no matter who tells you — be it me, or Herta, or anybody — it's not the same thing as feeling it yourself.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter0_6_himeko_135.ogg/revision/latest?cb=20241030173056",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_106.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "You have to experience enough to know if you've gained or lost anything because of the Stellaron, and to know who you really are... Learn to control the Stellaron and then you can control your destiny.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/26/VO_chapter0_6_himeko_136.ogg/revision/latest?cb=20241030173057",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_107.ogg"
+                    },
+                    {
+                        "type": "dialogue",
+                        "speaker": "Himeko",
+                        "line": "The Stellaron might still be an enigma, but the fact of the matter is — it's a part of you. And you have to embrace this before you can move forward into the future.",
+                        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter0_6_himeko_137.ogg/revision/latest?cb=20241030173058",
+                        "is_unavailable": false,
+                        "audio_filename": "audio_Himeko_108.ogg"
+                    }
+                ]
+            },
+            {
+                "type": "note",
+                "text": "I don't have any more questions."
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "I need some time to think..."
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Let's go~",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Time to get on.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "Ahem!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "???",
+                "line": "I'm over here.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Hey, you over there looking dumbfounded. Yes, Pom-Pom's talking to you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter0_7_pompom_101.ogg/revision/latest?cb=20241030173058",
+        "is_unavailable": false,
+        "audio_filename": "audio__109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Himeko told Pom-Pom about your situation. Now listen up, Pom-Pom will only say this once.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter0_7_pompom_102.ogg/revision/latest?cb=20241030173059",
+        "is_unavailable": false,
+        "audio_filename": "audio__110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Pom-Pom's sure there have been lots of people telling you how special you are lately, but this is the Astral Express, and everyone on here has their secrets.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter0_7_pompom_103.ogg/revision/latest?cb=20241030173100",
+        "is_unavailable": false,
+        "audio_filename": "audio__111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Since you chose to board, you can abide by the rules. You're not the only special one here. You'd best remember that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter0_7_pompom_104.ogg/revision/latest?cb=20241030173101",
+        "is_unavailable": false,
+        "audio_filename": "audio__112.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I'm Pom-Pom, the conductor. Just come find me if you have any trouble.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter0_7_pompom_105.ogg/revision/latest?cb=20241030173102",
+        "is_unavailable": false,
+        "audio_filename": "audio__113.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Look around the Parlor Car"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You boarded the amazing Astral Express, and it's time to get familiar with its passengers and facilities! From now on, this will be your home."
+    },
+    {
+        "type": "note",
+        "text": "New Feature Available: Interastral Guide"
+    },
+    {
+        "type": "note",
+        "text": "Complete Operation Briefing according to the instruction to obtain rewards"
+    },
+    {
+        "type": "tutorial_block",
+        "html_content": "<dl><dt>(Interactive tutorial)</dt>\n<dd>\n<dl><dd>Open <span class=\"text-highlight\">Interastral Peace Guide</span></dd>\n<dd>Complete <span class=\"text-highlight\">Operation Briefing</span> to get the corresponding rewards.</dd>\n<dd>Select <span class=\"text-highlight\">Strategic Training</span></dd>\n<dd>In <span class=\"text-highlight\">Strategic Training</span>, you can learn combat-related knowledge and receive corresponding rewards.</dd>\n<dd>(<span class=\"text-tooltip hover-tooltip\" title=\"on mobile\">Tap</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Tap</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on mobile</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on controller\">Press</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Press</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on controller</span></span>/<span class=\"text-tooltip hover-tooltip\" title=\"on keyboard\">Click</span><span class=\"custom-tt-wrapper mobile-only toggle-tooltip mw-collapsible mw-made-collapsible mw-collapsed srw-collapsible\"><span aria-expanded=\"false\" class=\"mw-collapsible-toggle mw-collapsible-toggle-default mw-collapsible-toggle-collapsed custom-tt toggle-tooltip\" tabindex=\"0\">Click</span><span class=\"mw-collapsible-content custom-tt\" style=\"display:none\">on keyboard</span></span>) here to begin basic training</dd></dl></dd></dl>"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toWelt, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Oh, it's you. How do you feel?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter0_7_welt_101.ogg/revision/latest?cb=20241030173103",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_114.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Full of energy.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Great. Looks like your stamina is really quite special.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter0_7_welt_102.ogg/revision/latest?cb=20241030173104",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_115.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I've got a killer headache.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...I'll check you out in a minute.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter0_7_welt_103.ogg/revision/latest?cb=20241030173105",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_116.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Very tasteful.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Tasteful... Oh, you mean the train? I was asking how you felt physically.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter0_7_welt_105.ogg/revision/latest?cb=20241030173105",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_117.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "You are right, though. Looking at the interior decoration, you can tell that trailblazers have quite good taste.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter0_7_welt_106.ogg/revision/latest?cb=20241030173106",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_118.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "In any case, I have to thank you for saving March.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/08/VO_chapter0_7_welt_107.ogg/revision/latest?cb=20241030173107",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_119.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You guys saved me, too.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Heh, all I did was calm that thing inside you down temporarily...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter0_7_welt_108.ogg/revision/latest?cb=20241030173108",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_120.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...I don't want to frighten you, but the truth is you won't ever be in the clear while it is still inside your body.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter0_7_welt_109.ogg/revision/latest?cb=20241030173109",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_121.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I couldn't just stand by and watch.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "It's good that you think so. Someone with that mindset and the actions to back it up — that is the true meaning of the word \"hero.\"",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter0_7_welt_110.ogg/revision/latest?cb=20241030173110",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_122.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I didn't think too much about it...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "Helping others without a second thought — that is the most important quality of a hero.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter0_7_welt_111.ogg/revision/latest?cb=20241030173111",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_123.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "However, as long as the Stellaron is still in your body, you should be careful what you do. I don't know if Himeko and I can suppress it again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter0_7_welt_112.ogg/revision/latest?cb=20241030173112",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "But I won't bore you any longer. So much happened at the space station, you must be tired.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter0_7_welt_113.ogg/revision/latest?cb=20241030173113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "There should be some time until the next warp jump, so feel free to walk around and familiarize yourself with the environment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter0_7_welt_114.ogg/revision/latest?cb=20241030173114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_126.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Welt again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "But I won't bore you any longer. So much happened at the space station, you must be tired.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cb/VO_chapter0_7_welt_113.ogg/revision/latest?cb=20241030173113",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_127.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "There should be some time until the next warp jump, so feel free to walk around and familiarize yourself with the environment.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/24/VO_chapter0_7_welt_114.ogg/revision/latest?cb=20241030173114",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_128.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "What do you think? Does the Astral Express look the same as you imagined?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_7_himeko_101.ogg/revision/latest?cb=20241030173116",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_129.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "As I expected, it looks like a train.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Everyone on the Express is a passenger.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter0_7_himeko_102.ogg/revision/latest?cb=20241030173117",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_130.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "We're all heading towards an unknown destination, like we are traveling together.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter0_7_himeko_103.ogg/revision/latest?cb=20241030173118",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_131.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Maybe that's why the Trailblaze chose such a look.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter0_7_himeko_104.ogg/revision/latest?cb=20241030173118",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_132.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I feel like it's missing something...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "March said something like that at first, too.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter0_7_himeko_105.ogg/revision/latest?cb=20241030173119",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_133.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Seems like you young people have similar tastes.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter0_7_himeko_106.ogg/revision/latest?cb=20241030173120",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_134.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Oh right — March and Dan Heng should both be in their rooms right now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/11/VO_chapter0_7_himeko_107.ogg/revision/latest?cb=20241030173121",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "You can go look for them. You youngsters should get along well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter0_7_himeko_108.ogg/revision/latest?cb=20241030173122",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_136.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are their rooms fun?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Ah, you know, young people! Their rooms always reflect their personality.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_7_himeko_109.ogg/revision/latest?cb=20241030173123",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_137.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "You can go and... have a look around?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter0_7_himeko_110.ogg/revision/latest?cb=20241030173124",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_138.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What about here...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "We usually meet up here, but our personal cabins are in the next carriage.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter0_7_himeko_111.ogg/revision/latest?cb=20241030173124",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_139.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Also, don't mind Pom-Pom's antics. They're actually pretty interested in you. It's just that we haven't had new passengers on the Express for a long while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter0_7_himeko_112.ogg/revision/latest?cb=20241030173125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_140.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I won't steal Pom-Pom's thunder. If you have any questions, just go ask our conductor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_7_himeko_113.ogg/revision/latest?cb=20241030173126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_141.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Himeko again)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Also, don't mind Pom-Pom's antics. They're actually pretty interested in you. It's just that we haven't had new passengers on the Express for a long while.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter0_7_himeko_112.ogg/revision/latest?cb=20241030173125",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I won't steal Pom-Pom's thunder. If you have any questions, just go ask our conductor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_7_himeko_113.ogg/revision/latest?cb=20241030173126",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_143.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toPom-Pom)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Here already? I was just engaging in pleasantries. How can I help?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter0_7_pompom_106.ogg/revision/latest?cb=20241030173129",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_144.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Where's March 7th's room?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Oh? Why are you interested in her room?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter0_7_pompom_107.ogg/revision/latest?cb=20241030173129",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_145.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Ah, Pom-Pom remembers Himeko saying that you saved her...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter0_7_pompom_108.ogg/revision/latest?cb=20241030173130",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_146.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Mmm, very brave! Very foolhardy! But that is what a Trailblazer should be like.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter0_7_pompom_109.ogg/revision/latest?cb=20241030173131",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_147.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "March 7th's room is in the Express Sleeper Compartment. She's always running around, so she might not be there.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter0_7_pompom_131.ogg/revision/latest?cb=20241030173132",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_148.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "About Dan Heng's room...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Dan Heng's room? Oh, you mean the archives.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter0_7_pompom_111.ogg/revision/latest?cb=20241030173133",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_149.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "He's just... sort of living in there, I guess. I can't be bothered getting him out.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter0_7_pompom_112.ogg/revision/latest?cb=20241030173134",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_150.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "March 7th's room is right next to the Archives. You can visit him on the way.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter0_7_pompom_113.ogg/revision/latest?cb=20241030173135",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_151.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is that a... phonograph ?",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Will result in optional step [(Optional) Investigate the phonograph])"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "You recognize this as well?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter0_7_pompom_114.ogg/revision/latest?cb=20241030173136",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_152.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Himeko always likes to bring back weird junk and try to fix it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter0_7_pompom_115.ogg/revision/latest?cb=20241030173136",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_153.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "That also got modified a bit.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/VO_chapter0_7_pompom_116.ogg/revision/latest?cb=20241030173137",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_154.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "That's all my questions for today.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Will result in step [Head to the Passenger Cabins])"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Pom-Pom still needs to prepare for the Express' warp jump. You can look around the place yourself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter0_7_pompom_120.ogg/revision/latest?cb=20241030173138",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_155.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "No matter where you go on this train, Pom-Pom will always have my eyes on you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/VO_chapter0_7_pompom_121.ogg/revision/latest?cb=20241030173139",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_156.ogg"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(When attempting to enter the Passenger Cabins before talking to Pom-Pom)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Hey! Y—You don't have any questions to ask Pom-Pom!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter0_7_pompom_126.ogg/revision/latest?cb=20241030173140",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Is it because you think Pom-Pom talks too much? Or is it Pom-Pom's age? You youngsters gotta learn to bridge that generation gap.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter0_7_pompom_127.ogg/revision/latest?cb=20241030173141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_158.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Same dialogue options as above)"
+    },
+    {
+        "type": "section_header",
+        "text": "(Optional) Investigate the phonograph"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate Phonograph)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Himeko likes using the Phonograph a lot. She says it can play melodies from the past.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter0_7_pompom_122.ogg/revision/latest?cb=20241030173141",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_159.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Welt likes collecting these jet-black discs. It seems like they could be antiques. He'd be very happy if you could bring a few back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter0_7_pompom_123.ogg/revision/latest?cb=20241030173142",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_160.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Opens"
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Passenger Cabins"
+    },
+    {
+        "type": "heading",
+        "text": "Visit Dan Heng's room"
+    },
+    {
+        "type": "condition",
+        "text": "(Return to the Parlor Car immediately)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "You just left. Why are you back again!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter0_7_pompom_143.ogg/revision/latest?cb=20241030173143",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_161.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Go, go. I'm busy here and I don't have time for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter0_7_pompom_144.ogg/revision/latest?cb=20241030173144",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_162.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ApproachDan Heng's room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (There seems to be the sound of electronic equipment...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter0_7_player_101_m.ogg/revision/latest?cb=20241030173145",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_163.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Hm? Who's there?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/16/VO_chapter0_7_danheng_101.ogg/revision/latest?cb=20241030173147",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_164.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's me, (Trailblazer).",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...Oh, it's you. The door's not locked. Come in.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_7_danheng_102.ogg/revision/latest?cb=20241030173148",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_165.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I haven't even knocked...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "I learned to sense incoming visitors after people kept barging in so frequently.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter0_7_danheng_103.ogg/revision/latest?cb=20241030173148",
+                "is_unavailable": false,
+                "audio_filename": "audio_Dan_Heng_166.ogg"
+            }
+        ]
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "You boarded the amazing Astral Express. From now on, this will be your home. A new adventure is about to start. Prepare to warp jump to a new world!"
+    }
+]

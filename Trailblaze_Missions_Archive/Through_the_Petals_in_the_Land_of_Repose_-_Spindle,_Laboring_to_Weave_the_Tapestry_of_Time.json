@@ -1,0 +1,3269 @@
+[
+    {
+        "type": "heading",
+        "text": "Story Recap"
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ While everyone is awaiting the demigod of Strife to emerge from the trial, something unexpected happens. The Trailblaze squad immediately follows Mydei into the trial and rescues Phainon , who is trapped inside. Just as everyone breathes a sigh of relief, a new problem arises."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Mydei had to shoulder the burden of Strife, but the Kremnoans would never willingly give up the Coreflame to their old foe Okhema . In an attempt to gain a better understanding, he decides to first seek advice from his teacher Krateros , a veteran of Kremnos . The two part on bad terms."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Meanwhile, Trianne and Castorice are dispatched to the Grove of Epiphany as diplomatic envoys of Okhema. When they arrive, they discover to their surprise that the black tide has struck, and they fight a mysterious swordmaster . In the end, they manage to rescue Anaxa and the Coreflame that he carries."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ While everyone is on their way back, within the city of Okhema, Krateros is arrested for abducting Trinnon and trespassing on forbidden grounds. Under Mydei's mediation, Tribbie and her sisters agree to reveal their memories in order to facilitate reconciliation between the Kremnoans and Okhemans."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ Unexpectedly, just as Tribbie and her sisters are about to meet the Time Titan Oronyx and repair their memories, they encounter the mysterious swordmaster yet again. Trianne sacrifices herself and falls with the Titan to protect her companions. In order to take back the Coreflame, everyone set up a plan to \"seal\" the swordmaster."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ The plan suffers multiple setbacks, but Mydei returns as the demigod of Strife and helps everyone reclaim the Coreflame. Not long after, he successfully persuades his people to let go of their prejudices against Okhema. He says goodbye to everyone and returns home to join the frontline against the black tide."
+    },
+    {
+        "type": "note",
+        "text": "▶ ▶ On the other side, everyone holds a simple funeral for Trianne, who exhausted her divine powers and turned into a doll. Having accepted Trianne's last wish, the group continues on the path of the Flame-Chase Journey..."
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Garden of Life and discuss what to do next with the Chrysos Heirs"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "An unexpected encounter with theFlame Reaverled to the premature extraction of Oronyx's Coreflame. The Chrysos Heirs hope that (Trailblazer) will take on the divine role of Time.Trailblazers always face moments like this, where their fate becomes deeply entwined with that of others... Yet only (Trailblazer) can decide where(his/her)destiny leads."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ( Tribios ' memory has unveiled the very first prophecy...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ( \"All shall bid farewell to one, and that person alone will witness the miracle — Such is the will of fate...\" )",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (If I take on Oronyx's trial, will the prophecy come to pass for me as well?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Regardless, I must give Aglaea an answer...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Speak to Castorice and Aglaea"
+    },
+    {
+        "type": "note",
+        "text": "Some time ago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Ah, it's you, Cas. I finished the anthology of poems you lent me — here it is.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_21_aglaea_101.ogg/revision/latest?cb=20250410200306",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I thought you'd be too preoccupied to find time for reading.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_21_castorice_101.ogg/revision/latest?cb=20250410200307",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Precisely because of these obligations, I felt compelled to read it swiftly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/25/VO_chapter4_21_aglaea_102.ogg/revision/latest?cb=20250410200308",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Wouldn't all these preoccupations slow your pace?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter4_21_castorice_102.ogg/revision/latest?cb=20250410200309",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "On the contrary. Knowing that time is limited can push one to overcome their limitations. The weight of these responsibilities seems to have enhanced my reading efficiency.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_21_aglaea_103.ogg/revision/latest?cb=20250410200310",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I understand completely. During my time at the Grove, the closer exams drew, the more efficient I became at tackling everyday mundane tasks — anything but my actual studies.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/83/VO_chapter4_21_castorice_103.ogg/revision/latest?cb=20250410200311",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Precisely.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_21_aglaea_104.ogg/revision/latest?cb=20250410200312",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "As I remember, you and Phainon were both disciples of the Nousporists . I assume that Anaxa's exams were as unreasonable as the man himself, correct?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_21_aglaea_105.ogg/revision/latest?cb=20250410200313",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The courses Professor Anaxa taught were... Introduction to Alchemy and History of Mythology. To be perfectly honest, those two courses were the students' greatest nightmares.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_21_castorice_104.ogg/revision/latest?cb=20250410200314",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "The history of mythology, taught by the blasphemous \"Great Performer\" himself... I can imagine their fear.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_21_aglaea_106.ogg/revision/latest?cb=20250410200315",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Now that I think about it, students would often rush to the podium during class to challenge him on those blasphemous ideas.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter4_21_castorice_105.ogg/revision/latest?cb=20250410200316",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "May I ask, Lady Aglaea, has your relationship with Professor Anaxa always been like this?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_21_castorice_106.ogg/revision/latest?cb=20250410200317",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "He openly dismisses people's faith, and questions the very justification of the Flame-Chase Journey. Our positions have been destined to be at odds. While you were studying there, I assume you must have heard of his nickname.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_21_aglaea_107.ogg/revision/latest?cb=20250410200318",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...\"a dromas draped in finery\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/VO_chapter4_21_castorice_107.ogg/revision/latest?cb=20250410200319",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "As I see it, this nickname is more of an insult to the dromas.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/98/VO_chapter4_21_aglaea_108.ogg/revision/latest?cb=20250410200320",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Hehe...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_21_castorice_108.ogg/revision/latest?cb=20250410200321",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Despite his insufferable arrogance, I do hold a certain respect for his nature as a scholar. To remain true to his principles, he is unafraid to stand opposed to the world — and that requires considerable resolve.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_21_aglaea_109.ogg/revision/latest?cb=20250410200322",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Anaxagoras' life is almost like a satire: as a Chrysos Heir, he refuses to heed the prophecy, while he disrespects the gods...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_21_aglaea_110.ogg/revision/latest?cb=20250410200323",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...The gods have chosen him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter4_21_castorice_109.ogg/revision/latest?cb=20250410200324",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "He was indeed chosen by Cerces .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/49/VO_chapter4_21_aglaea_111.ogg/revision/latest?cb=20250410200325",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Is something weighing on you, Cas? The golden thread is quivering. I sense there's more to this exchange than idle chatter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter4_21_aglaea_112.ogg/revision/latest?cb=20250410200326",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "With all due respect, I'd like to know what you plan to do with him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_21_castorice_110.ogg/revision/latest?cb=20250410200327",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "In light of his assistance in the battle against the Flame Reaver, I am willing to grant him some time to find a way to remove the Coreflame.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cf/VO_chapter4_21_aglaea_113.ogg/revision/latest?cb=20250410200328",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "However, if Anaxa decides to make any move that places us in danger, I will not hesitate to take extreme measures.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_21_aglaea_114.ogg/revision/latest?cb=20250410200329",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Just as I feared...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_21_castorice_111.ogg/revision/latest?cb=20250410200331",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "The Flame-Chase Journey is the destined path for the Chrysos Heirs, yet he now seems more like an empty shell. Given his strong sense of self-respect, I trust that Anaxagoras will make the right decision.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_21_aglaea_115.ogg/revision/latest?cb=20250410200332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Still, I can't help but hope for another possibility...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_21_castorice_112.ogg/revision/latest?cb=20250410200333",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Perhaps Anaxa will also overcome his limitations, now that he knows time is limited.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_21_castorice_113.ogg/revision/latest?cb=20250410200334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I understand your stance. Let's continue this discussion another time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter4_21_aglaea_116.ogg/revision/latest?cb=20250410200335",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But now, let's greet our guest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_21_aglaea_117.ogg/revision/latest?cb=20250410200336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "▶ You're here, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_21_aglaea_118_m.ogg/revision/latest?cb=20250410200337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Does this mean you're ready to take on Oronyx 's trial?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/VO_chapter4_21_aglaea_119.ogg/revision/latest?cb=20250410200339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_31.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "WE are ready, Mem and me.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "Mmm, it seems that this sacred beast is just as indispensable, given their intricate ties to the Titan .",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_21_aglaea_120.ogg/revision/latest?cb=20250410200340",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_32.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm still on the fence...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "I understand. It was the sacred beast's idea, after all. However, it warrants careful consideration, given their intricate ties to the Titan.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0e/VO_chapter4_21_aglaea_121.ogg/revision/latest?cb=20250410200341",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_33.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Hehe, thanks to you, I've evolved from a little dog into a sacred beast!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter4_21_mem_101.ogg/revision/latest?cb=20250410200342",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Surrendering the Coreflame is a Chrysos Heir's duty. Your selfless assistance is deeply appreciated.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_21_aglaea_122.ogg/revision/latest?cb=20250410200343",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "However, I urge you to carefully consider the risks of accepting the trial: Becoming a demigod means forsaking your humanity. You will inherit Oronyx's divinity and bear the Time of Amphoreus , all on your own.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_21_aglaea_123.ogg/revision/latest?cb=20250410200344",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "From that point onward, your fate will be forever intertwined with ours, never to be separated again — until the end of Genesis.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_21_aglaea_124.ogg/revision/latest?cb=20250410200345",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_37.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Are you trying to talk me out of it?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "On the contrary, you are the only one who qualifies to attain divinity. Yet, for that very reason, I do not wish to pressure you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_21_aglaea_125.ogg/revision/latest?cb=20250410200346",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_38.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Is there a plan B?"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Is there a plan B?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It's exceedingly rare to find a capable Chrysos Heir. If this path proves unattainable, I am willing to lower my expectations.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_21_aglaea_127.ogg/revision/latest?cb=20250410200347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "There are still many priests of Janusopolis and their descendants in the city. If I'm left with no other option, I'll try to find someone worthy among them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/87/VO_chapter4_21_aglaea_128.ogg/revision/latest?cb=20250410200348",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_40.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Seems like a shot in the dark.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Exactly! We can't have the civilians bear the risks, can we?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_21_mem_102.ogg/revision/latest?cb=20250410200349",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "If I do not descend into hell, who will?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Don't worry! With me by your side, even if things go south, you'll be heading straight to heaven!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_21_mem_103.ogg/revision/latest?cb=20250410200350",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_42.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Alright, that's it. I am out—",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "▶ Don't give up now, (Trailblazer)!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter4_21_mem_104_m.ogg/revision/latest?cb=20250410200351",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "We've come so far, and everyone is counting on you to be the hero!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_21_mem_105.ogg/revision/latest?cb=20250410200353",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "As for the trial, you have nothing to fear... The Time Titan may be willful at times, but they never caused us any harm.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter4_21_mem_106.ogg/revision/latest?cb=20250410200354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Myth has it that Oronyx opposes mortals, but to me, they just seem a bit timid... like a child.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_21_mem_107.ogg/revision/latest?cb=20250410200355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It looks like you know that Titan rather well.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_21_aglaea_129.ogg/revision/latest?cb=20250410200356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "▶ Oddly enough, I don't remember ever meeting them, but the moment I saw (Trailblazer), Oronyx 's memories were already in my head.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_21_mem_108_m.ogg/revision/latest?cb=20250410200357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...Memories that exist outside of your own experiences?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter4_21_aglaea_130.ogg/revision/latest?cb=20250410200359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_49.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I can't explain why, but I can vouch for Mem's words. When I was in the Abyss , I heard the Titan's groans — full of pain and grievances, yet without any ill will.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter4_21_castorice_114.ogg/revision/latest?cb=20250410200400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_50.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I trust you all to make the right call."
+    },
+    {
+        "type": "choice",
+        "text": "Do I even have any say in this?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Please, trust me on this. At the very least... can you speak with them in person?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_21_mem_109.ogg/revision/latest?cb=20250410200400",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_51.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "I get the feeling that if we don't meet Oronyx , we'll be missing out on something huge!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2c/VO_chapter4_21_mem_110.ogg/revision/latest?cb=20250410200402",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_52.ogg"
+            },
+            {
+                "type": "note",
+                "text": "I trust you to make the right call."
+            },
+            {
+                "type": "note",
+                "text": "Looks like there's no other way."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Since you've made your decision, go back to the bath chamber and get some rest. Trinnon will call for you when the ceremony is ready.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter4_21_aglaea_131.ogg/revision/latest?cb=20250410200403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It is difficult for me as the guide to absolve myself from blame for things to have progressed to this point. Time and again, you have risen to the occasion for Okhema. Merely rewarding you with some Honeydew is no longer able to express the extent of our gratitude.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/01/VO_chapter4_21_aglaea_132.ogg/revision/latest?cb=20250410200404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "When the dust settles, I hope that we'll have the chance to have a long chat regarding your return journey and the curse of the sky... It's about time that we lift the taboo and discuss things openly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_21_aglaea_133.ogg/revision/latest?cb=20250410200405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_55.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak to Castorice"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Before leaving, I should go and say hi to Castorice.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer)... May everything go well for you and Mem.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d0/VO_chapter4_21_castorice_115_m.ogg/revision/latest?cb=20250410200407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_56.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You need Aglaea for something too?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I... It's nothing. I only came to discuss some matters with Lady Aglaea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_21_castorice_116.ogg/revision/latest?cb=20250410200409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Previously, I lent her an anthology of poems that Lady Trianne had gifted to me. Tracing back, this anthology was something left for Lady Trianne by a bard before their passing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_21_castorice_117.ogg/revision/latest?cb=20250410200410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Although personal properties should be cleared out once their owner has passed on, Lady Trianne gave this book to me since she knew how much I like to read.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9f/VO_chapter4_21_castorice_118.ogg/revision/latest?cb=20250410200411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_59.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Can you tell me more about the book?"
+    },
+    {
+        "type": "choice",
+        "text": "Is this book... very special?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "No, it's just an ordinary book. It's definitely not some kind of unique copy.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_21_castorice_119.ogg/revision/latest?cb=20250410200412",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_60.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "It just contains an allegory: In a faraway land, in a city known as Styxia , a dragon corrupted by the black tide descended one day, swooping upon the city like Death itself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_21_castorice_120.ogg/revision/latest?cb=20250410200413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_61.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "It swallowed the princess of the city whole before it was suppressed. After taking down the evil dragon, the warriors discovered that the princess' life had already met its end.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/85/VO_chapter4_21_castorice_121.ogg/revision/latest?cb=20250410200414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_62.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Overwhelmed by grief, the queen hired an alchemist to resurrect the princess using the dragon's flesh and blood. However, having lost memories of her previous life, the resurrected princess turned into an evil dragon herself and wreaked havoc on the city... As a result, the prosperous Styxia met its demise.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_21_castorice_122.ogg/revision/latest?cb=20250410200415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_63.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What a dark story...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "It mustn't have been easy for Cas to narrate this story so calmly...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_21_mem_111.ogg/revision/latest?cb=20250410200416",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_64.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What a touching story...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Huh? How... How was it touching...?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter4_21_mem_112.ogg/revision/latest?cb=20250410200417",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_65.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Hm, I actually think so, too.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_21_castorice_123.ogg/revision/latest?cb=20250410200418",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_66.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "What!? That was the correct option to increase friendship level?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_21_mem_113.ogg/revision/latest?cb=20250410200419",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_67.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "The author of this book is Archepia, a wandering bard who traveled to many cities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_21_castorice_124.ogg/revision/latest?cb=20250410200420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_68.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Among the things she left behind are poems, dictionaries, and many tragicomedy scripts. She even clearly underlined and took notes in books that covered myths with her elegant handwriting.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_21_castorice_125.ogg/revision/latest?cb=20250410200421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_69.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "While flipping through these books, I felt like I was afforded a glimpse into the life of Archepia... It felt just like I was traveling with someone that I'd never met before.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/VO_chapter4_21_castorice_126.ogg/revision/latest?cb=20250410200422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_70.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "It was as if she had yet to pass on and was still alive.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b0/VO_chapter4_21_castorice_127.ogg/revision/latest?cb=20250410200423",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_71.ogg"
+    },
+    {
+        "type": "note",
+        "text": "No one goes through life without leaving their mark behind."
+    },
+    {
+        "type": "note",
+        "text": "She probably did not think much of it while she was writing."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "That's right... Writing, drawing, and taking photographs... It seems like human nature to try and leave records of things.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_21_castorice_128.ogg/revision/latest?cb=20250410200424",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_72.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Speaking of taking photographs, when I was helping you to take the photo previously, I did not look through the photos in your photostone out of courtesy. But I'm also very curious about the story of the Rosy Celestial Maiden .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_21_castorice_129.ogg/revision/latest?cb=20250410200425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_73.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Despite having visited many cities in Amphoreus, I still understand nothing about the world beyond the sky. If there is an opportunity...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter4_21_castorice_130.ogg/revision/latest?cb=20250410200426",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_74.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Forget it. Let's talk about this in the future... For now, I only hope that you'll be able to complete the trial safely and obtain Oronyx 's blessing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter4_21_castorice_131.ogg/revision/latest?cb=20250410200427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_75.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "May you complete the trial safely and obtain Oronyx 's blessing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_21_castorice_132.ogg/revision/latest?cb=20250410200428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_76.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Head to the private bath chamber and speak with Dan Heng"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "An unexpected encounter with the Flame Reaver led to the premature extraction of Oronyx's Coreflame. The Chrysos Heirs hope that (Trailblazer) will take on the authority of Time.(Trailblazer) and Mem are willing to face Oronyx's trial. But with the citizens' assembly approaching, the Chrysos Heir heroes have new troubles on the horizon."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (I don't think there's anything else to do here. Time to go back and talk to Dan Heng.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "May you complete the trial safely and obtain Oronyx 's blessing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_21_castorice_132.ogg/revision/latest?cb=20250410200428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_77.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Phainon and Dan Heng)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Citizens' assembly?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ That's right. Oh (Trailblazer), you're back. Just in time. This is something that the both of you should probably know.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9e/VO_chapter4_21_phainon_101_m.ogg/revision/latest?cb=20250410200430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_78.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Some good news?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Good news? I wouldn't call it that.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_21_phainon_102.ogg/revision/latest?cb=20250410200432",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_79.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "More trouble?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "I wouldn't call it trouble. I just think it will be favorable if the both of you understand the situation in Okhema better.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter4_21_phainon_103.ogg/revision/latest?cb=20250410200433",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_80.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Do you remember the Council of Elders that was on our heels previously? It seems like they've made their move.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Some background information for you: The Council of Elders is an authoritative body in Amphoreus made up of different city representatives. They hold legislative power over the holy city and are in charge of presiding over the citizens' assembly held once every few years.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f2/VO_chapter4_21_phainon_104.ogg/revision/latest?cb=20250410200435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_81.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "This is the most important social event of Okhema. It is highly influential... and can even affect what happens to the Flame-Chase Journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_21_phainon_105.ogg/revision/latest?cb=20250410200436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_82.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So Aglaea doesn't actually call the shots?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Despite her vision and wisdom that spans across thousands of years, even she cannot win over the hearts of everyone.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter4_21_phainon_106.ogg/revision/latest?cb=20250410200437",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_83.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I have never once passed my sociology class.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...Perhaps you should retake some exams next time we visit Paperfold University .",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Tell me more about the citizens' assembly."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Every five to ten years, the Council of Elders organizes a citizens' assembly at Dawncloud .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_21_phainon_107.ogg/revision/latest?cb=20250410200438",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_84.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "During the assembly, the representatives will vote on major issues such as whether the Chrysos Heirs led by Aglaea should still hold the right to govern the holy city and... whether the Titan's conquest should continue.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_21_phainon_108.ogg/revision/latest?cb=20250410200439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_85.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It sounds like some sort of system to balance the heroes and the mortals.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "That is correct. However, the problem lies in the fact that there are ill-intentioned extremists in the Council of Elders. They view the citizens' assembly as a way to restrain the Chrysos Heirs and hope to take complete control over the Flame-Chase Journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter4_21_phainon_109.ogg/revision/latest?cb=20250410200441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_86.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "We can refer to them as the opposition. During the assemblies held in the past hundred years, the voices supporting the opposition have been growing stronger in the shadows. It's only thanks to Aglaea that the Flame-Chase Journey has been able to continue to this day.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_21_phainon_110.ogg/revision/latest?cb=20250410200442",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_87.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "The citizens' assembly is just around the corner, but this time, there seems to be a new variable to the situation...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_21_phainon_111.ogg/revision/latest?cb=20250410200443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_88.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Is it us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "No. Although we might be mentioned, the Council of Elders has another target in mind.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is it Mem?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Me?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_21_mem_114.ogg/revision/latest?cb=20250410200444",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_89.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...An interesting train of thought, but the Council of Elders has another target in mind.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is it Anaxa?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "It looks like you've realized it as well.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I'm afraid that the Council of Elders might want to take advantage of Professor Anaxa.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8a/VO_chapter4_21_phainon_112.ogg/revision/latest?cb=20250410200445",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_90.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Aglaea will surely take back Cerces ' Coreflame. But with Anaxa's current condition... It's so unique that nobody knows how taking the Coreflame away from him will affect him.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_21_phainon_113.ogg/revision/latest?cb=20250410200446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_91.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "He has always been someone that is only concerned about his own research. I'm certain that he must want to escape from the monitoring of the golden thread and protect himself. If the opposition were to offer an olive branch at this time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_21_phainon_114.ogg/revision/latest?cb=20250410200447",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_92.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You suspect that he might betray the Flame-Chase Journey and defect toward the Council of Elders?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Anaxa has never believed in the prophecy, so technically it cannot be considered a betrayal. However, he has taught many Chrysos Heirs and has long been considered an important ally of Okhema. I truly do not wish to... see comrades turning on one another.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter4_21_phainon_115.ogg/revision/latest?cb=20250410200449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_93.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I have a better understanding of the full picture now. Is there anything that we can do?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "As I believe in his character, I plan to plead with Aglaea and try to buy more time for him. Then, the greatest way in which you can help is for you to know what I am fighting for.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/03/VO_chapter4_21_phainon_116.ogg/revision/latest?cb=20250410200449",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_94.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We understand. Thank you for being honest with us.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ Things are piling up again... (Trailblazer) and Mem are tied up with Oronyx 's trial, and while I'm preparing to visit the Grove to uncover clues about the world beyond the sky.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Let's just take things one step at a time."
+    },
+    {
+        "type": "note",
+        "text": "I just want to rest right now."
+    },
+    {
+        "type": "note",
+        "text": "None of those things seem like they are going to be easy to deal with."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Allow me to apologize for the fact that we always seem to be troubling you. I hope that Oronyx will show more benevolence and be more accommodating. I remember that they seemed quite fond of you back in the Abyss.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ca/VO_chapter4_21_phainon_117.ogg/revision/latest?cb=20250410200451",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_95.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Go and rest and regain your strength. We'll meet at the Vortex in a few days.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/VO_chapter4_21_phainon_118.ogg/revision/latest?cb=20250410200452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_96.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Oh right, you can read this scroll if you want to find out more about the Council of Elders and the citizens' assembly.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter4_21_phainon_119.ogg/revision/latest?cb=20250410200452",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_97.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Quick read:A Study of the Citizens' Assembly)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "note",
+                "text": "A Study of the Citizens' Assembly"
+            },
+            {
+                "type": "note",
+                "text": "Democratic politics has always fascinated citizens of different city-states in Amphoreus. When Okhema was first established, its democracy was limited to a privileged minority. However, through ongoing reforms, the Okheman citizens' assembly took to the stage, transforming Okhema's governance into a \"democracy for all\" — where the citizens' assembly made every major decision."
+            },
+            {
+                "type": "note",
+                "text": "It's important to note that as the black tide draws near and citizens from other city-states join Okhema's political life, the precious rights of Okhema's original citizens are becoming increasingly diluted... Consequently, voices calling for reforms with the Okheman citizens' assembly system grew ever louder."
+            },
+            {
+                "type": "note",
+                "text": "Democracy is only one of the consequences of civilization's development, rather than the cause of development. For democracy to be productive, it must appoint different rules for different societies, situations, and issues. No single rule can be optimal for all scenarios."
+            },
+            {
+                "type": "note",
+                "text": "In other words, Okhema's citizens' assembly system will continue to evolve as this book is written. Due to time limitations, this publication focuses only on the current Okheman citizens' assembly, not its future developments. Readers should bear this limitation in mind."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Citizens, Citizenship, and Citizenship Policies of Okhema",
+                "line": "",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "Before examining the Okheman citizens' assembly's operational mechanisms and core functions in-depth, we must first address the matter of citizens, citizenship rights, and citizenship policies of Okhema. The elders have once noted that Okhema is a collective of free citizens. Due to the substantial power citizens possess, citizenship qualifications must be strictly regulated to ensure citizens' rights."
+            },
+            {
+                "type": "note",
+                "text": "Discussions on the recognition of naturalized citizens' rights were once the foci of disputations between the leader of the Chrysos Heirs and the Council of Elders. As more Amphorean city-states fell over time and as the black tide drew closer, citizenship rights reforms became imperative... Judging from the final outcome, citizens from all city-states have equal citizenship rights in the holy city and can have equal participation in public matters."
+            },
+            {
+                "type": "note",
+                "text": "While social differences naturally exist — between rich and poor, locals and travelers — the holy city of Okhema would not allow these social distinctions to become political divisions and will ensure complete political equality among all citizens."
+            },
+            {
+                "type": "note",
+                "text": "(Continued)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Operational Mechanisms of the Citizens' Assembly",
+                "line": "",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "Barring emergencies, Okhema's citizens' assembly follows strict protocols when it is called. The current Council of Elders, a governmental entity made of representatives of the city-state, posts the upcoming citizens' assembly agenda and venue — usually Dawncloud in the holy city — at the Wall of Heroes before each meeting."
+            },
+            {
+                "type": "note",
+                "text": "Usually, topics are proposed by Council of Elders members before the assembly and become official assembly items after receiving majority council approval. The Council pre-determines which matters to address and when. Once confirmed, the council chairman hands over the agenda to the Council of Elders's \"Assembly Chair,\" who presides over the meeting."
+            },
+            {
+                "type": "note",
+                "text": "Normally, matters cannot be discussed at the citizens' assembly without prior council review. Council-reviewed matters yield only two outcomes: Either they're already thoroughly discussed and only need citizen votes, or they require citizens to hold debates to reach final resolutions during the assembly."
+            },
+            {
+                "type": "note",
+                "text": "Results are tallied using pottery shards blessed with Kephale 's runes, with voting dolia placed throughout Okhema during assemblies. After thorough discussion and voting of all proposals, the Council of Elders posts approved decrees at the Wall of Heroes."
+            },
+            {
+                "type": "note",
+                "text": "(Continued)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Core Functions of the Citizens' Assembly",
+                "line": "",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "The assembly wields the important capacities of legislative power, the appointment of government officials, declaring war, conceding peace, and the actual control of armies during wartime."
+            },
+            {
+                "type": "note",
+                "text": "Yet, historically and practically, Okhema's citizens' assembly isn't fully controlled and directed by \"citizens,\" but rather a means to ensure that \"elites\" who represent the majority social interests can effectively manage social matters."
+            },
+            {
+                "type": "note",
+                "text": "In other words, the current system where the leader of the Chrysos Heirs and the Council of Elders jointly manage Okhema was decided by the Okheman citizens' assembly system. Citizens influence policymakers through voting and other means of political participation rather than directly managing social affairs or making political decisions."
+            },
+            {
+                "type": "note",
+                "text": "(Continued)"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Appendix Principal Members of the Council of Elders",
+                "line": "",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "note",
+                "text": "The Council of Elders is a governmental organization consisting of representatives from Amphoreus's city-states. While most are elected by their city-states, some receive direct invitations from current Council of Elders members. Authorized by the citizens' assembly, they manage various practical affairs within Okhema."
+            },
+            {
+                "type": "note",
+                "text": "The most renowned honorary Elder is Lycurgus , an Antikytheran — a race that was already nearly extinct before the Chrysos War . He had communicated directly with Kephale multiple times during the Era Chrysea and passed the wishes of mortals to Kephale, showing himself as a true \"Theoros.\" Lycurgus's neutrality is well noted by all, which explains his frequent selection as the citizens' assembly chair."
+            },
+            {
+                "type": "note",
+                "text": "Significantly, Elder Caenis has shown great effectiveness in Okhema's governance and gathered many followers. Many believe Caenis will leverage accumulated resources to challenge the current situation where the Chrysos Heirs hold real authority and transform Okhema's political structure."
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainA Study of the Citizens' Assembly)"
+    },
+    {
+        "type": "heading",
+        "text": "Rest up and prepare to face the trial"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's just as I suspected. The troubles afflicting the Flame-Chase Journey aren't just external issues. The complex internal politics and interpersonal relationships are also exacerbating the problem.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "We can't let our guard down yet... We have to find out where we stand in this large interwoven web.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Rest for one night"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Ahh... The trial feels like it's just around the corner. I'm starting to feel nervous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_21_mem_115.ogg/revision/latest?cb=20250410200453",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_98.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's not that soon. There are still a few more days until then.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "This is just an exaggerated figure of speech to express how nervous I'm feeling right now!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_21_mem_116.ogg/revision/latest?cb=20250410200454",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_99.ogg"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Don't worry. Everything will be fine."
+    },
+    {
+        "type": "choice",
+        "text": "I feel like a sitting duck that has been thrown into the deep end...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "Speaking of which, I don't recall seeing any rubber duck toys in the baths of Okhema. It seems like they only have these... seals?",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Let's just hope that everything goes well. After all, as someone who has earned the gaze of an Aeon , you should be able to overcome the trial of a regional god just fine.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ We've also unknowingly gotten used to sleeping with the midday sun shining brightly above our heads. Get some rest, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Perhaps, a new phase of our Trailblazing expedition in Amphoreus is about to begin.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Get some rest and wait for the trial.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continues to next step)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Wait, I still have some things to do.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "There are still things that you need to attend to? Alright, but don't overexert yourself. Make sure to keep yourself well rested.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(Exits dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with the chair again after exiting dialogue, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ It's almost time for the ritual. Get some rest, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "choice",
+        "text": "Get some rest and wait for the trial.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continues to next step)"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Wait, I still have some things to do.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "There are still things that you need to attend to? Alright, but don't overexert yourself. Make sure to keep yourself well rested.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "condition",
+                "text": "(Exits dialogue)"
+            }
+        ]
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Vortex of Genesis"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "An unexpected encounter with the Flame Reaver led to the premature extraction of Oronyx's Coreflame. The Chrysos Heirs hope that (Trailblazer) will take on the authority of Time.Even as an outland traveler, whose veins carry no golden blood, has accepted the Titan's trial. Wishing (Trailblazer) and Mem the best of luck.\"I've woven many unforeseen events into the tapestry of fate, this is but one instance.\" I remembered hearing this the first time I met Aglaea."
+    },
+    {
+        "type": "note",
+        "text": "A few days later at the Vortex of Genesis..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "▶ (Trailblazer), the Oronyx 's vacant totem awaits.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_21_aglaea_134_m.ogg/revision/latest?cb=20250410200455",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_100.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "If you have already made your preparations to become a pillar of Amphoreus, please step forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter4_21_aglaea_135.ogg/revision/latest?cb=20250410200458",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_101.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Trinnon"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Phainon, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Accepting a Titan's trial is a very peculiar experience... I'm afraid that I'm not able to accurately describe it. You can only go and experience it for yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_21_phainon_120.ogg/revision/latest?cb=20250410200459",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_102.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "I believe that you'll be able to pull it off.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4f/VO_chapter4_21_phainon_121.ogg/revision/latest?cb=20250410200500",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_103.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Aglaea, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I can still vividly recall when you entered the Vortex of Genesis for the first time. At that time, I could never have imagined that a guest from beyond the sky would shoulder the fate of Amphoreus.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/97/VO_chapter4_21_aglaea_136.ogg/revision/latest?cb=20250410200501",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_104.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Don't feel burdened. Just like during the trial of Strife, Trinnon and Phainon will be waiting for you outside. If something unforeseen were to occur, they will intervene in the trial and rescue you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_21_aglaea_137.ogg/revision/latest?cb=20250410200502",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_105.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "May Kephale bless you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter4_21_aglaea_138.ogg/revision/latest?cb=20250410200503",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_106.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer)... I'm sorry but I'm not sure what I should say to help calm your nerves.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_21_castorice_133_m.ogg/revision/latest?cb=20250410200504",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_107.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_21_castorice_134.ogg/revision/latest?cb=20250410200506",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_108.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Right, perhaps something like: As long as you can successfully complete this trial, the rest of the Flame-Chase Journey will be smooth-sailing?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter4_21_castorice_135.ogg/revision/latest?cb=20250410200507",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_109.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "No, that sounds a little strange... Don't worry, it won't take up too much of your time? Um... Don't worry, you'll definitely make it back alive?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter4_21_castorice_136.ogg/revision/latest?cb=20250410200508",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_110.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/43/VO_chapter4_21_castorice_137.ogg/revision/latest?cb=20250410200509",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_111.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Sorry, it seems like I've made the mood even heavier. In any case... May everything go your way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/de/VO_chapter4_21_castorice_138.ogg/revision/latest?cb=20250410200510",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_112.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Trinnon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "▶ (Trailblazer), and Mem, thank you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_21_trinnon_101_m.ogg/revision/latest?cb=20250410200511",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_113.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Your resolves cannot be questioned. We praise your pure selflessness and courage... May Kephale light your path forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_21_trinnon_102.ogg/revision/latest?cb=20250410200513",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_114.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Tribbie",
+        "line": "Get ready to assume Oronyx 's divinity, Trailblazer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_21_tribbie_101.ogg/revision/latest?cb=20250410200514",
+        "is_unavailable": false,
+        "audio_filename": "audio_Tribbie_115.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "The divine position of Oronyx has already been vacant for some time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_21_trinnon_103.ogg/revision/latest?cb=20250410200515",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_116.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "We can feel the space of the trial closing. As there isn't much of their soul left, we'll have to complete the ceremony before their soul completely dissipates.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_21_trinnon_104.ogg/revision/latest?cb=20250410200516",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_117.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Let's begin."
+    },
+    {
+        "type": "note",
+        "text": "I've long gotten used to fighting fires."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "The eighth Coreflame coveted by the miracle, that once belonged to the great Veil of Evernight, Oronyx.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter4_21_trinnon_105.ogg/revision/latest?cb=20250410200517",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_118.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "It shall now be returned by the two elected heroes of the Chrysos Heirs: a traveler who is upright and courageous and a sacred beast that invokes miracles.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter4_21_trinnon_106.ogg/revision/latest?cb=20250410200518",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_119.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "It's also \"who\" for me, not \"that.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter4_21_mem_117.ogg/revision/latest?cb=20250410200519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_120.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Both of you, please come forward.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/29/VO_chapter4_21_trinnon_107.ogg/revision/latest?cb=20250410200520",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_121.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Recite along with us .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_21_trinnon_108.ogg/revision/latest?cb=20250410200521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_122.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & (Trailblazer) & Mem",
+        "line": "▶ \"O majesty of the Twelve Titans, pillars of the world—\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_21_trinnon_109_m.ogg/revision/latest?cb=20250410200522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_(Trailblazer)_&_Mem_123.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & (Trailblazer) & Mem",
+        "line": "▶ \"We seek your divinity, to mend the rifts of the world —\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_21_trinnon_110_m.ogg/revision/latest?cb=20250410200524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_(Trailblazer)_&_Mem_124.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon & (Trailblazer) & Mem",
+        "line": "▶ \"Fill our bodies with blood of gold, till we wither in willing service to the prophecy...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fe/VO_chapter4_21_trinnon_111_m.ogg/revision/latest?cb=20250410200527",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_&_(Trailblazer)_&_Mem_125.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ I don't think I have gold blood?",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "...These are just words meant to make the prayer seem more solemn. Please focus...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_21_trinnon_112.ogg/revision/latest?cb=20250410200529",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_126.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "...and surrender the Coreflame.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter4_21_trinnon_113.ogg/revision/latest?cb=20250410200530",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_127.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Submit Coreflame"
+    },
+    {
+        "type": "condition",
+        "text": "(SubmitCoreflame of Time)\n(The constellation representing Time is illuminated)"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with the Chrysos Heirs near the vortex"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter4_21_olonyxtt_101.ogg/revision/latest?cb=20250410200531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_128.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Oronyx ... Their soul has been waiting for a long time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ed/VO_chapter4_21_trinnon_114.ogg/revision/latest?cb=20250410200532",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_129.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Perhaps they're also quietly waiting for the arrival of their successor.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/60/VO_chapter4_21_aglaea_139.ogg/revision/latest?cb=20250410200533",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_130.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Wait for my return, my friends.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "The last time I heard this, things didn't turn out that well.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter4_21_aglaea_140.ogg/revision/latest?cb=20250410200534",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_131.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "▶ Don't worry, Aglaea. (Trailblazer) is tougher than I am, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_21_phainon_122_m.ogg/revision/latest?cb=20250410200535",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_132.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I love all of you!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "That doesn't seem appropriate for the current mood, so let's just leave the farewells for next time.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "▶ Don't worry, (Trailblazer). You're tougher than I am, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/VO_chapter4_21_phainon_123_m.ogg/revision/latest?cb=20250410200537",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_133.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter4_21_olonyxtt_102.ogg/revision/latest?cb=20250410200539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_134.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "▶ Let's go, (Trailblazer)!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_21_mem_121_m.ogg/revision/latest?cb=20250410200540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_135.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trinnon",
+        "line": "Traveler from beyond the sky, let us pray that the Titan acknowledges your worthiness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a5/VO_chapter4_21_trinnon_115.ogg/revision/latest?cb=20250410200542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trinnon_136.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ Although (Trailblazer) loves cracking jokes at inopportune times, ( his / her ) determination is as strong as the Chrysos Heirs. ( He / She ) will definitely succeed.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_21_phainon_124_m.ogg/revision/latest?cb=20250410200542",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_137.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ While ( he / she ) 's away... I would like to have a chat with you, Aglaea.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_21_phainon_125_m.ogg/revision/latest?cb=20250410200545",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_138.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_21_aglaea_141.ogg/revision/latest?cb=20250410200547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_139.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Speak, I'm listening.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_21_aglaea_142.ogg/revision/latest?cb=20250410200548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_140.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Awaken during the trial and speak to Mem"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter4_21_olonyxtt_103.ogg/revision/latest?cb=20250410200549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_141.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_21_olonyxtt_104.ogg/revision/latest?cb=20250410200550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_142.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "*slap*... *slap*...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter4_21_mem_122.ogg/revision/latest?cb=20250410200550",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_143.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Wake up... (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_21_mem_123_m.ogg/revision/latest?cb=20250410200552",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_144.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "How is it? How do you feel?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d1/VO_chapter4_21_mem_124.ogg/revision/latest?cb=20250410200553",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_145.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Has the trial begun?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "That's right! Look, look! I don't know what happened, but I'm able to talk! Testing, testing, one, two, three. Testing, Testing one, two, three...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter4_21_mem_125.ogg/revision/latest?cb=20250410200554",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_146.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "How are you able to talk!?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "Right? I think that it's amazing, too! Testing, testing, one, two, three. Testing, testing, one, two, three...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_21_mem_126.ogg/revision/latest?cb=20250410200555",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_147.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "I have such a cute voice! It must be because of all the memories that I collected. They allowed me to grow beyond expectations!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/VO_chapter4_21_mem_127.ogg/revision/latest?cb=20250410200556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_148.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Also, listen... The words of the Titan are becoming clearer.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter4_21_mem_128.ogg/revision/latest?cb=20250410200557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_149.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "Mother... Mother...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_21_olonyx_101.ogg/revision/latest?cb=20250410200558",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_150.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "It hurts... Have I finally reached the end? Are the years of isolation... coming to an end?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_21_olonyx_102.ogg/revision/latest?cb=20250410200559",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_151.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Oronyx ... How heartbreaking. Ever since the figure draped in the black cloak robbed them of their Coreflame, they have been relegated to waiting in isolation in such a confined space...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter4_21_mem_129.ogg/revision/latest?cb=20250410200600",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_152.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "We are going to help alleviate their pain, right?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/VO_chapter4_21_mem_130.ogg/revision/latest?cb=20250410200601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_153.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Oronyx"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "Memories... Broken...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_21_olonyx_103.ogg/revision/latest?cb=20250410200602",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_154.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sound of Oronyx",
+        "line": "Mother... Where...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/92/VO_chapter4_21_olonyx_104.ogg/revision/latest?cb=20250410200603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sound_of_Oronyx_155.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Mother... Who are they calling out for?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_21_mem_131.ogg/revision/latest?cb=20250410200605",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_156.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Oronyx)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "You... It's you... I remember you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_21_olonyx_105.ogg/revision/latest?cb=20250410200606",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_157.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Sky father... has gazed upon you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter4_21_olonyx_106.ogg/revision/latest?cb=20250410200607",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_158.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Mother... is calling for you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_21_olonyx_107.ogg/revision/latest?cb=20250410200608",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_159.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Does sky father... refer to Fuli ?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/VO_chapter4_21_olonyxtt_105.ogg/revision/latest?cb=20250410200609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_160.ogg"
+    },
+    {
+        "type": "note",
+        "text": "The Titan's words are indistinct. Each syllable emerging from the mist seem to be cloaked in frost — symbolizing memory."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Sky father... has chosen you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_21_olonyx_108.ogg/revision/latest?cb=20250410200610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_161.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Who is... your mother?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/VO_chapter4_21_olonyxtt_106.ogg/revision/latest?cb=20250410200611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_162.ogg"
+    },
+    {
+        "type": "note",
+        "text": "A majestic voice pierces through the golden mist, reaching the unseen mountain walls in the distance, reflecting, and returning to your ears as an echo. Within the echo, you seemingly could make out... the cry of a baby."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Mother... is no longer responding...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter4_21_olonyx_109.ogg/revision/latest?cb=20250410200612",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_163.ogg"
+    },
+    {
+        "type": "note",
+        "text": "We've come to you because of something important."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Something... important...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter4_21_olonyx_110.ogg/revision/latest?cb=20250410200613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_164.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "An important... matter...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter4_21_olonyx_111.ogg/revision/latest?cb=20250410200614",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_165.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Oronyx , listen to me...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_21_mem_132.ogg/revision/latest?cb=20250410200615",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_166.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Aren't you tired? Throughout the long years, you have always been protecting the fate of Amphoreus. Each time people draw strength from within their memories, every single ripple falls onto your shoulders.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter4_21_mem_133.ogg/revision/latest?cb=20250410200616",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_167.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "There's no need for you to bear this any longer, Oronyx . From today onwards, someone else will bear Time on your behalf. This is why we have come.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7a/VO_chapter4_21_mem_134.ogg/revision/latest?cb=20250410200617",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_168.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "...Freedom... Freedom?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/52/VO_chapter4_21_olonyx_112.ogg/revision/latest?cb=20250410200618",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_169.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "I want... freedom...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_21_olonyx_113.ogg/revision/latest?cb=20250410200619",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_170.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Oh, poor child, everything will be fine. Let us help you... You can have a good rest now.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4d/VO_chapter4_21_mem_135.ogg/revision/latest?cb=20250410200620",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_171.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a6/VO_chapter4_21_olonyxtt_107.ogg/revision/latest?cb=20250410200621",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_172.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Leave it to us, Titan.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oronyx",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0d/VO_chapter4_21_olonyxtt_108.ogg/revision/latest?cb=20250410200622",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oronyx_173.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What's troubling you, big fella?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Oronyx",
+                "line": "*Titan's murmurs*",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_21_olonyxtt_109.ogg/revision/latest?cb=20250410200623",
+                "is_unavailable": false,
+                "audio_filename": "audio_Oronyx_174.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "You have... potential... strength...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter4_21_olonyx_114.ogg/revision/latest?cb=20250410200624",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_175.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Willpower... powerful... and tenacious...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter4_21_olonyx_115.ogg/revision/latest?cb=20250410200625",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_176.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "But... you lack... something...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter4_21_olonyx_116.ogg/revision/latest?cb=20250410200626",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_177.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Just... one thing...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_21_olonyx_117.ogg/revision/latest?cb=20250410200627",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_178.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Lacking something... What is it?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_21_mem_136.ogg/revision/latest?cb=20250410200628",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_179.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_21_olonyxtt_110.ogg/revision/latest?cb=20250410200629",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_180.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "What you lack...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_21_olonyx_118.ogg/revision/latest?cb=20250410200630",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_181.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Is... a future ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_21_olonyx_119.ogg/revision/latest?cb=20250410200631",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_182.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I don't have a future?"
+    },
+    {
+        "type": "note",
+        "text": "That's right, I live in the moment."
+    },
+    {
+        "type": "note",
+        "text": "What!? What future?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Future...?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_21_mem_137.ogg/revision/latest?cb=20250410200632",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_183.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen distortions appear)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Traveler from the sky... You should have... dissipated already...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_21_olonyx_120.ogg/revision/latest?cb=20250410200633",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_184.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen blurs)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "The gaze from sky father... stabilized... your form...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter4_21_olonyx_121.ogg/revision/latest?cb=20250410200634",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_185.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Because... from the moment you crossed the sky... your life was cast away ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_21_olonyx_122.ogg/revision/latest?cb=20250410200635",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_186.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Right now, you... are simply a collection of walking memories ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_21_olonyx_123.ogg/revision/latest?cb=20250410200636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_187.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "What... H—How is that possible!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter4_21_mem_138.ogg/revision/latest?cb=20250410200636",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_188.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Do you mean that..."
+    },
+    {
+        "type": "note",
+        "text": "...I'm already..."
+    },
+    {
+        "type": "note",
+        "text": "...dead!?"
+    },
+    {
+        "type": "condition",
+        "text": "(The power ofRemembrancedistorts the screen, and the camera begins to shake)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "*Titan's murmurs*",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/VO_chapter4_21_olonyxtt_111.ogg/revision/latest?cb=20250410200637",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_189.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "The space... is collapsing...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_21_olonyx_124.ogg/revision/latest?cb=20250410200638",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_190.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Someone must... inherit... the authority of Time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/80/VO_chapter4_21_olonyx_125.ogg/revision/latest?cb=20250410200639",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_191.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "If the pillar is lost... the laws of Time... will collapse...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9c/VO_chapter4_21_olonyx_126.ogg/revision/latest?cb=20250410200640",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_192.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Amphoreus... will succumb to... eternal disorder...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter4_21_olonyx_127.ogg/revision/latest?cb=20250410200641",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_193.ogg"
+    },
+    {
+        "type": "note",
+        "text": "You still haven't explained things clearly!"
+    },
+    {
+        "type": "note",
+        "text": "What about the trial!?"
+    },
+    {
+        "type": "note",
+        "text": "Revive me, quickly!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Time... never compromises... never bears grudges...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f9/VO_chapter4_21_olonyx_128.ogg/revision/latest?cb=20250410200642",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_194.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Never forgives... never makes a choice...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter4_21_olonyx_129.ogg/revision/latest?cb=20250410200644",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_195.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Child of humanity... Titans... Mother... Sky father...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter4_21_olonyx_130.ogg/revision/latest?cb=20250410200645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_196.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Time... restrains everything that exists in this world...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/VO_chapter4_21_olonyx_131.ogg/revision/latest?cb=20250410200645",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_197.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Oronyx 's divinity... is dissipating? Is the trial coming to an end?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_21_mem_139.ogg/revision/latest?cb=20250410200646",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_198.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Pathstrider of Remembrance... my strength... I shall entrust it to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e6/VO_chapter4_21_olonyx_132.ogg/revision/latest?cb=20250410200647",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_199.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "The fate of the world... if you wish to... save it...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3f/VO_chapter4_21_olonyx_133.ogg/revision/latest?cb=20250410200648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_200.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Go and find... your future that has been stolen...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_21_olonyx_134.ogg/revision/latest?cb=20250410200649",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_201.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "Even if that means... you'll have to cheat death...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_21_olonyx_135.ogg/revision/latest?cb=20250410200650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_202.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Oronyx",
+        "line": "You'll have to challenge that... Hand of Shadow clasped with unyielding fingers...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter4_21_olonyx_136.ogg/revision/latest?cb=20250410200651",
+        "is_unavailable": false,
+        "audio_filename": "audio_Oronyx_203.ogg"
+    },
+    {
+        "type": "note",
+        "text": "▶ Before the passing of fifteen Entry Hours ... Go forth and reclaim your future..."
+    },
+    {
+        "type": "note",
+        "text": "▶ This is the true trial of \"time\"..."
+    },
+    {
+        "type": "heading",
+        "text": "Wake up in the private bath chamber"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "An unexpected encounter with the Flame Reaver led to the premature extraction of Oronyx's Coreflame. The Chrysos Heirs hope that (Trailblazer) will take on the authority of Time.According to Mem, (Trailblazer) had died halfway through theExpress's descent, and now is just a walking memory. Thanks to the unique life-death laws of Amphoreus, (Trailblazer) still has a slim chance of survival, and findingThanatoshas become the priority task.Now, (Trailblazer) must find the one closest to death to confirm their condition."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You're finally awake.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I'll keep it simple — you succeeded. Oronyx has entrusted you with their divinity. Now, you're no different from a demigod of Amphoreus. However...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...Mem has told me about what happened during the trial. They are still explaining things to the others and told me to bring you back to your room to rest first.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "The Titan must be joking, right...?"
+    },
+    {
+        "type": "note",
+        "text": "Don't sigh, Dan Heng..."
+    },
+    {
+        "type": "choice",
+        "text": "So... what's my superpower?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...For you to be able to say that even now... You're truly impressive.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "There's something that... I've never told you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "When we landed on Amphoreus, our car was pierced by Nikador 's lance. Do you remember? Back in the ruins of the Abyss, this was what I said:",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "\"You passed out when our car got hit. I blacked out too, but not before dragging you out. It's a good thing we were in the car, or we would've been crushed to pieces.\"",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Actually... My account kind of made light of the situation. What actually happened was much more complicated.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "You were severely injured back then, with several wounds still bleeding profusely. I struggled to carry you out and used the last of my strength to stem the bleeding. But then, I was also hit by a falling rock and lost my consciousness.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The last time I checked, you still weren't breathing. But when I regained consciousness... I saw that you were alive and full of energy, so I never brought this up again.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "How exactly did I come back to life?"
+    },
+    {
+        "type": "choice",
+        "text": "Haha, so you were knocked unconsciousness by a rock!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "...That's beside the point.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "I'm not sure whether the gaze of Fuli has anything to do with this matter, but according to the Titan, you are living in the form of a memory right now, just like those objects of the past in the miracles of Oronyx.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Perhaps Mem is the anchor rope that ties you to the present. I had assumed they couldn't stray too far from you, but the truth... might be the exact opposite.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "What should we do next?"
+    },
+    {
+        "type": "note",
+        "text": "Cry, cry for me."
+    },
+    {
+        "type": "choice",
+        "text": "Stellaron , do something!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Dan Heng",
+                "line": "For a while, I also thought that the Stellaron was your life support system, but it seems like... this hypothesis has been disproven.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "It's not time for us to despair yet. There must be a way to save you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Oronyx mentioned \"finding your stolen future\" and \"cheating death.\" Considering Mydei's indestructible body, it seems to suggest that there is some kind of miraculous power in Amphoreus that can even reverse death...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The key seems to lie with the Hand of Shadow , whose whereabouts are unknown.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "▶ (Trailblazer)... Are you alright?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter4_21_mem_140_m.ogg/revision/latest?cb=20250410200655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_204.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "I heard you two talking about Thanatos . Cas is also very concerned about the warning.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter4_21_mem_142.ogg/revision/latest?cb=20250410200657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_205.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "She has left the Vortex and returned to the garden. Shall we go and look for her? Thanatos is the Titan that Cas has always been looking for. Regardless of whether there are any clues, there's probably no one else that understands Death better than her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c3/VO_chapter4_21_mem_143.ogg/revision/latest?cb=20250410200658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_206.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ Let's do that then, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "heading",
+        "text": "Head to the Garden of Life and consult Castorice"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Oh right, there's something that I have to tell you. The Chrysos Heirs already know everything that has happened to you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b7/VO_chapter4_21_mem_144.ogg/revision/latest?cb=20250410200659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_207.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "I was too worried, so I told them everything... Ugh, please don't hate me, okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_21_mem_145.ogg/revision/latest?cb=20250410200700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_208.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Dan Heng again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "▶ Let's do that then, (Trailblazer).",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "You notice the resolute yet gentle look in Dan Heng's eyes. He doesn't want to burden you with his worries in words. You already understand — his trust in you transcends words. As he once said, \"It's not the time for sorrow yet.\""
+    },
+    {
+        "type": "note",
+        "text": "Next, he will go to the Grove to check out the situation, while you should be looking for Castorice with Mem."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), I'm right here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter4_21_castorice_139_m.ogg/revision/latest?cb=20250410200701",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_209.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "note",
+        "text": "You hear soft steps coming closer, one step at a time..."
+    },
+    {
+        "type": "condition",
+        "text": "(Screen returns to normal)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Please stay there and slowly turn around...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_21_castorice_140.ogg/revision/latest?cb=20250410200703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_210.ogg"
+    },
+    {
+        "type": "note",
+        "text": "For some reason, you feel you have seen this scene before."
+    },
+    {
+        "type": "condition",
+        "text": "(The power of Death distorts the screen)"
+    },
+    {
+        "type": "note",
+        "text": "You want to turn your head, but you glimpse a dash of purple brushing past your face. Then..."
+    },
+    {
+        "type": "note",
+        "text": "A chill seeps through your skin, spreading into your veins. Thump... thump... your heartbeat begins to slow."
+    },
+    {
+        "type": "note",
+        "text": "(At this moment, I just want to close my eyes...)"
+    },
+    {
+        "type": "note",
+        "text": "(Remembering the near-death experience... gotta stay on guard...)"
+    },
+    {
+        "type": "note",
+        "text": "(Spin around immediately, and give Castorice a scare...)"
+    },
+    {
+        "type": "condition",
+        "text": "(Screen fades to black)"
+    },
+    {
+        "type": "note",
+        "text": "In the blink of an eye, time seems to have frozen beneath that cold sensation, and you just happened to close your eyes..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...Please pardon me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d6/VO_chapter4_21_castorice_141.ogg/revision/latest?cb=20250410200704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_211.ogg"
+    },
+    {
+        "type": "note",
+        "text": "\"The galaxy is vast beyond compare, containing an infinite number of possibilities.\" Our community needs more information on this page! Can you help out? Click here to add more. The reason provided was: Missing animation (Castorice surprise face)"
+    },
+    {
+        "type": "note",
+        "text": "A subtle fragrance of an unnamed flower fills your senses, its sweetness making you forget the need to breathe."
+    },
+    {
+        "type": "note",
+        "text": "You realize you are still alive — no, to be more precise... your death was not thorough."
+    },
+    {
+        "type": "note",
+        "text": "The coldness of the initial touch disperse as quickly as it came, and replacing it... is the touch of fingertips, and a tremble born of trepidation that originated from a certain lanky arm. Her quivering finger gently brushed against your cheek, causing a faint tickle."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter4_21_castorice_142.ogg/revision/latest?cb=20250410200705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_212.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Just as I expected... I cannot feel anything...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/51/VO_chapter4_21_castorice_143.ogg/revision/latest?cb=20250410200706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_213.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Castorice, you're shaking."
+    },
+    {
+        "type": "note",
+        "text": "Am... I really dead?"
+    },
+    {
+        "type": "choice",
+        "text": "You're invading my personal space.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I'm sorry, I just wanted to verify once again...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter4_21_castorice_144.ogg/revision/latest?cb=20250410200707",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_214.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Back at the Grove, I was puzzled as to why you were not affected by my curse. I thought that it might have been the special ability of a traveler from beyond the sky. Never did I expect that this would be the true reason...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter4_21_castorice_145.ogg/revision/latest?cb=20250410200708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_215.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I'm sorry. I should have noticed that something was amiss earlier...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/41/VO_chapter4_21_castorice_146.ogg/revision/latest?cb=20250410200709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_216.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ ( Mr. / Miss ) (Trailblazer), if my abrupt behavior just now offended you, I hope that you can forgive me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_21_castorice_147_m.ogg/revision/latest?cb=20250410200710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_217.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I'm just thinking... If your soul has really left your body, as a mortician, I might be able to trace where it has gone to.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_21_castorice_148.ogg/revision/latest?cb=20250410200712",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_218.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Cas, did you find anything?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6a/VO_chapter4_21_mem_146.ogg/revision/latest?cb=20250410200713",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_219.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "My apologies, not as of yet... Perhaps I have overestimated my capabilities.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter4_21_castorice_149.ogg/revision/latest?cb=20250410200714",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_220.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ But... ( Mr. / Miss ) (Trailblazer), would you be willing to let me try again? This time, I'll increase the area of contact slightly. Perhaps the result might be different this time...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter4_21_castorice_150_m.ogg/revision/latest?cb=20250410200715",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_221.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "(Agree) There's no harm in trying again.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I have never touched the living in this way before. If my actions are in any way disrespectful, I hope that you can forgive me...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_21_castorice_151.ogg/revision/latest?cb=20250410200717",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_222.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "\"The galaxy is vast beyond compare, containing an infinite number of possibilities.\" Our community needs more information on this page! Can you help out? Click here to add more. The reason provided was: Missing animation (Castorice sad face)",
+        "children": [
+            {
+                "type": "note",
+                "text": "Castorice once again places her palm on your face. Her shivers calm somewhat this time."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b2/VO_chapter4_21_castorice_158.ogg/revision/latest?cb=20250410200718",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_223.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter4_21_castorice_159.ogg/revision/latest?cb=20250410200719",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_224.ogg"
+            },
+            {
+                "type": "note",
+                "text": "Did you discover something?"
+            },
+            {
+                "type": "note",
+                "text": "You scared me."
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "I... seem to have caught a glimpse of something. Your soul is currently roaming someplace and cannot find a way to escape...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/VO_chapter4_21_castorice_160.ogg/revision/latest?cb=20250410200720",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_225.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "▶ But perhaps... it might not be a bad thing. If your soul is still wandering around, it means that we still have time... We have a chance to find it before the fingers of Thanatos sweep everything away.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter4_21_castorice_161_m.ogg/revision/latest?cb=20250410200721",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_226.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Clues... Just a few more. I need more guidance...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ef/VO_chapter4_21_castorice_162.ogg/revision/latest?cb=20250410200723",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_227.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "...Huh.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_21_castorice_163.ogg/revision/latest?cb=20250410200724",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_228.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "The connection has been severed. With my strength... I'm not able to trace it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/VO_chapter4_21_castorice_164.ogg/revision/latest?cb=20250410200725",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_229.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "(Refuse) I think I'll pass.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "...My apologies, I will stop making such unreasonable requests.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_21_castorice_152.ogg/revision/latest?cb=20250410200726",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_230.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "▶ Ahh, don't mind ( him... / her... ) (Trailblazer) is just feeling a little nervous and thinks that... Right, ( he / she ) thinks that things are moving a little too quickly!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/59/VO_chapter4_21_mem_147_m.ogg/revision/latest?cb=20250410200727",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_231.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "▶ It was me, I was a little too hasty. Don't worry, ( Mr. / Miss ) (Trailblazer). Although we currently have no leads, I will do my best to search for the whereabouts of Thanatos , bring back their Coreflame, and personally return to you... the life that you have lost too soon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/06/VO_chapter4_21_castorice_153_m.ogg/revision/latest?cb=20250410200729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_232.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I... know that I'm lacking in confidence, but I hope that you can keep this promise of mine in mind. Before I manage to deliver on this promise... please do your best to hang on.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter4_21_castorice_154.ogg/revision/latest?cb=20250410200732",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_233.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Amphoreus... needs you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2d/VO_chapter4_21_castorice_155.ogg/revision/latest?cb=20250410200733",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_234.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'll do my best."
+    },
+    {
+        "type": "note",
+        "text": "So, what now?"
+    },
+    {
+        "type": "note",
+        "text": "Live on bravely... I understand."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lady Aglaea and Lord Phainon are currently discussing some matters in the baths. They're worried about you, too. If possible, please go there and let them know that you're well. Although I don't actually know whether your current situation can be described as \"well\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_21_castorice_156.ogg/revision/latest?cb=20250410200734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_235.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Also, please accept this Styxian fable... Reading can help one to focus and relax... I hope that reading this can help tide you through this difficult period.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_21_castorice_157.ogg/revision/latest?cb=20250410200735",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_236.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(ObtainStyxia Fables (I))"
+    },
+    {
+        "type": "heading",
+        "text": "Discuss your next steps with Aglaea and the others"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "An unexpected encounter with the Flame Reaver led to the premature extraction of Oronyx's Coreflame. The Chrysos Heirs hope that (Trailblazer) will take on the authority of Time.According to Mem, (Trailblazer) had died halfway through the Express's descent, and now is just a walking memory. Thanks to the unique life-death laws of Amphoreus, (Trailblazer) still has a slim chance of survival, and finding Thanatos has become the priority task.(Trailblazer) will be just fine, I sincerely pray so."
+    },
+    {
+        "type": "condition",
+        "text": "(Talk to Castorice again, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Lady Aglaea and Lord Phainon are currently discussing some matters in the baths. They're worried about you, too. If possible, please go there and let them know that you're well. Although I don't actually know whether your current situation can be described as \"well\"...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_21_castorice_156.ogg/revision/latest?cb=20250410200734",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_237.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Aglaea and Phainon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "...They're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter4_21_aglaea_143.ogg/revision/latest?cb=20250410200736",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_238.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "▶ (Trailblazer)! Hyacine said that you'd definitely wake up. How... do you feel?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_21_phainon_126_m.ogg/revision/latest?cb=20250410200737",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_239.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So, the entire world knows about this now...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Mem",
+                "line": "I beg you, please forgive me!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/VO_chapter4_21_mem_148.ogg/revision/latest?cb=20250410200739",
+                "is_unavailable": false,
+                "audio_filename": "audio_Mem_240.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "She can even take the pulse of someone who's dead...?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "That's the medical prowess of the Twilight Courtyard . Amazing, isn't it?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/VO_chapter4_21_phainon_127.ogg/revision/latest?cb=20250410200740",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_241.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "It feels quite cool being a departed spirit.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "Well, at least you look no different from the living. I think that most living people don't even look as good as you do.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter4_21_phainon_128.ogg/revision/latest?cb=20250410200741",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_242.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "You've completed the trial of Time, and I have to admit that the process went better than I expected. Even in the end, that Titan's heart still showed a soft spot for humankind.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fc/VO_chapter4_21_aglaea_144.ogg/revision/latest?cb=20250410200742",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_243.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "However, I never expected that... two people who have cheated death would appear in Okhema at the same time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter4_21_aglaea_145.ogg/revision/latest?cb=20250410200743",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_244.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "That's what we have been talking about. Ugh, Mydei has been in Okhema for such a long time but — has no one ever thought to study his indestructible body? If there were even any minor breakthroughs, we wouldn't be as clueless as we are right now...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_21_phainon_129.ogg/revision/latest?cb=20250410200744",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_245.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Many have had this idea, but so far, there have been no results. If it were successful, Thanatos wouldn't have disappeared without a trace.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/10/VO_chapter4_21_aglaea_146.ogg/revision/latest?cb=20250410200745",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_246.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Nevertheless, now is not the time for us to give up. At the very least, we can still see a glimmer of hope.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter4_21_aglaea_147.ogg/revision/latest?cb=20250410200746",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_247.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Cipher ... If anyone in this world knows the whereabouts of Death, it would be her.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter4_21_aglaea_148.ogg/revision/latest?cb=20250410200747",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_248.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I'll try and get her to return to Okhema but do be prepared for a less-than-ideal outcome. Please understand that throughout the history of Amphoreus, no one has ever managed to escape the clutches of Death. At the end of time, Thanatos silently awaits all.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter4_21_aglaea_149.ogg/revision/latest?cb=20250410200748",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_249.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Thank you for your help.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Aglaea",
+                "line": "It is my duty. We too require you to bear the divine position of Time.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter4_21_aglaea_150.ogg/revision/latest?cb=20250410200749",
+                "is_unavailable": false,
+                "audio_filename": "audio_Aglaea_250.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Is this supposed to be... comforting?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Phainon",
+                "line": "▶ Don't take it to heart, (Trailblazer). After all, you've already created countless miracles along the way, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter4_21_phainon_130_m.ogg/revision/latest?cb=20250410200750",
+                "is_unavailable": false,
+                "audio_filename": "audio_Phainon_251.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "But before that, just...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter4_21_aglaea_151.ogg/revision/latest?cb=20250410200752",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_252.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "What's wrong, Aglaea?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter4_21_phainon_131.ogg/revision/latest?cb=20250410200753",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_253.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Omens always come in pairs. A tiny air current will eventually brew into a storm that tears the sky apart.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/ff/VO_chapter4_21_aglaea_152.ogg/revision/latest?cb=20250410200755",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_254.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "It's Anaxagoras. He has initiated contact with the Council of Elders.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter4_21_aglaea_153.ogg/revision/latest?cb=20250410200756",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_255.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "In the end, it has still come down to this...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter4_21_phainon_132.ogg/revision/latest?cb=20250410200757",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_256.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "I earnestly hope that your assessment of him is accurate, Phainon.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d8/VO_chapter4_21_aglaea_154.ogg/revision/latest?cb=20250410200758",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_257.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Otherwise, the efforts of my teacher and I over the past millennium... might be reduced to dust because of that \"Great Performer\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter4_21_aglaea_155.ogg/revision/latest?cb=20250410200759",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_258.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Switching to Anaxa's POV...",
+        "line": "",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "The pursuit of knowledge should follow a few simple principles, such as \"making the best use of people and things\"..."
+    }
+]

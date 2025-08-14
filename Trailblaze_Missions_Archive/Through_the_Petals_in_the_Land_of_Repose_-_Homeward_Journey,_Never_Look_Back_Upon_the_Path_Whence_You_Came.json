@@ -1,0 +1,614 @@
+[
+    {
+        "type": "heading",
+        "text": "Resist the land of the dead's temptation and leave the nether realm"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "It is not easy for a lost soul to return to the mortal realm. The whispers of Death are sweet and alluring. If your determination wavers, you will succumb and be forever ensnared by the netherworld's grasp.Do not turn around. Look forward. Leave the nether realm and return to the mortal realm."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (A sea of flowers...?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What... is this place?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Allow me to reintroduce myself: I bore the name of Castorice while walking among the mortals, and now I stand as the demigod of Death, the living side of Thanatos ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/84/VO_chapter4_29_castorice_109.ogg/revision/latest?cb=20250517130650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Welcome to my realm, where the west wind ends.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/VO_chapter4_29_castorice_110.ogg/revision/latest?cb=20250517130651",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_1.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "It's a beautiful place.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Every departed soul who has arrived here has expressed the same.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter4_29_castorice_111.ogg/revision/latest?cb=20250517130652",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_2.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Mom, I made it! My character arc is finally done!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "You're still as energetic as always.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3c/VO_chapter4_29_castorice_112.ogg/revision/latest?cb=20250517130653",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_3.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Did you know? Every flower here was planted by Thanatos themself. These flowers were originally both lifeless and immortal, but in the first rain brought by the River of Souls, they were given new life, flourishing as the bearers of countless souls...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/66/VO_chapter4_29_castorice_113.ogg/revision/latest?cb=20250517130654",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "And it is my duty as the master of Death to tend to their well-being and foster their growth in this serene haven.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/ba/VO_chapter4_29_castorice_114.ogg/revision/latest?cb=20250517130655",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Similar to the structured cycle of life and death in the mortal world, these flowers too shall wither and fade, returning to the earth and then ascending to the sky with mist and tides...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter4_29_castorice_115.ogg/revision/latest?cb=20250517130656",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Eventually, they will descend to the mortal land as gentle rain. Every soul undergoes the perpetual cycle of reincarnation, albeit in varied forms, until the world meets its end...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/VO_chapter4_29_castorice_116.ogg/revision/latest?cb=20250517130657",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Yet, sadly, there's no time left for Amphoreus to wait for when the flowers bloom again.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/89/VO_chapter4_29_castorice_117.ogg/revision/latest?cb=20250517130658",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Now, Death is the power at my fingertips. It once led the souls of the deceased here, but I... I shall open the gate of the netherworld and return you to the realm of the living...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter4_29_castorice_118.ogg/revision/latest?cb=20250517130659",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "In exchange... Please, take the Coreflame of Death with you and complete the Flame-Chase Journey. Do not let our work thus far be in vain.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/VO_chapter4_29_castorice_119.ogg/revision/latest?cb=20250517130700",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_10.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You have my word.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Thank you.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f4/VO_chapter4_29_castorice_120.ogg/revision/latest?cb=20250517130701",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_11.ogg"
+            },
+            {
+                "type": "note",
+                "text": "But you're not going back..."
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "You're... not going back?"
+    },
+    {
+        "type": "choice",
+        "text": "But at what cost?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Castorice",
+                "line": "Rest assured, \"defying death\" is Thanatos ' divine authority. Fortunately, your soul hasn't dissipated. This is not a resurrection, but the extradition of a dying person back to the present world.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c9/VO_chapter4_29_castorice_121.ogg/revision/latest?cb=20250517130702",
+                "is_unavailable": false,
+                "audio_filename": "audio_Castorice_12.ogg"
+            },
+            {
+                "type": "note",
+                "text": "So you're not going back..."
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Mm, just like the other demigods , I will stay here... and embrace my destiny.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter4_29_castorice_122.ogg/revision/latest?cb=20250517130703",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "That being said, it is not easy to guide a lost soul back to the mortal realm. The whispers of Death are sweet and alluring. If your determination wavers, you will succumb and be forever ensnared by the netherworld's grasp.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter4_29_castorice_123.ogg/revision/latest?cb=20250517130704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "Please consider this a one-time exception. I will do everything in my power for the Flame-Chase Journey...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter4_29_castorice_124.ogg/revision/latest?cb=20250517130704",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "...And for your life, the only life I can save.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/27/VO_chapter4_29_castorice_138.ogg/revision/latest?cb=20250517130706",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_16.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I'll do my best."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Castorice",
+        "line": "I am... glad to hear that.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3e/VO_chapter4_29_castorice_125.ogg/revision/latest?cb=20250517130705",
+        "is_unavailable": false,
+        "audio_filename": "audio_Castorice_17.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(UnlockAchievementThe Law as the Crown of Peace)"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player turns around)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calls of the Dead",
+        "line": "Please, I beg you, look back for me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3d/VO_chapter4_29_huhuan_101.ogg/revision/latest?cb=20250517130707",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calls_of_the_Dead_18.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calls of the Dead",
+        "line": "Death is such a sweet joy...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f7/VO_chapter4_29_huhuan_102.ogg/revision/latest?cb=20250517130708",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calls_of_the_Dead_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calls of the Dead",
+        "line": "A warm embrace awaits you...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/76/VO_chapter4_29_huhuan_103.ogg/revision/latest?cb=20250517130709",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calls_of_the_Dead_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calls of the Dead",
+        "line": "Just forget about all the hardships of the mortal realm.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/VO_chapter4_29_huhuan_104.ogg/revision/latest?cb=20250517130710",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calls_of_the_Dead_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Calls of the Dead",
+        "line": "Don't go.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/38/VO_chapter4_29_huhuan_105.ogg/revision/latest?cb=20250517130711",
+        "is_unavailable": false,
+        "audio_filename": "audio_Calls_of_the_Dead_22.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofMarch 7thandDan Heng)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), over here!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/75/VO_chapter4_29_mar7th_102_m.ogg/revision/latest?cb=20250517130715",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Keep moving forward and don't look back.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Keep going. The Express is right here with you.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ I believe in you, (Trailblazer).",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter4_29_welt_102_m.ogg/revision/latest?cb=20250517130729",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_24.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ (Trailblazer), don't look back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/VO_chapter4_29_mar7th_101_m.ogg/revision/latest?cb=20250517130713",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Life and death are predetermined, but yours life doesn't end here.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Are you lost? We're all waiting for you ahead.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Remember the Trailblaze . Let it guide your way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter4_29_welt_101.ogg/revision/latest?cb=20250517130727",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_26.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofKafka)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Listen, just keep moving.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kafka",
+        "line": "Listen, your home is not there.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofFirefly"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "One day, our paths will cross again.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Firefly",
+        "line": "Look for the direction of the falling stars when you're lost.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofTribbie,Hyacine, andAglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trianne",
+        "line": "Lift your chin up high and step forward with us toward tomorrow!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter4_29_trianne_102.ogg/revision/latest?cb=20250517130726",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trianne_27.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Trianne",
+        "line": "Little Gray, you won't find tomorrow there!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter4_29_trianne_101.ogg/revision/latest?cb=20250517130725",
+        "is_unavailable": false,
+        "audio_filename": "audio_Trianne_28.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram of Aglaea)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "That's right. Keep your eyes on the dawn.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/cd/VO_chapter4_29_aglaea_102.ogg/revision/latest?cb=20250517130650",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_29.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aglaea",
+        "line": "Don't look back. Don't make Castorice regret this.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_29_aglaea_101.ogg/revision/latest?cb=20250517130648",
+        "is_unavailable": false,
+        "audio_filename": "audio_Aglaea_30.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofMydei)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Onward! Show me your courage.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/63/VO_chapter4_29_mydei_102.ogg/revision/latest?cb=20250517130721",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mydei",
+        "line": "Only the weak will be hindered by the far-reaching grasp of Calamity. Are you one of them?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter4_29_mydei_101.ogg/revision/latest?cb=20250517130720",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mydei_32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the hologram ofPhainon)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Partner, we shall become heroes together!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a3/VO_chapter4_29_phainon_102.ogg/revision/latest?cb=20250517130724",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_33.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(If the player attempts to go back)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Phainon",
+        "line": "Partner, don't you dare lose to the shadows of death!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter4_29_phainon_101.ogg/revision/latest?cb=20250517130722",
+        "is_unavailable": false,
+        "audio_filename": "audio_Phainon_34.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Almost there...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Finally...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (...Thank you, Castorice.)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Since I've already made it to the end, maybe I can have one last glance at that sea of flowers...)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "note",
+        "text": "Don't turn around. Keep looking forward."
+    },
+    {
+        "type": "note",
+        "text": "Don't turn around. Keep looking forward."
+    },
+    {
+        "type": "note",
+        "text": "Don't turn around. Keep looking forward."
+    },
+    {
+        "type": "note",
+        "text": "Don't turn around. Keep looking forward."
+    },
+    {
+        "type": "note",
+        "text": "Don't turn around. Keep looking forward."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Fear not, as a touch of red will be awaiting you at the end of the path.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "It'll guide you and illuminate the way out. By doing so... you'll eventually reunite in the warmth of the sunlight.",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What's this...!?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (What in the world are these shadows and voices...?)",
+        "audio_url": null,
+        "is_unavailable": false
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"All of this is proof that you once lived.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter4_29_mem_101.ogg/revision/latest?cb=20250517130716",
+        "is_unavailable": false,
+        "audio_filename": "audio__35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"Your soul, your memories, the years you've journeyed through, and the path they revealed, leading you back home.\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8f/VO_chapter4_29_mem_102.ogg/revision/latest?cb=20250517130717",
+        "is_unavailable": false,
+        "audio_filename": "audio__36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "\"So, continue onward. Do not stop moving forward, and do not let her sacrifice and the support of all who have stood by you be in vain...\"",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter4_29_mem_103.ogg/revision/latest?cb=20250517130718",
+        "is_unavailable": false,
+        "audio_filename": "audio__37.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Over here, friend...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/VO_chapter4_29_mem_104.ogg/revision/latest?cb=20250517130718",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mem",
+        "line": "Take my hand. Let's go home...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/VO_chapter4_29_mem_105.ogg/revision/latest?cb=20250517130719",
+        "is_unavailable": false,
+        "audio_filename": "audio_Mem_39.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Goodbye, nether realm."
+    },
+    {
+        "type": "note",
+        "text": "Hello again, mortal realm."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ ...Let the Trailblazing... continue.",
+        "audio_url": null,
+        "is_unavailable": false
+    }
+]

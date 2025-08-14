@@ -1,0 +1,667 @@
+[
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "You board theAstral Expressand become acquainted with a group of companions who may not always get along, but are all at least friendly.A journey with an unknown destination between the stars is about to begin. Maybe you really did accidentally stumble upon some set of a Sci-Fi movie.ConductorPom-Pomannounces that the warp jump is about to begin — seeing that you're still new to interstellar travel, best you find a seat and hang on tight."
+    },
+    {
+        "type": "condition",
+        "text": "(Immediately after completing previous mission)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Conductor, can I get a juice, please? Thank youuuu~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c5/VO_chapter0_8_mar7th_118.ogg/revision/latest?cb=20241030173518",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Ugh... We're jumping in five minutes! You can have something to drink when it's over!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter0_8_pompom_104.ogg/revision/latest?cb=20241030173519",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "...But I'm thirsty now!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/91/VO_chapter0_8_mar7th_119.ogg/revision/latest?cb=20241030173520",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toHimeko, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Our next stop is a small planet called Jarilo-VI .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter0_8_himeko_101.ogg/revision/latest?cb=20241030173521",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "It's been thousands of years since the last time the Express paid a visit. The data bank shows it was a lush and beautiful place.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter0_8_himeko_102.ogg/revision/latest?cb=20241030173522",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "But after all this time, it's possible that dramatic changes have occurred.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b9/VO_chapter0_8_himeko_103.ogg/revision/latest?cb=20241030173523",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_5.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toWelt, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "Jumps are like this: They may feel novel the first few times, but you'll slowly get used to them after a few more.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dc/VO_chapter0_8_welt_101.ogg/revision/latest?cb=20241030173524",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "As for the mechanism... Well, if you're interested, I'll explain it to you in detail when we have more time.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/VO_chapter0_8_welt_102.ogg/revision/latest?cb=20241030173525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_7.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "For now, just sit and wait. Remember to close your eyes — it helps with the dizziness.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/VO_chapter0_8_welt_103.ogg/revision/latest?cb=20241030173526",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Investigate door to thePassenger Cabins, optional)"
+    },
+    {
+        "type": "note",
+        "text": "The door is shut tight..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Hmm... Maybe Dan Heng locked it?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter0_8_player_101_m.ogg/revision/latest?cb=20241030173527",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_9.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Talk toMarch 7th, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Oh, don't worry about me. I just wanna see if I can stay on my feet this time~",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1d/VO_chapter0_8_mar7th_120.ogg/revision/latest?cb=20241030173528",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_10.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Good luck, I'm rooting for you.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Thanks. I feel like I'm starting to get the hang of it.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/VO_chapter0_8_mar7th_121.ogg/revision/latest?cb=20241030173529",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_11.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "The key is using your core, waist, and leg muscles. It's not your stance that matters, but your ability to ride the inertia...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter0_8_mar7th_122.ogg/revision/latest?cb=20241030173530",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_12.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Don't hurt yourself.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "It's fine, I'm sturdier than I look~ Besides, the ice will protect me.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter0_8_mar7th_123.ogg/revision/latest?cb=20241030173531",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_13.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "When I'm in danger, I instinctively create ice to protect myself.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/VO_chapter0_8_mar7th_124.ogg/revision/latest?cb=20241030173532",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_14.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...Though sometimes falling on the ice actually hurts more than falling on the ground.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/09/VO_chapter0_8_mar7th_125.ogg/revision/latest?cb=20241030173533",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_15.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why do you make things hard for yourself?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Don't be silly — this is fun!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/90/VO_chapter0_8_mar7th_126.ogg/revision/latest?cb=20241030173534",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_16.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "I like keeping busy, otherwise I start obsessing over... pointless things.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter0_8_mar7th_127.ogg/revision/latest?cb=20241030173535",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_17.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Well, don't mind me. Find a place to sit down and buckle up.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter0_8_mar7th_128.ogg/revision/latest?cb=20241030173536",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_18.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Interact with sofa)"
+    },
+    {
+        "type": "note",
+        "text": "A very comfortable sofa... Feels like you'll fall right to sleep after sitting on it."
+    },
+    {
+        "type": "choice",
+        "text": "Hold on tight and wait for the jump to finish.",
+        "children": [
+            {
+                "type": "condition",
+                "text": "(Continue with cutscene below)"
+            }
+        ]
+    },
+    {
+        "type": "note",
+        "text": "Talk to other companions."
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Hello? Hello hello?",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "All passengers, please return to your seats.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "...I won't fall over! I won't fall over!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "The train is about to make the jump!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Hold on, everyone!",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "5",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "4",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "3",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "2",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "1",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "After all those millennia... is this what Jarilo-VI has become?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/VO_chapter0_8_himeko_104.ogg/revision/latest?cb=20241030173537",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "Huh? So that snowy planet is our destination this time?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0f/VO_chapter0_8_mar7th_129.ogg/revision/latest?cb=20241030173538",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Yes... Looks like this trailblazing expedition won't be easy.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter0_8_himeko_105.ogg/revision/latest?cb=20241030173538",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Spatial readout anomaly! Star rail stability is down to 12%!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/95/VO_chapter0_8_pompom_105.ogg/revision/latest?cb=20241030173539",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Schedule alteration: Seven-day stopover time extended indefinitely!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter0_8_pompom_106.ogg/revision/latest?cb=20241030173540",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_23.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Anomaly?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "The complex locality of this world has been... affected somehow. The star rail has been blocked off by something.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter0_8_himeko_106.ogg/revision/latest?cb=20241030173541",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_24.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Take an ordinary train as an example: It's like the tracks up ahead have suddenly snapped, and the way forward leads straight into a collapsing abyss...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter0_8_himeko_107.ogg/revision/latest?cb=20241030173542",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_25.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "The only sensible thing to do would be to brake hard, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b8/VO_chapter0_8_himeko_108.ogg/revision/latest?cb=20241030173543",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_26.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Indefinitely?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Pom-Pom",
+                "line": "Indefinitely. Until the anomaly is removed!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter0_8_pompom_107.ogg/revision/latest?cb=20241030173544",
+                "is_unavailable": false,
+                "audio_filename": "audio_Pom-Pom_27.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Take an ordinary train as an example: It's like the tracks up ahead have suddenly snapped, and the way forward leads straight into a collapsing abyss...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/VO_chapter0_8_himeko_109.ogg/revision/latest?cb=20241030173545",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_28.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "The only sensible thing to do would be to brake hard, right?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter0_8_himeko_110.ogg/revision/latest?cb=20241030173546",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_29.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "If we try to force our way ahead, there could be a hefty price to pay!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d4/VO_chapter0_8_pompom_108.ogg/revision/latest?cb=20241030173547",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "This again... Don't tell me, it's gotta be...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/46/VO_chapter0_8_mar7th_130.ogg/revision/latest?cb=20241030173547",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The results of the preliminary analysis are here — the anomaly stems from a Stellaron , as always.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/VO_chapter0_8_welt_104.ogg/revision/latest?cb=20241030173548",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_32.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Stellaron..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "▶ Yes, (Trailblazer) — just like the one that's been placed into your body.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter0_8_welt_105_m.ogg/revision/latest?cb=20241030173549",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_33.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "What should we do...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Don't worry. It's not the first time our route has been obstructed by a Stellaron.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/VO_chapter0_8_himeko_111.ogg/revision/latest?cb=20241030173551",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_34.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Stellarons are clouded in mystery — even Herta isn't able to fully understand them... but at least we know how to neutralize their influences.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e2/VO_chapter0_8_himeko_112.ogg/revision/latest?cb=20241030173552",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_35.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "What exactly is a Stellaron?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Stellarons are clouded in mystery — even Herta isn't able to fully understand them...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c7/VO_chapter0_8_himeko_113.ogg/revision/latest?cb=20241030173553",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_36.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "But there's no need to worry — this isn't the first time our route has been obstructed by a Stellaron. Even if we don't know much about them, at least we know how to neutralize their influences.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/73/VO_chapter0_8_himeko_114.ogg/revision/latest?cb=20241030173554",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_37.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "The only thing we can say for sure is that their arrival causes massive changes to civilizations and ecosystems. They also generate distortions in space such as Fragmentums .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter0_8_welt_106.ogg/revision/latest?cb=20241030173555",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "There must be an inextricable connection between the Stellaron we're dealing with here, and Jarilo-VI becoming a frozen planet.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/13/VO_chapter0_8_welt_107.ogg/revision/latest?cb=20241030173556",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "Our current theory is that Stellarons are seeds of disaster planted by a certain Aeon throughout the universe. We can't continue to trailblaze without removing the source of the disaster.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3a/VO_chapter0_8_himeko_115.ogg/revision/latest?cb=20241030173557",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_40.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "So you're saying...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "That we've gotta get busy!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter0_8_mar7th_131.ogg/revision/latest?cb=20241030173557",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_41.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why can't the people in the worlds affected save themselves?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "It's empowering, looking out at a world from a window like this...",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/71/VO_chapter0_8_welt_108.ogg/revision/latest?cb=20241030173558",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_42.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Welt",
+                "line": "...but when you set foot on the planet itself, you realize how small and helpless you really are — just like them.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c6/VO_chapter0_8_welt_109.ogg/revision/latest?cb=20241030173559",
+                "is_unavailable": false,
+                "audio_filename": "audio_Welt_43.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "So we're like a chivalrous band of cosmic knights!",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Right! You finally get what we're all about. Pretty cool, huh?",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a8/VO_chapter0_8_mar7th_132.ogg/revision/latest?cb=20241030173600",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_44.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ (Trailblazer), I'd like to entrust this trailblazing expedition to March, Dan Heng, and you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0c/VO_chapter0_8_himeko_116_m.ogg/revision/latest?cb=20241030173601",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "The objective is clear: Find the Stellaron responsible for the disaster and the spatial distortions, and bring it back to the Express. We'll deal with the rest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter0_8_himeko_117.ogg/revision/latest?cb=20241030173603",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_46.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "March 7th",
+        "line": "▶ Awesome! We get to work as a team again, (Trailblazer)!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/00/VO_chapter0_8_mar7th_133_m.ogg/revision/latest?cb=20241030173604",
+        "is_unavailable": false,
+        "audio_filename": "audio_March_7th_47.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "You're not coming?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Someone has to stay on the train, or Pom-Pom will get lonely.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter0_8_himeko_118.ogg/revision/latest?cb=20241030173606",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_48.ogg"
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Not to mention, Nanook threw us a glance just now. If we're targeted by the Antimatter Legion , then things could go south fast.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter0_8_himeko_119.ogg/revision/latest?cb=20241030173607",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_49.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "Why us?",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Himeko",
+                "line": "Because you three made a great team back in the space station. My guess is that if you spend even longer together, we'll see something even more impressive.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter0_8_himeko_120.ogg/revision/latest?cb=20241030173608",
+                "is_unavailable": false,
+                "audio_filename": "audio_Himeko_50.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I'm kinda sleepy...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "March 7th",
+                "line": "Hey! That's not the spirit!",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7c/VO_chapter0_8_mar7th_134.ogg/revision/latest?cb=20241030173609",
+                "is_unavailable": false,
+                "audio_filename": "audio_March_7th_51.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Welt",
+        "line": "So it's still not our turn...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter0_8_welt_110.ogg/revision/latest?cb=20241030173609",
+        "is_unavailable": false,
+        "audio_filename": "audio_Welt_52.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "I know you really want to go, but we should give the youngsters a chance to get out there on their own. It'll be a good opportunity for them to bond.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/c1/VO_chapter0_8_himeko_121.ogg/revision/latest?cb=20241030173610",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "▶ (Trailblazer), March, if you two are ready, why not go and find Dan Heng?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/VO_chapter0_8_himeko_122_m.ogg/revision/latest?cb=20241030173611",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_54.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Himeko",
+        "line": "He's probably already started collating the ecological data and survey results for Jarilo-VI. It's always good to know more about the destination before you start a journey.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1a/VO_chapter0_8_himeko_123.ogg/revision/latest?cb=20241030173613",
+        "is_unavailable": false,
+        "audio_filename": "audio_Himeko_55.ogg"
+    }
+]

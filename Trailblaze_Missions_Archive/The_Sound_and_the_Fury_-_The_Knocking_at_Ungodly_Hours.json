@@ -1,0 +1,781 @@
+[
+    {
+        "type": "heading",
+        "text": "Leave the strange room"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "This warp jump is quite unusual. In the blink of an eye, you transition from the comfortable couch of theParlor Carto an unfamiliar location. A stranger awakens you, claiming that both of you coincidentally share the same dream, and offers to guide you to an exit.Follow her guidance and leave this area."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Not another one...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b6/VO_chapter3_0_acheron_101.ogg/revision/latest?cb=20240729020313",
+        "is_unavailable": false,
+        "audio_filename": "audio__0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...Come with me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_0_acheron_102.ogg/revision/latest?cb=20240729020315",
+        "is_unavailable": false,
+        "audio_filename": "audio__1.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Who are you?"
+    },
+    {
+        "type": "note",
+        "text": "What is this place?"
+    },
+    {
+        "type": "note",
+        "text": "Where are we going?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "These questions... have no meaning. But, I will answer you as best as I can: This is the border between reality and the Memory Zone , a... dreamscape.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/86/VO_chapter3_0_acheron_103.ogg/revision/latest?cb=20240729020317",
+        "is_unavailable": false,
+        "audio_filename": "audio__2.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Right this moment, you and I have coincidentally shared the same dreamscape, and appeared in each other's minds. This is the Land of Dreams's inaugural welcome for us.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5c/VO_chapter3_0_acheron_104.ogg/revision/latest?cb=20240729020319",
+        "is_unavailable": false,
+        "audio_filename": "audio__3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Worry not, for very quickly, you will awaken from this dream, forget everything that has transpired, with naught but a faint lingering of loss.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a4/VO_chapter3_0_acheron_105.ogg/revision/latest?cb=20240729020322",
+        "is_unavailable": false,
+        "audio_filename": "audio__4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Pay no mind, for this forgetfulness happens with each new dawn. It is an occurrence that we have become accustomed to for so long.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/VO_chapter3_0_acheron_106.ogg/revision/latest?cb=20240729020324",
+        "is_unavailable": false,
+        "audio_filename": "audio__5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...So, come with me. I'll take you home.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_0_acheron_107.ogg/revision/latest?cb=20240729020326",
+        "is_unavailable": false,
+        "audio_filename": "audio__6.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Continue down the unfamiliar corridor"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The warrior calls herself \"Acheron,\" aGalaxy Ranger.Continue to follow in her footsteps and leave this strange dream."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Left, to the end of the corridor. I will wait there for you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a2/VO_chapter3_0_acheron_108.ogg/revision/latest?cb=20240729020328",
+        "is_unavailable": false,
+        "audio_filename": "audio__7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Head right, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I'm not there. Turn back.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/55/VO_chapter3_0_acheron_110.ogg/revision/latest?cb=20240729020332",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_8.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Acheron)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Galaxy Ranger, Acheron... This is what they call me. You can call me whatever you want.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/VO_chapter3_0_acheron_109.ogg/revision/latest?cb=20240729020330",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_9.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Acheron leads you to a door. Is this the dreamscape exit?"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Acheron)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Open this door... Take a look at the mesmerizing dreamscape, while you can still remember.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_0_acheron_111.ogg/revision/latest?cb=20240729020334",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_10.ogg"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "The warrior calls herself \"Acheron,\" a Galaxy Ranger.Continue to follow in her footsteps and leave this strange dream."
+    },
+    {
+        "type": "condition",
+        "text": "(Enter through the door)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (This is, no way...)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/VO_chapter3_0_player_104_m.ogg/revision/latest?cb=20240729020508",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_11.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Acheron)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "This way.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e8/VO_chapter3_0_acheron_112.ogg/revision/latest?cb=20240729020336",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "After you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ea/VO_chapter3_0_acheron_113.ogg/revision/latest?cb=20240729020337",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_13.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Search for an exit in the unfamiliar lobby"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Acheron leads you to a lobby. She points out a path for you, but you see no clear path through this room.Search around to find a true path."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the marked location)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (Am I supposed to walk up the wall...?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/VO_chapter3_0_player_105_m.ogg/revision/latest?cb=20240729020512",
+        "is_unavailable": false,
+        "children": [
+            {
+                "type": "condition",
+                "text": "(UnlockAchievementJack of All Trades)"
+            }
+        ],
+        "audio_filename": "audio_(Trailblazer)_14.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Speak with Acheron"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After a disorienting exploration, you realize that you have somehow ended up on the lobby ceiling.Acheron seems to be long accustomed to this and simply points out the dreamscape exit just ahead."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (How is this even possible!?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/04/VO_chapter3_0_player_106_m.ogg/revision/latest?cb=20240729020516",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "(Why not?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter3_0_acheron_114.ogg/revision/latest?cb=20240729020339",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "(Trailblazer)",
+        "line": "▶ (She can hear the thoughts in my head?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/20/VO_chapter3_0_player_107_m.ogg/revision/latest?cb=20240729020520",
+        "is_unavailable": false,
+        "audio_filename": "audio_(Trailblazer)_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "(Why not?)",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/fd/VO_chapter3_0_acheron_115.ogg/revision/latest?cb=20240729020347",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_18.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach Acheron)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "We're almost there. Can you still walk?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/61/VO_chapter3_0_acheron_116.ogg/revision/latest?cb=20240729020349",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_19.ogg"
+    },
+    {
+        "type": "choice",
+        "text": "Now I Am Become Trailblaze, the Perambulator of Walls.",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "You're funny. If you can crack jokes, you're probably fine.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/VO_chapter3_0_acheron_117.ogg/revision/latest?cb=20240729020351",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_20.ogg"
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "text": "I feel a bit faint...",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "Don't panic, this is normal.",
+                "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/VO_chapter3_0_acheron_118.ogg/revision/latest?cb=20240729020353",
+                "is_unavailable": false,
+                "audio_filename": "audio_Acheron_21.ogg"
+            }
+        ]
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Don't stop, don't turn back, don't look down. Or up, for that matter.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter3_0_acheron_119.ogg/revision/latest?cb=20240729020355",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_22.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Advance with Acheron"
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "Acheron guides you through a magnificent dreamscape. It seems that the exit is just ahead."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach the middle of the room)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "These voices... They are just shadows of the dreamscape. Pay no heed to them.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/VO_chapter3_0_acheron_120.ogg/revision/latest?cb=20240729020357",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_23.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen toSilver WolfandSam, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Silver Wolf",
+        "line": "How do you intend to pull them off the stage?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter3_0_silverwolf_101.ogg/revision/latest?cb=20240729020531",
+        "is_unavailable": false,
+        "audio_filename": "audio_Silver_Wolf_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "All we have to do is present the truth, and they will naturally reciprocate.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4b/VO_chapter3_0_sam_101.ogg/revision/latest?cb=20240729020529",
+        "is_unavailable": false,
+        "audio_filename": "audio__25.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen toSundayandRobin, optional)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "The Charmony Festival's stage belongs only to you, little sister.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/07/VO_chapter3_0_sunday_101.ogg/revision/latest?cb=20240729020535",
+        "is_unavailable": false,
+        "audio_filename": "audio__26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "But if I can't sing... what meaning does a stage have?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter3_0_robin_101.ogg/revision/latest?cb=20240729020527",
+        "is_unavailable": false,
+        "audio_filename": "audio__27.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen toDr. RatioandAventurine, optional)[Note 1]"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dr. Ratio",
+        "line": "Ah, the charming audacity! To think that you, of all people, might emerge victorious, dear gambler.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/VO_chapter3_0_ratio_101.ogg/revision/latest?cb=20240729020525",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dr._Ratio_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Three chips are enough. All or nothing.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter3_0_aventurine_101.ogg/revision/latest?cb=20240729020448",
+        "is_unavailable": false,
+        "audio_filename": "audio__29.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Listen toBlack SwanandSparkle, optional)[Note 2]"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Memokeeper... Do you think you can just leave?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/af/VO_chapter3_0_sparkle_101.ogg/revision/latest?cb=20240729020533",
+        "is_unavailable": false,
+        "audio_filename": "audio__30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "I'm sorry. The dance partner of my choice... I've already chosen.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/42/VO_chapter3_0_blackswan_101.ogg/revision/latest?cb=20240729020450",
+        "is_unavailable": false,
+        "audio_filename": "audio__31.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Follow Acheron to the end of the corridor)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...We're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/aa/VO_chapter3_0_acheron_121.ogg/revision/latest?cb=20240729020359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_32.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Open door)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Welcome to the Reverie! May you experience an unforgettable holiday! If you need help checking in, please head straight to the concierge...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e5/VO_chapter3_0_misha_101.ogg/revision/latest?cb=20240729020452",
+        "is_unavailable": false,
+        "audio_filename": "audio__33.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Leave this realm, and rise as you would on any other day. Forget this fortuitous encounter, and return whence you came.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/dd/VO_chapter3_0_acheron_122.ogg/revision/latest?cb=20240729020401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_34.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "But before you do, I would make a request of you.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/bd/VO_chapter3_0_acheron_123.ogg/revision/latest?cb=20240729020403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_35.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "You may think it somewhat strange, perhaps even rude, but I wish to know...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/a0/VO_chapter3_0_acheron_124.ogg/revision/latest?cb=20240729020405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_36.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...Have we met somewhere before?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/77/VO_chapter3_0_acheron_125.ogg/revision/latest?cb=20240729020407",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_37.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Perhaps we have."
+    },
+    {
+        "type": "note",
+        "text": "Probably not."
+    },
+    {
+        "type": "note",
+        "text": "I don't know."
+    },
+    {
+        "type": "note",
+        "text": "What do you mean?"
+    },
+    {
+        "type": "note",
+        "text": "What's going on..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "▶ You evoke memories of an old friend. In the haze of my recollections, ( he crossed blades / she stood shoulder to shoulder ) with me, [ Note 3 ] much like this surreal dreamscape where we stood close, yet forever out of reach.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8d/VO_chapter3_0_acheron_126_m.ogg/revision/latest?cb=20240729020411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_38.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "May I ask you a few more questions? I... tend to forget things — which is why, rather than memories, I'm accustomed to using my emotions to capture what I normally wouldn't otherwise. The answer is inconsequential. Your spontaneous reaction is what matters.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/VO_chapter3_0_acheron_127.ogg/revision/latest?cb=20240729020414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_39.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "For instance, when you awaken in your room, your lips speak several names. Are they your companions? Family? Enemies? You seem to have forged unbreakable bonds with many people and many incidents...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/VO_chapter3_0_acheron_128.ogg/revision/latest?cb=20240729020416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_40.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Might I ask if you fear losing these bonds?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e0/VO_chapter3_0_acheron_129.ogg/revision/latest?cb=20240729020418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_41.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I cannot bear such a fear."
+    },
+    {
+        "type": "note",
+        "text": "If it means losing them, I would."
+    },
+    {
+        "type": "note",
+        "text": "If it means that I will disappear, I would."
+    },
+    {
+        "type": "note",
+        "text": "I feel no fear."
+    },
+    {
+        "type": "note",
+        "text": "I don't know."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Mm... Then, if there was a vast dreamscape, so lifelike it's indistinguishable from reality. There, no one faces life's separations or deaths. Everyone attains their deserved happiness and lives joyfully ever after.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/50/VO_chapter3_0_acheron_130.ogg/revision/latest?cb=20240729020420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_42.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I would ask: Would you wish to stay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/VO_chapter3_0_acheron_131.ogg/revision/latest?cb=20240729020422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_43.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I would, no matter the cost."
+    },
+    {
+        "type": "note",
+        "text": "If I didn't have to pay any price, I would."
+    },
+    {
+        "type": "note",
+        "text": "That depends on the price I'd have to pay."
+    },
+    {
+        "type": "note",
+        "text": "I would never want to live in a dream."
+    },
+    {
+        "type": "note",
+        "text": "I don't know."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Now... imagine if this splendid dream were fated to fall apart: Friends, family, strangers, followed by the gentle breeze, soaring birds, the stars... and ultimately, yourself.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter3_0_acheron_132.ogg/revision/latest?cb=20240729020425",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_44.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Everyone, and every face they remember, the joy and the heartaches, the vows sealed and those left hanging... all will inevitably march towards a predetermined ending. If you had grasped the journey's finale right from its inception...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/VO_chapter3_0_acheron_133.ogg/revision/latest?cb=20240729020427",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_45.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I would ask: Would you still embark on this journey?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/VO_chapter3_0_acheron_134.ogg/revision/latest?cb=20240729020429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_46.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I would abandon it — the price is too dear."
+    },
+    {
+        "type": "note",
+        "text": "I would abandon it — I have already tasted the beauty of dreams."
+    },
+    {
+        "type": "note",
+        "text": "I would abandon it — Trailblazing was never my intent."
+    },
+    {
+        "type": "note",
+        "text": "I would blaze a trail without hesitation."
+    },
+    {
+        "type": "note",
+        "text": "I don't know."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I know this is hard, you don't have to be hard-pressed to make a decision. As I have said... the answer is inconsequential.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter3_0_acheron_135.ogg/revision/latest?cb=20240729020431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_47.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "Hearing, touch, thought — through these, you gain emotions — cherish them. With emotions, we make choices. And so we return to the original question...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/VO_chapter3_0_acheron_136.ogg/revision/latest?cb=20240729020433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_48.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "I would ask... Do you still remember me?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/db/VO_chapter3_0_acheron_137.ogg/revision/latest?cb=20240729020435",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_49.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I seem to remember you from somewhere..."
+    },
+    {
+        "type": "note",
+        "text": "No, this is the first time we've met."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "...I understand.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/VO_chapter3_0_acheron_138.ogg/revision/latest?cb=20240729020437",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_50.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "How interesting. For a split second, it felt like countless versions of you, alike yet distinct, gave entirely different responses.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/62/VO_chapter3_0_acheron_139.ogg/revision/latest?cb=20240729020439",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_51.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "That was my final question, thank you. We all have our paths to walk, so we shall bid our farewells.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6e/VO_chapter3_0_acheron_140.ogg/revision/latest?cb=20240729020441",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_52.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Will we meet again?"
+    },
+    {
+        "type": "note",
+        "text": "You haven't told me how to leave this place..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "The golden dream is getting restless. In the coming long night, I'm afraid you will face many tribulations and witness many tragedies. And finally... your sight will only see black and white.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/99/VO_chapter3_0_acheron_141.ogg/revision/latest?cb=20240729020443",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_53.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Acheron",
+        "line": "But please believe me that in that monochrome world, there will be a glimpse of fleeting red, and when you make a choice, it will reappear before you once more...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/a/ad/VO_chapter3_0_acheron_142.ogg/revision/latest?cb=20240729020446",
+        "is_unavailable": false,
+        "audio_filename": "audio_Acheron_54.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Cutsceneplays)"
+    },
+    {
+        "type": "cutscene",
+        "text": "",
+        "children": [
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "What you must do now is ponder its significance.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "And then...",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "You can return to the waking world.",
+                "audio_url": null,
+                "is_unavailable": false
+            },
+            {
+                "type": "dialogue",
+                "speaker": "Acheron",
+                "line": "That's where we all find our answers.",
+                "audio_url": null,
+                "is_unavailable": false
+            }
+        ]
+    },
+    {
+        "type": "condition",
+        "text": "(Cutscene ends)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "(Trailblazer), what's wrong? Wh—Why are you crying all of a sudden?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/VO_chapter3_0_pompom_112_m.ogg/revision/latest?cb=20240729015352",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_55.ogg"
+    },
+    {
+        "type": "note",
+        "text": "I may have dreamed of a tragic future..."
+    },
+    {
+        "type": "note",
+        "text": "I may have dreamed of an old friend..."
+    },
+    {
+        "type": "note",
+        "text": "I dreamed of a riddler spouting strange talk..."
+    },
+    {
+        "type": "note",
+        "text": "I dreamed I was slashed by someone with a blade..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...S—Sounds like you had a nightmare! We just arrived in Asdana and already... You should be careful, it seems your tolerance to memoria isn't the strongest.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/31/VO_chapter3_0_pompom_113.ogg/revision/latest?cb=20240729015354",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_56.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "Don't fret, dreams are often the reverse of reality. While you were sleeping, the Express arrived at Penacony...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/VO_chapter3_0_pompom_114.ogg/revision/latest?cb=20240729015356",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_57.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...Can you imagine? Yesterday's grim frontier prison is today's lavish hotel. I wish I could wander Penacony's streets today, but I'm pretty train-tied at the moment. You'll have to be my eyes and ears while we're here.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d9/VO_chapter3_0_pompom_115.ogg/revision/latest?cb=20240729015358",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_58.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Pom-Pom",
+        "line": "...Gear up and make sure you've got everything! And before you step out, swing by the back and grab March, she's waiting for you there.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/93/VO_chapter3_0_pompom_116.ogg/revision/latest?cb=20240729015400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Pom-Pom_59.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Proceed toLong Day's Journey Into Night)"
+    }
+]

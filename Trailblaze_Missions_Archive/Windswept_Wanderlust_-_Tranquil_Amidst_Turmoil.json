@@ -1,0 +1,316 @@
+[
+    {
+        "type": "heading",
+        "text": "Pass through the empty delve"
+    },
+    {
+        "type": "mission_description",
+        "title": "Mission Description",
+        "content": "On the other side,Dan Heng,Luocha, andSushangdrift along with their starskiff and eventually arrive at an abandoned delve."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach stairs leading upward)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "... mara -struck.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6b/VO_chapter2_4_danheng_104.ogg/revision/latest?cb=20250310044359",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_0.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "It looks like someone's hurt!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b4/VO_chapter2_4_sushang_114.ogg/revision/latest?cb=20250310044412",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_1.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Wait! Let's think before we act.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/VO_chapter2_4_danheng_105.ogg/revision/latest?cb=20250310044400",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_2.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Approach person surrounded by mara-struck)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/23/VO_chapter2_4_xueyi_101.ogg/revision/latest?cb=20250310044423",
+        "is_unavailable": false,
+        "audio_filename": "audio__3.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Silent but deadly, Luocha, let's charge in together. If we take them out quickly, we can rescue the girl!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/VO_chapter2_4_sushang_115.ogg/revision/latest?cb=20250310044413",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_4.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "What happened to \"us letting you handle it\"?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b1/VO_chapter2_4_luocha_113.ogg/revision/latest?cb=20250310044405",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_5.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "I—I've only got two hands! Please — I'll wangle you a prize for your bravery or something when it's all over!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/30/VO_chapter2_4_sushang_116.ogg/revision/latest?cb=20250310044414",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_6.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Enough, let's go!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/28/VO_chapter2_4_danheng_106.ogg/revision/latest?cb=20250310044401",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_7.ogg"
+    },
+    {
+        "type": "condition",
+        "text": "(Enter battle againstMara-Struck Soldier×3)"
+    },
+    {
+        "type": "condition",
+        "text": "(After the battle)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Miss, are you okay?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/VO_chapter2_4_sushang_117.ogg/revision/latest?cb=20250310044415",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_8.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "...What do you think?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/33/VO_chapter2_4_xueyi_102.ogg/revision/latest?cb=20250310044424",
+        "is_unavailable": false,
+        "audio_filename": "audio__9.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Ah... Sorry, I didn't see any blood, so I thought you were okay... You're a puppet .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter2_4_sushang_118.ogg/revision/latest?cb=20250310044416",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_10.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "My motor is broken — I can't move.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/9d/VO_chapter2_4_xueyi_103.ogg/revision/latest?cb=20250310044425",
+        "is_unavailable": false,
+        "audio_filename": "audio__11.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "???",
+        "line": "Are you a Cloud Knight ? ...Good. Take me to the Realm-Keeping Commission .",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7f/VO_chapter2_4_xueyi_104.ogg/revision/latest?cb=20250310044426",
+        "is_unavailable": false,
+        "audio_filename": "audio__12.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "I, ah...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/VO_chapter2_4_sushang_119.ogg/revision/latest?cb=20250310044417",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_13.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Luocha, silent but deadly, I'm afraid we have to delay things again... This lady is one of the judges of the Ten-Lords Commission . As a Cloud Knight, I must prioritize her orders.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/VO_chapter2_4_sushang_120.ogg/revision/latest?cb=20250310044418",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_14.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "I'm sorry... If I'd known I wouldn't have got you to come with me. You'd probably be there by now if you'd gone by yourself...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/36/VO_chapter2_4_sushang_121.ogg/revision/latest?cb=20250310044420",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_15.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "I happen to have some medical knowledge — perhaps I can treat the young lady's injuries.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/8b/VO_chapter2_4_luocha_114.ogg/revision/latest?cb=20250310044406",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_16.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "Well, it's just... she's a puppet . I think we should just take her to the Realm-Keeping Commission?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/40/VO_chapter2_4_sushang_122.ogg/revision/latest?cb=20250310044421",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_17.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "Don't worry, Miss Sushang — leave it to me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/be/VO_chapter2_4_luocha_115.ogg/revision/latest?cb=20250310044408",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_18.ogg"
+    },
+    {
+        "type": "note",
+        "text": "Media:Trailblaze Mission Tranquil Amidst Turmoil.mp4"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "You might get an aching or numbing sensation, but it shouldn't be too painful... Do you think you can hold still?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5e/VO_chapter2_4_luocha_116.ogg/revision/latest?cb=20250310044409",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_19.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "It won't work... My body is mechanical, not flesh and blood—",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0a/VO_chapter2_4_xueyi_105.ogg/revision/latest?cb=20250310044428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_20.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "Be it mechanical or organic, we're still dealing with composite substances. I just hope you'll tolerate my methods...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/VO_chapter2_4_luocha_117.ogg/revision/latest?cb=20250310044410",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_21.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "...Curious.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1b/VO_chapter2_4_xueyi_106.ogg/revision/latest?cb=20250310044428",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_22.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sushang",
+        "line": "H—How... What kind of \"medical knowledge\" is this!?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/18/VO_chapter2_4_sushang_123.ogg/revision/latest?cb=20250310044422",
+        "is_unavailable": false,
+        "audio_filename": "audio_Sushang_23.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "The Abundance ...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/8/82/VO_chapter2_4_danheng_107.ogg/revision/latest?cb=20250310044402",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_24.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Luocha",
+        "line": "...",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2e/VO_chapter2_4_luocha_118.ogg/revision/latest?cb=20250310044411",
+        "is_unavailable": false,
+        "audio_filename": "audio_Luocha_25.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "Very good — we no longer need to return to the Realm-Keeping Commission. The mission continues.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5d/VO_chapter2_4_xueyi_107.ogg/revision/latest?cb=20250310044429",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_26.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "As a judge in the employ of the Ten-Lords Commission, I am forbidden from interfering in the affairs of outsiders. However, seeing as you came to my aid, a word of advice: Leave as soon as possible.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_4_xueyi_108.ogg/revision/latest?cb=20250310044430",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_27.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "I came to address the root of our crisis by arresting a fugitive — a Stellaron Hunter . This villain possesses exceptional swordsmanship and wields a divine weapon — they are extremely dangerous.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4e/VO_chapter2_4_xueyi_109.ogg/revision/latest?cb=20250310044431",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_28.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "...!",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4a/VO_chapter2_4_danheng_108.ogg/revision/latest?cb=20250310044403",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_29.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "If it hadn't been for a strange accident, my wakespan might have been cut short.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/64/VO_chapter2_4_xueyi_110.ogg/revision/latest?cb=20250310044433",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_30.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Dan Heng",
+        "line": "Strange... accident?",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/b/b3/VO_chapter2_4_danheng_109.ogg/revision/latest?cb=20250310044404",
+        "is_unavailable": false,
+        "audio_filename": "audio_Dan_Heng_31.ogg"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "Come with me.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/5a/VO_chapter2_4_xueyi_111.ogg/revision/latest?cb=20250310044434",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_32.ogg"
+    },
+    {
+        "type": "heading",
+        "text": "Follow Xueyi and examine the strange happenings here."
+    },
+    {
+        "type": "mission_description",
+        "title": "Step Description",
+        "content": "After saving the girl who calls herself a Judge of the Ten-Lords Commission, you learn that strange happenings are currently occurring on Xianzhou."
+    },
+    {
+        "type": "condition",
+        "text": "(Approach designated spot)"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Xueyi",
+        "line": "I've never seen anything like it.",
+        "audio_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2a/VO_chapter2_4_xueyi_112.ogg/revision/latest?cb=20250310044436",
+        "is_unavailable": false,
+        "audio_filename": "audio_Xueyi_33.ogg"
+    }
+]
